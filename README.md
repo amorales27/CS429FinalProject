@@ -62,7 +62,16 @@
 ### Links, downloads, access information
 
 ## Test Cases
-### Framework, harness, coverage.
+   Inputs Tested:
+   - United
+   - Uniited
+   - Mormon
+   - Murmon
+   - Politics
+   - Computer
+   - Science
+   - The United States
+     
 
 ## Source Code
 ###  Listings, documentation, dependencies (open-source).
