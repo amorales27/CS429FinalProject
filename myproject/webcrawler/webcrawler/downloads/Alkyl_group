@@ -1,0 +1,1214 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Alkyl group - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"5c1bdce2-6d6a-4bed-9dc1-1b8a001f5d97","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Alkyl_group","wgTitle":"Alkyl group","wgCurRevisionId":1209321418,"wgRevisionId":1209321418,"wgArticleId":291166,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template other archives","Articles with short description","Short description is different from Wikidata","Articles with GND identifiers","Alkyl groups","Substituents"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Alkyl_group","wgRelevantArticleId":291166,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],
+"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q335268","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,
+"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init",
+"ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Alkyl group - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Alkyl_group">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Alkyl_group&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Alkyl_group">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Alkyl_group rootpage-Alkyl_group skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Alkyl+group" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Alkyl+group" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Alkyl+group" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Alkyl+group" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Related_concepts"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Related_concepts">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Related concepts</div>
+		</a>
+		
+		<ul id="toc-Related_concepts-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-In_medicinal_chemistry"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#In_medicinal_chemistry">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>In medicinal chemistry</div>
+		</a>
+		
+		<ul id="toc-In_medicinal_chemistry-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Alkyl_cations,_anions,_and_radicals"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Alkyl_cations,_anions,_and_radicals">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Alkyl cations, anions, and radicals</div>
+		</a>
+		
+		<ul id="toc-Alkyl_cations,_anions,_and_radicals-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Nomenclature"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Nomenclature">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Nomenclature</div>
+		</a>
+		
+		<ul id="toc-Nomenclature-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Etymology"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Etymology">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Etymology</div>
+		</a>
+		
+		<ul id="toc-Etymology-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Alkyl group</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 47 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-47" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">47 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%84%D9%83%D9%8A%D9%84" title="ألكيل – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%95%E0%A6%BE%E0%A6%87%E0%A6%B2_%E0%A6%AE%E0%A7%82%E0%A6%B2%E0%A6%95" title="অ্যালকাইল মূলক – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%90%D0%BB%D0%BA%D1%96%D0%BB%D1%8B" title="Алкілы – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-be-x-old mw-list-item"><a href="https://be-tarask.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%BA%D1%96%D0%BB%D1%8B" title="Алькілы – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target"><span>Беларуская (тарашкевіца)</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BB%D0%BA%D0%B8%D0%BB" title="Алкил – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Alkil" title="Alkil – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Grup_alquil" title="Grup alquil – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Alkyl" title="Alkyl – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Alkylgruppe" title="Alkylgruppe – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Alk%C3%BC%C3%BClr%C3%BChm" title="Alküülrühm – Estonian" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%BA%CF%8D%CE%BB%CE%B9%CE%B1" title="Αλκύλια – Greek" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Alquilo" title="Alquilo – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Alkilo" title="Alkilo – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Alkilo_talde" title="Alkilo talde – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D9%88%D9%87_%D8%A2%D9%84%DA%A9%DB%8C%D9%84" title="گروه آلکیل – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Alkyle" title="Alkyle – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Ailcil" title="Ailcil – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Alquilo" title="Alquilo – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%95%8C%ED%82%AC%EA%B8%B0" title="알킬기 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Alkil" title="Alkil – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Alkil" title="Alkil – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Alchile" title="Alchile – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%A7%D7%99%D7%9C" title="אלקיל – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Alkil" title="Alkil – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%90%D0%BB%D0%BA%D0%B8%D0%BB" title="Алкил – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Kumpulan_alkil" title="Kumpulan alkil – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Alkylgroep" title="Alkylgroep – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Alkyl" title="Alkyl – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Alkillar" title="Alkillar – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wikipedia.org/wiki/%D8%A7%D9%84%DA%A9%D8%A7%DB%8C%D9%84" title="الکایل – Pashto" lang="ps" hreflang="ps" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Grupa_alkilowa" title="Grupa alkilowa – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Alquila" title="Alquila – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Alchil" title="Alchil – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%BA%D0%B8%D0%BB%D1%8B" title="Алкилы – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Alkyl" title="Alkyl – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Alkylov%C3%A1_skupina" title="Alkylová skupina – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D8%A6%D8%A7%D9%84%DA%A9%DB%8C%D9%84" title="ئالکیل – Central Kurdish" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Alkil" title="Alkil – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Alkyyli" title="Alkyyli – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Alkylgrupp" title="Alkylgrupp – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%B2%E0%AF%8D%E0%AE%95%E0%AF%88%E0%AE%B2%E0%AF%8D" title="அல்கைல் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-kab mw-list-item"><a href="https://kab.wikipedia.org/wiki/Alkyl" title="Alkyl – Kabyle" lang="kab" hreflang="kab" class="interlanguage-link-target"><span>Taqbaylit</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Alkil" title="Alkil – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D0%BA%D1%96%D0%BB%D1%8C%D0%BD%D1%96_%D0%B3%D1%80%D1%83%D0%BF%D0%B8" title="Алкільні групи – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D9%84%DA%A9%D8%A7%D8%A6%D9%84" title="الکائل – Urdu" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Alkyl" title="Alkyl – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E7%83%B7%E5%9F%BA" title="烷基 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q335268#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Alkyl_group" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Alkyl_group" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Alkyl_group"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Alkyl_group&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Alkyl_group&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Alkyl_group"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Alkyl_group&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Alkyl_group&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Alkyl_group" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Alkyl_group" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Alkyl_group&amp;oldid=1209321418" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Alkyl_group&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Alkyl_group&amp;id=1209321418&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAlkyl_group"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAlkyl_group"><span>Download QR code</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q335268" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Alkyl_group&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Alkyl_group&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Alkyl_groups" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Chemical group derived from alkanes (one hydrogen removed)</div>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Isopropyl_group.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Isopropyl_group.svg/100px-Isopropyl_group.svg.png" decoding="async" width="100" height="96" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Isopropyl_group.svg/150px-Isopropyl_group.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Isopropyl_group.svg/200px-Isopropyl_group.svg.png 2x" data-file-width="512" data-file-height="489" /></a><figcaption>Isopropyl group</figcaption></figure>
+<figure typeof="mw:File/Thumb"><a href="/wiki/File:Methyl2.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Methyl2.svg/100px-Methyl2.svg.png" decoding="async" width="100" height="106" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Methyl2.svg/150px-Methyl2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Methyl2.svg/200px-Methyl2.svg.png 2x" data-file-width="36" data-file-height="38" /></a><figcaption>Methyl group</figcaption></figure>
+<p>In <a href="/wiki/Organic_chemistry" title="Organic chemistry">organic chemistry</a>, an <b>alkyl group</b> is an <a href="/wiki/Alkane" title="Alkane">alkane</a> missing one <a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a>.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+The term <i>alkyl</i> is intentionally unspecific to include many possible substitutions. 
+An acyclic alkyl has the general formula of <style data-mw-deduplicate="TemplateStyles:r1123817410">.mw-parser-output .template-chem2-su{display:inline-block;font-size:80%;line-height:1;vertical-align:-0.35em}.mw-parser-output .template-chem2-su>span{display:block;text-align:left}.mw-parser-output sub.template-chem2-sub{font-size:80%;vertical-align:-0.35em}.mw-parser-output sup.template-chem2-sup{font-size:80%;vertical-align:0.65em}</style><span class="chemf nowrap">−C<sub class="template-chem2-sub"><i>n</i></sub>H<sub class="template-chem2-sub">2<i>n</i>+1</sub></span>. A <b>cycloalkyl group</b> is derived from a <a href="/wiki/Cycloalkane" title="Cycloalkane">cycloalkane</a> by removal of a hydrogen atom from a <a href="/wiki/Ring_(chemistry)" title="Ring (chemistry)">ring</a> and has the general formula <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−C<sub class="template-chem2-sub"><i>n</i></sub>H<sub class="template-chem2-sub">2<i>n</i>−1</sub></span>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+Typically an alkyl is a part of a larger molecule. In <a href="/wiki/Structural_formula" title="Structural formula">structural formulae</a>, the symbol R is used to designate a generic (unspecified) alkyl group. The smallest alkyl group is <a href="/wiki/Methyl" class="mw-redirect" title="Methyl">methyl</a>, with the formula <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH<sub class="template-chem2-sub">3</sub></span>.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Related_concepts">Related concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alkyl_group&amp;action=edit&amp;section=1" title="Edit section: Related concepts"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Alkylation" title="Alkylation">Alkylation</a> is the addition of alkyl groups to molecules, often by alkylating agents such as <a href="/wiki/Haloalkane" title="Haloalkane">alkyl halides</a>. 
+</p><p><a href="/wiki/Alkylating_antineoplastic_agent" title="Alkylating antineoplastic agent">Alkylating antineoplastic agents</a> are a class of compounds that are used to treat cancer. In such case, the term alkyl is used loosely. For example, <a href="/wiki/Nitrogen_mustard" title="Nitrogen mustard">nitrogen mustards</a> are well-known alkylating agents, but they are not simple hydrocarbons.
+</p><p>In chemistry, alkyl is a group, a substituent, that is attached to other molecular fragments. For example, <a href="/wiki/Alkyl_lithium_reagent" class="mw-redirect" title="Alkyl lithium reagent">alkyl lithium reagents</a> have the empirical formula Li(alkyl), where alkyl = methyl, ethyl, etc. A <i>dialkyl</i> ether is an <a href="/wiki/Ether" title="Ether">ether</a> with two alkyl groups, e.g., diethyl ether <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">O(CH<sub class="template-chem2-sub">2</sub>CH<sub class="template-chem2-sub">3</sub>)<sub class="template-chem2-sub">2</sub></span>.
+</p>
+<h2><span class="mw-headline" id="In_medicinal_chemistry">In medicinal chemistry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alkyl_group&amp;action=edit&amp;section=2" title="Edit section: In medicinal chemistry"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Medicinal_chemistry" title="Medicinal chemistry">medicinal chemistry</a>, the incorporation of alkyl chains into some <a href="/wiki/Chemical_compounds" class="mw-redirect" title="Chemical compounds">chemical compounds</a> increases their <a href="/wiki/Lipophilicity" title="Lipophilicity">lipophilicity</a>. This strategy has been used to increase the antimicrobial activity of <a href="/wiki/Flavanone" title="Flavanone">flavanones</a> and <a href="/wiki/Chalcone" title="Chalcone">chalcones</a>.<sup id="cite_ref-medchem1_4-0" class="reference"><a href="#cite_note-medchem1-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span id="Alkyl_cations.2C_anions.2C_and_radicals"></span><span class="mw-headline" id="Alkyl_cations,_anions,_and_radicals">Alkyl cations, anions, and radicals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alkyl_group&amp;action=edit&amp;section=3" title="Edit section: Alkyl cations, anions, and radicals"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Usually, alkyl groups are attached to other atoms or groups of atoms. Free alkyls occur as neutral radicals, as anions, or as cations. The cations are called <a href="/wiki/Carbocation" title="Carbocation">carbocations</a>. The anions are called <a href="/wiki/Carbanion" title="Carbanion">carbanions</a>. The neutral alkyl <a href="/wiki/Free_radical" class="mw-redirect" title="Free radical">free radicals</a> have no special name. Such species are usually encountered only as transient intermediates. However, persistent alkyl radicals with <a href="/wiki/Half-life" title="Half-life">half-lives</a> "from seconds to years" have been prepared.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> Typically alkyl cations are generated using <a href="/wiki/Superacid" title="Superacid">superacids</a> and alkyl anions are observed in the presence of strong bases. Alkyl radicals can be generated by a <a href="/wiki/Photochemical_reaction" class="mw-redirect" title="Photochemical reaction">photochemical reaction</a> or by <a href="/wiki/Homolytic_cleavage" class="mw-redirect" title="Homolytic cleavage">homolytic cleavage</a>.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> Alkyls are commonly observed in <a href="/wiki/Mass_spectrometry" title="Mass spectrometry">mass spectrometry</a> of <a href="/wiki/Organic_compound" title="Organic compound">organic compounds</a>. Simple alkyls (especially <a href="/wiki/Methyl" class="mw-redirect" title="Methyl">methyl</a>) are observed in the <a href="/wiki/Interstellar_space" class="mw-redirect" title="Interstellar space">interstellar space</a> as well.
+</p>
+<h2><span class="mw-headline" id="Nomenclature">Nomenclature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alkyl_group&amp;action=edit&amp;section=4" title="Edit section: Nomenclature"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Alkyl groups form <a href="/wiki/Homologous_series" title="Homologous series">homologous series</a>. The simplest series have the general formula <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−C<sub class="template-chem2-sub"><i>n</i></sub>H<sub class="template-chem2-sub">2<i>n</i>+1</sub></span>. Alkyls include <i><a href="/wiki/Methyl" class="mw-redirect" title="Methyl">methyl</a></i>, (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH<sub class="template-chem2-sub">3</sub></span>), <i><a href="/wiki/Ethyl_group" title="Ethyl group">ethyl</a></i> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−C<sub class="template-chem2-sub">2</sub>H<sub class="template-chem2-sub">5</sub></span>), <i><a href="/wiki/Propyl" class="mw-redirect" title="Propyl">propyl</a></i> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−C<sub class="template-chem2-sub">3</sub>H<sub class="template-chem2-sub">7</sub></span>), <i><a href="/wiki/Butyl" class="mw-redirect" title="Butyl">butyl</a></i> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−C<sub class="template-chem2-sub">4</sub>H<sub class="template-chem2-sub">9</sub></span>), <i><a href="/wiki/Pentyl" class="mw-redirect" title="Pentyl">pentyl</a></i> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−C<sub class="template-chem2-sub">5</sub>H<sub class="template-chem2-sub">11</sub></span>), and so on. Alkyl groups that contain one ring have the formula <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−C<sub class="template-chem2-sub"><i>n</i></sub>H<sub class="template-chem2-sub">2<i>n</i>−1</sub></span>, e.g. cyclopropyl and cyclohexyl. The formula of alkyl radicals are the same as alkyl groups, except the free valence "<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−</span>" is replaced by the dot "•" and adding "radical" to the name of the alkyl group (e.g. <a href="/wiki/Methyl_radical" title="Methyl radical">methyl radical</a> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">•CH<sub class="template-chem2-sub">3</sub></span>).
+</p><p>The naming convention is taken from <a href="/wiki/IUPAC_nomenclature_of_organic_chemistry" title="IUPAC nomenclature of organic chemistry">IUPAC nomenclature</a>:
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Number of carbon atoms
+</th>
+<td>1
+</td>
+<td>2
+</td>
+<td>3
+</td>
+<td>4
+</td>
+<td>5
+</td>
+<td>6
+</td>
+<td>7
+</td>
+<td>8
+</td>
+<td>9
+</td>
+<td>10
+</td>
+<td>11
+</td>
+<td>12
+</td>
+<td>13
+</td>
+<td>14
+</td></tr>
+<tr>
+<th>Prefix
+</th>
+<td>meth-
+</td>
+<td>eth-
+</td>
+<td>prop-
+</td>
+<td>but-
+</td>
+<td>pent-
+</td>
+<td>hex-
+</td>
+<td>hept-
+</td>
+<td>oct-
+</td>
+<td>non-
+</td>
+<td>dec-
+</td>
+<td>undec-
+</td>
+<td>dodec-
+</td>
+<td>tridec-
+</td>
+<td>tetradec-
+</td></tr>
+<tr>
+<th>Group name
+</th>
+<td><a href="/wiki/Methyl_group" title="Methyl group">Methyl</a>
+</td>
+<td><a href="/wiki/Ethyl_group" title="Ethyl group">Ethyl</a>
+</td>
+<td><a href="/wiki/Propyl_group" title="Propyl group">Propyl</a>
+</td>
+<td><a href="/wiki/Butyl_group" title="Butyl group">Butyl</a>
+</td>
+<td><a href="/wiki/Pentyl_group" title="Pentyl group">Pentyl</a>
+</td>
+<td>Hexyl
+</td>
+<td>Heptyl
+</td>
+<td>Octyl
+</td>
+<td>Nonyl
+</td>
+<td>Decyl
+</td>
+<td>Undecyl
+</td>
+<td>Dodecyl
+</td>
+<td>Tridecyl
+</td>
+<td>Tetradecyl
+</td></tr></tbody></table>
+<p><br />
+The prefixes taken from IUPAC nomenclature are used to name branched chained structures by their <a href="/wiki/Substituent" title="Substituent">substituent</a> groups, for example <a href="/wiki/3-methylpentane" class="mw-redirect" title="3-methylpentane">3-methylpentane</a>:
+</p>
+<figure class="mw-default-size mw-halign-center" typeof="mw:File"><a href="/wiki/File:3-MethylPentaneHighlighted.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/3-MethylPentaneHighlighted.svg/245px-3-MethylPentaneHighlighted.svg.png" decoding="async" width="245" height="150" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/3-MethylPentaneHighlighted.svg/368px-3-MethylPentaneHighlighted.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/3-MethylPentaneHighlighted.svg/490px-3-MethylPentaneHighlighted.svg.png 2x" data-file-width="245" data-file-height="150" /></a><figcaption></figcaption></figure>
+<p>The structure of <a href="/wiki/3-methylpentane" class="mw-redirect" title="3-methylpentane">3-methylpentane</a> is viewed as consisting of two parts. First, five atoms comprise the longest straight chain of <a href="/wiki/Carbon" title="Carbon">carbon</a> centers. The parent five-carbon compound is named <a href="/wiki/Pentane" title="Pentane">pentane</a> (highlighted blue). The methyl "substituent" or "group" is highlighted red. According to the usual rules of nomenclature, alkyl groups are included in the name of the molecule before the root, as in <a href="/wiki/Methylpentane" title="Methylpentane">methylpentane</a>. This name is, however, ambiguous, as the methyl branch could be on various carbon atoms. Thus, the name is 3-methylpentane to avoid ambiguity: The 3- is because the methyl is attached to the third of the five carbon atoms.
+</p><p>If there is more than one of the same alkyl group attached to a chain, then the prefixes are used on the alkyl groups to indicate multiples (i.e., di, tri, tetra, etc.)
+</p>
+<figure class="mw-default-size mw-halign-center" typeof="mw:File"><a href="/wiki/File:2,3,3triMethylPentane.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2%2C3%2C3triMethylPentane.svg/235px-2%2C3%2C3triMethylPentane.svg.png" decoding="async" width="235" height="222" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2%2C3%2C3triMethylPentane.svg/353px-2%2C3%2C3triMethylPentane.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/2%2C3%2C3triMethylPentane.svg/470px-2%2C3%2C3triMethylPentane.svg.png 2x" data-file-width="235" data-file-height="222" /></a><figcaption></figcaption></figure>
+<p>This compound is known as <a href="/wiki/2,3,3-trimethylpentane" class="mw-redirect" title="2,3,3-trimethylpentane">2,3,3-trimethylpentane</a>. Here three identical alkyl groups attached to carbon atoms 2, 3, and 3. The numbers are included in the name to avoid ambiguity about the position of the groups, and "tri" indicates that there are three identical methyl groups. If one of the methyl groups attached to the third carbon atom were instead an ethyl group, then the name would be 3-ethyl-2,3-dimethylpentane. When there are different alkyl groups, they are listed in alphabetical order.
+</p><p>In addition, each position on an alkyl chain can be described according to how many other carbon atoms are attached to it. The terms <a href="/wiki/Primary_carbon" title="Primary carbon">primary</a>, <a href="/wiki/Secondary_carbon" title="Secondary carbon">secondary</a>, <a href="/wiki/Tertiary_carbon" title="Tertiary carbon">tertiary</a>, and <a href="/wiki/Quaternary_carbon" title="Quaternary carbon">quaternary</a> refer to a carbon attached to one, two, three, or four other carbons respectively.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">C<sub class="template-chem2-sub"><i>n</i></sub></span>
+</th>
+<th><a href="/wiki/Trivial_name" title="Trivial name">Trivial name</a>
+</th>
+<th>Symbol
+</th>
+<th><a href="/wiki/Structural_formula#Condensed_formulas" title="Structural formula">Condensed formula</a>
+</th>
+<th>IUPAC status
+</th>
+<th>Preferred IUPAC name
+</th>
+<th><a href="/wiki/Skeletal_formula" title="Skeletal formula">Skeletal formula</a>
+</th></tr>
+<tr>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">С<sub class="template-chem2-sub">1</sub></span>
+</td>
+<td><a href="/wiki/Methyl_group" title="Methyl group">methyl</a>
+</td>
+<td>Ме
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH<sub class="template-chem2-sub">3</sub></span>
+</td>
+<td>
+</td>
+<td>methyl
+</td>
+<td>
+</td></tr>
+<tr>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">С<sub class="template-chem2-sub">2</sub></span>
+</td>
+<td><a href="/wiki/Ethyl_group" title="Ethyl group">ethyl</a>
+</td>
+<td>Et
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">3</sub></span>
+</td>
+<td>
+</td>
+<td>ethyl
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">С<sub class="template-chem2-sub">3</sub></span>
+</td>
+<td><a href="/wiki/Propyl" class="mw-redirect" title="Propyl">propyl</a>, <i>n</i>-propyl
+</td>
+<td>Pr, <sup><i>n</i></sup>Pr, <i>n</i>-Pr
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">3</sub></span>
+</td>
+<td>
+</td>
+<td>propyl
+</td>
+<td>
+</td></tr>
+<tr>
+<td>isopropyl
+</td>
+<td><i>i</i>Pr, <i>i</i>-Pr,<sup><i>i</i></sup>Pr
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH(−CH<sub class="template-chem2-sub">3</sub>)<sub class="template-chem2-sub">2</sub></span>
+</td>
+<td>
+</td>
+<td>2-propyl
+</td>
+<td>
+</td></tr>
+<tr>
+<td rowspan="4"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">С<sub class="template-chem2-sub">4</sub></span>
+</td>
+<td><i>n</i>-butyl
+</td>
+<td>Bu, <i>n</i>-Bu, <sup><i>n</i></sup>Bu
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">3</sub></span>
+</td>
+<td>
+</td>
+<td>butyl
+</td>
+<td><span typeof="mw:File"><a href="/wiki/File:N-Butyl-Skeletal-SVG.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/N-Butyl-Skeletal-SVG.svg/100px-N-Butyl-Skeletal-SVG.svg.png" decoding="async" width="100" height="26" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/N-Butyl-Skeletal-SVG.svg/150px-N-Butyl-Skeletal-SVG.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/N-Butyl-Skeletal-SVG.svg/200px-N-Butyl-Skeletal-SVG.svg.png 2x" data-file-width="166" data-file-height="43" /></a></span>
+</td></tr>
+<tr>
+<td>isobutyl
+</td>
+<td><i>i</i>Bu, <i>i</i>-Bu, <sup><i>i</i></sup>Bu
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH<sub class="template-chem2-sub">2</sub>−CH(−CH<sub class="template-chem2-sub">3</sub>)<sub class="template-chem2-sub">2</sub></span>
+</td>
+<td>
+</td>
+<td>2-methylpropyl
+</td>
+<td><span typeof="mw:File"><a href="/wiki/File:Isobutyl-Skeletal-SVG.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Isobutyl-Skeletal-SVG.svg/80px-Isobutyl-Skeletal-SVG.svg.png" decoding="async" width="80" height="47" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Isobutyl-Skeletal-SVG.svg/120px-Isobutyl-Skeletal-SVG.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Isobutyl-Skeletal-SVG.svg/160px-Isobutyl-Skeletal-SVG.svg.png 2x" data-file-width="129" data-file-height="75" /></a></span>
+</td></tr>
+<tr>
+<td><i>sec</i>-butyl
+</td>
+<td><i>s</i>Bu, <i>s</i>-Bu, <sup><i>s</i></sup>Bu
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH(−CH<sub class="template-chem2-sub">3</sub>)−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">3</sub></span>
+</td>
+<td>
+</td>
+<td>2-butyl
+</td>
+<td><span typeof="mw:File"><a href="/wiki/File:Sec-Butyl-Skeletal-SVG.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sec-Butyl-Skeletal-SVG.svg/80px-Sec-Butyl-Skeletal-SVG.svg.png" decoding="async" width="80" height="54" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sec-Butyl-Skeletal-SVG.svg/120px-Sec-Butyl-Skeletal-SVG.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sec-Butyl-Skeletal-SVG.svg/160px-Sec-Butyl-Skeletal-SVG.svg.png 2x" data-file-width="130" data-file-height="88" /></a></span>
+</td></tr>
+<tr>
+<td><i>tert</i>-butyl
+</td>
+<td><i>t</i>Bu, <i>t</i>-Bu, <sup><i>t</i></sup>Bu
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−C(−CH<sub class="template-chem2-sub">3</sub>)<sub class="template-chem2-sub">3</sub></span>
+</td>
+<td>
+</td>
+<td><i>tert</i>-butyl
+</td>
+<td><span typeof="mw:File"><a href="/wiki/File:Tert-Butyl-Skeletal-SVG.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tert-Butyl-Skeletal-SVG.svg/80px-Tert-Butyl-Skeletal-SVG.svg.png" decoding="async" width="80" height="75" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tert-Butyl-Skeletal-SVG.svg/120px-Tert-Butyl-Skeletal-SVG.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Tert-Butyl-Skeletal-SVG.svg/160px-Tert-Butyl-Skeletal-SVG.svg.png 2x" data-file-width="96" data-file-height="90" /></a></span>
+</td></tr>
+<tr>
+<td rowspan="8"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">С<sub class="template-chem2-sub">5</sub></span>
+</td>
+<td><i>n</i>-pentyl, amyl
+</td>
+<td>Pe, Am, <i>n</i>Pe, <i>n</i>-Pe, <sup><i>n</i></sup>Pe, <sup><i>n</i></sup>Am
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">3</sub></span>
+</td>
+<td>
+</td>
+<td>pentyl
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>tert</i>-pentyl
+</td>
+<td><i>t</i>Pe, <i>t</i>-Pe, <sup><i>t</i></sup>Pe
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−C(−CH<sub class="template-chem2-sub">3</sub>)<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">3</sub></span>
+</td>
+<td>No longer recommended
+</td>
+<td>2-methylbutan-2-yl (aka 1,1-dimethylpropyl)
+</td>
+<td>
+</td></tr>
+<tr>
+<td>neopentyl
+</td>
+<td>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH<sub class="template-chem2-sub">2</sub>−C(−CH<sub class="template-chem2-sub">3</sub>)<sub class="template-chem2-sub">3</sub></span>
+</td>
+<td>No longer recommended
+</td>
+<td>2,2-dimethylpropyl
+</td>
+<td>
+</td></tr>
+<tr>
+<td>isopentyl, isoamyl
+</td>
+<td>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">2</sub>−CH(−CH<sub class="template-chem2-sub">3</sub>)<sub class="template-chem2-sub">2</sub></span>
+</td>
+<td>No longer recommended
+</td>
+<td>3-methylbutyl
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>sec</i>-pentyl
+</td>
+<td><i>s</i>Pe, <i>s</i>-Pe, <sup><i>s</i></sup>Pe
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH(−CH<sub class="template-chem2-sub">3</sub>)−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">3</sub></span>
+</td>
+<td>
+</td>
+<td>pentan-2-yl(or (1-Methylbutyl))
+</td>
+<td>
+</td></tr>
+<tr>
+<td>3-pentyl
+</td>
+<td>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH(−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">3</sub>)<sub class="template-chem2-sub">2</sub></span>
+</td>
+<td>
+</td>
+<td>pentan-3-yl (also known as (1-Ethylpropyl))
+</td>
+<td>
+</td></tr>
+<tr>
+<td><i>sec</i>-isopentyl, <i>sec</i>-isoamyl, siamyl
+</td>
+<td>Sia
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH(−CH<sub class="template-chem2-sub">3</sub>)−CH(−CH<sub class="template-chem2-sub">3</sub>)<sub class="template-chem2-sub">2</sub></span>
+</td>
+<td>
+</td>
+<td>3-methylbutan-2-yl (or (1,2-Dimethylpropyl))
+</td>
+<td>
+</td></tr>
+<tr>
+<td>active pentyl
+</td>
+<td>
+</td>
+<td><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1123817410"><span class="chemf nowrap">−CH<sub class="template-chem2-sub">2</sub>−CH(−CH<sub class="template-chem2-sub">3</sub>)−CH<sub class="template-chem2-sub">2</sub>−CH<sub class="template-chem2-sub">3</sub></span>
+</td>
+<td>
+</td>
+<td>2-methylbutyl
+</td>
+<td>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alkyl_group&amp;action=edit&amp;section=5" title="Edit section: Etymology"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first named alkyl radical was ethyl, named so by <a href="/wiki/Liebig" class="mw-redirect" title="Liebig">Liebig</a> in 1833 from the German word "Äther" (which in turn had been derived from the Greek word "<a href="/wiki/Aether_(classical_element)" title="Aether (classical element)">aither</a>" meaning "air", for the substance now known as <a href="/wiki/Diethyl_ether" title="Diethyl ether">diethyl ether</a>) and the Greek word ύλη (<a href="/wiki/Hyle" class="mw-redirect" title="Hyle">hyle</a>), meaning "matter".<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> This was followed by methyl (<a href="/wiki/Jean-Baptiste_Dumas" title="Jean-Baptiste Dumas">Dumas</a> and <a href="/wiki/Eug%C3%A8ne-Melchior_P%C3%A9ligot" title="Eugène-Melchior Péligot">Peligot</a> in 1834, meaning "spirit of wood"<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>) and amyl (<a href="/wiki/Auguste_Andr%C3%A9_Thomas_Cahours" title="Auguste André Thomas Cahours">Auguste Cahours</a> in 1840<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>). The word alkyl was introduced by <a href="/wiki/Johannes_Wislicenus" title="Johannes Wislicenus">Johannes Wislicenus</a> in or before 1882, based on the German word "Alkoholradikale" and then-common suffix -yl.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alkyl_group&amp;action=edit&amp;section=6" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1217611005">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></span></span></div>
+<div class="side-box-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/Special:Search/alkyl_group" class="extiw" title="wiktionary:Special:Search/alkyl group">alkyl group</a></b></i> in Wiktionary, the free dictionary.</div></div>
+</div>
+<ul><li><a href="/wiki/Alkane" title="Alkane">Alkane</a></li>
+<li><a href="/wiki/Alkene" title="Alkene">Alkene</a></li>
+<li><a href="/wiki/Alkyne" title="Alkyne">Alkyne</a></li>
+<li><a href="/wiki/Aryl" class="mw-redirect" title="Aryl">Aryl</a></li>
+<li><a href="/wiki/Hydrocarbon" title="Hydrocarbon">Hydrocarbon</a></li>
+<li><a href="/wiki/IUPAC_nomenclature_of_organic_chemistry" title="IUPAC nomenclature of organic chemistry">IUPAC nomenclature of organic chemistry</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Alkyl_group&amp;action=edit&amp;section=7" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1217336898">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a>, <i><a href="/wiki/IUPAC_books#Gold_Book" class="mw-redirect" title="IUPAC books">Compendium of Chemical Terminology</a></i>, 2nd ed. (the "Gold Book") (1997). Online corrected version: (2006&#8211;) "<a rel="nofollow" class="external text" href="https://goldbook.iupac.org/A00228.html">alkyl groups</a>". <style data-mw-deduplicate="TemplateStyles:r1215172403">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a{background-size:contain}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a{background-size:contain}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a{background-size:contain}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#2C882D;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911F}html.skin-theme-clientpref-night .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-night .mw-parser-output .cs1-hidden-error{color:#f8a397}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-os .mw-parser-output .cs1-hidden-error{color:#f8a397}html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911F}}</style><a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1351%2Fgoldbook.A00228">10.1351/goldbook.A00228</a></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a>, <i><a href="/wiki/IUPAC_books#Gold_Book" class="mw-redirect" title="IUPAC books">Compendium of Chemical Terminology</a></i>, 2nd ed. (the "Gold Book") (1997). Online corrected version: (2006&#8211;) "<a rel="nofollow" class="external text" href="https://goldbook.iupac.org/C01498.html">cycloalkyl groups</a>". <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1351%2Fgoldbook.C01498">10.1351/goldbook.C01498</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Virtual Textbook of Organic Chemistry <a rel="nofollow" class="external text" href="http://www.cem.msu.edu/~reusch/VirtualText/nomen1.htm">Naming Organic Compounds</a> <a rel="nofollow" class="external text" href="http://arquivo.pt/wayback/20160521131930/http://www.cem.msu.edu/~reusch/VirtualText/nomen1.htm">Archived</a> 2016-05-21 at the Portuguese Web Archive</span>
+</li>
+<li id="cite_note-medchem1-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-medchem1_4-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFMallavadhaniSahooKumarMurty2013" class="citation journal cs1">Mallavadhani UV, Sahoo L, Kumar KP, Murty US (2013). "Synthesis and antimicrobial screening of some novel chalcones and flavanones substituted with higher alkyl chains". <i>Medicinal Chemistry Research</i>. <b>23</b> (6): 2900–2908. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1007%2Fs00044-013-0876-x">10.1007/s00044-013-0876-x</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:5159000">5159000</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Medicinal+Chemistry+Research&amp;rft.atitle=Synthesis+and+antimicrobial+screening+of+some+novel+chalcones+and+flavanones+substituted+with+higher+alkyl+chains&amp;rft.volume=23&amp;rft.issue=6&amp;rft.pages=2900-2908&amp;rft.date=2013&amp;rft_id=info%3Adoi%2F10.1007%2Fs00044-013-0876-x&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A5159000%23id-name%3DS2CID&amp;rft.aulast=Mallavadhani&amp;rft.aufirst=UV&amp;rft.au=Sahoo%2C+L&amp;rft.au=Kumar%2C+KP&amp;rft.au=Murty%2C+US&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlkyl+group" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFGrillerIngold1976" class="citation journal cs1">Griller, David; Ingold, Keith U. (1976-01-01). <a rel="nofollow" class="external text" href="https://pubs.acs.org/doi/abs/10.1021/ar50097a003">"Persistent carbon-centered radicals"</a>. <i>Accounts of Chemical Research</i>. <b>9</b> (1): 13–19. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Far50097a003">10.1021/ar50097a003</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0001-4842">0001-4842</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Accounts+of+Chemical+Research&amp;rft.atitle=Persistent+carbon-centered+radicals&amp;rft.volume=9&amp;rft.issue=1&amp;rft.pages=13-19&amp;rft.date=1976-01-01&amp;rft_id=info%3Adoi%2F10.1021%2Far50097a003&amp;rft.issn=0001-4842&amp;rft.aulast=Griller&amp;rft.aufirst=David&amp;rft.au=Ingold%2C+Keith+U.&amp;rft_id=https%3A%2F%2Fpubs.acs.org%2Fdoi%2Fabs%2F10.1021%2Far50097a003&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlkyl+group" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFCrespiFagnoni2020" class="citation journal cs1">Crespi, Stefano; Fagnoni, Maurizio (2020-09-09). <a rel="nofollow" class="external text" href="https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00278">"Generation of Alkyl Radicals: From the Tyranny of Tin to the Photon Democracy"</a>. <i>Chemical Reviews</i>. <b>120</b> (17): 9790–9833. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Facs.chemrev.0c00278">10.1021/acs.chemrev.0c00278</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0009-2665">0009-2665</a>. <a href="/wiki/PMC_(identifier)" class="mw-redirect" title="PMC (identifier)">PMC</a>&#160;<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8009483">8009483</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/32786419">32786419</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Reviews&amp;rft.atitle=Generation+of+Alkyl+Radicals%3A+From+the+Tyranny+of+Tin+to+the+Photon+Democracy&amp;rft.volume=120&amp;rft.issue=17&amp;rft.pages=9790-9833&amp;rft.date=2020-09-09&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC8009483%23id-name%3DPMC&amp;rft.issn=0009-2665&amp;rft_id=info%3Apmid%2F32786419&amp;rft_id=info%3Adoi%2F10.1021%2Facs.chemrev.0c00278&amp;rft.aulast=Crespi&amp;rft.aufirst=Stefano&amp;rft.au=Fagnoni%2C+Maurizio&amp;rft_id=https%3A%2F%2Fpubs.acs.org%2Fdoi%2F10.1021%2Facs.chemrev.0c00278&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlkyl+group" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFRocke2012" class="citation book cs1">Rocke, Alan (2012). <i>From the Molecular World: A Nineteenth-Century Science Fantasy</i>. Springer. p.&#160;62. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-642-27415-2" title="Special:BookSources/978-3-642-27415-2"><bdi>978-3-642-27415-2</bdi></a>. <q>Ethyl radicals (named by Liebig in 1833 from the Greek and German word "aether" plus Greek "hyle"<span class="cs1-kern-right"></span></q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=From+the+Molecular+World%3A+A+Nineteenth-Century+Science+Fantasy&amp;rft.pages=62&amp;rft.pub=Springer&amp;rft.date=2012&amp;rft.isbn=978-3-642-27415-2&amp;rft.aulast=Rocke&amp;rft.aufirst=Alan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlkyl+group" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFRocke2012" class="citation book cs1">Rocke, Alan (2012). <i>From the Molecular World: A Nineteenth-Century Science Fantasy</i>. Springer. p.&#160;62. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-642-27415-2" title="Special:BookSources/978-3-642-27415-2"><bdi>978-3-642-27415-2</bdi></a>. <q>The methyl radical ... named from Greek roots, by Dumas and Peligot in 1834: methyl = methy + hyle ("spirit" + "wood")</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=From+the+Molecular+World%3A+A+Nineteenth-Century+Science+Fantasy&amp;rft.pages=62&amp;rft.pub=Springer&amp;rft.date=2012&amp;rft.isbn=978-3-642-27415-2&amp;rft.aulast=Rocke&amp;rft.aufirst=Alan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlkyl+group" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFRocke2012" class="citation book cs1">Rocke, Alan (2012). <i>From the Molecular World: A Nineteenth-Century Science Fantasy</i>. Springer. p.&#160;62. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-642-27415-2" title="Special:BookSources/978-3-642-27415-2"><bdi>978-3-642-27415-2</bdi></a>. <q>Amyl radicals ("amilène" was coined by Auguste Cahours in 1840, to designate a substance from potato starch after fermentation and distillation</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=From+the+Molecular+World%3A+A+Nineteenth-Century+Science+Fantasy&amp;rft.pages=62&amp;rft.pub=Springer&amp;rft.date=2012&amp;rft.isbn=978-3-642-27415-2&amp;rft.aulast=Rocke&amp;rft.aufirst=Alan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlkyl+group" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFRocke2012" class="citation book cs1">Rocke, Alan (2012). <i>From the Molecular World: A Nineteenth-Century Science Fantasy</i>. Springer. p.&#160;62. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-642-27415-2" title="Special:BookSources/978-3-642-27415-2"><bdi>978-3-642-27415-2</bdi></a>. <q><span class="cs1-kern-left"></span>"Alkyl" was coined without fanfare by Johannes Wislicenus, professor at Würzburg; an early use (perhaps not the first) is in his 1882 article [22, 244]. The word was derived from the first three letters of "Alkoholradicale" combined with the suffix -yl; it was (and is) a generic term for any of those radicals who bear the "first names" methyl, ethyl, propyl, butyl, amyl, etc.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=From+the+Molecular+World%3A+A+Nineteenth-Century+Science+Fantasy&amp;rft.pages=62&amp;rft.pub=Springer&amp;rft.date=2012&amp;rft.isbn=978-3-642-27415-2&amp;rft.aulast=Rocke&amp;rft.aufirst=Alan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlkyl+group" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFWisclicenus1882" class="citation journal cs1">Wisclicenus, Johannes (1882). "Ueber die Schätzung von Haftenenergien der Halogene und des Natriums an organischen Resten". <i>Ann. Chem</i>. <b>212</b>: 239–250. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2Fjlac.18822120107">10.1002/jlac.18822120107</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ann.+Chem.&amp;rft.atitle=Ueber+die+Sch%C3%A4tzung+von+Haftenenergien+der+Halogene+und+des+Natriums+an+organischen+Resten&amp;rft.volume=212&amp;rft.pages=239-250&amp;rft.date=1882&amp;rft_id=info%3Adoi%2F10.1002%2Fjlac.18822120107&amp;rft.aulast=Wisclicenus&amp;rft.aufirst=Johannes&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAlkyl+group" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r886047488"></div><div role="navigation" class="navbox" aria-labelledby="Functional_groups" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Functional_groups" title="Template:Functional groups"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Functional_groups" title="Template talk:Functional groups"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Functional_groups" title="Special:EditPage/Template:Functional groups"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Functional_groups" style="font-size:114%;margin:0 4em"><a href="/wiki/Functional_group" title="Functional group">Functional groups</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Hydrocarbon" title="Hydrocarbon">Hydrocarbons</a> <br /><span class="nobold">(only C and H)</span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Alkyl" class="mw-redirect" title="Alkyl">Alkyl</a>
+<ul><li><a href="/wiki/Methyl_group" title="Methyl group">Methyl</a></li>
+<li><a href="/wiki/Ethyl_group" title="Ethyl group">Ethyl</a></li>
+<li><a href="/wiki/Propyl_group" title="Propyl group">Propyl</a></li>
+<li><a href="/wiki/Cyclopropyl" class="mw-redirect" title="Cyclopropyl">Cyclopropyl</a></li>
+<li><a href="/wiki/Butyl_group" title="Butyl group">Butyl</a></li>
+<li><a href="/wiki/Pentyl_group" title="Pentyl group">Pentyl</a></li></ul></li>
+<li><a href="/wiki/Methylene_group" title="Methylene group">Methylene</a>
+<ul><li><a href="/wiki/Methylene_bridge" title="Methylene bridge">Bridge</a></li>
+<li><a href="/wiki/Methine_group" title="Methine group">Methine</a></li></ul></li>
+<li><a href="/wiki/Alkene" title="Alkene">Alkene</a>
+<ul><li><a href="/wiki/Vinyl_group" title="Vinyl group">Vinyl</a></li>
+<li><a href="/wiki/Allyl_group" title="Allyl group">Allyl</a></li>
+<li><a href="/wiki/Propenyl" title="Propenyl">1-Propenyl</a></li>
+<li><a href="/wiki/Crotyl_group" title="Crotyl group">Crotyl</a></li>
+<li><a href="/wiki/Allenes" title="Allenes">Allene</a></li>
+<li><a href="/wiki/Cumulene" title="Cumulene">Cumulene</a></li></ul></li>
+<li><a href="/wiki/Phenyl_group" title="Phenyl group">Phenyl</a></li>
+<li><a href="/wiki/Benzyl_group" title="Benzyl group">Benzyl</a></li>
+<li><a href="/wiki/Alkyne" title="Alkyne">Alkyne</a></li>
+<li><a href="/wiki/Carbene" title="Carbene">Carbene</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Only <a href="/wiki/Carbon" title="Carbon">carbon</a>, <br /><a href="/wiki/Hydrogen" title="Hydrogen">hydrogen</a>, <br />and <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> <br /><span class="nobold">(only C, H and O)</span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">R-O-R</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Acetal" title="Acetal">Acetal</a></li>
+<li><a href="/wiki/Alkoxy_group" title="Alkoxy group">Alkoxy</a>
+<ul><li><a href="/wiki/Methoxy_group" title="Methoxy group">Methoxy</a></li></ul></li>
+<li><a href="/wiki/Ether" title="Ether">Ether</a>
+<ul><li><a href="/wiki/Enol_ether" title="Enol ether">Enol ether</a></li>
+<li><a href="/wiki/Epoxide" title="Epoxide">Epoxide</a></li></ul></li>
+<li><a href="/wiki/Organic_peroxides" title="Organic peroxides">Peroxy</a>
+<ul><li><a href="/wiki/Hydroperoxide" title="Hydroperoxide">Hydroperoxy</a></li>
+<li><a href="/wiki/Dioxirane" title="Dioxirane">Dioxiranes</a></li></ul></li>
+<li><a href="/wiki/Ethylenedioxy" title="Ethylenedioxy">Ethylenedioxy</a></li>
+<li><a href="/wiki/Alcohol_(chemistry)" title="Alcohol (chemistry)">Alcohol</a></li>
+<li><a href="/wiki/Methylenedioxy" title="Methylenedioxy">Methylenedioxy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Carbonyl_group" title="Carbonyl group">carbonyl</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Acyl_group" title="Acyl group">Acyl</a>
+<ul><li><a href="/wiki/Acetyl_group" title="Acetyl group">Acetyl</a></li>
+<li><a href="/wiki/Acryloyl_group" class="mw-redirect" title="Acryloyl group">Acryloyl</a></li>
+<li><a href="/wiki/Benzoyl_group" title="Benzoyl group">Benzoyl</a></li></ul></li>
+<li><a href="/wiki/Aldehyde" title="Aldehyde">Aldehyde</a>
+<ul><li><a href="/wiki/Ketene" title="Ketene">Ketene</a></li></ul></li>
+<li><a href="/wiki/Ketone" title="Ketone">Ketone</a></li>
+<li><a href="/wiki/Ynone" title="Ynone">Ynone</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">carboxy</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Carboxylic_acid" title="Carboxylic acid">Carboxyl</a>
+<ul><li><a href="/wiki/Acetoxy_group" title="Acetoxy group">Acetoxy</a></li>
+<li><a href="/wiki/Carboxylic_anhydride" class="mw-redirect" title="Carboxylic anhydride">Anhydride</a></li></ul></li>
+<li><a href="/wiki/Ester" title="Ester">Ester</a>
+<ul><li><a href="/wiki/Orthoester" class="mw-redirect" title="Orthoester">Orthoester</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Only one <br />element, <br />not being <br />carbon, <br />hydrogen, <br />or oxygen <br /><span class="nobold">(one element, <br />not C,&#160;H or O)</span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nitrogen" title="Nitrogen">Nitrogen</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Amine" title="Amine">Amine</a>
+<ul><li><a href="/wiki/Enamine" title="Enamine">Enamine</a></li>
+<li><a href="/wiki/Quaternary_ammonium_cation" title="Quaternary ammonium cation">Ammonium</a></li></ul></li>
+<li><a href="/wiki/Hydrazines" title="Hydrazines">Hydrazo</a></li>
+<li><a href="/wiki/Nitrene" title="Nitrene">Nitrene</a></li>
+<li><a href="/wiki/Imine" title="Imine">Imine</a></li>
+<li><a href="/wiki/Oxime" title="Oxime">Oxime</a></li>
+<li><a href="/wiki/Hydrazone" title="Hydrazone">Hydrazone</a></li>
+<li><a href="/wiki/Azo_compound" title="Azo compound">Azo</a></li>
+<li><a href="/wiki/Amide_(functional_group)" title="Amide (functional group)">Amide</a></li>
+<li><a href="/wiki/Imidate" class="mw-redirect" title="Imidate">Imidate</a></li>
+<li><a href="/wiki/Amidine" title="Amidine">Amidine</a></li>
+<li><a href="/wiki/Carbamate" title="Carbamate">Carbamate</a></li>
+<li><a href="/wiki/Imide" title="Imide">Imide</a></li>
+<li><a href="/wiki/Nitrile" title="Nitrile">Nitrile</a></li>
+<li><a href="/wiki/Isocyanide" title="Isocyanide">Isonitrile</a></li>
+<li><a href="/wiki/Cyanate_ester" title="Cyanate ester">Cyanate</a></li>
+<li><a href="/wiki/Isocyanate" title="Isocyanate">Isocyanate</a></li>
+<li><a href="/wiki/Nitrate_ester" title="Nitrate ester">Nitrate</a></li>
+<li><a href="/wiki/Nitrite_ester" class="mw-redirect" title="Nitrite ester">Nitrite</a></li>
+<li><a href="/wiki/Nitro_compound" title="Nitro compound">Nitro</a></li>
+<li><a href="/wiki/Nitroso" title="Nitroso">Nitroso</a></li>
+<li><a href="/wiki/NONOate" title="NONOate">NONOate</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Phosphorus" title="Phosphorus">Phosphorus</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Organophosphate" title="Organophosphate">Phosphate</a>
+<ul><li><a href="/wiki/Phosphodiester" class="mw-redirect" title="Phosphodiester">Phosphodiester</a></li></ul></li>
+<li><a href="/wiki/Phosphonate" title="Phosphonate">Phosphonate</a>
+<ul><li><a href="/wiki/Phosphite_ester" title="Phosphite ester">Phosphite</a></li></ul></li>
+<li><a href="/wiki/Phosphonite" title="Phosphonite">Phosphonous</a></li>
+<li><a href="/wiki/Phosphinate" title="Phosphinate">Phosphinate</a></li>
+<li><a href="/wiki/Phosphine_oxide" title="Phosphine oxide">Phosphine oxide</a></li>
+<li><a href="/wiki/Organophosphine" title="Organophosphine">Phosphine</a>
+<ul><li><a href="/wiki/Phosphonium" title="Phosphonium">Phosphonium</a></li></ul></li>
+<li><a href="/wiki/Phosphaalkene" title="Phosphaalkene">Phosphaalkene</a></li>
+<li><a href="/wiki/Phosphaalkyne" title="Phosphaalkyne">Phosphaalkyne</a></li>
+<li><a href="/wiki/1-Phosphaallenes" title="1-Phosphaallenes">Phosphaallene</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Sulfur" title="Sulfur">Sulfur</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Thiol" title="Thiol">Thiol</a></li>
+<li><a href="/wiki/Sulfide_(organic)" class="mw-redirect" title="Sulfide (organic)">Sulfide</a>
+<ul><li><a href="/wiki/Sulfonium" title="Sulfonium">Sulfonium</a></li></ul></li>
+<li><a href="/wiki/Persulfide" title="Persulfide">Persulfide</a></li>
+<li><a href="/wiki/Disulfide" title="Disulfide">Disulfide</a></li>
+<li><a href="/wiki/Sulfenic_acid" title="Sulfenic acid">Sulfenic acid</a></li>
+<li><a href="/wiki/Thiosulfinate" title="Thiosulfinate">Thiosulfinate</a></li>
+<li><a href="/wiki/Sulfoxide" title="Sulfoxide">Sulfoxide</a></li>
+<li><a href="/wiki/Thiosulfonate" title="Thiosulfonate">Thiosulfonate</a></li>
+<li><a href="/wiki/Sulfinic_acid" title="Sulfinic acid">Sulfinic acid</a></li>
+<li><a href="/wiki/Sulfone" title="Sulfone">Sulfone</a></li>
+<li><a href="/wiki/Sulfonic_acid" title="Sulfonic acid">Sulfonic acid</a></li>
+<li><a href="/wiki/Thioketone" title="Thioketone">Thioketone</a></li>
+<li><a href="/wiki/Thial" title="Thial">Thial</a></li>
+<li><a href="/wiki/Thioester" title="Thioester">Thioester</a></li>
+<li><a href="/wiki/Thionoester" class="mw-redirect" title="Thionoester">Thionoester</a></li>
+<li><a href="/wiki/Thioxanthate" title="Thioxanthate">Thioxanthate</a></li>
+<li><a href="/wiki/Xanthate" title="Xanthate">Xanthate</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Boron" title="Boron">Boron</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Boronic_acid" title="Boronic acid">Boronic acid</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Selenium" title="Selenium">Selenium</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Selenol" title="Selenol">Selenol</a></li>
+<li><a href="/wiki/Selenonic_acid" title="Selenonic acid">Selenonic acid</a></li>
+<li><a href="/wiki/Seleninic_acid" title="Seleninic acid">Seleninic acid</a></li>
+<li><a href="/wiki/Selenenic_acid" title="Selenenic acid">Selenenic acid</a></li>
+<li><a href="/wiki/Selone" title="Selone">Selone</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Tellurium" title="Tellurium">Tellurium</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Tellurol" title="Tellurol">Tellurol</a></li>
+<li><a href="/wiki/Telluroketone" title="Telluroketone">Telluroketone</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i><a href="/wiki/Halocarbon" title="Halocarbon">Halo</a></i></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Haloalkane" title="Haloalkane">Haloalkane</a>
+<ul><li><a href="/wiki/Fluoroethyl" title="Fluoroethyl">Fluoroethyl</a></li>
+<li><a href="/wiki/Trifluoromethyl" class="mw-redirect" title="Trifluoromethyl">Trifluoromethyl</a></li>
+<li><a href="/wiki/Trichloromethyl_group" title="Trichloromethyl group">Trichloromethyl</a></li>
+<li><a href="/wiki/Trifluoromethoxy_group" title="Trifluoromethoxy group">Trifluoromethoxy</a></li>
+<li><a href="/wiki/Iodane" class="mw-redirect" title="Iodane">Hypervalent iodine</a></li></ul></li>
+<li><a href="/wiki/Vinyl_halide" title="Vinyl halide">Vinyl halide</a>
+<ul><li><a href="/wiki/Vinyl_iodide_functional_group" title="Vinyl iodide functional group">Iodide</a></li></ul></li>
+<li><a href="/wiki/Acyl_halide" title="Acyl halide">Acyl halide</a>
+<ul><li><a href="/wiki/Acyl_chloride" title="Acyl chloride">Chloride</a></li></ul></li>
+<li><a href="/wiki/Perchlorate_ester" class="mw-redirect" title="Perchlorate ester">Perchlorate</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Isothiocyanate" title="Isothiocyanate">Isothiocyanate</a></li>
+<li><a href="/wiki/Phosphoramides" title="Phosphoramides">Phosphoramides</a></li>
+<li><a href="/wiki/Sulfenyl_chloride" title="Sulfenyl chloride">Sulfenyl chloride</a></li>
+<li><a href="/wiki/Sulfonamide" title="Sulfonamide">Sulfonamide</a></li>
+<li><a href="/wiki/Organic_thiocyanates" title="Organic thiocyanates">Thiocyanate</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<dl><dt><span class="nobold">See also</span></dt>
+<dd><i><a href="/wiki/Chemical_classification" class="mw-redirect" title="Chemical classification">chemical classification</a></i></dd>
+<dd><i><a href="/wiki/Chemical_nomenclature" title="Chemical nomenclature">chemical nomenclature</a></i>
+<dl><dd><a href="/wiki/IUPAC_nomenclature_of_inorganic_chemistry" title="IUPAC nomenclature of inorganic chemistry">inorganic</a></dd>
+<dd><a href="/wiki/IUPAC_nomenclature_of_organic_chemistry" title="IUPAC nomenclature of organic chemistry">organic</a></dd></dl></dd></dl>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a>: National <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q335268#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4346214-5">Germany</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6b6f4c49c‐wbjqr
+Cached time: 20240406213806
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.451 seconds
+Real time usage: 0.622 seconds
+Preprocessor visited node count: 3186/1000000
+Post‐expand include size: 72044/2097152 bytes
+Template argument size: 3373/2097152 bytes
+Highest expansion depth: 10/100
+Expensive parser function count: 2/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 68088/5000000 bytes
+Lua time usage: 0.272/10.000 seconds
+Lua memory usage: 5936442/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  528.180      1 -total
+ 36.51%  192.858      1 Template:Reflist
+ 18.26%   96.470      1 Template:Functional_group
+ 18.25%   96.403      3 Template:Navbox
+ 17.62%   93.040      1 Template:Short_description
+ 17.42%   92.028     35 Template:Chem2
+ 14.56%   76.897      2 Template:GoldBookRef
+ 13.49%   71.235      4 Template:Cite_journal
+ 13.08%   69.075      2 Template:Doi
+  9.00%   47.555     40 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:291166-0!canonical and timestamp 20240406213806 and revision id 1209321418. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Alkyl_group&amp;oldid=1209321418">https://en.wikipedia.org/w/index.php?title=Alkyl_group&amp;oldid=1209321418</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Alkyl_groups" title="Category:Alkyl groups">Alkyl groups</a></li><li><a href="/wiki/Category:Substituents" title="Category:Substituents">Substituents</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_other_archives" title="Category:Webarchive template other archives">Webarchive template other archives</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 21 February 2024, at 09:35<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Alkyl_group&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1414","wgBackendResponseTime":130,"wgPageParseReport":{"limitreport":{"cputime":"0.451","walltime":"0.622","ppvisitednodes":{"value":3186,"limit":1000000},"postexpandincludesize":{"value":72044,"limit":2097152},"templateargumentsize":{"value":3373,"limit":2097152},"expansiondepth":{"value":10,"limit":100},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":68088,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  528.180      1 -total"," 36.51%  192.858      1 Template:Reflist"," 18.26%   96.470      1 Template:Functional_group"," 18.25%   96.403      3 Template:Navbox"," 17.62%   93.040      1 Template:Short_description"," 17.42%   92.028     35 Template:Chem2"," 14.56%   76.897      2 Template:GoldBookRef"," 13.49%   71.235      4 Template:Cite_journal"," 13.08%   69.075      2 Template:Doi","  9.00%   47.555     40 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.272","limit":"10.000"},"limitreport-memusage":{"value":5936442,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6b6f4c49c-wbjqr","timestamp":"20240406213806","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Alkyl group","url":"https:\/\/en.wikipedia.org\/wiki\/Alkyl_group","sameAs":"http:\/\/www.wikidata.org\/entity\/Q335268","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q335268","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-08-07T15:03:10Z","dateModified":"2024-02-21T09:35:18Z","headline":"univalent group derived from alkanes by removal of a hydrogen atom from any carbon atom \u2013C\u2099H\u2082\u2099\u208a\u2081"}</script>
+</body>
+</html>

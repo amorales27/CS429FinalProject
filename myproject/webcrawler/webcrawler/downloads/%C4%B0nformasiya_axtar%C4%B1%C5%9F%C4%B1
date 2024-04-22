@@ -1,0 +1,658 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="az" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>İnformasiya axtarışı — Vikipediya</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","yanvar","fevral","mart","aprel","may","iyun","iyul","avqust","sentyabr","oktyabr","noyabr","dekabr"],"wgRequestId":"be7800c6-fe50-478e-8b25-c6b6e6b17046","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"İnformasiya_axtarışı","wgTitle":"İnformasiya axtarışı","wgCurRevisionId":7220850,"wgRevisionId":7220850,"wgArticleId":324153,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["İnformasiya axtarışı"],"wgPageViewLanguage":"az","wgPageContentLanguage":"az","wgPageContentModel":"wikitext","wgRelevantPageName":"İnformasiya_axtarışı","wgRelevantArticleId":324153,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove"
+:[],"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"az","pageLanguageDir":"ltr","pageVariantFallbacks":"az"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgULSCurrentAutonym":"azərbaycanca","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q816826","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.gadget.logo":
+"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.sidebarRelated","ext.gadget.metaBox","ext.gadget.EditToolbar","ext.gadget.EditToolbar-menu-page_elements","ext.gadget.EditToolbar_infobox_person","ext.gadget.EditToolbar_discussion","ext.gadget.EditToolbar_references","ext.gadget.markadmins","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=az&amp;modules=codex-search-styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=az&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=az&amp;modules=ext.gadget.logo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=az&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<meta name="generator" content="MediaWiki 1.43.0-wmf.1">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="İnformasiya axtarışı — Vikipediya">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//az.m.wikipedia.org/wiki/%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1">
+<link rel="alternate" type="application/x-wiki" title="Redaktə" href="/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikipediya (az)">
+<link rel="EditURI" type="application/rsd+xml" href="//az.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://az.wikipedia.org/wiki/%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.az">
+<link rel="alternate" type="application/atom+xml" title="Vikipediya — Atom-lenti" href="/w/index.php?title=X%C3%BCsusi:SonD%C9%99yi%C5%9Fiklikl%C9%99r&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-İnformasiya_axtarışı rootpage-İnformasiya_axtarışı skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">İnformasiya axtarışı</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Vikipediya, azad ensiklopediya</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Naviqasiyaya keçin</a>
+		<a class="mw-jump-link" href="#searchInput">Axtarışa keçin</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="az" dir="ltr"><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding: 0.3em"><a href="/wiki/%C4%B0nformasiya_elmi" title="İnformasiya elmi">İnformasiya elmi</a></th></tr><tr><th style="padding:0.1em;border-top:1px solid #CCC;">
+<a href="/w/index.php?title=%C4%B0nformasiya_elminin_%C9%99saslar%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="İnformasiya elminin əsasları (səhifə mövcud deyil)">Ümumi aspektlər</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="hlist hlist-separated">
+<ul><li><a href="/w/index.php?title=%C4%B0nformasiya_giri%C5%9Fi&amp;action=edit&amp;redlink=1" class="new" title="İnformasiya girişi (səhifə mövcud deyil)">Giriş</a></li>
+<li><a href="/w/index.php?title=%C4%B0nformasiya_arxitekturas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="İnformasiya arxitekturası (səhifə mövcud deyil)">Arxitektura</a></li>
+<li><a href="/w/index.php?title=%C4%B0nformasiya_davran%C4%B1%C5%9F%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="İnformasiya davranışı (səhifə mövcud deyil)">Davranış</a></li>
+<li><a href="/wiki/%C4%B0nformasiya_menecmenti" title="İnformasiya menecmenti">Menecment</a></li>
+<li><a href="/w/index.php?title=%C4%B0nformasiya_%C9%99ld%C9%99_etm%C9%99k&amp;action=edit&amp;redlink=1" class="new" title="İnformasiya əldə etmək (səhifə mövcud deyil)">Əldə etmək</a></li>
+<li><a class="mw-selflink selflink">Axtarışı</a></li>
+<li><a href="/wiki/%C4%B0nformasiya_c%C9%99miyy%C9%99ti" title="İnformasiya cəmiyyəti">Cəmiyyət</a></li>
+<li><a href="/w/index.php?title=Bilik_t%C9%99%C5%9Fkilat%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Bilik təşkilatı (səhifə mövcud deyil)">Bilik təşkilatı</a></li>
+<li><a href="/wiki/Ontologiya_(informatika)" class="mw-redirect" title="Ontologiya (informatika)">Ontologiya</a></li>
+<li><a href="/wiki/%C4%B0nformasiya_f%C9%99ls%C9%99f%C9%99si" title="İnformasiya fəlsəfəsi">Fəlsəfə</a></li>
+<li><a href="/w/index.php?title=Elm_v%C9%99_texnologiya_t%C9%99dqiqatlar%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Elm və texnologiya tədqiqatları (səhifə mövcud deyil)">Elm və texnologiya tədqiqatları</a></li>
+<li><a href="/wiki/Taksonomiya" title="Taksonomiya">Taksonomiya</a></li></ul>
+</div></td>
+</tr><tr><th style="padding:0.1em;border-top:1px solid #CCC;">
+Əlaqədar sahələr və alt sahələr</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="hlist hlist-separated">
+<ul><li><a href="/wiki/Bibliometriya" title="Bibliometriya">Bibliometriya</a></li>
+<li><a href="/w/index.php?title=Kateqoriyala%C5%9Fd%C4%B1rma&amp;action=edit&amp;redlink=1" class="new" title="Kateqoriyalaşdırma (səhifə mövcud deyil)">Kateqoriyalaşdırma</a></li>
+<li><a href="/wiki/Senzura" title="Senzura">Senzura</a></li>
+<li><a href="/w/index.php?title=T%C9%99snifat&amp;action=edit&amp;redlink=1" class="new" title="Təsnifat (səhifə mövcud deyil)">Təsnifat</a></li>
+<li><a href="/w/index.php?title=Komp%C3%BCter_m%C9%99lumatlar%C4%B1n%C4%B1n_saxlanmas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Kompüter məlumatlarının saxlanması (səhifə mövcud deyil)">Kompüter məlumatlarının saxlanması</a></li>
+<li><a href="/w/index.php?title=M%C9%99d%C9%99niyy%C9%99t%C5%9F%C3%BCnasl%C4%B1q&amp;action=edit&amp;redlink=1" class="new" title="Mədəniyyətşünaslıq (səhifə mövcud deyil)">Mədəniyyətşünaslıq</a></li>
+<li><a href="/w/index.php?title=Data_modell%C9%99m%C9%99&amp;action=edit&amp;redlink=1" class="new" title="Data modelləmə (səhifə mövcud deyil)">Data modelləmə</a></li>
+<li><a href="/wiki/%C4%B0nformatika" title="İnformatika">İnformatika</a></li>
+<li><a href="/wiki/%C4%B0nformasiya_texnologiyalar%C4%B1" title="İnformasiya texnologiyaları">İnformasiya texnologiyaları</a></li>
+<li><a href="/w/index.php?title=%C4%B0ntellektual_azadl%C4%B1q&amp;action=edit&amp;redlink=1" class="new" title="İntellektual azadlıq (səhifə mövcud deyil)">İntellektual azadlıq</a></li>
+<li><a href="/wiki/%C6%8Fqli_m%C3%BClkiyy%C9%99t" title="Əqli mülkiyyət">Əqli mülkiyyət</a></li>
+<li><a href="/w/index.php?title=Kitabxana%C5%9F%C3%BCnasl%C4%B1q_v%C9%99_informasiya_elml%C9%99ri&amp;action=edit&amp;redlink=1" class="new" title="Kitabxanaşünaslıq və informasiya elmləri (səhifə mövcud deyil)">Kitabxanaşünaslıq və informasiya elmləri</a></li>
+<li><a href="/wiki/Yadda%C5%9F" class="mw-redirect" title="Yaddaş">Yaddaş</a></li>
+<li><a href="/w/index.php?title=Qoruma_(kitabxana_v%C9%99_arxiv)&amp;action=edit&amp;redlink=1" class="new" title="Qoruma (kitabxana və arxiv) (səhifə mövcud deyil)">Qoruma</a></li>
+<li><a href="/wiki/Gizlilik" title="Gizlilik">Gizlilik</a></li>
+<li><a href="/w/index.php?title=Kvant_informasiya_elmi&amp;action=edit&amp;redlink=1" class="new" title="Kvant informasiya elmi (səhifə mövcud deyil)">Kvant informasiya elmi</a></li></ul>
+</div></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/%C5%9Eablon:%C4%B0nformasiya_elmi" title="Şablon:İnformasiya elmi"><span title="Şablona bax">b</span></a></li><li class="nv-talk"><a href="/w/index.php?title=%C5%9Eablon_m%C3%BCzakir%C9%99si:%C4%B0nformasiya_elmi&amp;action=edit&amp;redlink=1" class="new" title="Şablon müzakirəsi:İnformasiya elmi (səhifə mövcud deyil)"><span title="Müzakirə et">m</span></a></li><li class="nv-edit"><a class="external text" href="https://az.wikipedia.org/w/index.php?title=%C5%9Eablon:%C4%B0nformasiya_elmi&amp;action=edit"><span title="Bu şablonu redaktə et">r</span></a></li></ul></div></td></tr></tbody></table>
+<p><b>İnformasiya axtarışı</b>— <a href="/wiki/%C4%B0nformasiya_sistemi" title="İnformasiya sistemi">İnformasiya sisteminin</a> başlıca vəzifəsi olub, sorğulara cavab verən <a href="/wiki/%C4%B0nformasiya" title="İnformasiya">informasiyanın</a> axtarılıb — tapılması və istifadəçilərə çatdırılmasıdır.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="az" dir="ltr"><h2 id="mw-toc-heading">Mündəricat</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Ümumi_məlumat"><span class="tocnumber">1</span> <span class="toctext">Ümumi məlumat</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Sistemin_istifadəçiləri"><span class="tocnumber">2</span> <span class="toctext">Sistemin istifadəçiləri</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Axtarış_şərtləri"><span class="tocnumber">3</span> <span class="toctext">Axtarış şərtləri</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Sorğular_əsasında_axtarış"><span class="tocnumber">4</span> <span class="toctext">Sorğular əsasında axtarış</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".C3.9Cmumi_m.C9.99lumat"></span><span class="mw-headline" id="Ümumi_məlumat">Ümumi məlumat</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;veaction=edit&amp;section=1" title="Ümumi məlumat bölməsini redaktə et" class="mw-editsection-visualeditor"><span>redaktə</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;action=edit&amp;section=1" title="Bölmənin mənbə kodunu redaktə et: Ümumi məlumat"><span>mənbəni redaktə et</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>İnformasiya axtarışı istifadəçinin sorğusuna uyğun cavabları özündə əks etdirən sənədlərin və ya həmin sənədlərin göstəricilərinin tapılması prosedurundan ibarətdir. Faktoqrafik informasiya sistemlərindlə istifadəçinin sorğusuna cavab kimi konkret faktlar (<a href="/wiki/Veril%C9%99nl%C9%99r" title="Verilənlər">verilənlər</a>) təqdim edilir, sənədli sistemlərdə isə informasiya axtarışı nəticəsində istifadəçiyə onun sorğusuna uyğun sənədlər verilir. Bəzən elə hallar olur ki, istifadəçiyə sənədlərin özü yox, onların göstəriciləri (saxlandıqları yer və ya şəbəkə ünvanı (URL) təqdim edilir. İstənilən sənədli və faktoqrafik sistemlərdə informasiya axtarışı, istifadəçinin informasiyaya olan tələbatlarını ödəmək üçün verdiyi sorğu əsasında aparılır.
+</p><p>Bu münasibətlərin istifadə edilməsi üçün İAS-nin nəzəriyyəsinə iki fundamental axtarış daxil edilmişdir. Onlar pertinentlik və relevantlıqdır. Pertinentlik dedikdə sənədin məzmununun istifadəçinin informasiya tələbatına uyğunluğu başa düşülür. İnformasiya tələbatını ödəyən sənədlərə pertinent sənədlər deyilir. Relevantlıq sənədin məzmununun informasiya sorğusuna uyğunluğunun göstəricisidir. Sorğulara cavab verən sənədlərə relevant sənədlər deyilir. İstənilən sistemlərdə lazım olan informasiyanın axtarışı prosesində sənədin axtarış sürətini sorğunun axtarış sürəti ilə müqayisə etməklə sənədin və sorğunun məzmunlarının uyğunluq dərəcəsi müəyyənləşdirilir. Bu cür müqayisə əsasında sənədin sorğuya relevant olub-olmaması təyin edilir.
+</p><p>Ümumiyyətlə informasiya — axtarış sistemlərinin yaradılması üçün əvvəllər proqramçılar və ya mütəxssislər tərəfindən çoxlu sayda proqramlar tərtib edirdilər. Bu proqramların müəyyənləri sənədlərin saxlanması üçün informasiya bazasının (İB) yaradılmasına, müəyyənləri isə istifadəçilərin sorğularına əsasən informasiya axtarışının aparılmasına və alınmış nəticələrin abunəçilərə çatdırılmasına qulluq edirdilər. Hal-hazırda V nəsil maşınlar olan fərdi kompyuterlərdə, yuxarıda göstərilən proseslər tətbiqi proqram paketlərinin (TPP) köməyi ilə yerinə yetirilir.
+</p><p>İstifadəçilər sistemlə <a href="/wiki/%C4%B0nterfeys" title="İnterfeys">interfeys</a> vasitəsilə əlaqə saxlayırlar. Müasir İAS-də istifadəçilərin sistemlə rahat işləmələri üçün müxtəlif menyulardan, formalardan, düymələrdən və s. ibarət olan qrafik interfeysdən istifadə olunur. Burada sistemin girişinə daxil olan sənədlər kağız formada, həm də müxtəlif formalı elenktron variantda ola bilər. Fərdi kompyuterlərə daxil olan sənədlər və sorğular daimi yaddaş qurğusunda (vinçesterdə) fayllar şəklində saxlanılır. Fayllar vinçesterdə cığırlara ardıcıl şəkildə yazılır və onların ünvanları (cığır və sektorlarda) <a href="/w/index.php?title=FAT_16&amp;action=edit&amp;redlink=1" class="new" title="FAT 16 (səhifə mövcud deyil)">FAT 16</a> — da yerləşir. Hər bir ünvan üçün 2 <a href="/wiki/Bayt" title="Bayt">bayt</a> və ya 16 <a href="/wiki/Bit" title="Bit">bit</a> ayrılır. Onda ümumi ünvanların və faylların sayı 65536 bərabər olacaq.
+</p>
+<h2><span id="Sistemin_istifad.C9.99.C3.A7il.C9.99ri"></span><span class="mw-headline" id="Sistemin_istifadəçiləri">Sistemin istifadəçiləri</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;veaction=edit&amp;section=2" title="Sistemin istifadəçiləri bölməsini redaktə et" class="mw-editsection-visualeditor"><span>redaktə</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;action=edit&amp;section=2" title="Bölmənin mənbə kodunu redaktə et: Sistemin istifadəçiləri"><span>mənbəni redaktə et</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Ümumiyyətlə informasiya — axtarış sistemləri formallaşdırılarkən sistemə daxil edilən informasiya kompyuterləri daimi yaddaş qurğularında müəyyən üsullar vasitəsilə yazılırlar. Həmin üsullardan (metodlardan) ardıcıl yazılma, birbaşa, assosiativ və s. metodları göstərmək olar.
+</p><p>İnformasiya-axtarış displeylərin köməyi ilə dialoq rejimində aparılır. Sistemin istifadəçilərini şərti olaraq müxtəlif qruplara bölmək olar. Məsələn&#160;:
+</p>
+<ul><li>sistemlə alqoritmik dillərdə işləyən mütəxəsislər, proqramçılar&#160;;</li>
+<li>sorğu və alqoritmik dillərin köməyi ilə sistemlə işləyən istismarçılar&#160;;</li>
+<li>dialoq rejimində sistemlə formallaşdırılmış sxemlə işləyən mütəxəsislər.</li></ul>
+<h2><span id="Axtar.C4.B1.C5.9F_.C5.9F.C9.99rtl.C9.99ri"></span><span class="mw-headline" id="Axtarış_şərtləri">Axtarış şərtləri</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;veaction=edit&amp;section=3" title="Axtarış şərtləri bölməsini redaktə et" class="mw-editsection-visualeditor"><span>redaktə</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;action=edit&amp;section=3" title="Bölmənin mənbə kodunu redaktə et: Axtarış şərtləri"><span>mənbəni redaktə et</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>İşlənib hazırlanmış İAS-da sistemin istifadəçilərinin və mütəxəssislərinin sorğularına görə müxtəlif rejimlərdə axtarış aparmaq olar. Onlara aşağıdakıları misal göstərmək olar.
+1.*	Əgər informasiya axtarışı, bütün informasiya bazası və ya onun istənilən bir hissəsi üçün aparılırsa, İAS — nin işi iki rejimə bölünür&#160;:
+</p>
+<ul><li>retrospektiv rejimdə informasiya axtarışı;</li>
+<li>seçki rejimində informasiya axtarışı.</li></ul>
+<p>2.*	Sistemlə əlaqə metodu rejimində işlənirsə aşağıdakı rejimləri misal göstərmək olar:
+</p>
+<ul><li>paket rejimində sorğuların emalı;</li>
+<li>dialoq rejimində sorğuların emalı.</li></ul>
+<p>Yuxarıda göstərilən rejimlərdə istifadəçilərin sistemə müraciətlər iki növ sorğuların köməyi ilə aparılır:
+</p>
+<ul><li>Həmişə fəaliyyətdə olan (reqlamentli) sorğular;</li>
+<li>Birdəfəlik (fərdi) sorğular.</li></ul>
+<p>Qabaqcadan tərtib olunmuş reqlament (sorgu dilinə çevrildikdən sonra) növlə sorğular fayllar şəklində xarici yaddaş qurğularında yadda saxlanılır. Burada hər bir sorğunun şifri (açarı) və ya ünvanı qeyd olunur. Sonradan sistemlə işləyən şəxs emal üçün həmin sorğuları əməli yaddaş qurğusuna çağırır və sorğulara görə axtarış aparılır. Buna misal olaraq istənilən neft emalı zavodlarında istehsal olunan neft məhsullarının keyfiyət göstəricilərinin gündəlik, həftəlik, aylıq, kvartallıq və illik qrafik hesablamalarını göstərmək olar (bu halda sorğuların sayı onlarla və ya yüzlərlə ola bilər).
+</p><p>Beləliklə reqlament növlü sorğular adətən paket şəklində olurlar və buraya daxil olan sorğuların sayı yüzlərlə olur.
+</p>
+<h2><span id="Sor.C4.9Fular_.C9.99sas.C4.B1nda_axtar.C4.B1.C5.9F"></span><span class="mw-headline" id="Sorğular_əsasında_axtarış">Sorğular əsasında axtarış</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;veaction=edit&amp;section=4" title="Sorğular əsasında axtarış bölməsini redaktə et" class="mw-editsection-visualeditor"><span>redaktə</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;action=edit&amp;section=4" title="Bölmənin mənbə kodunu redaktə et: Sorğular əsasında axtarış"><span>mənbəni redaktə et</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>İAS-a daxil olan birdəfəlik sorğuların məzmunu və axtarışın tezliyi, reqlament sorğulara nəzərən qabaqcadan məlum olmur. Ona görə hər dəfə birdəfəlik sorğular üzrə İS-da axtarış aparılır. Sistemin informasiya bazasından, birdəfəlik sorğulara görə istənilən informasiyanı almaq olar.
+İstənilən avtomatlaşdırılmış İAS-lar müxtəlif iş rejimlərində işləyirlər. Onlardan retrospektiv, seçmə və dialoq rejimlərini göstərmək olar. Retrospektiv axtarış rejimində, İAS bütün VB üzrə tələb olunan informasiyalar axtarılır. Belə rejimdə sorğuların əsas hissəsi birdəfəlik sorğulara aid edilir. Lakin elə hallar olur ki, bazada uzun müddət saxlanmış massivlərdə, retrospektiv rejimdə informasiya axtarışında reqlament tipli sorğulardan istifadə olunur. Ona misal olaraq neft emalı sahəsində neftdən alınan aylıq göstəriciləri göstərmək olar.
+</p><p>Seçmə rejimində informasiya axtarışında, reqlament tipli sorğulardan istifadə olunur. Burada istifadəçilərin tələbləri əsasında informasiya axtarışı müəyyən olunmuş vaxtlar arasında aparılır. Belə halda informasiya axtarışı yalnız İB daxil edilmiş yeni sənədlər üzərində aparılır. Dialoq rejimində informasiya axtarışında birdəfəlik sorğulardan istifadə olunur və sorğular müəyyən təhlildən sonra maşına klaviaturanın köməyilə daxil edilir, sonra bütün İB üzrə axtarış aparılır. Sistemdə informasiya axtarışının tapılmış nəticələri abunəçilərin rəyindən asılı olaraq ya çap və ya displey qurğusuna çıxarılır.
+Sənədli və faktoqrafík informasiya sistemlərində, informasiya axtarışında müxtəlif axtarış metodlarından istifadə edilir. Onlardan açarsız və açarlı axtarış üsullarını göstərmək olar.
+</p><p>Axtarış açarlardan istifadə olunub-olunmamasından asılı olaraq, yuxarıda göstərdiyimiz kimi, axtarış metodlarına açarlı və açarsız siniflərə bölmək olar. Faylın nizamlanmış olub-olmamasından asılı olaraq açarlı axtarış nizamli və nizamsız aparıla bilər. Nizamlı axtarış bloklarla axtarış, iki bölmə ilə axtarış və indekslərlə axtarış metodları aiddir.
+</p><p>Yazıları açarlara malik olan nizamsız faylda axtarış ardıcıl və birbaşa aparıla bilər. Ardıcıl axtarışda faylın yazıları onların yaddaşda yerləşmə ardıcıllığı ilə emal olunur. Bu cur axtarışa çox vaxt sərf olunduğundan praktikada nisbətən az istifadə olunur.
+</p><p>Birbaşa axtarış üsulu yazılara onların fiziki ünvanları vasitəsilə müraciət etməyə əsaslanır. Həmin ünvan ya bilavasitə sorğuda verilir, ya da ki, açarın ünvana çevrilməsi vasitəsilə təyin edilir. Birbaşa axtarış üsulu yalnız ünvanalaşdırıla bilən daşıyıcılar üçün (əməli yaddaş, maqnit disk yaddaşı və s.) mümkündür.
+Açarsız axtarış iki üsulla aparıla bilər:
+</p>
+<ul><li>ardıcıl;</li>
+<li>assosiativ.</li></ul>
+<p>Ardıcıl axtarışda sorğuda və yazılarda açarlar olmadığından, axtarışa daha çox vaxt sərf olunur, ona görə ki, sorğunun əlamətləri bir-bir yazıdakı əlamətlərlə müqayisə olunur. Ardıcıl axtarışı sürətləndirmək üçün assosiativ-ünvanlı əlaqələr üsulundan geniş istifadə olunur. Bu üsulda yeni əlamətə malik olan yazılar bir-birilə zəncirvari əlaqələri ilə əlaqələndirilir. Bu cür axtarışa assosiativ axtarış deyilir. Bəzi informasiya daşıyıcıları üçün (məsələn maqnit lenti) ardıcıl axtarış yeganə mümkün olan üsuldur.
+</p><p>Sənədli informasiya sistemlərində informasiya axtarışı sorğuda göstərilmiş bütün əlamətlərə (terminlərə) görə aparıldığından, əsasən ardıcıl və ya assosiativ axtarış metodlarından istifadə edilir.
+</p><p>Yuxarıda baxılan axtarış metodlarının birgə tətbiqi də mümkündür. Məsələn, ikiyə bölmə və ya indekslə axtarış metodları ilə maqnit diskində axtarılan yazının yerləşdiyi cığırı tapılan, cığırın daxilində isə yazının özünün axtarış ardıcıl metodla aparılır. İnformasiya axtarışı prosesində sənədin axtarış sürətini sorğunun axtarış sürəti ilə müqayisə etməklə sənədin və sorğunun axtarış sürəti ilə müqayisə etməklə sənədin və sorğunun məzmunlarının uyğunluq dərəcəsi müəyyənləşdirilir. Bu cür müqayisə əsasında sənədin sorğuya relevant olub-olmaması təyin edilir.
+Baxılan sənədin sorğuya cavab verib-verməməsi haqqında qərar sənədin axtarış sürəti və sorğunun axtarış sürəti (SOAS) arasında mənа oxşarlılığının dərəcəsini təyin edən müəyyən qaydalar əsasında qəbul edilir. Bu cür qaydalar dəstinə məna oxşarlığının dərəcəsini təyin edən müəyyən qaydalar əsasında qəbul edilir. Bu cür qaydalar dəstinə тəпа oxşarlıq kriterisi (МОК) deyilir. Elə hallar olur ki, sənədin axtarış sürəti ilə sorğunun axtarış sürətinin müəyyən hissəsinin üst-üstə düşməsi kriteriyası ilə kifayətlənirlər.
+</p><p>Əgər biz SAS-ın və SOAS-ın üst-üstə düşmələrini faiz hesabı ilə P işarə etsək
+</p>
+<div class="poem">
+<p>R = (100 * С) / P
+</p>
+</div>
+<p>olar. Burada P ► SAS-ın daxilində olan ümumi deskriptorların sayı, С ► isə SOAS-da olan deskriptorların sayını göstərir. Ən sadə halda SAS-ın və SOAS-ın deskriptorları tamamilə üst-üstə düşürlərsə (с=p), onda R=100% olacaq. Lakin praktiki hallarda kifayətdir ki, R&gt;25&#160;% olsun.
+</p>
+<div role="navigation" class="navbox" aria-labelledby="İnformatika" style="padding:3px"><table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><span style="float:left;text-align:left;width:5em;margin-right:0.5em"><span typeof="mw:File"><a href="/wiki/%C5%9Eablon:%C4%B0nformatika" title="Bu şablona bax"><img alt="⛭" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span></span><div id="İnformatika" style="font-size:114%;margin:0 5em"><a href="/wiki/%C4%B0nformatika" title="İnformatika">İnformatika</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/Aparat_t%C9%99chizat%C4%B1" title="Aparat təchizatı">Cihaz</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Sxem_l%C3%B6vh%C9%99si" title="Sxem lövhəsi">Sxem lövhəsi</a></li>
+<li><a href="/wiki/Periferiya_qur%C4%9Fular%C4%B1" title="Periferiya qurğuları">Periferiya qurğuları</a></li>
+<li><a href="/wiki/%C4%B0nteqral_sxem" title="İnteqral sxem">İnteqral sxem</a></li>
+<li><a href="/w/index.php?title=%C3%87ox_geni%C5%9F_miqyasl%C4%B1_inteqrasiya&amp;action=edit&amp;redlink=1" class="new" title="Çox geniş miqyaslı inteqrasiya (səhifə mövcud deyil)">Çox geniş miqyaslı inteqrasiya</a></li>
+<li><a href="/wiki/%C3%87ip_%C3%BCz%C9%99rind%C9%99_sistem" title="Çip üzərində sistem">Çip üzərində sistem</a></li>
+<li><a href="/w/index.php?title=Ya%C5%9F%C4%B1l_hesablama&amp;action=edit&amp;redlink=1" class="new" title="Yaşıl hesablama (səhifə mövcud deyil)">Yaşıl hesablama</a></li>
+<li><a href="/w/index.php?title=Elektron_dizayn%C4%B1n_avtomatla%C5%9Fd%C4%B1r%C4%B1lmas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Elektron dizaynın avtomatlaşdırılması (səhifə mövcud deyil)">Elektron dizaynın avtomatlaşdırılması</a></li>
+<li><a href="/w/index.php?title=Cihaz%C4%B1n_s%C3%BCr%C9%99tl%C9%99ndirilm%C9%99si&amp;action=edit&amp;redlink=1" class="new" title="Cihazın sürətləndirilməsi (səhifə mövcud deyil)">Cihazın sürətləndirilməsi</a></li></ul>
+</div></td><td class="navbox-image" rowspan="17" style="width:1px;padding:0px 0px 0px 7px"><div><span typeof="mw:File"><a href="/wiki/Fayl:Computer_Retro.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Computer_Retro.svg/50px-Computer_Retro.svg.png" decoding="async" width="50" height="50" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Computer_Retro.svg/75px-Computer_Retro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Computer_Retro.svg/100px-Computer_Retro.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Kompüter sistemlərinin təşkili</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Komp%C3%BCterin_arxitekturas%C4%B1" title="Kompüterin arxitekturası">Kompüterin arxitekturası</a></li>
+<li><a href="/wiki/G%C3%B6m%C3%BCl%C3%BC_sisteml%C9%99r" title="Gömülü sistemlər">Gömülü sistemlər</a></li>
+<li><a href="/w/index.php?title=Real_vaxtda_hesablama&amp;action=edit&amp;redlink=1" class="new" title="Real vaxtda hesablama (səhifə mövcud deyil)">Real vaxtda hesablama</a></li>
+<li><a href="/wiki/Etibarl%C4%B1l%C4%B1q" title="Etibarlılıq">Etibarlılıq</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/Komp%C3%BCter_%C5%9F%C9%99b%C9%99k%C9%99si" title="Kompüter şəbəkəsi">Şəbəkələr</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%C5%9E%C9%99b%C9%99k%C9%99_arxitekturas%C4%B1" title="Şəbəkə arxitekturası">Şəbəkə arxitekturası</a></li>
+<li><a href="/wiki/Veril%C9%99nl%C9%99rin_%C3%B6t%C3%BCr%C3%BClm%C9%99si_protokollar%C4%B1" title="Verilənlərin ötürülməsi protokolları">Verilənlərin ötürülməsi protokolları</a></li>
+<li><a href="/wiki/%C5%9E%C9%99b%C9%99k%C9%99_avadanl%C4%B1%C4%9F%C4%B1" title="Şəbəkə avadanlığı">Şəbəkə avadanlığı</a></li>
+<li><a href="/w/index.php?title=%C5%9E%C9%99b%C9%99k%C9%99_planlay%C4%B1c%C4%B1s%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Şəbəkə planlayıcısı (səhifə mövcud deyil)">Şəbəkə planlayıcısı</a></li>
+<li><a href="/w/index.php?title=%C5%9E%C9%99b%C9%99k%C9%99_performans%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Şəbəkə performansı (səhifə mövcud deyil)">Şəbəkə performansı</a></li>
+<li><a href="/w/index.php?title=%C5%9E%C9%99b%C9%99k%C9%99_servisi&amp;action=edit&amp;redlink=1" class="new" title="Şəbəkə servisi (səhifə mövcud deyil)">Şəbəkə servisi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Proqram təminatının təşkili</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%C4%B0nterpretator" title="İnterpretator">İnterpretator</a></li>
+<li><a href="/wiki/Aral%C4%B1q_proqram_t%C9%99minat%C4%B1" title="Aralıq proqram təminatı">Aralıq proqram təminatı</a></li>
+<li><a href="/wiki/Virtual_ma%C5%9F%C4%B1n" title="Virtual maşın">Virtual maşın</a></li>
+<li><a href="/wiki/%C6%8Fm%C9%99liyyat_sistemi" title="Əməliyyat sistemi">Əməliyyat sistemi</a></li>
+<li><a href="/w/index.php?title=Proqram%C4%B1n_keyfiyy%C9%99ti&amp;action=edit&amp;redlink=1" class="new" title="Proqramın keyfiyyəti (səhifə mövcud deyil)">Proqramın keyfiyyəti</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/Proqramla%C5%9Fd%C4%B1rma_dili_n%C9%99z%C9%99riyy%C9%99si" title="Proqramlaşdırma dili nəzəriyyəsi">Nəzəriyyə</a> və <a href="/w/index.php?title=Programming_tool&amp;action=edit&amp;redlink=1" class="new" title="Programming tool (səhifə mövcud deyil)">alətlər</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Proqramla%C5%9Fd%C4%B1rma_paradiqmas%C4%B1" title="Proqramlaşdırma paradiqması">Proqramlaşdırma paradiqması</a></li>
+<li><a href="/wiki/Proqramla%C5%9Fd%C4%B1rma_dili" title="Proqramlaşdırma dili">Proqramlaşdırma dili</a></li>
+<li><a href="/wiki/Kompilyator" title="Kompilyator">Kompilyator</a></li>
+<li><a href="/w/index.php?title=Domen%C9%99_%C3%B6z%C9%99l_dil&amp;action=edit&amp;redlink=1" class="new" title="Domenə özəl dil (səhifə mövcud deyil)">Domenə özəl dil</a></li>
+<li><a href="/w/index.php?title=Modell%C9%99%C5%9Fdirm%C9%99_dili&amp;action=edit&amp;redlink=1" class="new" title="Modelləşdirmə dili (səhifə mövcud deyil)">Modelləşdirmə dili</a></li>
+<li><a href="/w/index.php?title=Freymvork&amp;action=edit&amp;redlink=1" class="new" title="Freymvork (səhifə mövcud deyil)">Freymvork</a></li>
+<li><a href="/wiki/%C4%B0nteqrasiya_olunmu%C5%9F_inki%C5%9Faf_m%C3%BChiti" title="İnteqrasiya olunmuş inkişaf mühiti">İnteqrasiya olunmuş inkişaf mühiti</a></li>
+<li><a href="/w/index.php?title=Proqram_konfiqurasiyas%C4%B1n%C4%B1n_idar%C9%99_edilm%C9%99si&amp;action=edit&amp;redlink=1" class="new" title="Proqram konfiqurasiyasının idarə edilməsi (səhifə mövcud deyil)">Proqram konfiqurasiyasının idarə edilməsi</a></li>
+<li><a href="/wiki/Kitabxana_(informatika)" title="Kitabxana (informatika)">Proqram kitabxanası</a></li>
+<li><a href="/w/index.php?title=Repozitoriya&amp;action=edit&amp;redlink=1" class="new" title="Repozitoriya (səhifə mövcud deyil)">Repozitoriya</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/w/index.php?title=Proqram_t%C9%99rtibat%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Proqram tərtibatı (səhifə mövcud deyil)">Proqram tərtibatı</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=N%C9%99zar%C9%99t_ax%C4%B1n%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Nəzarət axını (səhifə mövcud deyil)">Nəzarət axını</a></li>
+<li><a href="/w/index.php?title=Proqram_t%C9%99minat%C4%B1_prosesi&amp;action=edit&amp;redlink=1" class="new" title="Proqram təminatı prosesi (səhifə mövcud deyil)">Proqram təminatı prosesi</a></li>
+<li><a href="/w/index.php?title=T%C9%99l%C9%99bl%C9%99rin_t%C9%99hlili&amp;action=edit&amp;redlink=1" class="new" title="Tələblərin təhlili (səhifə mövcud deyil)">Tələblərin təhlili</a></li>
+<li><a href="/w/index.php?title=Proqram_dizayn%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Proqram dizaynı (səhifə mövcud deyil)">Proqram dizaynı</a></li>
+<li><a href="/w/index.php?title=Proqram%C4%B1n_qurulmas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Proqramın qurulması (səhifə mövcud deyil)">Proqramın qurulması</a></li>
+<li><a href="/w/index.php?title=Proqram%C4%B1n_yerl%C9%99%C5%9Fdirilm%C9%99si&amp;action=edit&amp;redlink=1" class="new" title="Proqramın yerləşdirilməsi (səhifə mövcud deyil)">Proqramın yerləşdirilməsi</a></li>
+<li><a href="/wiki/Proqram_t%C9%99minat%C4%B1_m%C3%BCh%C9%99ndisliyi" title="Proqram təminatı mühəndisliyi">Proqram təminatı mühəndisliyi</a></li>
+<li><a href="/w/index.php?title=Proqram_t%C9%99minat%C4%B1n%C4%B1n_texniki_qullu%C4%9Fu&amp;action=edit&amp;redlink=1" class="new" title="Proqram təminatının texniki qulluğu (səhifə mövcud deyil)">Proqram təminatının texniki qulluğu</a></li>
+<li><a href="/w/index.php?title=Proqramla%C5%9Fd%C4%B1rma_komandas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Proqramlaşdırma komandası (səhifə mövcud deyil)">Proqramlaşdırma komandası</a></li>
+<li><a href="/wiki/A%C3%A7%C4%B1q_m%C9%99nb%C9%99li_proqram_t%C9%99minat%C4%B1" title="Açıq mənbəli proqram təminatı">Açıq mənbəli proqram təminatı</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/w/index.php?title=Alqoritml%C9%99r_n%C9%99z%C9%99riyy%C9%99si&amp;action=edit&amp;redlink=1" class="new" title="Alqoritmlər nəzəriyyəsi (səhifə mövcud deyil)">Alqoritmlər nəzəriyyəsi</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Hesablama_modeli&amp;action=edit&amp;redlink=1" class="new" title="Hesablama modeli (səhifə mövcud deyil)">Hesablama modeli</a></li>
+<li><a href="/wiki/Formal_dill%C9%99r" title="Formal dillər">Formal dillər</a></li>
+<li><a href="/w/index.php?title=Avtomatla%C5%9Fd%C4%B1rma_n%C9%99z%C9%99riyy%C9%99si&amp;action=edit&amp;redlink=1" class="new" title="Avtomatlaşdırma nəzəriyyəsi (səhifə mövcud deyil)">Avtomatlaşdırma nəzəriyyəsi</a></li>
+<li><a href="/w/index.php?title=Hesablama_n%C9%99z%C9%99riyy%C9%99si&amp;action=edit&amp;redlink=1" class="new" title="Hesablama nəzəriyyəsi (səhifə mövcud deyil)">Hesablama nəzəriyyəsi</a></li>
+<li><a href="/w/index.php?title=Hesablama_m%C3%BCr%C9%99kk%C9%99bliyi_n%C9%99z%C9%99riyy%C9%99si&amp;action=edit&amp;redlink=1" class="new" title="Hesablama mürəkkəbliyi nəzəriyyəsi (səhifə mövcud deyil)">Hesablama mürəkkəbliyi nəzəriyyəsi</a></li>
+<li><a href="/w/index.php?title=%C4%B0nformatikada_m%C9%99ntiq&amp;action=edit&amp;redlink=1" class="new" title="İnformatikada məntiq (səhifə mövcud deyil)">Məntiq</a></li>
+<li><a href="/wiki/Semantika" title="Semantika">Semantika</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/Alqoritm" title="Alqoritm">Alqoritmlər</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Alqoritmin_dizayn%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Alqoritmin dizaynı (səhifə mövcud deyil)">Alqoritmin dizaynı</a></li>
+<li><a href="/w/index.php?title=Alqoritmin_analizi&amp;action=edit&amp;redlink=1" class="new" title="Alqoritmin analizi (səhifə mövcud deyil)">Alqoritmin analizi</a></li>
+<li><a href="/w/index.php?title=Alqoritmik_s%C9%99m%C9%99r%C9%99lilik&amp;action=edit&amp;redlink=1" class="new" title="Alqoritmik səmərəlilik (səhifə mövcud deyil)">Alqoritmik səmərəlilik</a></li>
+<li><a href="/w/index.php?title=T%C9%99sad%C3%BCfi_alqoritm&amp;action=edit&amp;redlink=1" class="new" title="Təsadüfi alqoritm (səhifə mövcud deyil)">Təsadüfi alqoritm</a></li>
+<li><a href="/w/index.php?title=Hesablama_h%C9%99nd%C9%99s%C9%99si&amp;action=edit&amp;redlink=1" class="new" title="Hesablama həndəsəsi (səhifə mövcud deyil)">Hesablama həndəsəsi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Hesablama riyaziyyatı</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Diskret_riyaziyyat" title="Diskret riyaziyyat">Diskret riyaziyyat</a></li>
+<li><a href="/wiki/Ehtimal" title="Ehtimal">Ehtimal</a></li>
+<li><a href="/wiki/Statistika" title="Statistika">Statistika</a></li>
+<li><a href="/w/index.php?title=Riyazi_proqram_t%C9%99minat%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Riyazi proqram təminatı (səhifə mövcud deyil)">Riyazi proqram təminatı</a></li>
+<li><a href="/wiki/%C4%B0nformasiya_n%C9%99z%C9%99riyy%C9%99si" title="İnformasiya nəzəriyyəsi">İnformasiya nəzəriyyəsi</a></li>
+<li><a href="/wiki/Riyazi_analiz" title="Riyazi analiz">Riyazi analiz</a></li>
+<li><a href="/wiki/%C6%8Fd%C9%99di_analiz" title="Ədədi analiz">Ədədi analiz</a></li>
+<li><a href="/w/index.php?title=N%C9%99z%C9%99ri_informatika&amp;action=edit&amp;redlink=1" class="new" title="Nəzəri informatika (səhifə mövcud deyil)">Nəzəri informatika</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%C4%B0nformasiya_sistemi" title="İnformasiya sistemi">İnformasiya sistemi</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Veril%C9%99nl%C9%99r_bazas%C4%B1" title="Verilənlər bazası">Verilənlər bazası idarəetmə sistemləri</a></li>
+<li><a href="/w/index.php?title=Komp%C3%BCter_m%C9%99lumatlar%C4%B1n%C4%B1n_saxlanmas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Kompüter məlumatlarının saxlanması (səhifə mövcud deyil)">Kompüter məlumatlarının saxlanması</a></li>
+<li><a href="/w/index.php?title=M%C3%BC%C9%99ssis%C9%99_m%C9%99lumat_sistemi&amp;action=edit&amp;redlink=1" class="new" title="Müəssisə məlumat sistemi (səhifə mövcud deyil)">Müəssisə məlumat sistemi</a></li>
+<li><a href="/w/index.php?title=Sosial_proqram&amp;action=edit&amp;redlink=1" class="new" title="Sosial proqram (səhifə mövcud deyil)">Sosial proqram</a></li>
+<li><a href="/wiki/Co%C4%9Frafi_informasiya_sistemi" title="Coğrafi informasiya sistemi">Coğrafi informasiya sistemi</a></li>
+<li><a href="/wiki/Q%C9%99rar_q%C9%99buledici_d%C9%99st%C9%99k_sistemi" title="Qərar qəbuledici dəstək sistemi">Qərar qəbuledici dəstək sistemi</a></li>
+<li><a href="/w/index.php?title=Prosess%C9%99_n%C9%99zar%C9%99t&amp;action=edit&amp;redlink=1" class="new" title="Prosessə nəzarət (səhifə mövcud deyil)">Prosessə nəzarət</a> sistemi</li>
+<li><a href="/w/index.php?title=Multimedia_veril%C9%99nl%C9%99r_bazas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Multimedia verilənlər bazası (səhifə mövcud deyil)">Multimedia verilənlər bazası</a></li>
+<li><a href="/wiki/Data_mining" title="Data mining">Data mining</a></li>
+<li><a href="/wiki/Elektron_kitabxana" title="Elektron kitabxana">Elektron kitabxana</a></li>
+<li><a href="/wiki/Komp%C3%BCter_platformas%C4%B1" title="Kompüter platforması">Kompüter platforması</a></li>
+<li><a href="/wiki/R%C9%99q%C9%99msal_marketinq" title="Rəqəmsal marketinq">Rəqəmsal marketinq</a></li>
+<li><a href="/wiki/%C3%9Cmumd%C3%BCnya_h%C3%B6r%C3%BCm%C3%A7%C9%99k_toru" title="Ümumdünya hörümçək toru">Ümumdünya hörümçək toru</a></li>
+<li><a class="mw-selflink selflink">İnformasiya axtarışı</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/Kibert%C9%99hl%C3%BCk%C9%99sizlik" title="Kibertəhlükəsizlik">Kibertəhlükəsizlik</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Kriptoqrafiya" title="Kriptoqrafiya">Kriptoqrafiya</a></li>
+<li><a href="/w/index.php?title=Formal_metodlar&amp;action=edit&amp;redlink=1" class="new" title="Formal metodlar (səhifə mövcud deyil)">Formal metodlar</a></li>
+<li><a href="/w/index.php?title=T%C9%99hl%C3%BCk%C9%99sizlik_xidm%C9%99ti_(telekommunikasiya)&amp;action=edit&amp;redlink=1" class="new" title="Təhlükəsizlik xidməti (telekommunikasiya) (səhifə mövcud deyil)">Təhlükəsizlik xidməti</a></li>
+<li><a href="/wiki/M%C3%BCdaxil%C9%99nin_a%C5%9Fkarlanmas%C4%B1_sistemi" title="Müdaxilənin aşkarlanması sistemi">Müdaxilənin aşkarlanması sistemi</a></li>
+<li><a href="/w/index.php?title=Cihaz_t%C9%99hl%C3%BCk%C9%99sizliyi&amp;action=edit&amp;redlink=1" class="new" title="Cihaz təhlükəsizliyi (səhifə mövcud deyil)">Cihaz təhlükəsizliyi</a></li>
+<li><a href="/wiki/%C5%9E%C9%99b%C9%99k%C9%99_t%C9%99hl%C3%BCk%C9%99sizliyi" title="Şəbəkə təhlükəsizliyi">Şəbəkə təhlükəsizliyi</a></li>
+<li><a href="/wiki/%C4%B0nformasiya_t%C9%99hl%C3%BCk%C9%99sizliyi" title="İnformasiya təhlükəsizliyi">İnformasiya təhlükəsizliyi</a></li>
+<li><a href="/w/index.php?title=T%C9%99tbiq_t%C9%99hl%C3%BCk%C9%99sizliyi&amp;action=edit&amp;redlink=1" class="new" title="Tətbiq təhlükəsizliyi (səhifə mövcud deyil)">Tətbiq təhlükəsizliyi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/w/index.php?title=%C4%B0nsan-komp%C3%BCter_qar%C5%9F%C4%B1l%C4%B1ql%C4%B1_%C9%99laq%C9%99si&amp;action=edit&amp;redlink=1" class="new" title="İnsan-kompüter qarşılıqlı əlaqəsi (səhifə mövcud deyil)">İnsan-kompüter qarşılıqlı əlaqəsi</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Qar%C5%9F%C4%B1l%C4%B1ql%C4%B1_t%C9%99sir_dizayn%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Qarşılıqlı təsir dizaynı (səhifə mövcud deyil)">Qarşılıqlı təsir dizaynı</a></li>
+<li><a href="/w/index.php?title=Sosial_hesablama&amp;action=edit&amp;redlink=1" class="new" title="Sosial hesablama (səhifə mövcud deyil)">Sosial hesablama</a></li>
+<li><a href="/w/index.php?title=H%C9%99r_yerd%C9%99_hesablama&amp;action=edit&amp;redlink=1" class="new" title="Hər yerdə hesablama (səhifə mövcud deyil)">Hər yerdə hesablama</a></li>
+<li><a href="/w/index.php?title=Vizualizasiya&amp;action=edit&amp;redlink=1" class="new" title="Vizualizasiya (səhifə mövcud deyil)">Vizualizasiya</a></li>
+<li><a href="/w/index.php?title=Komp%C3%BCter_%C9%99l%C3%A7atanl%C4%B1%C4%9F%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Kompüter əlçatanlığı (səhifə mövcud deyil)">Kompüter əlçatanlığı</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/w/index.php?title=Paralellik_(informatika)&amp;action=edit&amp;redlink=1" class="new" title="Paralellik (informatika) (səhifə mövcud deyil)">Paralellik</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Paralel_hesablama" title="Paralel hesablama">Paralel hesablama</a></li>
+<li><a href="/w/index.php?title=Paylanm%C4%B1%C5%9F_hesablama&amp;action=edit&amp;redlink=1" class="new" title="Paylanmış hesablama (səhifə mövcud deyil)">Paylanmış hesablama</a></li>
+<li><a href="/w/index.php?title=%C3%87oxax%C4%B1nl%C4%B1l%C4%B1q_(komp%C3%BCter_arxitekturas%C4%B1)&amp;action=edit&amp;redlink=1" class="new" title="Çoxaxınlılıq (kompüter arxitekturası) (səhifə mövcud deyil)">Çoxaxınlılıq</a></li>
+<li><a href="/w/index.php?title=%C3%87oxprosesli&amp;action=edit&amp;redlink=1" class="new" title="Çoxprosesli (səhifə mövcud deyil)">Çoxprosesli</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/S%C3%BCni_intellekt" title="Süni intellekt">Süni intellekt</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/T%C9%99bii_dilin_emal%C4%B1" title="Təbii dilin emalı">Təbii dilin emalı</a></li>
+<li><a href="/w/index.php?title=Bilik_t%C9%99msili_v%C9%99_%C9%99sasland%C4%B1rma&amp;action=edit&amp;redlink=1" class="new" title="Bilik təmsili və əsaslandırma (səhifə mövcud deyil)">Bilik təmsili və əsaslandırma</a></li>
+<li><a href="/w/index.php?title=Komp%C3%BCter_g%C3%B6r%C3%BCn%C3%BC%C5%9F%C3%BC&amp;action=edit&amp;redlink=1" class="new" title="Kompüter görünüşü (səhifə mövcud deyil)">Kompüter görünüşü</a></li>
+<li><a href="/w/index.php?title=Avtomatla%C5%9Fd%C4%B1r%C4%B1lm%C4%B1%C5%9F_planla%C5%9Fd%C4%B1rma&amp;action=edit&amp;redlink=1" class="new" title="Avtomatlaşdırılmış planlaşdırma (səhifə mövcud deyil)">Avtomatlaşdırılmış planlaşdırma</a></li>
+<li><a href="/wiki/Optimalla%C5%9Fd%C4%B1rma" title="Optimallaşdırma">Optimallaşdırma</a></li>
+<li><a href="/wiki/%C4%B0dar%C9%99etm%C9%99_n%C9%99z%C9%99riyy%C9%99si" title="İdarəetmə nəzəriyyəsi">İdarəetmə nəzəriyyəsi</a></li>
+<li><a href="/wiki/S%C3%BCni_intellekt_f%C9%99ls%C9%99f%C9%99si" title="Süni intellekt fəlsəfəsi">Süni intellekt fəlsəfəsi</a></li>
+<li><a href="/w/index.php?title=Paylanm%C4%B1%C5%9F_s%C3%BCni_intellekt&amp;action=edit&amp;redlink=1" class="new" title="Paylanmış süni intellekt (səhifə mövcud deyil)">Paylanmış süni intellekt</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/Ma%C5%9F%C4%B1n_%C3%B6yr%C9%99nm%C9%99si" title="Maşın öyrənməsi">Maşın öyrənməsi</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=N%C9%99zar%C9%99t_olunan_%C3%B6yr%C9%99nm%C9%99&amp;action=edit&amp;redlink=1" class="new" title="Nəzarət olunan öyrənmə (səhifə mövcud deyil)">Nəzarət olunan öyrənmə</a></li>
+<li><a href="/w/index.php?title=N%C9%99zar%C9%99t_olunmayan_%C3%B6yr%C9%99nm%C9%99&amp;action=edit&amp;redlink=1" class="new" title="Nəzarət olunmayan öyrənmə (səhifə mövcud deyil)">Nəzarət olunmayan öyrənmə</a></li>
+<li><a href="/w/index.php?title=M%C3%B6hk%C9%99ml%C9%99ndirici_%C3%B6yr%C9%99nm%C9%99&amp;action=edit&amp;redlink=1" class="new" title="Möhkəmləndirici öyrənmə (səhifə mövcud deyil)">Möhkəmləndirici öyrənmə</a></li>
+<li><a href="/w/index.php?title=%C3%87ox_tap%C5%9F%C4%B1r%C4%B1ql%C4%B1_%C3%B6yr%C9%99nm%C9%99&amp;action=edit&amp;redlink=1" class="new" title="Çox tapşırıqlı öyrənmə (səhifə mövcud deyil)">Çox tapşırıqlı öyrənmə</a></li>
+<li><a href="/w/index.php?title=%C3%87apraz_do%C4%9Frulama_(statistika)&amp;action=edit&amp;redlink=1" class="new" title="Çapraz doğrulama (statistika) (səhifə mövcud deyil)">Çapraz doğrulama (statistika)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/Komp%C3%BCter_qrafikas%C4%B1" title="Kompüter qrafikası">Qrafika</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Komp%C3%BCter_animasiyas%C4%B1" title="Kompüter animasiyası">Animasiya</a></li>
+<li><a href="/wiki/Render" title="Render">Render</a></li>
+<li><a href="/w/index.php?title=Foto_manipulyasiyas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Foto manipulyasiyası (səhifə mövcud deyil)">Foto manipulyasiyası</a></li>
+<li><a href="/wiki/Qrafik_prosessor" title="Qrafik prosessor">Qrafik prosessor</a></li>
+<li><a href="/w/index.php?title=Qar%C4%B1%C5%9F%C4%B1q_reall%C4%B1q&amp;action=edit&amp;redlink=1" class="new" title="Qarışıq reallıq (səhifə mövcud deyil)">Qarışıq reallıq</a></li>
+<li><a href="/wiki/Virtual_reall%C4%B1q" title="Virtual reallıq">Virtual reallıq</a></li>
+<li><a href="/w/index.php?title=%C5%9E%C9%99klin_s%C4%B1x%C4%B1%C5%9Fd%C4%B1r%C4%B1lmas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Şəklin sıxışdırılması (səhifə mövcud deyil)">Şəklin sıxışdırılması</a></li>
+<li><a href="/w/index.php?title=Solid_modeling&amp;action=edit&amp;redlink=1" class="new" title="Solid modeling (səhifə mövcud deyil)">Solid modeling</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Tətbiqi hesablama</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Elektron_ticar%C9%99t" title="Elektron ticarət">Elektron ticarət</a></li>
+<li><a href="/w/index.php?title=M%C3%BC%C9%99ssis%C9%99_proqram_t%C9%99minat%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Müəssisə proqram təminatı (səhifə mövcud deyil)">Müəssisə proqram təminatı</a></li>
+<li><a href="/w/index.php?title=Hesablama_riyaziyyat%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Hesablama riyaziyyatı (səhifə mövcud deyil)">Hesablama riyaziyyatı</a></li>
+<li><a href="/w/index.php?title=Hesablama_fizikas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Hesablama fizikası (səhifə mövcud deyil)">Hesablama fizikası</a></li>
+<li><a href="/w/index.php?title=Hesablama_kimyas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Hesablama kimyası (səhifə mövcud deyil)">Hesablama kimyası</a></li>
+<li><a href="/w/index.php?title=Hesablama_biologiyas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Hesablama biologiyası (səhifə mövcud deyil)">Hesablama biologiyası</a></li>
+<li><a href="/w/index.php?title=Hesablama_sosial_elml%C9%99ri&amp;action=edit&amp;redlink=1" class="new" title="Hesablama sosial elmləri (səhifə mövcud deyil)">Hesablama sosial elmləri</a></li>
+<li><a href="/w/index.php?title=Hesablama_m%C3%BCh%C9%99ndisliyi&amp;action=edit&amp;redlink=1" class="new" title="Hesablama mühəndisliyi (səhifə mövcud deyil)">Hesablama mühəndisliyi</a></li>
+<li><a href="/w/index.php?title=Sa%C4%9Flaml%C4%B1q_informatikas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Sağlamlıq informatikası (səhifə mövcud deyil)">Sağlamlıq informatikası</a></li>
+<li><a href="/wiki/R%C9%99q%C9%99msal_s%C9%99n%C9%99t" title="Rəqəmsal sənət">Rəqəmsal sənət</a></li>
+<li><a href="/w/index.php?title=Elektron_n%C9%99%C5%9Friyyat&amp;action=edit&amp;redlink=1" class="new" title="Elektron nəşriyyat (səhifə mövcud deyil)">Elektron nəşriyyat</a></li>
+<li><a href="/wiki/Kiberm%C3%BCharib%C9%99" title="Kibermüharibə">Kibermüharibə</a></li>
+<li><a href="/wiki/Elektron_se%C3%A7ki" title="Elektron seçki">Elektron seçki</a></li>
+<li><a href="/wiki/Videooyun" title="Videooyun">Videooyunlar</a></li>
+<li><a href="/wiki/M%C9%99tn_prosessoru" title="Mətn prosessoru">Mətn prosessoru</a></li>
+<li><a href="/wiki/%C6%8Fm%C9%99liyyat_ara%C5%9Fd%C4%B1rmas%C4%B1" title="Əməliyyat araşdırması">Əməliyyat araşdırması</a></li>
+<li><a href="/wiki/Komp%C3%BCter-d%C9%99st%C9%99kli_t%C9%99lim" class="mw-redirect" title="Kompüter-dəstəkli təlim">Kompüter-dəstəkli təlim</a></li>
+<li><a href="/w/index.php?title=S%C9%99n%C9%99d_idar%C9%99etm%C9%99_sistemi&amp;action=edit&amp;redlink=1" class="new" title="Sənəd idarəetmə sistemi (səhifə mövcud deyil)">Sənəd idarəetmə</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><span typeof="mw:File"><span title="Category"><img alt="Category" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" decoding="async" width="16" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /></span></span> <b><a href="/wiki/Kateqoriya:%C4%B0nformatika" title="Kateqoriya:İnformatika">Kateqoriya</a></b></li>
+<li><span typeof="mw:File"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Symbol_question.svg/16px-Symbol_question.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Symbol_question.svg/23px-Symbol_question.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Symbol_question.svg/31px-Symbol_question.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <b><a href="/w/index.php?title=%C4%B0nformatikan%C4%B1n_%C9%99saslar%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="İnformatikanın əsasları (səhifə mövcud deyil)">Əsasları</a></b></li>
+<li><span typeof="mw:File"><span title="Commons page"><img alt="Commons page" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span> <b><a href="https://commons.wikimedia.org/wiki/Category:Computer_science" class="extiw" title="commons:Category:Computer science">Vikianbar</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-label="Naviqasiya şablonu" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0px 18px 0px 0px; width: 100%;"><div style="float: left;"><span class="noprint plainlinksneverexpand" style="white-space:nowrap;font-size:xx-small">&#160;<span typeof="mw:File"><a href="/wiki/%C5%9Eablon:Xarici_ke%C3%A7idl%C9%99r" title="Bu şablona bax"><img alt="Bu şablona bax" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Searchtool.svg/14px-Searchtool.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Searchtool.svg/21px-Searchtool.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Searchtool.svg/28px-Searchtool.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span>&#160;</span></div>&#160;&#160;Lüğətlər və ensiklopediyalar</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a rel="nofollow" class="external text" href="https://snl.no/informasjonsgjenfinning">Böyük norveç</a> · <a rel="nofollow" class="external text" href="https://old.bigenc.ru/text/3151044">Böyük rus</a> · <a rel="nofollow" class="external text" href="https://www.britannica.com/topic/information-retrieval">Britannica (onlayn)</a></div></td></tr><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><style data-mw-deduplicate="TemplateStyles:r5571132">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Normativ_yoxlama" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em"><a href="/wiki/Normativ_yoxlama" title="Normativ yoxlama">Normativ yoxlama</a></div></th></tr><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/%C4%B0spaniya_Milli_Kitabxanas%C4%B1" title="İspaniya Milli Kitabxanası">BNE</a>:&#160;<a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX535604">XX535604</a> · <a href="/wiki/Fransa_Milli_Kitabxanas%C4%B1" title="Fransa Milli Kitabxanası">BNF</a>:&#160;<a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb122132635">122132635</a> · <a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>:&#160;<a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4072803-1">4072803-1</a> · <a href="/wiki/LCCN" title="LCCN">LCCN</a>:&#160;<a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/sh85066148">sh85066148</a> · <a href="/wiki/Microsoft_Academic" title="Microsoft Academic">Microsoft</a>:&#160;<a rel="nofollow" class="external text" href="https://academic.microsoft.com/#/detail/23123220">23123220</a>,&#160;<a rel="nofollow" class="external text" href="https://academic.microsoft.com/#/detail/2776561884">2776561884</a> · <span title="Yaponiya milli parlament kitabxanası" style="border-bottom: 1px dotted; cursor: help;">NDL</span>:&#160;<a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00575010">00575010</a> · <a href="/wiki/%C3%87ex_Respublikas%C4%B1_Milli_Kitabxanas%C4%B1" title="Çex Respublikası Milli Kitabxanası">NKC</a>:&#160;<a rel="nofollow" class="external text" href="http://aut.nkp.cz/ph163856">ph163856</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6cf7d57b97‐x5hn9
+Cached time: 20240401120853
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.138 seconds
+Real time usage: 0.221 seconds
+Preprocessor visited node count: 284/1000000
+Post‐expand include size: 43032/2097152 bytes
+Template argument size: 1777/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 235/5000000 bytes
+Lua time usage: 0.067/10.000 seconds
+Lua memory usage: 3475605/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  155.249      1 -total
+ 51.71%   80.277      1 Şablon:Xarici_istinadlar
+ 27.78%   43.121      1 Şablon:İnformasiya_elmi
+ 19.79%   30.717      1 Şablon:İnformatika
+ 16.54%   25.680      1 Şablon:Navbox
+ 15.99%   24.817      1 Şablon:Sidebar
+  5.98%    9.283      2 Şablon:İcon
+  1.16%    1.800      2 Şablon:Flatlist
+  0.70%    1.087      1 Şablon:Icon
+-->
+
+<!-- Saved in parser cache with key azwiki:pcache:idhash:324153-0!canonical and timestamp 20240401120853 and revision id 7220850. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Mənbə — "<a dir="ltr" href="https://az.wikipedia.org/w/index.php?title=İnformasiya_axtarışı&amp;oldid=7220850">https://az.wikipedia.org/w/index.php?title=İnformasiya_axtarışı&amp;oldid=7220850</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/X%C3%BCsusi:Kateqoriyalar" title="Xüsusi:Kateqoriyalar">Kateqoriya</a>: <ul><li><a href="/wiki/Kateqoriya:%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1" title="Kateqoriya:İnformasiya axtarışı">İnformasiya axtarışı</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Naviqasiya menyusu</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Şəxsi alətlər</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Redaktə edərkən istifadə etdiyiniz IP ünvanı üçün istifadəçi səhifəsi">Daxil olmamısınız</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/X%C3%BCsusi:M%C3%BCzakir%C9%99S%C9%99hif%C9%99m" title="Bu IP ünvanından edilmiş müzakirələr [n]" accesskey="n"><span>Müzakirə</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/X%C3%BCsusi:T%C3%B6hf%C9%99l%C9%99rim" title="A list of edits made from this IP address [y]" accesskey="y"><span>Töhfələr</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=X%C3%BCsusi:HesabYarat&amp;returnto=%C4%B0nformasiya+axtar%C4%B1%C5%9F%C4%B1" title="Hesab yaratmaq və daxil olmaq üçün təşviq olunursunuz; Ancaq məcburi deyil"><span>Hesab yarat</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=X%C3%BCsusi:DaxilOl&amp;returnto=%C4%B0nformasiya+axtar%C4%B1%C5%9F%C4%B1" title="Daxil olmanız tövsiyə olunur, amma bu məcburi tələb deyil. [o]" accesskey="o"><span>Daxil ol</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ad fəzaları</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1" title="Məqalənin məzmununu göstər [c]" accesskey="c"><span>Məqalə</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=M%C3%BCzakir%C9%99:%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;action=edit&amp;redlink=1" rel="discussion" title="Məqalə haqqında müzakirə (səhifə mövcud deyil) [t]" accesskey="t"><span>Müzakirə</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">azərbaycanca</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Görünüş</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected mw-list-item"><a href="/wiki/%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1"><span>Oxu</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;veaction=edit" title="Bu səhifəni redaktə et [v]" accesskey="v"><span>Redaktə</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;action=edit" title="Səhifənin cari kodunu redaktə et [e]" accesskey="e"><span>Mənbəni redaktə et</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;action=history" title="Bu səhifənin keçmiş nüsxələri. [h]" accesskey="h"><span>Tarixçəyə bax</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Daha çox</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Axtar</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Vikipediya layihəsində axtar" aria-label="Vikipediya layihəsində axtar" autocapitalize="sentences" title="Vikipediya saytında axtar [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Xüsusi:Axtar">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Bu mətnin olduğu səhifələri axtar" value="Axtar">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Əgər varsa, eyni adı daşıyan səhifəyə keç" value="Get">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Ana_s%C9%99hif%C9%99"
+			title="Ana səhifə"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Bələdçi</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/Ana_s%C9%99hif%C9%99" title="Ana səhifəni ziyarət edin [z]" accesskey="z"><span>Ana səhifə</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Vikipediya:K%C9%99nd_meydan%C4%B1" title="Layihə haqqında, nələr edəbilərsiniz, axtardıqlarınızı harda tapmaq olar"><span>Kənd meydanı</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Vikipediya:%C4%B0cma_portal%C4%B1" title="Gündəlik xəbərlər ilə əlaqəli məlumatlar"><span>İcma portalı</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/X%C3%BCsusi:SonD%C9%99yi%C5%9Fiklikl%C9%99r" title="Vikidəki son dəyişikliklər siyahısı [r]" accesskey="r"><span>Son dəyişikliklər</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/X%C3%BCsusi:T%C9%99sad%C3%BCfi" title="Təsadüfi məqaləyə keç [x]" accesskey="x"><span>Təsadüfi səhifə</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-Layihələr" class="mw-portlet mw-portlet-Layihələr vector-menu-portal portal vector-menu" aria-labelledby="p-Layihələr-label" role="navigation"  >
+	<h3
+		id="p-Layihələr-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Layihələr</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-Seçilmiş-məqalələr" class="mw-list-item"><a href="/wiki/Vikipediya:Se%C3%A7ilmi%C5%9F_m%C9%99qal%C9%99l%C9%99r"><span>Seçilmiş məqalələr</span></a></li><li id="n-Seçilmiş-siyahılar" class="mw-list-item"><a href="/wiki/Vikipediya:Se%C3%A7ilmi%C5%9F_siyah%C4%B1lar"><span>Seçilmiş siyahılar</span></a></li><li id="n-Seçilmiş-portallar" class="mw-list-item"><a href="/wiki/Vikipediya:Se%C3%A7ilmi%C5%9F_portallar"><span>Seçilmiş portallar</span></a></li><li id="n-Yaxşı-məqalələr" class="mw-list-item"><a href="/wiki/Vikipediya:Yax%C5%9F%C4%B1_m%C9%99qal%C9%99l%C9%99r"><span>Yaxşı məqalələr</span></a></li><li id="n-Məqalə-namizədləri" class="mw-list-item"><a href="/wiki/Vikipediya:M%C9%99qal%C9%99_namiz%C9%99dl%C9%99ri"><span>Məqalə namizədləri</span></a></li><li id="n-Mövzulu-ay" class="mw-list-item"><a href="/wiki/Vikipediya:M%C3%B6vzulu_ay"><span>Mövzulu ay</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-Xüsusi" class="mw-portlet mw-portlet-Xüsusi vector-menu-portal portal vector-menu" aria-labelledby="p-Xüsusi-label" role="navigation"  >
+	<h3
+		id="p-Xüsusi-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Xüsusi</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-contactpage" class="mw-list-item"><a href="/wiki/Vikipediya:%C6%8Flaq%C9%99_s%C9%99hif%C9%99si"><span>Bizimlə əlaqə</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_az.wikipedia.org&amp;uselang=az" title="Bizə dəstək verin"><span>Maddi kömək</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/K%C3%B6m%C9%99k:M%C3%BCnd%C9%99ricat" title="Yardım almaq üçün."><span>Kömək</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Alətlər</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/X%C3%BCsusi:S%C9%99hif%C9%99y%C9%99Ke%C3%A7idl%C9%99r/%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1" title="Vikidə bu məqaləyə bağlantılar [j]" accesskey="j"><span>Səhifəyə keçidlər</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/X%C3%BCsusi:%C6%8Flaq%C9%99liD%C9%99yi%C5%9Fiklikl%C9%99r/%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1" rel="nofollow" title="Bu məqaləyə aid başqa səhifələrdə yeni dəyişikliklər [k]" accesskey="k"><span>Əlaqəli redaktələr</span></a></li><li id="t-upload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=az" title="Yeni şəkil və ya multimedia faylı yüklə [u]" accesskey="u"><span>Fayl yüklə</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/X%C3%BCsusi:X%C3%BCsusiS%C9%99hif%C9%99l%C9%99r" title="Xüsusi səhifələrin siyahısı [q]" accesskey="q"><span>Xüsusi səhifələr</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;oldid=7220850" title="Səhifənin bu versiyasına daimi keçid"><span>Daimi keçid</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;action=info" title="More information about this page"><span>Səhifə məlumatları</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=X%C3%BCsusi:CiteThisPage&amp;page=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;id=7220850&amp;wpFormIdentifier=titleform" title="Bu səhifəyə necə istinad etmək barədə məlumat"><span>Bu səhifəyə istinad et</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=X%C3%BCsusi:UrlShortener&amp;url=https%3A%2F%2Faz.wikipedia.org%2Fwiki%2F%25C4%25B0nformasiya_axtar%25C4%25B1%25C5%259F%25C4%25B1"><span>Qısaldılmış URL əldə et</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=X%C3%BCsusi:QrCode&amp;url=https%3A%2F%2Faz.wikipedia.org%2Fwiki%2F%25C4%25B0nformasiya_axtar%25C4%25B1%25C5%259F%25C4%25B1"><span>QR-kodu endir</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q816826" title="Bağlanan məlumatların saxlanması elementinə keçid [g]" accesskey="g"><span>Vikiverilənlər elementi</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Çap et/ixrac</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=X%C3%BCsusi:Book&amp;bookcmd=book_creator&amp;referer=%C4%B0nformasiya+axtar%C4%B1%C5%9F%C4%B1"><span>Kitab yarat</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=X%C3%BCsusi:DownloadAsPdf&amp;page=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;action=show-download-screen"><span>PDF kimi yüklə</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;printable=yes" title="Səhifənin çap versiyası [p]" accesskey="p"><span>Çap versiyası</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Digər layihələrdə</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Information_retrieval" hreflang="en"><span>Vikianbar</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Başqa dillərdə</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9_%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA" title="استرجاع المعلومات – ərəb" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%98%D0%B7%D0%B2%D0%BB%D0%B8%D1%87%D0%B0%D0%BD%D0%B5_%D0%BD%D0%B0_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F" title="Извличане на информация – bolqar" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Recuperaci%C3%B3_d%27informaci%C3%B3" title="Recuperació d&#039;informació – katalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Z%C3%ADsk%C3%A1v%C3%A1n%C3%AD_informac%C3%AD" title="Získávání informací – çex" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Informationss%C3%B8gning" title="Informationssøgning – danimarka" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Information_Retrieval" title="Information Retrieval – alman" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%91%CE%BD%CE%AC%CE%BA%CF%84%CE%B7%CF%83%CE%B7_%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CF%8E%CE%BD" title="Ανάκτηση πληροφοριών – yunan" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Information_retrieval" title="Information retrieval – ingilis" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Informo-rehavigo" title="Informo-rehavigo – esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/B%C3%BAsqueda_y_recuperaci%C3%B3n_de_informaci%C3%B3n" title="Búsqueda y recuperación de información – ispan" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Informazioaren_berreskurapen" title="Informazioaren berreskurapen – bask" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%DB%8C%D8%A7%D8%A8%DB%8C_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA" title="بازیابی اطلاعات – fars" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Tiedonhaku" title="Tiedonhaku – fin" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Recherche_d%27information" title="Recherche d&#039;information – fransız" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Aisghabh%C3%A1il_faisn%C3%A9ise" title="Aisghabháil faisnéise – irland" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Recuperaci%C3%B3n_de_informaci%C3%B3n" title="Recuperación de información – qalisiya" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A4%A8%E0%A4%BE_%E0%A4%AA%E0%A5%81%E0%A4%A8%E0%A4%B0%E0%A5%8D%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%AA%E0%A5%8D%E0%A4%A4%E0%A4%BF" title="सूचना पुनर्प्राप्ति – hind" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Sistem_temu_balik_informasi" title="Sistem temu balik informasi – indoneziya" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Information_retrieval" title="Information retrieval – italyan" lang="it" hreflang="it" class="interlanguage-link-target"><span>İtaliano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2" title="情報検索 – yapon" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B3%B4_%EA%B2%80%EC%83%89" title="정보 검색 – koreya" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-mn mw-list-item"><a href="https://mn.wikipedia.org/wiki/%D0%9C%D1%8D%D0%B4%D1%8D%D1%8D%D0%BB%D0%BB%D0%B8%D0%B9%D0%BD_%D1%85%D0%B0%D0%B9%D0%BB%D1%82" title="Мэдээллийн хайлт – monqol" lang="mn" hreflang="mn" class="interlanguage-link-target"><span>Монгол</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Dapatan_kembali_maklumat" title="Dapatan kembali maklumat – malay" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Information_retrieval" title="Information retrieval – holland" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Informasjonsattfinning" title="Informasjonsattfinning – nünorsk norveç" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Informasjonsgjenfinning" title="Informasjonsgjenfinning – bokmal norveç" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Wyszukiwanie_informacji" title="Wyszukiwanie informacji – polyak" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Recupera%C3%A7%C3%A3o_de_informa%C3%A7%C3%A3o" title="Recuperação de informação – portuqal" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D0%B8%D1%81%D0%BA" title="Информационный поиск – rus" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Information_retrieval" title="Information retrieval – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Pretra%C5%BEivanje_informacija" title="Pretraživanje informacija – serb" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Informationss%C3%B6kning" title="Informationssökning – isveç" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A4%E0%AF%86%E0%AE%B0%E0%AE%BF%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%A4%E0%AE%BF_%E0%AE%AE%E0%AF%80%E0%AE%9F%E0%AF%8D%E0%AE%AA%E0%AF%81" title="தெரிசெய்தி மீட்பு – tamil" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D2%B6%D1%83%D1%81%D1%82%D1%83%D2%B7%D3%AF%D0%B8_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D1%81%D0%B8%D0%BE%D0%BD%D3%A3" title="Ҷустуҷӯи информатсионӣ – tacik" lang="tg" hreflang="tg" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Bilgi_eri%C5%9Fim" title="Bilgi erişim – türk" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%86%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D0%B8%D0%B9_%D0%BF%D0%BE%D1%88%D1%83%D0%BA" title="Інформаційний пошук – ukrayna" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Truy_h%E1%BB%93i_th%C3%B4ng_tin" title="Truy hồi thông tin – vyetnam" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E4%BF%A1%E6%81%AF%E6%AA%A2%E7%B4%A2" title="信息檢索 – çin" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E8%B3%87%E8%A8%8A%E6%8F%90%E5%8F%96" title="資訊提取 – kanton" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q816826#sitelinks-wikipedia" title="Dillərarası keçidləri redaktə et" class="wbc-editpage">Keçidlərin redaktəsi</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Bu səhifə sonuncu dəfə 5 sentyabr 2023 10:03 tarixində redaktə edilib.</li>
+	<li id="footer-info-copyright">Mətn <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">Creative Commons Attribution-ShareAlike lisenziyası</a> altındadır, bəzi hallarda əlavə şərtlər tətbiq oluna bilər.
+Ətraflı məlumat üçün <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">istifadə şərtlərinə</a> baxın.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Gizlilik siyasəti</a></li>
+	<li id="footer-places-about"><a href="/wiki/Vikipediya:Haqq%C4%B1nda">Vikipediya haqqında</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Vikipediya:M%C9%99suliyy%C9%99td%C9%99n_imtina">Məsuliyyətdən imtina</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Davranış Kodeksi</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Tərtibatçılar</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/az.wikipedia.org">Statistikalar</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Kuki məlumatı</a></li>
+	<li id="footer-places-mobileview"><a href="//az.m.wikipedia.org/w/index.php?title=%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobil görüntü</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1407","wgBackendResponseTime":119,"wgPageParseReport":{"limitreport":{"cputime":"0.138","walltime":"0.221","ppvisitednodes":{"value":284,"limit":1000000},"postexpandincludesize":{"value":43032,"limit":2097152},"templateargumentsize":{"value":1777,"limit":2097152},"expansiondepth":{"value":7,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":235,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  155.249      1 -total"," 51.71%   80.277      1 Şablon:Xarici_istinadlar"," 27.78%   43.121      1 Şablon:İnformasiya_elmi"," 19.79%   30.717      1 Şablon:İnformatika"," 16.54%   25.680      1 Şablon:Navbox"," 15.99%   24.817      1 Şablon:Sidebar","  5.98%    9.283      2 Şablon:İcon","  1.16%    1.800      2 Şablon:Flatlist","  0.70%    1.087      1 Şablon:Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.067","limit":"10.000"},"limitreport-memusage":{"value":3475605,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-6cf7d57b97-x5hn9","timestamp":"20240401120853","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0130nformasiya axtar\u0131\u015f\u0131","url":"https:\/\/az.wikipedia.org\/wiki\/%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1","sameAs":"http:\/\/www.wikidata.org\/entity\/Q816826","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q816826","author":{"@type":"Organization","name":"Vikimedia layih\u0259l\u0259rin\u0259 t\u00f6hf\u0259 ver\u0259nl\u0259r"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2013-07-03T16:15:37Z","dateModified":"2023-09-05T10:03:51Z"}</script>
+</body>
+</html>

@@ -1,0 +1,1275 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Chinese script styles - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"adce79b5-3097-4383-bef6-47873970611f","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Chinese_script_styles","wgTitle":"Chinese script styles","wgCurRevisionId":1218455362,"wgRevisionId":1218455362,"wgArticleId":19175349,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description is different from Wikidata","Articles lacking in-text citations from November 2013","All articles lacking in-text citations","Articles containing simplified Chinese-language text","Articles containing traditional Chinese-language text","Articles containing Chinese-language text","Articles containing Vietnamese-language text",
+"Commons link is locally defined","Chinese script style"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Chinese_script_styles","wgRelevantArticleId":19175349,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Script_styles","wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgULSCurrentAutonym":"English","wgInternalRedirectTargetUrl":"/wiki/Chinese_script_styles","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage",
+"wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q11059241","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.wikimediamessages.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":
+"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cext.wikimediamessages.styles%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Chinese script styles - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Chinese_script_styles">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Chinese_script_styles&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Chinese_script_styles">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Chinese_script_styles rootpage-Chinese_script_styles skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Chinese+script+styles" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Chinese+script+styles" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Chinese+script+styles" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Chinese+script+styles" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Styles"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Styles">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Styles</div>
+		</a>
+		
+		<ul id="toc-Styles-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Seal_script"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Seal_script">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Seal script</div>
+		</a>
+		
+		<ul id="toc-Seal_script-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Clerical_script"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Clerical_script">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Clerical script</div>
+		</a>
+		
+		<ul id="toc-Clerical_script-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Semi-cursive_script"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Semi-cursive_script">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Semi-cursive script</div>
+		</a>
+		
+		<ul id="toc-Semi-cursive_script-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Cursive_script"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Cursive_script">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Cursive script</div>
+		</a>
+		
+		<ul id="toc-Cursive_script-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Regular_script"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Regular_script">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Regular script</div>
+		</a>
+		
+		<ul id="toc-Regular_script-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Edomoji"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Edomoji">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>Edomoji</div>
+		</a>
+		
+		<ul id="toc-Edomoji-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Lệnh_thư"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Lệnh_thư">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>Lệnh thư</div>
+		</a>
+		
+		<ul id="toc-Lệnh_thư-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Munjado"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Munjado">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>Munjado</div>
+		</a>
+		
+		<ul id="toc-Munjado-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Huaya"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Huaya">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">10</span>Huaya</div>
+		</a>
+		
+		<ul id="toc-Huaya-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">11</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">12</span>References</div>
+		</a>
+		
+			<button aria-controls="toc-References-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle References subsection</span>
+			</button>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+			<li id="toc-Citations"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Citations">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">12.1</span>Citations</div>
+			</a>
+			
+			<ul id="toc-Citations-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Sources"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Sources">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">12.2</span>Sources</div>
+			</a>
+			
+			<ul id="toc-Sources-sublist" class="vector-toc-list">
+				<li id="toc-General"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#General">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">12.2.1</span>General</div>
+			</a>
+			
+			<ul id="toc-General-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Ancient_characters"
+			class="vector-toc-list-item vector-toc-level-3">
+			<a class="vector-toc-link" href="#Ancient_characters">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">12.2.2</span>Ancient characters</div>
+			</a>
+			
+			<ul id="toc-Ancient_characters-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">13</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Chinese script styles</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 8 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-8" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">8 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/%C3%87in_kalliqrafiya_%C3%BCslublar%C4%B1" title="Çin kalliqrafiya üslubları – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Styles_de_caract%C3%A8res_chinois" title="Styles de caractères chinois – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/K%C3%ADnai_%C3%ADr%C3%A1sst%C3%ADlusok" title="Kínai írásstílusok – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Gaya_khat_Cina" title="Gaya khat Cina – Malay" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Xitoy_xattotlik_uslublari" title="Xitoy xattotlik uslublari – Uzbek" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B8%D0%BB%D0%B8_%D0%BA%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%BA%D0%B0%D0%BB%D0%BB%D0%B8%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8" title="Стили китайской каллиграфии – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E6%BC%A2%E5%AD%97%E5%AD%97%E9%AB%94%E9%A2%A8%E6%A0%BC" title="漢字字體風格 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%B1%89%E5%AD%97%E5%AD%97%E4%BD%93%E9%A3%8E%E6%A0%BC" title="汉字字体风格 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11059241#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Chinese_script_styles" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Chinese_script_styles" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Chinese_script_styles"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Chinese_script_styles&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Chinese_script_styles"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Chinese_script_styles&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Chinese_script_styles" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Chinese_script_styles" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Chinese_script_styles&amp;oldid=1218455362" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Chinese_script_styles&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Chinese_script_styles&amp;id=1218455362&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FChinese_script_styles"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FChinese_script_styles"><span>Download QR code</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q11059241" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Chinese_script_styles&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Chinese_script_styles&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Calligraphy_of_East_Asia" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(Redirected from <a href="/w/index.php?title=Script_styles&amp;redirect=no" class="mw-redirect" title="Script styles">Script styles</a>)</span></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Styles of writing Chinese characters</div>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-More_footnotes_needed plainlinks metadata ambox ambox-style ambox-More_footnotes_needed" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" decoding="async" width="40" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></span></span></div></td><td class="mbox-text"><div class="mbox-text-span">This article includes a list of general <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">references</a>, but <b>it lacks sufficient corresponding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.<span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Reliability" title="Wikipedia:WikiProject Reliability">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span>  <span class="date-container"><i>(<span class="date">November 2013</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><style data-mw-deduplicate="TemplateStyles:r1045330069">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}</style><style data-mw-deduplicate="TemplateStyles:r1216883306">.mw-parser-output .sidebar-list-title{}.mw-parser-output .sidebar-list-content{padding:0.2em}.mw-parser-output .sidebar-heading{background-color:#ddd}.mw-parser-output .sidebar-list-title{background-color:#e9b6b3;white-space:nowrap;text-align:left;border-top:solid 0px #aaa}.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1045330069"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1045330069"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1045330069"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1045330069"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1045330069"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1045330069"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><table class="sidebar sidebar-collapse nomobile nowraplinks plainlist noprint" style="width:20.0em"><tbody><tr><th class="sidebar-title"><a href="/wiki/Chinese_characters" title="Chinese characters">Chinese characters</a></th></tr><tr><td class="sidebar-image"><span class="notpageimage" typeof="mw:File"><a href="/wiki/File:Chinese_characters_logo.svg" class="mw-file-description" title="Chinese characters"><img alt="Chinese characters" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Chinese_characters_logo.svg/200px-Chinese_characters_logo.svg.png" decoding="async" width="200" height="69" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Chinese_characters_logo.svg/300px-Chinese_characters_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Chinese_characters_logo.svg/400px-Chinese_characters_logo.svg.png 2x" data-file-width="512" data-file-height="177" /></a></span></td></tr><tr><td class="sidebar-above">
+<span class="nobold"><i><a href="/wiki/Chinese_family_of_scripts" title="Chinese family of scripts">Chinese family of scripts</a></i></span> <div class="hlist"><ul><li><a href="/wiki/Written_Chinese" title="Written Chinese">Written Chinese</a></li><li><a href="/wiki/Kanji" title="Kanji">Kanji</a></li><li><a href="/wiki/Hanja" title="Hanja">Hanja</a></li><li><a href="/wiki/Ch%E1%BB%AF_H%C3%A1n" title="Chữ Hán">Chữ Hán</a></li></ul></div></td></tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title">Historical forms and <a class="mw-selflink selflink">styles</a></div><div class="sidebar-list-content mw-collapsible-content"><table class="sidebar nomobile nowraplinks" style="background-color: transparent; border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td class="sidebar-content">
+<ul><li><i><a href="/wiki/Neolithic_symbols_in_China" title="Neolithic symbols in China">Neolithic symbols in China</a></i></li></ul>
+<hr />
+<div class="hlist">
+<ul><li><a href="/wiki/Oracle_bone_script" title="Oracle bone script">Oracle bone</a></li>
+<li><a href="/wiki/Chinese_bronze_inscriptions" title="Chinese bronze inscriptions">Bronze</a></li></ul>
+</div>
+<ul><li><div class="hlist"><ul><li><a href="/wiki/Seal_script" title="Seal script">Seal</a>&#160;(<a href="/wiki/Bird-worm_seal_script" title="Bird-worm seal script">Bird-worm</a></li><li><a href="/wiki/Large_seal_script" title="Large seal script">Large</a></li><li><a href="/wiki/Small_seal_script" title="Small seal script">Small</a>)</li></ul></div></li>
+<li><a href="/wiki/Clerical_script" title="Clerical script">Clerical</a></li></ul>
+<div class="hlist">
+<ul><li><a href="/wiki/Cursive_script_(East_Asia)" title="Cursive script (East Asia)">Cursive</a>
+<ul><li><a href="/wiki/Semi-cursive_script" title="Semi-cursive script">Semi-cursive</a></li></ul></li></ul>
+</div>
+<ul><li><a href="/wiki/Regular_script" title="Regular script">Regular</a></li>
+<li><a href="/wiki/Flat_brush_script" title="Flat brush script">Flat brush</a></li></ul></td>
+</tr><tr><th class="sidebar-heading">
+<a href="/wiki/East_Asian_typography" title="East Asian typography">Typefaces</a></th></tr><tr><td class="sidebar-content">
+<div class="hlist">
+<ul><li><a href="/wiki/Fangsong" title="Fangsong">Fangsong</a></li>
+<li><a href="/wiki/Ming_(typefaces)" title="Ming (typefaces)">Ming</a></li>
+<li><a href="/wiki/East_Asian_Gothic_typeface" title="East Asian Gothic typeface">Sans-serif</a></li></ul>
+</div></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title">Properties and <a href="/wiki/Chinese_character_classification" title="Chinese character classification">classification</a></div><div class="sidebar-list-content mw-collapsible-content">
+<ul><li><div class="hlist"><ul><li><a href="/wiki/Chinese_character_components" title="Chinese character components">Components</a></li><li><a href="/wiki/Chinese_character_strokes" title="Chinese character strokes">Strokes</a>&#160;(<a href="/wiki/Stroke_order" title="Stroke order">order</a>)</li><li><a href="/wiki/Chinese_character_radicals" title="Chinese character radicals">Radical</a></li></ul></div></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title">Collation and standards</div><div class="sidebar-list-content mw-collapsible-content"><table class="sidebar nomobile nowraplinks" style="background-color: transparent; border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><th class="sidebar-heading">
+Character-form standards</th></tr><tr><td class="sidebar-content">
+<ul><li><div class="hlist"><ul><li><i><a href="/wiki/Jiu_zixing" title="Jiu zixing">Jiu zixing</a></i></li><li><i><a href="/wiki/Xin_zixing" title="Xin zixing">Xin zixing</a></i></li></ul></div></li>
+<li><a href="/wiki/Kangxi_Dictionary_form" class="mw-redirect" title="Kangxi Dictionary form"><i>Kangxi Dictionary</i> forms (1716)</a></li>
+<li><div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Table_of_General_Standard_Chinese_Characters" title="Table of General Standard Chinese Characters"><span class="wrap"><i>General Standard Chinese Characters</i> (mainland China, 2013)</span></a></div></li>
+<li><div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/List_of_Graphemes_of_Commonly-Used_Chinese_Characters" title="List of Graphemes of Commonly-Used Chinese Characters"><span class="wrap"><i>Graphemes of Commonly-used Chinese characters</i> (Hong Kong, 2007)</span></a></div></li>
+<li><div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Standard_Form_of_National_Characters" title="Standard Form of National Characters"><span class="wrap"><i>Standard Form of National Characters</i> (Taiwan, 1982)</span></a></div></li></ul></td>
+</tr><tr><th class="sidebar-heading">
+<a href="/wiki/Grapheme" title="Grapheme">Grapheme</a>-usage standards</th></tr><tr><td class="sidebar-content" style="padding-bottom:0.5em;">
+<ul><li><div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Table_of_General_Standard_Chinese_Characters" title="Table of General Standard Chinese Characters"><i>General Standard Characters</i> (PRC, 2013)</a></div></li>
+<li><a href="/wiki/J%C5%8Dy%C5%8D_kanji" title="Jōyō kanji"><i>Jōyō</i> kanji (Japan, 2010)</a></li></ul></td>
+</tr><tr><th class="sidebar-heading">
+Other standards</th></tr><tr><td class="sidebar-content">
+<ul><li><div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/The_First_Series_of_Standardized_Forms_of_Words_with_Non-standardized_Variant_Forms" title="The First Series of Standardized Forms of Words with Non-standardized Variant Forms"><span class="wrap"><i>Standardized Forms of Words with Variant Forms</i></span> (PRC, 2002)</a></div></li>
+<li><div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Taiwanese_Southern_Min_Recommended_Characters" title="Taiwanese Southern Min Recommended Characters"><span class="wrap"><i>Nan Min Recommended Characters</i> (Taiwan, 2009)</span></a></div></li></ul></td>
+</tr><tr><th class="sidebar-heading">
+Previous standards</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/List_of_Commonly_Used_Characters_in_Modern_Chinese" title="List of Commonly Used Characters in Modern Chinese"><i>Commonly-used Characters</i> (PRC, 1988)</a></li>
+<li><a href="/wiki/T%C5%8Dy%C5%8D_kanji" title="Tōyō kanji"><i>Tōyō</i> kanji (Japan, 1946)</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title">Reforms</div><div class="sidebar-list-content mw-collapsible-content"><table class="sidebar nomobile nowraplinks" style="background-color: transparent; border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><th class="sidebar-heading">
+China</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Libian" title="Libian">Clerical reforms</a></li>
+<li><a href="/wiki/Traditional_Chinese_characters" title="Traditional Chinese characters">Traditional characters</a></li>
+<li><div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Simplified_Chinese_characters" title="Simplified Chinese characters">Simplified characters</a> <div class="hlist"><ul><li>(<a href="/wiki/Chinese_Character_Simplification_Scheme" title="Chinese Character Simplification Scheme">first round</a></li><li><a href="/wiki/Second_round_of_simplified_Chinese_characters" title="Second round of simplified Chinese characters">second round</a>)</li></ul></div></div></li>
+<li><a href="/wiki/Debate_on_traditional_and_simplified_Chinese_characters" title="Debate on traditional and simplified Chinese characters">Debate</a></li></ul></td>
+</tr><tr><th class="sidebar-heading">
+<a href="/wiki/Japanese_script_reform" title="Japanese script reform">Japan</a></th></tr><tr><td class="sidebar-content">
+<div class="hlist">
+<ul><li><i><a href="/wiki/Ky%C5%ABjitai" title="Kyūjitai">Kyūjitai</a></i></li>
+<li><i><a href="/wiki/Shinjitai" title="Shinjitai">Shinjitai</a></i></li></ul>
+</div>
+<ul><li><i><a href="/wiki/Ryakuji" title="Ryakuji">Ryakuji</a></i></li></ul></td>
+</tr><tr><th class="sidebar-heading">
+Korea</th></tr><tr><td class="sidebar-content">
+<ul><li><i><a href="/wiki/Hanja#Yakja" title="Hanja">Yakja</a></i></li></ul></td>
+</tr><tr><th class="sidebar-heading">
+Singapore</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Singapore_Chinese_characters" title="Singapore Chinese characters"><i>Table of Simplified Characters</i></a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title"><a href="/wiki/Homograph#In_Chinese" title="Homograph">Homographs</a> and readings</div><div class="sidebar-list-content mw-collapsible-content">
+<ul><li><a href="/wiki/Literary_and_colloquial_readings" title="Literary and colloquial readings">Literary and colloquial readings</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title"><a href="/wiki/Variant_Chinese_characters" title="Variant Chinese characters">Variants</a></div><div class="sidebar-list-content mw-collapsible-content">
+<ul><li><a href="/wiki/Variant_Chinese_characters#Graphemic_variants" title="Variant Chinese characters">Graphemic variants</a></li>
+<li><a href="/wiki/Chinese_characters_of_Empress_Wu" title="Chinese characters of Empress Wu">Zetian characters</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title">Derived systems</div><div class="sidebar-list-content mw-collapsible-content">
+<ul><li><a href="/wiki/Chinese_characters_for_transcribing_Slavonic" title="Chinese characters for transcribing Slavonic">Slavonic transcription</a></li>
+<li><a href="/wiki/N%C3%BCshu" title="Nüshu">Nüshu</a></li>
+<li><i><a href="/wiki/Kana" title="Kana">Kana</a></i> (<div class="hlist inline"><ul><li><i><a href="/wiki/Man%27y%C5%8Dgana" title="Man&#39;yōgana">Man'yōgana</a></i></li><li><i><a href="/wiki/Hiragana" title="Hiragana">Hiragana</a></i></li><li><i><a href="/wiki/Katakana" title="Katakana">Katakana</a></i></li></ul></div>)</li>
+<li><a href="/wiki/Jurchen_script" title="Jurchen script">Jurchen script</a></li>
+<li>Khitan (<div class="hlist inline"><ul><li><a href="/wiki/Khitan_large_script" title="Khitan large script">Large</a></li><li><a href="/wiki/Khitan_small_script" title="Khitan small script">Small</a></li></ul></div>)</li>
+<li><a href="/wiki/Idu_script" title="Idu script">Idu script</a></li>
+<li><a href="/wiki/Bopomofo" title="Bopomofo">Bopomofo</a></li>
+<li><a href="/wiki/Sawndip" title="Sawndip">Sawndip</a></li>
+<li><a href="/wiki/Ch%E1%BB%AF_N%C3%B4m" title="Chữ Nôm">Chữ Nôm</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-below">
+<a href="/wiki/Transliteration_of_Chinese" title="Transliteration of Chinese">Transliteration of Chinese</a></td></tr><tr><td class="sidebar-navbar"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Chinese_characters_sidebar" title="Template:Chinese characters sidebar"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Chinese_characters_sidebar" title="Template talk:Chinese characters sidebar"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Chinese_characters_sidebar" title="Special:EditPage/Template:Chinese characters sidebar"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><a href="/wiki/Chinese_characters" title="Chinese characters">Chinese characters</a> may be written using one of five major styles, can be written according to five major styles which developed organically over the history of Chinese script.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Styles">Styles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=1" title="Edit section: Styles"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The traditional model of scripts appearing suddenly in a well-defined order has been discredited by modern comparative study, which clearly indicates the gradual evolution and coexistence of styles.
+</p>
+<table class="wikitable">
+<caption>Historical Chinese character scripts
+</caption>
+<tbody><tr>
+<th scope="col">Name</th>
+<th scope="col">First appearance
+</th></tr>
+<tr>
+<th scope="row" style="text-align:right"><a href="/wiki/Oracle_bone_script" title="Oracle bone script">Oracle bone script</a>
+</th>
+<td style="text-align:center"><abbr title="circa">c.</abbr><span style="white-space:nowrap;">&#8201;1200&#160;BC</span>
+</td></tr>
+<tr>
+<th scope="row" style="text-align:right"><a href="/wiki/Large_seal_script" title="Large seal script">Large seal script</a>
+</th>
+<td style="text-align:center"><abbr title="circa">c.</abbr><span style="white-space:nowrap;">&#8201;1000&#160;BC</span>
+</td></tr>
+<tr>
+<th scope="row" style="text-align:right"><a href="/wiki/Small_seal_script" title="Small seal script">Small seal script</a>
+</th>
+<td style="text-align:center"><abbr title="circa">c.</abbr><span style="white-space:nowrap;">&#8201;500&#160;BC</span>
+</td></tr>
+<tr>
+<th scope="row" style="text-align:right"><a href="/wiki/Clerical_script" title="Clerical script">Clerical script</a>
+</th>
+<td style="text-align:center"><abbr title="circa">c.</abbr><span style="white-space:nowrap;">&#8201;200&#160;BC</span>
+</td></tr>
+<tr>
+<th scope="row" style="text-align:right"><a href="/wiki/Semi-cursive" class="mw-redirect" title="Semi-cursive">Semi-cursive</a>
+</th>
+<td style="text-align:center"><abbr title="circa">c.</abbr><span style="white-space:nowrap;">&#8201;200&#160;BC</span>
+</td></tr>
+<tr>
+<th scope="row" style="text-align:right"><a href="/wiki/Cursive_script_(East_Asia)" title="Cursive script (East Asia)">Cursive</a>
+</th>
+<td style="text-align:center"><abbr title="circa">c.</abbr><span style="white-space:nowrap;">&#8201;50&#160;BC</span>
+</td></tr>
+<tr>
+<th scope="row" style="text-align:right"><a href="/wiki/Regular_script" title="Regular script">Regular script</a>
+</th>
+<td style="text-align:center"><abbr title="circa">c.</abbr><span style="white-space:nowrap;">&#8201;150&#160;AD</span>
+</td></tr></tbody></table>
+<p>When used in decorative ornamentation, such as book covers, movie posters, and wall hangings, characters are often written in ancient variations or simplifications that deviate from the modern standards used in Chinese, Japanese, Vietnamese or Korean. Modern variations or simplifications of characters, akin to Chinese <a href="/wiki/Simplified_characters" class="mw-redirect" title="Simplified characters">simplified characters</a> or Japanese <span title="Japanese-language romanization"><i lang="ja-Latn"><a href="/wiki/Shinjitai" title="Shinjitai">shinjitai</a></i></span> are occasionally used, especially since many simplified forms derive from cursive forms.
+</p><p>The Japanese syllabaries of katakana and hiragana are used in calligraphy; <a href="/wiki/Katakana" title="Katakana">katakana</a> were derived from the shapes of regular script characters, and <a href="/wiki/Hiragana" title="Hiragana">hiragana</a> were derived from cursive forms. Following the <a href="/wiki/Korean_War" title="Korean War">Korean War</a> hangul saw increased use in calligraphy. In Vietnam, recent calligraphy tends to use the <a href="/wiki/Vietnamese_alphabet" title="Vietnamese alphabet">Vietnamese alphabet</a> in parallel with both <a href="/wiki/Ch%E1%BB%AF_H%C3%A1n" title="Chữ Hán">chữ Hán</a> and <a href="/wiki/Ch%E1%BB%AF_N%C3%B4m" title="Chữ Nôm">chữ Nôm</a> characters.
+</p>
+<h2><span class="mw-headline" id="Seal_script">Seal script</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=2" title="Edit section: Seal script"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Frameless"><a href="/wiki/File:Seal_Eg.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Seal_Eg.png/110px-Seal_Eg.png" decoding="async" width="110" height="110" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Seal_Eg.png/165px-Seal_Eg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Seal_Eg.png/220px-Seal_Eg.png 2x" data-file-width="400" data-file-height="400" /></a><figcaption></figcaption></figure>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Seal_script" title="Seal script">Seal script</a></div>
+<p>The seal script is the formal system of character forms that evolved in the <a href="/wiki/State_of_Qin" class="mw-redirect" title="State of Qin">state of Qin</a> during the <a href="/wiki/Eastern_Zhou" title="Eastern Zhou">Eastern Zhou</a> dynasty (<abbr title="circa">c.</abbr><span style="white-space:nowrap;">&#8201;771</span>&#160;&#8211;&#32;256&#160;BC), and later imposed as the standard across the country following <a href="/wiki/Qin%27s_wars_of_unification" title="Qin&#39;s wars of unification">Qin's wars of unification</a>. Although some modern calligraphers practice the most ancient <a href="/wiki/Oracle_bone_script" title="Oracle bone script">oracle bone script</a> as well as various other scripts older than seal script found on Zhou dynasty <a href="/wiki/Bronze_inscriptions" class="mw-redirect" title="Bronze inscriptions">bronze inscriptions</a>, seal script is the oldest style that continues to be widely practised.
+</p><p>Today, seal script is predominantly used for the <a href="/wiki/Seal_(East_Asia)" title="Seal (East Asia)">seals</a> that give it its English name. Though East Asian seals—or <i>name chops</i>—are carved in materials like wood and jade, the forms themselves were originally written with brush and ink on bamboo slips and other media. Most modern readers cannot easily decipher seal script, and it is generally not used outside calligraphy and the production of seals. However, because seals act like legal <a href="/wiki/Signature" title="Signature">signatures</a> in the cultures of <a href="/wiki/Chinese_culture" title="Chinese culture">China</a>, <a href="/wiki/Japanese_culture" class="mw-redirect" title="Japanese culture">Japan</a>, <a href="/wiki/Korean_culture" class="mw-redirect" title="Korean culture">Korea</a>, and <a href="/wiki/Vietnamese_culture" class="mw-redirect" title="Vietnamese culture">Vietnam</a>, and because vermilion seal impressions are fundamental to aesthetic presentations of art like calligraphy and paintings, seal script remains ubiquitous.
+</p>
+<h2><span class="mw-headline" id="Clerical_script">Clerical script</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=3" title="Edit section: Clerical script"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Frameless"><a href="/wiki/File:Regular_and_clerical_script_eg.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Regular_and_clerical_script_eg.svg/110px-Regular_and_clerical_script_eg.svg.png" decoding="async" width="110" height="109" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Regular_and_clerical_script_eg.svg/165px-Regular_and_clerical_script_eg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Regular_and_clerical_script_eg.svg/220px-Regular_and_clerical_script_eg.svg.png 2x" data-file-width="379" data-file-height="374" /></a><figcaption></figcaption></figure>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Clerical_script" title="Clerical script">Clerical script</a></div>
+<p>The <i>clerical script</i> (<span lang="zh-Hans">隶书</span>; <span lang="zh-Hant">隸書</span> <span title="Chinese-language romanization"><i lang="zh-Latn">lìshū</i></span>)—sometimes called <i>official</i>, <i>draft</i>, or <i>scribal</i> script—is popularly thought to have developed in the Han dynasty and to have come directly from seal script, but recent archaeological discoveries and scholarship indicate that it instead developed from a roughly executed and rectilinear popular or "vulgar" variant of the seal script as well as seal script itself, resulting first in what are called "proto-clerical" forms during the <a href="/wiki/Warring_States_period" title="Warring States period">Warring States period</a> and <a href="/wiki/Qin_dynasty" title="Qin dynasty">Qin dynasty</a>—which then developed into clerical script during the early Han, and matured stylistically thereafter.<sup id="cite_ref-FOOTNOTEQiu200059,_104–108_1-0" class="reference"><a href="#cite_note-FOOTNOTEQiu200059,_104–108-1">&#91;1&#93;</a></sup>
+</p><p>Clerical script characters are often "flat" in appearance, being wider than the preceding seal script and the modern standard script, both of which tend to be taller than they are wide; some versions of clerical are square, and others are wider. Compared with the preceding seal script, forms are strikingly rectilinear; however, some curvature and some seal script influence often remains. Seal script tended towards uniformity of stroke width, but clerical script gave the brush freer rein, returning to the variations in width seen in early Zhōu brushwork. Most noticeable is the dramatically flared tail of one dominant horizontal or downward-diagonal stroke, especially that to the lower right. This characteristic stroke has famously been called 'silkworm head and wild goose tail' (<span title="Chinese-language text"><span lang="zh">蠶頭雁尾</span></span> <span title="Chinese-language romanization"><i lang="zh-Latn">cántóu yànwěi</i></span>) due to its distinctive shape.
+</p><p>The <i>proto-clerical script</i> that was used from the <a href="/wiki/Warring_States_period" title="Warring States period">Warring States period</a> to the early <a href="/wiki/Han_dynasty" title="Han dynasty">Han dynasty</a> can often be difficult to read for a modern East Asian person, but the mature clerical script of the middle to late Han dynasty is generally legible. Modern calligraphy and practical applications like advertisements that use the clerical script tend to use the mature Han style, and may also use modernized character structures, resulting in a form as transparent and legible as regular (or standard) script. The clerical script remains common as a typeface used for decorative purposes (for example, in displays), but other than in artistic calligraphy, adverts and signage, it is not commonly written.
+</p>
+<h2><span class="mw-headline" id="Semi-cursive_script">Semi-cursive script</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=4" title="Edit section: Semi-cursive script"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Frameless"><a href="/wiki/File:Semi-Cur_Eg.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Semi-Cur_Eg.svg/110px-Semi-Cur_Eg.svg.png" decoding="async" width="110" height="110" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Semi-Cur_Eg.svg/165px-Semi-Cur_Eg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Semi-Cur_Eg.svg/220px-Semi-Cur_Eg.svg.png 2x" data-file-width="400" data-file-height="400" /></a><figcaption></figcaption></figure>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Semi-cursive_script" title="Semi-cursive script">Semi-cursive script</a></div>
+<p>The <i>semi-cursive script</i> (<span title="Chinese-language text"><span lang="zh">行書</span></span> <span title="Chinese-language romanization"><i lang="zh-Latn">xíngshū</i></span>) approximates normal handwriting in which strokes and, more rarely, characters are allowed to run into one another. In writing in the semi-cursive script, the brush leaves the paper less often than in the regular script. Characters appear less angular and instead rounder.
+</p><p>In general, an educated person in China or Japan can read characters written in the semi-cursive script with relative ease, but may have occasional difficulties with certain idiosyncratic shapes.
+</p>
+<h2><span class="mw-headline" id="Cursive_script">Cursive script</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=5" title="Edit section: Cursive script"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Frameless"><a href="/wiki/File:Cur_eg.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cur_eg.svg/110px-Cur_eg.svg.png" decoding="async" width="110" height="110" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cur_eg.svg/165px-Cur_eg.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cur_eg.svg/220px-Cur_eg.svg.png 2x" data-file-width="500" data-file-height="500" /></a><figcaption></figcaption></figure>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Cursive_script_(East_Asia)" title="Cursive script (East Asia)">Cursive script</a></div>
+<p>The <i>cursive script</i> (<span title="Chinese-language text"><span lang="zh">草書</span></span> <span title="Chinese-language romanization"><i lang="zh-Latn">cǎoshū</i></span>), sometimes called <i>sloppy script</i>, is a fully cursive script, with drastic simplifications requiring specialized knowledge; hence it is difficult to read for those unfamiliar with it.
+</p><p>Entire characters may be written without lifting the brush from the paper at all, and characters frequently flow into one another. Strokes are modified or eliminated to facilitate smooth writing and to create a beautiful, abstract appearance. Characters are highly rounded and soft in appearance, with a noticeable lack of angular lines. Due to the drastic simplification and ligature involved, this script is not considered particularly legible to the average person, and thus has never achieved widespread use beyond the realm of literati calligraphers.
+</p><p>The cursive script is the source of Japanese <span title="Japanese-language romanization"><i lang="ja-Latn"><a href="/wiki/Hiragana" title="Hiragana">hiragana</a></i></span>, as well as many modern simplified forms in Simplified Chinese characters and Japanese <span title="Japanese-language romanization"><i lang="ja-Latn">shinjitai</i></span>.
+</p>
+<h2><span class="mw-headline" id="Regular_script">Regular script</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=6" title="Edit section: Regular script"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Frameless"><a href="/wiki/File:Kaishu.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kaishu.png/110px-Kaishu.png" decoding="async" width="110" height="110" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kaishu.png/165px-Kaishu.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kaishu.png/220px-Kaishu.png 2x" data-file-width="400" data-file-height="400" /></a><figcaption></figcaption></figure>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Regular_script" title="Regular script">Regular script</a></div>
+<p>The regular script (<span title="Chinese-language text"><span lang="zh">楷書</span></span> <span title="Chinese-language romanization"><i lang="zh-Latn">kǎishū</i></span>) is the last major calligraphic style to develop, emerging during the Han and <a href="/wiki/Three_Kingdoms" title="Three Kingdoms">Three Kingdoms</a> periods, gaining dominance during the <a href="/wiki/Northern_and_Southern_period" class="mw-redirect" title="Northern and Southern period">Northern and Southern period</a> (420–589), and ultimately maturing during the <a href="/wiki/Tang_dynasty" title="Tang dynasty">Tang dynasty</a> (619–908). It emerged from a neatly written, semi-cursive form of clerical script. As the name suggests, the regular script is has been highly regularized, with the strokes made distinct from one another, in deliberate brush stroked lifting off the paper.
+</p><p>Regular script is the most widely recognized style, and is the form taught to children in East Asian countries and others first learning to write characters. For students of calligraphy, regular script is usually studied first in order to provide students a base of knowledge from which to learn other, more flowing styles, including a sense of correct placement and balance.
+</p>
+<h2><span class="mw-headline" id="Edomoji">Edomoji</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=7" title="Edit section: Edomoji"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Edomoji" title="Edomoji">Edomoji</a></div>
+<p><span title="Japanese-language romanization"><i lang="ja-Latn">Edomoji</i></span> comprises a large family of calligraphic styles native to Japan, named for the <a href="/wiki/Edo" title="Edo">Edo</a> period in Japanese history when they were created. Examples include <span title="Japanese-language romanization"><i lang="ja-Latn">sumōmoji</i></span> ('sumo letters') used to write <a href="/wiki/Sum%C5%8D" class="mw-redirect" title="Sumō">sumō</a> wrestling posters, <span title="Japanese-language romanization"><i lang="ja-Latn">kanteiryū</i></span> used for <a href="/wiki/Kabuki" title="Kabuki">kabuki</a>, and <span title="Japanese-language romanization"><i lang="ja-Latn">higemoji</i></span>. These styles are typically not taught in Japanese calligraphy schools.
+</p>
+<h2><span id="L.E1.BB.87nh_th.C6.B0"></span><span class="mw-headline" id="Lệnh_thư">Lệnh thư</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=8" title="Edit section: Lệnh thư"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/L%E1%BB%87nh_th%C6%B0" title="Lệnh thư">Lệnh thư</a></div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:Clear_image_of_L%E1%BB%87nh_th%C6%B0.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Clear_image_of_L%E1%BB%87nh_th%C6%B0.jpg/110px-Clear_image_of_L%E1%BB%87nh_th%C6%B0.jpg" decoding="async" width="110" height="288" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Clear_image_of_L%E1%BB%87nh_th%C6%B0.jpg/165px-Clear_image_of_L%E1%BB%87nh_th%C6%B0.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Clear_image_of_L%E1%BB%87nh_th%C6%B0.jpg/220px-Clear_image_of_L%E1%BB%87nh_th%C6%B0.jpg 2x" data-file-width="593" data-file-height="1553" /></a><figcaption>A 1765 edict from the reign of Cảnh Hưng showing Chinese characters written in <span title="Vietnamese-language text"><i lang="vi">Lệnh thư</i></span></figcaption></figure>
+<p>A Vietnamese calligraphic script known as <span title="Vietnamese-language text"><i lang="vi">Lệnh thư</i></span> (<span title="Vietnamese-language text"><span lang="vi-Hani">令書</span></span>) as its name suggest, it is mainly found in imperial edicts starting from the <a href="/wiki/Revival_L%C3%AA_dynasty" title="Revival Lê dynasty">Revival Lê dynasty</a>. The writing script is defined by its distinct sharp upward hooks.
+</p>
+<h2><span class="mw-headline" id="Munjado">Munjado</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=9" title="Edit section: Munjado"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Minhwa" title="Minhwa">Minhwa</a></div>
+<p><i>Munjado</i> is a Korean decorative style of rendering Chinese characters in which brush strokes are replaced with representational paintings that provide commentary on the meaning.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The characters thus rendered are traditionally those for the eight Confucian virtues of humility, honor, duty, propriety, trust, loyalty, brotherly love, and filial piety.
+</p>
+<h2><span class="mw-headline" id="Huaya">Huaya</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=10" title="Edit section: Huaya"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Huaya" title="Huaya">Huaya</a></div>
+<p>A <i>huaya</i> is a stylized calligraphic signature traditionally used by emperors, politicians, artists and craftsman across East Asia.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=11" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1214689105">.mw-parser-output .portalbox{padding:0;margin:0.5em 0;display:table;box-sizing:border-box;max-width:175px;list-style:none}.mw-parser-output .portalborder{border:solid #aaa 1px;padding:0.1em;background:#f9f9f9}.mw-parser-output .portalbox-entry{display:table-row;font-size:85%;line-height:110%;height:1.9em;font-style:italic;font-weight:bold}.mw-parser-output .portalbox-image{display:table-cell;padding:0.2em;vertical-align:middle;text-align:center}.mw-parser-output .portalbox-link{display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle}@media(min-width:720px){.mw-parser-output .portalleft{clear:left;float:left;margin:0.5em 1em 0.5em 0}.mw-parser-output .portalright{clear:right;float:right;margin:0.5em 0 0.5em 1em}}html.skin-theme-clientpref-night .mw-parser-output .portalbox{background:transparent}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .pane{background:transparent}}</style><ul role="navigation" aria-label="Portals" class="noprint portalbox portalborder portalright">
+<li class="portalbox-entry"><span class="portalbox-image"><span class="mw-image-border noviewer" typeof="mw:File"><span><img alt="flag" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/32px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="32" height="21" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/48px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/64px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" /></span></span></span><span class="portalbox-link"><a href="/wiki/Portal:China" title="Portal:China">China portal</a></span></li></ul>
+<ul><li><a href="/wiki/Eight_Principles_of_Yong" title="Eight Principles of Yong">Eight Principles of Yong</a></li>
+<li><a href="/wiki/Stroke_order" title="Stroke order">Stroke order</a></li>
+<li><a href="/wiki/Wonton_font" title="Wonton font">Wonton font</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=12" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Citations">Citations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=13" title="Edit section: Citations"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r1217336898">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-FOOTNOTEQiu200059,_104–108-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEQiu200059,_104–108_1-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFQiu2000">Qiu 2000</a>, pp.&#160;59, 104–108.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1215172403">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a{background-size:contain}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a{background-size:contain}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a{background-size:contain}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#2C882D;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911F}html.skin-theme-clientpref-night .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-night .mw-parser-output .cs1-hidden-error{color:#f8a397}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-os .mw-parser-output .cs1-hidden-error{color:#f8a397}html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911F}}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070313175854/http://www.nfm.go.kr:8080/english/search/sch_src/full.cgi?v_kw_str=&amp;v_db=2&amp;v_doc_no=00000671">"Munjado"</a>. <i>National Folk Museum of Korea</i>. Archived from <a rel="nofollow" class="external text" href="http://www.nfm.go.kr:8080/english/search/sch_src/full.cgi?v_kw_str=&amp;v_db=2&amp;v_doc_no=00000671">the original</a> on 2007-03-13.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Folk+Museum+of+Korea&amp;rft.atitle=Munjado&amp;rft_id=http%3A%2F%2Fwww.nfm.go.kr%3A8080%2Fenglish%2Fsearch%2Fsch_src%2Ffull.cgi%3Fv_kw_str%3D%26v_db%3D2%26v_doc_no%3D00000671&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+script+styles" class="Z3988"></span></span>
+</li>
+</ol></div></div>
+<h3><span class="mw-headline" id="Sources">Sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=14" title="Edit section: Sources"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="General">General</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=15" title="Edit section: General"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<style data-mw-deduplicate="TemplateStyles:r1054258005">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}</style><div class="refbegin" style="">
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFQiu2000" class="citation book cs1"><a href="/wiki/Qiu_Xigui" title="Qiu Xigui">Qiu Xigui (裘锡圭)</a> (2000) [1988]. <i>Chinese Writing</i>. Translated by Mattos, Gilbert L.; Norman, Jerry. Berkeley: Society for the Study of Early China and The Institute of East Asian Studies, University of California. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-557-29071-7" title="Special:BookSources/978-1-557-29071-7"><bdi>978-1-557-29071-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chinese+Writing&amp;rft.place=Berkeley&amp;rft.pub=Society+for+the+Study+of+Early+China+and+The+Institute+of+East+Asian+Studies%2C+University+of+California&amp;rft.date=2000&amp;rft.isbn=978-1-557-29071-7&amp;rft.aulast=Qiu&amp;rft.aufirst=Xigui&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+script+styles" class="Z3988"></span></li></ul>
+</div>
+<h4><span class="mw-headline" id="Ancient_characters">Ancient characters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=16" title="Edit section: Ancient characters"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h4>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1054258005"><div class="refbegin" style="">
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFBoltz1994" class="citation book cs1">Boltz, William G. (1994). <i>The Origin and Early Development of the Chinese Writing System</i>. New Haven, CT: American Oriental Society. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-940-49078-9" title="Special:BookSources/978-0-940-49078-9"><bdi>978-0-940-49078-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Origin+and+Early+Development+of+the+Chinese+Writing+System&amp;rft.place=New+Haven%2C+CT&amp;rft.pub=American+Oriental+Society&amp;rft.date=1994&amp;rft.isbn=978-0-940-49078-9&amp;rft.aulast=Boltz&amp;rft.aufirst=William+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+script+styles" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFKeightley2000" class="citation book cs1">&#8212;&#8212;&#8212; (2000). <i>The Ancestral Landscape: Time, Space, and Community in Late Shang China (ca. 1200–1045 B.C.)</i>. Berkeley: University of California Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-55729-070-0" title="Special:BookSources/978-1-55729-070-0"><bdi>978-1-55729-070-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Ancestral+Landscape%3A+Time%2C+Space%2C+and+Community+in+Late+Shang+China+%28ca.+1200%E2%80%931045+B.C.%29&amp;rft.place=Berkeley&amp;rft.pub=University+of+California+Press&amp;rft.date=2000&amp;rft.isbn=978-1-55729-070-0&amp;rft.aulast=Keightley&amp;rft.aufirst=David+N.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+script+styles" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFNorman1988" class="citation book cs1"><a href="/wiki/Jerry_Norman_(sinologist)" title="Jerry Norman (sinologist)">Norman, Jerry</a> (1988). <i>Chinese</i>. Cambridge University Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-521-29653-3" title="Special:BookSources/978-0-521-29653-3"><bdi>978-0-521-29653-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Chinese&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1988&amp;rft.isbn=978-0-521-29653-3&amp;rft.aulast=Norman&amp;rft.aufirst=Jerry&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AChinese+script+styles" class="Z3988"></span></li></ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Chinese_script_styles&amp;action=edit&amp;section=17" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1217611005">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1126788409">
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></div>
+<div class="side-box-text plainlist">Wikimedia Commons has media related to <a href="https://commons.wikimedia.org/wiki/Chinese_Characters" class="extiw" title="commons:Chinese Characters"><span style="font-style:italic; font-weight:bold;">Chinese Characters</span></a>.</div></div>
+</div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.pinyin.info/readings/texts/visible/index.html">History of Chinese writing</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Chinese_script_styles" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Chinese_script_styles" title="Template:Chinese script styles"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Chinese_script_styles" title="Template talk:Chinese script styles"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Chinese_script_styles" title="Special:EditPage/Template:Chinese script styles"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Chinese_script_styles" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Chinese script styles</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Handwritten scripts</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Oracle_bone_script" title="Oracle bone script">Oracle bone script</a> <span title="Chinese-language text"><span lang="zh-Hant">甲骨文</span></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Chinese_bronze_inscriptions" title="Chinese bronze inscriptions">Bronze script</a> <span title="Chinese-language text"><span lang="zh">金文</span></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Seal_script" title="Seal script">Seal script</a> <span title="Chinese-language text"><span lang="zh">篆書</span></span></span>
+<ul><li><span class="nowrap"><a href="/wiki/Large_seal_script" title="Large seal script">Large</a> <span title="Chinese-language text"><span lang="zh">大篆</span></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Small_seal_script" title="Small seal script">Small</a> <span title="Chinese-language text"><span lang="zh">小篆</span></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Bird-worm_seal_script" title="Bird-worm seal script">Bird-worm</a> <span title="Chinese-language text"><span lang="zh-Hant">鳥蟲篆</span></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Nine-fold_seal_script" title="Nine-fold seal script">Nine-fold</a> <span title="Chinese-language text"><span lang="zh-Hant">九疊篆</span></span></span></li></ul></li>
+<li><span class="nowrap"><a href="/wiki/Clerical_script" title="Clerical script">Clerical script</a> <span title="Chinese-language text"><span lang="zh-Hant">隸書</span></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Regular_script" title="Regular script">Regular script</a> <span title="Chinese-language text"><span lang="zh-Hant">楷書</span></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Semi-cursive_script" title="Semi-cursive script">Semi-cursive script</a> <span title="Chinese-language text"><span lang="zh-Hant">行書</span></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Cursive_script_(East_Asia)" title="Cursive script (East Asia)">Cursive script</a> <span title="Chinese-language text"><span lang="zh-Hant">草書</span></span></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Typeface" title="Typeface">Typefaces</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Derived_from_regular_script" scope="row" class="navbox-group" style="width:1%">Derived from regular script</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Ming_(typefaces)" title="Ming (typefaces)">Ming&#160;/&#32;Song</a> <span title="Chinese-language text"><span lang="zh-Hant">明體</span></span>&#160;/&#32;<span title="Chinese-language text"><span lang="zh-Hant">宋體</span></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Fangsong" title="Fangsong">Fangsong</a> <span title="Chinese-language text"><span lang="zh-Hant">仿宋體</span></span></span></li>
+<li><span class="nowrap"><a href="/wiki/East_Asian_Gothic_typeface" title="East Asian Gothic typeface">Gothic</a> <span title="Chinese-language text"><span lang="zh-Hant">黑體</span></span></span></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox" aria-labelledby="Chinese_language" style="padding:3px"><table class="nowraplinks mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="background: #e0e0b0;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Chinese_language" title="Template:Chinese language"><abbr title="View this template" style="background: #e0e0b0;;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Chinese_language" title="Template talk:Chinese language"><abbr title="Discuss this template" style="background: #e0e0b0;;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Chinese_language" title="Special:EditPage/Template:Chinese language"><abbr title="Edit this template" style="background: #e0e0b0;;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Chinese_language" style="font-size:114%;margin:0 4em"><a href="/wiki/Chinese_language" title="Chinese language">Chinese language</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #e0e0b0;"><div><b><a href="/wiki/Sinitic_languages" title="Sinitic languages">Sinitic languages</a></b></div></td></tr><tr><th scope="row" class="navbox-group" style="background: #e0e0b0;;width:1%"><a href="/wiki/Varieties_of_Chinese" title="Varieties of Chinese">Major groups</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%"><a href="/wiki/Mandarin_Chinese" title="Mandarin Chinese">Mandarin</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Northeastern_Mandarin" title="Northeastern Mandarin">Northeastern</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Changchun_dialect" title="Changchun dialect">Changchun</a></li>
+<li><a href="/wiki/Harbin_dialect" title="Harbin dialect">Harbin</a></li>
+<li><a href="/wiki/Shenyang_Mandarin" title="Shenyang Mandarin">Shenyang</a></li>
+<li><a href="/wiki/Taz_dialect" title="Taz dialect">Taz</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Beijing_Mandarin_(division_of_Mandarin)" title="Beijing Mandarin (division of Mandarin)">Beijing</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Beijing_dialect" title="Beijing dialect">Beijing</a></li>
+<li><a href="/wiki/Taiwanese_Mandarin" title="Taiwanese Mandarin">Taiwan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Jilu_Mandarin" title="Jilu Mandarin">Jilu</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Tianjin_dialect" title="Tianjin dialect">Tianjin</a></li>
+<li><a href="/wiki/Jinan_dialect" title="Jinan dialect">Jinan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Jiaoliao_Mandarin" title="Jiaoliao Mandarin">Jiaoliao</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Dalian_dialect" title="Dalian dialect">Dalian</a></li>
+<li><a href="/wiki/Qingdao_dialect" title="Qingdao dialect">Qingdao</a></li>
+<li><a href="/wiki/Weihai_dialect" title="Weihai dialect">Weihai</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Central_Plains_Mandarin" title="Central Plains Mandarin">Central Plains</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Dongping_dialect" title="Dongping dialect">Dongping</a></li>
+<li><a href="/wiki/Gangou_language" title="Gangou language">Gangou</a></li>
+<li><a href="/wiki/Guanzhong_dialect" title="Guanzhong dialect">Guanzhong</a>
+<ul><li><a href="/wiki/Xi%27an_dialect" class="mw-redirect" title="Xi&#39;an dialect">Xi'an</a></li></ul></li>
+<li><a href="/wiki/Luoyang_dialect" title="Luoyang dialect">Luoyang</a></li>
+<li><a href="/wiki/Xuzhou_dialect" title="Xuzhou dialect">Xuzhou</a></li>
+<li><a href="/wiki/Dungan_language" title="Dungan language">Dungan</a></li>
+<li><a href="/wiki/Lanyin_Mandarin" title="Lanyin Mandarin">Lanyin</a></li>
+<li><a href="/wiki/Xinjiang_Mandarin" title="Xinjiang Mandarin">Xinjiang</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Southwestern_Mandarin" title="Southwestern Mandarin">Southwestern</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Sichuanese_dialects" title="Sichuanese dialects">Sichuanese</a>
+<ul><li><a href="/wiki/Chengdu-Chongqing_dialect" title="Chengdu-Chongqing dialect">Chengdu–Chongqing</a></li>
+<li><a href="/wiki/Minjiang_dialect" title="Minjiang dialect">Minjiang</a>
+<ul><li><a href="/wiki/Leshan_dialect" title="Leshan dialect">Leshan</a></li></ul></li>
+<li><a href="/w/index.php?title=Renshou%E2%80%93Fushun_Mandarin&amp;action=edit&amp;redlink=1" class="new" title="Renshou–Fushun Mandarin (page does not exist)">Renshou–Fushun</a>
+<ul><li><a href="/wiki/Zigong_dialect" title="Zigong dialect">Zigong</a></li></ul></li></ul></li>
+<li><a href="/wiki/Kunming_dialect" title="Kunming dialect">Kunming</a></li>
+<li><a href="/wiki/Nanping_dialect" title="Nanping dialect">Nanping</a></li>
+<li><a href="/wiki/Wuhan_dialect" title="Wuhan dialect">Wuhan</a></li>
+<li><a href="/w/index.php?title=Gui%E2%80%93Liu_Mandarin&amp;action=edit&amp;redlink=1" class="new" title="Gui–Liu Mandarin (page does not exist)">Gui–Liu</a>
+<ul><li><a href="/wiki/Wuming_Mandarin" title="Wuming Mandarin">Wuming</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Lower_Yangtze_Mandarin" title="Lower Yangtze Mandarin">Huai</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Nanjing_dialect" title="Nanjing dialect">Nanjing</a></li>
+<li><a href="/wiki/Nantong_dialect" class="mw-redirect" title="Nantong dialect">Nantong</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%"><a href="/wiki/Wu_Chinese" title="Wu Chinese">Wu</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Taihu_Wu" title="Taihu Wu">Taihu</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Shanghainese" title="Shanghainese">Shanghai</a></li>
+<li><a href="/wiki/Suzhou_dialect" title="Suzhou dialect">Suzhou</a></li>
+<li><a href="/wiki/Wuxi_dialect" title="Wuxi dialect">Wuxi</a></li>
+<li><a href="/wiki/Changzhou_dialect" title="Changzhou dialect">Changzhou</a></li>
+<li><a href="/wiki/Hangzhou_dialect" title="Hangzhou dialect">Hangzhou</a> (?)</li>
+<li><a href="/wiki/Shaoxing_dialect" title="Shaoxing dialect">Shaoxing</a></li>
+<li><a href="/wiki/Ningbo_dialect" title="Ningbo dialect">Ningbo</a></li>
+<li><a href="/wiki/Jinxiang_dialect" title="Jinxiang dialect">Jinxiang</a></li>
+<li><a href="/wiki/Jiangyin_dialect" title="Jiangyin dialect">Jiangyin</a></li>
+<li><a href="/wiki/Shadi_dialect" title="Shadi dialect">Shadi</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Taizhou_Wu" title="Taizhou Wu">Taizhou Wu</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Taizhou_dialect" title="Taizhou dialect">Taizhou</a></li>
+<li><a href="/wiki/Tiantai_dialect" title="Tiantai dialect">Tiantai</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;">Oujiang</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Wenzhounese" title="Wenzhounese">Wenzhou</a></li>
+<li><a href="/wiki/Rui%27an_dialect" title="Rui&#39;an dialect">Rui'an</a></li>
+<li><a href="/wiki/Wencheng_dialect" title="Wencheng dialect">Wencheng</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Wuzhou_Wu" title="Wuzhou Wu">Wuzhou</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Jinhua_dialect" title="Jinhua dialect">Jinhua</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Chu%E2%80%93Qu_Wu" title="Chu–Qu Wu">Chu–Qu</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Quzhou_dialect" title="Quzhou dialect">Quzhou</a></li>
+<li><a href="/wiki/Jiangshan_dialect" title="Jiangshan dialect">Jiangshan</a></li>
+<li><a href="/wiki/Qingtian_dialect" title="Qingtian dialect">Qingtian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Xuanzhou_Wu_dialects" class="mw-redirect" title="Xuanzhou Wu dialects">Xuanzhou</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Xuancheng_dialect" class="mw-redirect" title="Xuancheng dialect">Xuancheng</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%"><a href="/wiki/Gan_Chinese" title="Gan Chinese">Gan</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Chang%E2%80%93Du_Gan" title="Chang–Du Gan">Chang–Du</a>
+<ul><li><a href="/wiki/Nanchang_dialect" class="mw-redirect" title="Nanchang dialect">Nanchang</a></li></ul></li>
+<li><a href="/wiki/Yi%E2%80%93Liu_Gan" title="Yi–Liu Gan">Yi–Liu</a></li>
+<li><a href="/wiki/Ying%E2%80%93Yi_Gan" title="Ying–Yi Gan">Ying–Yi</a></li>
+<li><a href="/wiki/Da%E2%80%93Tong_Gan" title="Da–Tong Gan">Da–Tong</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%"><a href="/wiki/Xiang_Chinese" title="Xiang Chinese">Xiang</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/New_Xiang" title="New Xiang">Changyi</a>
+<ul><li><a href="/wiki/Changsha_dialect" title="Changsha dialect">Changsha</a></li></ul></li>
+<li><a href="/wiki/Old_Xiang" title="Old Xiang">Loushao</a>
+<ul><li><a href="/wiki/Shuangfeng_dialect" title="Shuangfeng dialect">Shuangfeng</a></li>
+<li><a href="/wiki/Xiangxiang_dialect" title="Xiangxiang dialect">Xiangxiang</a></li>
+<li><a href="/wiki/Wugang_dialect" title="Wugang dialect">Wugang</a></li></ul></li>
+<li><a href="/wiki/Ji%E2%80%93Xu_Xiang" title="Ji–Xu Xiang">Ji–Xu</a></li>
+<li><a href="/wiki/Yong%E2%80%93Quan_Xiang" title="Yong–Quan Xiang">Yong–Quan</a>
+<ul><li><a href="/wiki/Qiyang_dialect" title="Qiyang dialect">Qiyang</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%"><a href="/wiki/Min_Chinese" title="Min Chinese">Min</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Eastern_Min" title="Eastern Min">Eastern</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Fuzhou_dialect" title="Fuzhou dialect">Fuzhou</a></li>
+<li><a href="/wiki/Fuqing_dialect" title="Fuqing dialect">Fuqing</a></li>
+<li><a href="/wiki/Fu%27an_dialect" title="Fu&#39;an dialect">Fu'an</a></li>
+<li><a href="/wiki/Manjiang_dialect" title="Manjiang dialect">Manjiang</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Southern_Min" title="Southern Min">Southern</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Hokkien" title="Hokkien">Hokkien</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Quanzhou_dialect" class="mw-redirect" title="Quanzhou dialect">Quanzhou</a></li>
+<li><a href="/wiki/Zhangzhou_dialect" class="mw-redirect" title="Zhangzhou dialect">Zhangzhou</a></li>
+<li><a href="/wiki/Amoy_dialect" title="Amoy dialect">Amoy</a></li>
+<li><a href="/wiki/Taiwanese_Hokkien" title="Taiwanese Hokkien">Taiwan</a></li>
+<li><a href="/wiki/Philippine_Hokkien" title="Philippine Hokkien">Philippine</a></li>
+<li><a href="/wiki/Medan_Hokkien" title="Medan Hokkien">Pedan</a></li>
+<li><a href="/wiki/Penang_Hokkien" title="Penang Hokkien">Penang</a></li>
+<li><a href="/wiki/Singaporean_Hokkien" title="Singaporean Hokkien">Singapore</a></li>
+<li><a href="/wiki/Southern_Peninsular_Malaysian_Hokkien" title="Southern Peninsular Malaysian Hokkien">Malaysian</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Teochew_Min" title="Teochew Min">Teochew</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Swatow_dialect" title="Swatow dialect">Swatow</a></li>
+<li><a href="/wiki/Hoklo_Min" title="Hoklo Min">Hoklo</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Zhongshan_Min" title="Zhongshan Min">Zhongshan</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Nanlang_dialect" title="Nanlang dialect">Nanlang</a></li>
+<li><a href="/wiki/Sanxiang_dialect" title="Sanxiang dialect">Sanxiang</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;">Other</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Zhenan_Min" title="Zhenan Min">Zhenan</a></li>
+<li><a href="/wiki/Longyan_Min" class="mw-redirect" title="Longyan Min">Longyan</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;">Other</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Northern_Min" title="Northern Min">Northern</a>
+<ul><li><a href="/wiki/Jian%27ou_dialect" title="Jian&#39;ou dialect">Jian'ou</a></li>
+<li><a href="/wiki/Jianyang_dialect" title="Jianyang dialect">Jianyang</a></li></ul></li>
+<li><a href="/wiki/Central_Min" title="Central Min">Central</a></li>
+<li><a href="/wiki/Pu%E2%80%93Xian_Min" title="Pu–Xian Min">Pu–Xian</a></li>
+<li><a href="/wiki/Shao%E2%80%93Jiang_Min" title="Shao–Jiang Min">Shao–Jiang</a></li>
+<li><a href="/wiki/Leizhou_Min" title="Leizhou Min">Leizhou</a>
+<ul><li><a href="/wiki/Zhanjiang_dialect" title="Zhanjiang dialect">Zhanjiang</a></li></ul></li>
+<li><a href="/wiki/Hainanese" title="Hainanese">Hainan</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%"><a href="/wiki/Hakka_Chinese" title="Hakka Chinese">Hakka</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Meixian_dialect" title="Meixian dialect">Meixian</a></li>
+<li><a href="/wiki/Wuhua_dialect" title="Wuhua dialect">Wuhua</a></li>
+<li><a href="/wiki/Huizhou_dialect" title="Huizhou dialect">Huizhou</a></li>
+<li><a href="/wiki/Tingzhou_dialect" title="Tingzhou dialect">Tingzhou</a>
+<ul><li><a href="/wiki/Changting_dialect" title="Changting dialect">Changting</a></li></ul></li>
+<li><a href="/wiki/Taiwanese_Hakka" title="Taiwanese Hakka">Taiwanese</a>
+<ul><li><a href="/wiki/Sixian_dialect" title="Sixian dialect">Sixian</a></li>
+<li><a href="/wiki/Hailu_dialect" title="Hailu dialect">Hailu</a></li>
+<li><a href="/wiki/Raoping_Hakka" title="Raoping Hakka">Raoping</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%"><a href="/wiki/Yue_Chinese" title="Yue Chinese">Yue</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Yuehai_dialects" class="mw-redirect" title="Yuehai dialects">Yuehai</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Cantonese" title="Cantonese">Guangzhou</a>
+<ul><li><a href="/wiki/Hong_Kong_Cantonese" title="Hong Kong Cantonese">Hong Kong</a></li></ul></li>
+<li><a href="/wiki/Xiguan_dialect" title="Xiguan dialect">Xiguan</a></li>
+<li><a href="/wiki/Jiujiang_dialect" title="Jiujiang dialect">Jiujiang</a></li>
+<li><a href="/wiki/Shiqi_dialect" title="Shiqi dialect">Shiqi</a></li>
+<li><a href="/wiki/Weitou_dialect" title="Weitou dialect">Weitou</a></li>
+<li><a href="/wiki/Dapeng_dialect" title="Dapeng dialect">Dapeng</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Siyi_Yue" title="Siyi Yue">Siyi</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Taishanese" title="Taishanese">Taishan</a></li>
+<li><a href="/w/index.php?title=Xinhui_dialect&amp;action=edit&amp;redlink=1" class="new" title="Xinhui dialect (page does not exist)">Xinhui</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;">Other</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Gao%E2%80%93Yang_Yue" title="Gao–Yang Yue">Gao–Yang</a></li>
+<li><a href="/wiki/Goulou_Yue" title="Goulou Yue">Goulou</a></li>
+<li><a href="/wiki/Wu%E2%80%93Hua_Yue" title="Wu–Hua Yue">Wu–Hua</a></li>
+<li><a href="/wiki/Yong%E2%80%93Xun_Yue" title="Yong–Xun Yue">Yong–Xun</a></li>
+<li><a href="/wiki/Luo%E2%80%93Guang_Yue" title="Luo–Guang Yue">Luo–Guang</a></li>
+<li><a href="/wiki/Qin%E2%80%93Lian_Yue" title="Qin–Lian Yue">Qin–Lian</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%"><a href="/wiki/Pinghua" title="Pinghua">Pinghua</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li>Northern
+<ul><li><a href="/wiki/Tongdao_Pinghua" title="Tongdao Pinghua">Tongdao</a></li>
+<li><a href="/wiki/Younian_dialect" title="Younian dialect">Younian</a></li></ul></li>
+<li>Southern
+<ul><li><a href="/w/index.php?title=Yongjiang_dialect&amp;action=edit&amp;redlink=1" class="new" title="Yongjiang dialect (page does not exist)">Yongjiang</a></li>
+<li><a href="/w/index.php?title=Guandao_dialect&amp;action=edit&amp;redlink=1" class="new" title="Guandao dialect (page does not exist)">Guandao</a></li>
+<li><a href="/w/index.php?title=Rongjiang_dialect&amp;action=edit&amp;redlink=1" class="new" title="Rongjiang dialect (page does not exist)">Rongjiang</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%">Proposed</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Huizhou_Chinese" title="Huizhou Chinese">Huizhou</a></li>
+<li><a href="/wiki/Jin_Chinese" title="Jin Chinese">Jin</a>
+<ul><li><a href="/wiki/Zhangjiakou%E2%80%93Hohhot_dialect" title="Zhangjiakou–Hohhot dialect">Zhangjiakou–Hohhot</a></li>
+<li><a href="/wiki/Zhi-Yan_dialect" title="Zhi-Yan dialect">Zhi–Yan</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%">Unclassified</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Badong_Yao_language" title="Badong Yao language">Badong Yao</a></li>
+<li><a href="/wiki/Danzhou_dialect" title="Danzhou dialect">Danzhou</a></li>
+<li><a href="/wiki/Junjiahua" title="Junjiahua">Junjiahua</a></li>
+<li><a href="/wiki/Mai_Chinese" title="Mai Chinese">Mai</a></li>
+<li><a href="/wiki/Shaozhou_Tuhua" title="Shaozhou Tuhua">Shaozhou Tuhua</a></li>
+<li><a href="/wiki/She_Chinese" title="She Chinese">She</a></li>
+<li><a href="/wiki/Waxiang_Chinese" title="Waxiang Chinese">Waxiang</a></li>
+<li><a href="/wiki/Xiangnan_Tuhua" title="Xiangnan Tuhua">Xiangnan Tuhua</a></li>
+<li><a href="/wiki/Yeheni_language" title="Yeheni language">Yeheni</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="background: #e0e0b0;;width:1%"><a href="/wiki/Comparison_of_national_standards_of_Chinese" title="Comparison of national standards of Chinese">Standard<br />forms</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Standard_Chinese" title="Standard Chinese">Standard Chinese</a>
+<ul><li><a href="/wiki/Sichuanese_Standard_Chinese" title="Sichuanese Standard Chinese">Sichuanese</a></li>
+<li><a href="/wiki/Taiwanese_Mandarin" title="Taiwanese Mandarin">Taiwanese</a></li>
+<li><a href="/wiki/Philippine_Mandarin" class="mw-redirect" title="Philippine Mandarin">Philippine</a></li>
+<li><a href="/wiki/Malaysian_Mandarin" title="Malaysian Mandarin">Malaysian</a></li>
+<li><a href="/wiki/Singaporean_Mandarin" title="Singaporean Mandarin">Singaporean</a>
+<ul><li><a href="/wiki/Standard_Singaporean_Mandarin" title="Standard Singaporean Mandarin">Standard</a></li>
+<li><a href="/wiki/Singdarin" title="Singdarin">Singdarin</a></li></ul></li></ul></li>
+<li><a href="/wiki/Cantonese" title="Cantonese">Cantonese</a></li>
+<li><a href="/wiki/Hokkien" title="Hokkien">Hokkien</a></li>
+<li><a href="/wiki/Hakka" class="mw-redirect" title="Hakka">Hakka</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #e0e0b0;;width:1%">Phonology</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Historical_Chinese_phonology" title="Historical Chinese phonology">Historical</a>
+<ul><li><a href="/wiki/Old_Chinese_phonology" title="Old Chinese phonology">Old</a></li></ul></li>
+<li><a href="/wiki/Old_National_Pronunciation" title="Old National Pronunciation">Old National</a></li>
+<li><a href="/wiki/Cantonese_phonology" title="Cantonese phonology">Cantonese</a></li>
+<li><a href="/wiki/Northern_Wu_phonology" title="Northern Wu phonology">Northern Wu</a></li>
+<li><a href="/wiki/Standard_Chinese_phonology" title="Standard Chinese phonology">Mandarin</a></li>
+<li><a href="/wiki/Literary_and_colloquial_readings_of_Chinese_characters" class="mw-redirect" title="Literary and colloquial readings of Chinese characters">Literary and colloquial readings</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #e0e0b0;;width:1%"><a href="/wiki/Chinese_grammar" title="Chinese grammar">Grammar</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Chinese_numerals" title="Chinese numerals">Numerals</a></li>
+<li><a href="/wiki/Chinese_classifier" title="Chinese classifier">Classifiers</a></li>
+<li><a href="/wiki/Chinese_honorifics" title="Chinese honorifics">Honorifics</a></li>
+<li><a href="/wiki/Cantonese_grammar" title="Cantonese grammar">Cantonese grammar</a></li>
+<li><a href="/wiki/Classical_Chinese_grammar" title="Classical Chinese grammar">Classical grammar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #e0e0b0;;width:1%">Idioms</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><i><a href="/wiki/Chengyu" title="Chengyu">Chengyu</a></i></li>
+<li><i><a href="/wiki/Xiehouyu" title="Xiehouyu">Xiehouyu</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #e0e0b0;;width:1%"><a href="/wiki/Chinese_input_methods_for_computers" class="mw-redirect" title="Chinese input methods for computers">Input</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Biaoxingma_method" title="Biaoxingma method">Biaoxingma</a></li>
+<li>Boshiamy</li>
+<li><a href="/wiki/Cangjie_input_method" title="Cangjie input method">Cangjie</a>
+<ul><li><a href="/wiki/Simplified_Cangjie" title="Simplified Cangjie">Simplified</a></li></ul></li>
+<li><a href="/wiki/CKC_Chinese_Input_System" title="CKC Chinese Input System">CKC</a></li>
+<li><a href="/wiki/Dayi_method" title="Dayi method">Dayi</a></li>
+<li><a href="/wiki/Pinyin_method" class="mw-redirect" title="Pinyin method">Pinyin</a>
+<ul><li><a href="/wiki/Google_Pinyin" title="Google Pinyin">Google</a></li>
+<li><a href="/wiki/Microsoft_Pinyin_IME" title="Microsoft Pinyin IME">Microsoft</a></li>
+<li><a href="/wiki/Sogou_Pinyin" title="Sogou Pinyin">Sogou</a></li></ul></li>
+<li><a href="/wiki/Stroke_count_method" title="Stroke count method">Stroke count</a></li>
+<li><a href="/wiki/Wubi_method" title="Wubi method">Wubi (Wang Ma)</a></li>
+<li><a href="/wiki/Zhengma_method" title="Zhengma method">ZhengMa</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #e0e0b0;;width:1%"><a href="/wiki/History_of_the_Chinese_language" title="History of the Chinese language">History</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Old_Chinese" title="Old Chinese">Old Chinese</a></li>
+<li><a href="/wiki/Eastern_Han_Chinese" title="Eastern Han Chinese">Eastern Han</a></li>
+<li><a href="/wiki/Middle_Chinese" title="Middle Chinese">Middle Chinese</a></li>
+<li><a href="/wiki/Old_Mandarin" title="Old Mandarin">Old Mandarin</a></li>
+<li><a href="/wiki/Mandarin_(late_imperial_lingua_franca)" title="Mandarin (late imperial lingua franca)">Middle Mandarin</a></li>
+<li><a href="/wiki/Proto-Min" title="Proto-Min">Proto-Min</a></li>
+<li><a href="/wiki/Ba%E2%80%93Shu_Chinese" title="Ba–Shu Chinese">Ba–Shu</a></li>
+<li><a href="/wiki/History_of_Gan_Chinese" title="History of Gan Chinese">Gan</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background: #e0e0b0;;width:1%">Literary<br /> forms</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Official" scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;">Official</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Classical_Chinese" title="Classical Chinese">Classical</a>
+<ul><li><a href="/wiki/Adoption_of_Chinese_literary_culture" title="Adoption of Chinese literary culture">Adoption</a></li>
+<li><a href="/wiki/Kanbun" title="Kanbun">in Japan</a></li>
+<li><a href="/wiki/Literary_Chinese_in_Vietnam" title="Literary Chinese in Vietnam">in Vietnam</a></li></ul></li>
+<li><a href="/wiki/Written_vernacular_Chinese" title="Written vernacular Chinese">Vernacular</a></li></ul>
+</div></td></tr></tbody></table><div>
+<ul><li><a href="/wiki/Written_Cantonese" title="Written Cantonese">Written Cantonese</a></li>
+<li><a href="/wiki/Dungan_language#Writing_system" title="Dungan language">Written Dungan</a></li>
+<li><a href="/wiki/Written_Hokkien" title="Written Hokkien">Written Hokkien</a></li>
+<li><a href="/wiki/Sichuanese_characters" title="Sichuanese characters">Written Sichuanese</a></li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="background: #e0e0b0;;width:1%"><a href="/wiki/Written_Chinese" title="Written Chinese">Scripts</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Logographic" scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Logographic" class="mw-redirect" title="Logographic">Logographic</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Script_styles" scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Script_styles" class="mw-redirect" title="Script styles">Script styles</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<li><a href="/wiki/Oracle_bone_script" title="Oracle bone script">Oracle bone</a></li>
+<li><a href="/wiki/Chinese_bronze_inscriptions" title="Chinese bronze inscriptions">Bronze</a></li>
+<li><a href="/wiki/Seal_script" title="Seal script">Seal</a></li>
+<li><a href="/wiki/Clerical_script" title="Clerical script">Clerical</a></li>
+<li><a href="/wiki/Semi-cursive_script" title="Semi-cursive script">Semi-cursive</a></li>
+<li><a href="/wiki/Cursive_script_(East_Asia)" title="Cursive script (East Asia)">Cursive</a></li>
+</div></td></tr></tbody></table><div>
+<ul><li><a href="/wiki/Chinese_characters" title="Chinese characters">Chinese characters</a>
+<ul><li><a href="/wiki/Simplified_characters" class="mw-redirect" title="Simplified characters">Simplified</a></li>
+<li><a href="/wiki/Traditional_characters" class="mw-redirect" title="Traditional characters">Traditional</a></li></ul></li>
+<li><a href="/wiki/Chinese_punctuation" title="Chinese punctuation">Punctuation</a></li></ul></div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;"><a href="/wiki/Braille" title="Braille">Braille</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<li><a href="/wiki/Cantonese_Braille" title="Cantonese Braille">Cantonese</a></li>
+<li><a href="/wiki/Mainland_Chinese_Braille" title="Mainland Chinese Braille">Mainland Chinese</a></li>
+<li><a href="/wiki/Taiwanese_Braille" title="Taiwanese Braille">Taiwanese</a></li>
+<li><a href="/wiki/Two-cell_Chinese_Braille" title="Two-cell Chinese Braille">Two-cell</a></li>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="background:#f0eaea;;width:1%;font-weight:normal;">Phonetic</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Cyrillization_of_Chinese" title="Cyrillization of Chinese">Cyrillization</a>
+<ul><li><a href="/wiki/Dungan_language#Writing_system" title="Dungan language">Dungan Cyrillic</a></li></ul></li>
+<li><a href="/wiki/Romanization_of_Chinese" title="Romanization of Chinese">Romanization</a>
+<ul><li><a href="/wiki/Gwoyeu_Romatzyh" title="Gwoyeu Romatzyh">Gwoyeu Romatzyh</a></li>
+<li><a href="/wiki/Pinyin" title="Pinyin">Hanyu Pinyin</a></li>
+<li><a href="/wiki/Mandarin_Phonetic_Symbols_II" title="Mandarin Phonetic Symbols II">MPS II</a></li>
+<li><a href="/wiki/Chinese_postal_romanization" title="Chinese postal romanization">Postal</a></li>
+<li><a href="/wiki/Tongyong_Pinyin" title="Tongyong Pinyin">Tongyong Pinyin</a></li>
+<li><a href="/wiki/Wade%E2%80%93Giles" title="Wade–Giles">Wade–Giles</a></li>
+<li><a href="/wiki/Yale_romanization_of_Mandarin" title="Yale romanization of Mandarin">Yale</a></li></ul></li>
+<li><a href="/wiki/Bopomofo" title="Bopomofo">Bopomofo</a>
+<ul><li><a href="/wiki/Cantonese_Bopomofo" class="mw-redirect" title="Cantonese Bopomofo">Cantonese Bopomofo</a></li>
+<li><a href="/wiki/Taiwanese_Phonetic_Symbols" title="Taiwanese Phonetic Symbols">Taiwanese Phonetic Symbols</a></li></ul></li>
+<li><a href="/wiki/Taiwanese_kana" title="Taiwanese kana">Taiwanese kana</a></li>
+<li><a href="/wiki/Taiwanese_Hangul" title="Taiwanese Hangul">Taiwanese Hangul</a></li>
+<li><a href="/wiki/Xiao%27erjing" title="Xiao&#39;erjing">Xiao'erjing</a></li>
+<li><a href="/wiki/N%C3%BCshu" title="Nüshu">Nüshu</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="background: #e0e0b0;"><div><span class="noviewer" typeof="mw:File"><span title="List-Class article"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/16px-Symbol_list_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/23px-Symbol_list_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/d/db/Symbol_list_class.svg/31px-Symbol_list_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <a href="/wiki/List_of_varieties_of_Chinese" title="List of varieties of Chinese">List of varieties of Chinese</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐7b76f56dd9‐mf9hh
+Cached time: 20240415195446
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.687 seconds
+Real time usage: 0.889 seconds
+Preprocessor visited node count: 2779/1000000
+Post‐expand include size: 214937/2097152 bytes
+Template argument size: 5692/2097152 bytes
+Highest expansion depth: 13/100
+Expensive parser function count: 12/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 112859/5000000 bytes
+Lua time usage: 0.459/10.000 seconds
+Lua memory usage: 14011586/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  752.677      1 -total
+ 17.30%  130.230      1 Template:Table_Hanzi
+ 16.73%  125.917      1 Template:Sidebar_with_collapsible_lists
+ 16.22%  122.082     12 Template:Navbox
+ 14.76%  111.058     12 Template:Tlit
+ 11.87%   89.375      1 Template:Reflist
+ 10.28%   77.388      1 Template:Cite_web
+  8.51%   64.030      1 Template:Short_description
+  7.98%   60.065      1 Template:Chinese_script_styles
+  7.06%   53.138      1 Template:More_footnotes_needed
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:19175349-0!canonical and timestamp 20240415195446 and revision id 1218455362. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Chinese_script_styles&amp;oldid=1218455362">https://en.wikipedia.org/w/index.php?title=Chinese_script_styles&amp;oldid=1218455362</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Category</a>: <ul><li><a href="/wiki/Category:Chinese_script_style" title="Category:Chinese script style">Chinese script style</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_November_2013" title="Category:Articles lacking in-text citations from November 2013">Articles lacking in-text citations from November 2013</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Articles_containing_simplified_Chinese-language_text" title="Category:Articles containing simplified Chinese-language text">Articles containing simplified Chinese-language text</a></li><li><a href="/wiki/Category:Articles_containing_traditional_Chinese-language_text" title="Category:Articles containing traditional Chinese-language text">Articles containing traditional Chinese-language text</a></li><li><a href="/wiki/Category:Articles_containing_Chinese-language_text" title="Category:Articles containing Chinese-language text">Articles containing Chinese-language text</a></li><li><a href="/wiki/Category:Articles_containing_Vietnamese-language_text" title="Category:Articles containing Vietnamese-language text">Articles containing Vietnamese-language text</a></li><li><a href="/wiki/Category:Commons_link_is_locally_defined" title="Category:Commons link is locally defined">Commons link is locally defined</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 11 April 2024, at 20:19<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Chinese_script_styles&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-966597887-9nfnq","wgBackendResponseTime":181,"wgPageParseReport":{"limitreport":{"cputime":"0.687","walltime":"0.889","ppvisitednodes":{"value":2779,"limit":1000000},"postexpandincludesize":{"value":214937,"limit":2097152},"templateargumentsize":{"value":5692,"limit":2097152},"expansiondepth":{"value":13,"limit":100},"expensivefunctioncount":{"value":12,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":112859,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  752.677      1 -total"," 17.30%  130.230      1 Template:Table_Hanzi"," 16.73%  125.917      1 Template:Sidebar_with_collapsible_lists"," 16.22%  122.082     12 Template:Navbox"," 14.76%  111.058     12 Template:Tlit"," 11.87%   89.375      1 Template:Reflist"," 10.28%   77.388      1 Template:Cite_web","  8.51%   64.030      1 Template:Short_description","  7.98%   60.065      1 Template:Chinese_script_styles","  7.06%   53.138      1 Template:More_footnotes_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.459","limit":"10.000"},"limitreport-memusage":{"value":14011586,"limit":52428800},"limitreport-logs":"anchor_id_list = table#1 {\n    [\"CITEREFBoltz1994\"] = 1,\n    [\"CITEREFKeightley2000\"] = 1,\n    [\"CITEREFNorman1988\"] = 1,\n    [\"CITEREFQiu2000\"] = 1,\n}\ntemplate_list = table#1 {\n    [\"Authority control\"] = 1,\n    [\"Chinese language\"] = 1,\n    [\"Chinese script styles\"] = 1,\n    [\"Circa\"] = 8,\n    [\"Cite book\"] = 4,\n    [\"Cite web\"] = 1,\n    [\"Commons\"] = 1,\n    [\"DEFAULTSORT:Chinese Script Styles\"] = 1,\n    [\"Lang\"] = 7,\n    [\"Main\"] = 8,\n    [\"More footnotes needed\"] = 1,\n    [\"Portal\"] = 1,\n    [\"Refbegin\"] = 2,\n    [\"Refend\"] = 2,\n    [\"Reflist\"] = 1,\n    [\"See also\"] = 1,\n    [\"Sfn\"] = 1,\n    [\"Short description\"] = 1,\n    [\"Snd\"] = 1,\n    [\"Table Hanzi\"] = 1,\n    [\"Tlit\"] = 12,\n    [\"Zhi\"] = 1,\n}\narticle_whitelist = table#1 {\n}\n"},"cachereport":{"origin":"mw-web.codfw.main-7b76f56dd9-mf9hh","timestamp":"20240415195446","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Chinese script styles","url":"https:\/\/en.wikipedia.org\/wiki\/Chinese_script_styles","sameAs":"http:\/\/www.wikidata.org\/entity\/Q11059241","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q11059241","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-09-04T16:55:17Z","dateModified":"2024-04-11T20:19:29Z","headline":"style of writing Chinese characters"}</script>
+</body>
+</html>

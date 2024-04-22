@@ -1,0 +1,1009 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Hebrew astronomy - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"a10c8082-289a-4184-93ca-43352c846300","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hebrew_astronomy","wgTitle":"Hebrew astronomy","wgCurRevisionId":1192723197,"wgRevisionId":1192723197,"wgArticleId":2408446,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","All articles with unsourced statements","Articles with unsourced statements from November 2014","Articles with unsourced statements from February 2011","Articles with unsourced statements from February 2018","Wikipedia articles incorporating a citation from the 1906 Jewish Encyclopedia",
+"Wikipedia articles incorporating a citation from the 1906 Jewish Encyclopedia without a Wikisource reference","Wikipedia articles incorporating text from the 1906 Jewish Encyclopedia","Ancient astronomy","Religious cosmologies"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Hebrew_astronomy","wgRelevantArticleId":2408446,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,
+"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q5695906","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":
+"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Hebrew astronomy - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Hebrew_astronomy">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Hebrew_astronomy&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Hebrew_astronomy">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Hebrew_astronomy rootpage-Hebrew_astronomy skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hebrew+astronomy" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Hebrew+astronomy" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hebrew+astronomy" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Hebrew+astronomy" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-In_the_Bible"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#In_the_Bible">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>In the Bible</div>
+		</a>
+		
+		<ul id="toc-In_the_Bible-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-In_the_Talmud"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#In_the_Talmud">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>In the Talmud</div>
+		</a>
+		
+			<button aria-controls="toc-In_the_Talmud-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle In the Talmud subsection</span>
+			</button>
+		
+		<ul id="toc-In_the_Talmud-sublist" class="vector-toc-list">
+			<li id="toc-Astronomy_as_a_religious_study"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Astronomy_as_a_religious_study">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Astronomy as a religious study</div>
+			</a>
+			
+			<ul id="toc-Astronomy_as_a_religious_study-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Correspondence_between_Biblical_numbers_and_astronomy"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Correspondence_between_Biblical_numbers_and_astronomy">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>Correspondence between Biblical numbers and astronomy</div>
+			</a>
+			
+			<ul id="toc-Correspondence_between_Biblical_numbers_and_astronomy-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Conceptions_of_the_Heavens_and_Earth"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Conceptions_of_the_Heavens_and_Earth">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>Conceptions of the Heavens and Earth</div>
+			</a>
+			
+			<ul id="toc-Conceptions_of_the_Heavens_and_Earth-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Chronology_and_the_Mazzaroth"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Chronology_and_the_Mazzaroth">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.4</span>Chronology and the Mazzaroth</div>
+			</a>
+			
+			<ul id="toc-Chronology_and_the_Mazzaroth-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-The_heavenly_bodies_and_their_motions"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#The_heavenly_bodies_and_their_motions">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.5</span>The heavenly bodies and their motions</div>
+			</a>
+			
+			<ul id="toc-The_heavenly_bodies_and_their_motions-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Fixed_stars_and_comets"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Fixed_stars_and_comets">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.6</span>Fixed stars and comets</div>
+			</a>
+			
+			<ul id="toc-Fixed_stars_and_comets-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Post-Talmudic_times"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Post-Talmudic_times">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Post-Talmudic times</div>
+		</a>
+		
+		<ul id="toc-Post-Talmudic_times-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Notes"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Notes">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Notes</div>
+		</a>
+		
+		<ul id="toc-Notes-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Hebrew astronomy</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 3 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-3" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">3 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D9%81%D9%84%D9%83_%D8%A7%D9%84%D8%B9%D8%A8%D8%B1%D9%8A" title="علم الفلك العبري – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Astronomie_h%C3%A9bra%C3%AFque" title="Astronomie hébraïque – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%94%D0%B0%D0%B2%D0%BD%D1%8C%D0%BE%D1%94%D0%B2%D1%80%D0%B5%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%8F" title="Давньоєврейська астрономія – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5695906#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Hebrew_astronomy" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Hebrew_astronomy" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Hebrew_astronomy"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Hebrew_astronomy&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Hebrew_astronomy&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Hebrew_astronomy"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Hebrew_astronomy&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Hebrew_astronomy&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Hebrew_astronomy" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Hebrew_astronomy" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Hebrew_astronomy&amp;oldid=1192723197" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Hebrew_astronomy&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hebrew_astronomy&amp;id=1192723197&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHebrew_astronomy"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHebrew_astronomy"><span>Download QR code</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q5695906" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Hebrew_astronomy&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Hebrew_astronomy&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Astronomy written in Hebrew or by Hebrew speakers</div>
+<p><b>Hebrew astronomy</b> refers to any <a href="/wiki/Astronomy" title="Astronomy">astronomy</a> written in <a href="/wiki/Hebrew_languages" class="mw-redirect" title="Hebrew languages">Hebrew</a> or by Hebrew speakers, or translated into Hebrew, or written by Jews in <a href="/wiki/Judeo-Arabic_languages" class="mw-redirect" title="Judeo-Arabic languages">Judeo-Arabic</a>. It includes a range of genres from the earliest astronomy and cosmology contained in the <a href="/wiki/Bible" title="Bible">Bible</a>, mainly the <a href="/wiki/Tanakh" class="mw-redirect" title="Tanakh">Tanakh</a> (Hebrew Bible or "Old Testament"), to <a href="/wiki/Jewish" class="mw-redirect" title="Jewish">Jewish</a> religious works like the <a href="/wiki/Talmud" title="Talmud">Talmud</a> and very technical works.
+</p><p>Some Persian and Arabian traditions ascribe the invention of astronomy to Adam, Seth and Enoch.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> Some scholars suggest that the signs of the zodiac, or <a href="/wiki/Mazzaroth" title="Mazzaroth">Mazzaroth</a>, and the names of the stars associated with them originally were created as a <a href="/wiki/Mnemonic" title="Mnemonic">mnemonic</a> device by these forefathers of the Hebrews to tell the story of the Bible.
+</p><p>Historian <a href="/wiki/Flavius_Josephus" class="mw-redirect" title="Flavius Josephus">Flavius Josephus</a> says Seth and his offspring preserved ancient astronomical knowledge in pillars of stone.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="In_the_Bible">In the Bible</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_astronomy&amp;action=edit&amp;section=1" title="Edit section: In the Bible"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Only a few stars and <a href="/wiki/Constellation" title="Constellation">constellations</a> are named individually in the <a href="/wiki/Tanach" class="mw-redirect" title="Tanach">Hebrew Bible</a>, and their identification is not certain. The clearest references include:
+</p>
+<ul><li><i>Kesil</i> (כְּסִיל <i>Kəsīl</i>),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> usually understood to be <a href="/wiki/Orion_(constellation)" title="Orion (constellation)">Orion</a>, a giant angel.</li>
+<li><i>Kimah</i> (כִימָה <i>Ḵīmā</i>),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> which may be the <a href="/wiki/Pleiades" title="Pleiades">Pleiades</a>, <a href="/wiki/Aldebaran" title="Aldebaran">Aldebaran</a>, <a href="/wiki/Arcturus" title="Arcturus">Arcturus</a>, or <a href="/wiki/Sirius" title="Sirius">Sirius</a>.</li>
+<li><i> 'Ash</i> or <i> 'Ayish</i> (עָשׁ <i> 'Āš</i>),<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> possibly the <a href="/wiki/Hyades_(star_cluster)" title="Hyades (star cluster)">Hyades</a>, <a href="/wiki/Arcturus" title="Arcturus">Arcturus</a> or <a href="/wiki/Ursa_Major" title="Ursa Major">Ursa Major</a>, or even the Evening Star (<a href="/wiki/Venus" title="Venus">Venus</a> when seen at dusk).</li>
+<li><i>Mezarim</i> (מְזָרִים <i>Məzārīm</i>),<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> which may be Ursa Major and <a href="/wiki/Ursa_Minor" title="Ursa Minor">Ursa Minor</a>, or a synonym for <i><a href="/wiki/Mazzaroth" title="Mazzaroth">mazzarot</a></i>, in which case it would refer to the planets or the constellations of the <a href="/wiki/Zodiac" title="Zodiac">zodiac</a>.</li></ul>
+<p>Aside from the Earth, only two planets are named in the Hebrew Bible:
+</p>
+<ul><li>The term <i>Chiun</i> (כִּיּוּן <i>Kīyyūn</i>) in <a href="/wiki/Amos_5:26" class="mw-redirect" title="Amos 5:26">Amos 5:26</a><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> is thought by some authors to refer to <a href="/wiki/Saturn" title="Saturn">Saturn</a>, closely related to the Assyrian "Kévan" or "<i><a href="/wiki/Kajamanu" title="Kajamanu">kaiwanu</a></i>".<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup></li>
+<li>Venus, called <i>məleḵeṯ haššāmayīm,</i> (מְלֶכֶת הַשָּׁמַיִם), "<a href="/wiki/Queen_of_heaven_(antiquity)" class="mw-redirect" title="Queen of heaven (antiquity)">the queen of heaven</a>", in Jeremiah 7:18 and elsewhere. That the latter means Venus is shown by the cakes which are said to have been baked for her.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Among the Assyrians and Babylonians, the cake offerings were called "the bread of <a href="/wiki/Ishtar" class="mw-redirect" title="Ishtar">Ishtar</a>". <i>Hēlēl</i> (הֵילֵל), the "son of the morning", (בֶּן שָׁחַר <i>Ben-Šāḥar</i>) in Isaiah 14:12, is also thought to be the <a href="/wiki/Venus" title="Venus">morning star</a> (Venus when visible before dawn). This identification is better known to many English speakers as its Latin name, <a href="/wiki/Lucifer" title="Lucifer">Lucifer</a>, the "light-bearer".</li></ul>
+<h2><span class="mw-headline" id="In_the_Talmud">In the Talmud</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_astronomy&amp;action=edit&amp;section=2" title="Edit section: In the Talmud"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The information preserved in the <a href="/wiki/Talmud" title="Talmud">Talmud</a> does not emanate from one homogeneous system, as they are the accumulations of at least four centuries, and are traceable to various authors in the <a href="/wiki/Jerusalem_Talmud" title="Jerusalem Talmud">Jerusalem</a> and <a href="/wiki/Talmud" title="Talmud">Babylonian Talmuds</a>, among whom many were inclined to <a href="/wiki/Mysticism" title="Mysticism">mysticism</a>.
+</p>
+<h3><span class="mw-headline" id="Astronomy_as_a_religious_study">Astronomy as a religious study</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_astronomy&amp;action=edit&amp;section=3" title="Edit section: Astronomy as a religious study"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The high value of astronomical knowledge is already demonstrated by the astronomical section of the <i><a href="/wiki/Book_of_Enoch" title="Book of Enoch">Book of Enoch</a></i> (about 72–80 BC), as well as by such sayings as those of <a href="/wiki/Eleazar_Hisma" class="mw-redirect" title="Eleazar Hisma">Eleazar Hisma</a> (about 100), a profound mathematician, who could "count the drops in the ocean",<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> and who declared that the "ability to compute the solstice and the calendar is the 'dessert' [auxiliaries] of wisdom.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Among the sciences that <a href="/wiki/Johanan_ben_Zakkai" class="mw-redirect" title="Johanan ben Zakkai">Johanan ben Zakkai</a> mastered was a knowledge of the solstices and the calendar; i.e., the ability to compute the course of the Sun and the Moon.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> Later writers declare that "to him who can compute the course of the sun and the revolution of the planets and neglects to do so, may be applied the words of the prophet,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> 'They regard not the work of the Lord, nor consider the operation of His hands.'" To pay attention to the course of the Sun and to the revolution of the planets is a religious injunction; for such is the import of the words,<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> "This is your wisdom and your understanding in the sight of the nations".<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p>Despite the general importance and religious significance attached to astronomy in the Holy Land, no notable developments in astronomy happened there during the Talmudic period. The starry heavens of the land of Israel interested the Jews as creations of God and as means to determine the holidays, but for a better knowledge of them the Jews were undoubtedly indebted to the Babylonians and their Hellenic pupils, as evidenced by the foreign term <i><a href="/wiki/Gematria" title="Gematria">gematria</a></i> used to designate the computation of the <a href="/wiki/Calendar" title="Calendar">calendar</a>. Probably this word represents a transposition of the Greek γραμματεία meaning "arithmetic, mathematics". Most of the observations of a scientific nature were transmitted by <a href="/wiki/Samuel_of_Nehardea" title="Samuel of Nehardea">Samuel of Nehardea</a>, who attended the schools of the Babylonians, and who claimed to possess as exact a knowledge of the heavenly regions as of the streets of Nehardea. Certain rules must nevertheless have existed, because Rabban <a href="/wiki/Gamaliel_II" title="Gamaliel II">
+Gamaliel</a> (about 100), who applied the lunar tablets and telescope, relied for authority upon such as had been transmitted by his paternal ancestors.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Correspondence_between_Biblical_numbers_and_astronomy">Correspondence between Biblical numbers and astronomy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_astronomy&amp;action=edit&amp;section=4" title="Edit section: Correspondence between Biblical numbers and astronomy"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The number 7 is a recurring numerical theme in the Hebrew scriptures. The <a href="/wiki/Menorah_(Temple)" class="mw-redirect" title="Menorah (Temple)">menorah</a>'s seven lamps on four branches correspond to the lights of the seven <a href="/wiki/Classical_planets" class="mw-redirect" title="Classical planets">Classical planets</a>: the Moon, Mercury, Venus, the Sun (4th), Mars, Jupiter, and Saturn. <a href="/wiki/Hebrew_mysticism" class="mw-redirect" title="Hebrew mysticism">Hebrew mysticism</a> recognized their great importance. Therefore, along with the four <a href="/wiki/Lunar_phases" class="mw-redirect" title="Lunar phases">lunar phases</a> being slightly over seven days (~7.4 days) each, the number 7 was held in very high regard. The <a href="/wiki/Torah" title="Torah">Torah</a> reflects this with Bereishit (<a href="/wiki/Book_of_Genesis" title="Book of Genesis">Book of Genesis</a> 1:1) being seven words and twenty-eight letters (7x4) in its original Hebrew. This is "God's signature".<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2014)">citation needed</span></a></i>&#93;</sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1211633275">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 32px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>
+"And God said, 'Let there be lights in the heavens to separate the day from the night, and let them serve as signs to mark seasons, days, years and festivals'...the 4th day (of 7)."<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup></p></blockquote>
+<p>Some scholars identified the 12 signs of the zodiac with the 12 sons of <a href="/wiki/Jacob" title="Jacob">Jacob</a>/<a href="/wiki/Twelve_tribes_of_Israel" class="mw-redirect" title="Twelve tribes of Israel">twelve tribes of Israel</a>.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Conceptions_of_the_Heavens_and_Earth">Conceptions of the Heavens and Earth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_astronomy&amp;action=edit&amp;section=5" title="Edit section: Conceptions of the Heavens and Earth"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the Talmud, as in the Bible, the heavens and the Earth designate the two borders of the universe, with the heavens a covering over the Earth. One <a href="/wiki/Tannaim" title="Tannaim">tannaitic</a> authority believed that the sphere consists of a strong and firm plate two or three fingers in thickness, always lustrous and never tarnishing, another estimates the diameter of this plate as one-sixth of the Sun's <a href="/wiki/Diurnal_motion" title="Diurnal motion">diurnal</a> journey,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2011)">citation needed</span></a></i>&#93;</sup> while another, a Babylonian, estimates it at 1,000 <a href="/wiki/Parasang" title="Parasang">parasangs</a> (approx. 3728 miles). Yet another authority states that the diameter of the <a href="/wiki/Firmament" title="Firmament">firmament</a> is equal to the distance covered in 50 or 500 years and this is true also of the Earth and the large sea (<a href="/wiki/Tehom" title="Tehom">Tehom</a>) upon which it rests.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p><p>The distance of the firmament from the Earth is a journey of 500 years, a distance equivalent to the diameter of the firmament, through which the Sun must saw its way in order to become visible.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> The firmament, according to some, consists of fire and water, and, according to others, of water only, while the stars consist of fire.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> East and West are at least as far removed from each other as is the firmament from the Earth.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> Heaven and Earth "kiss each other" at the horizon and between the water above and that below there are but two or three fingerbreadths.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> The Earth rests upon water and is encompassed by it.
+</p><p>According to other conceptions the Earth is supported by one, seven, or twelve pillars. These rest upon water, the water upon mountains, the mountains upon the wind, and the wind upon the storm, though this could easily be metaphoric.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> There is also mentioned the terrestrial globe, <i>kaddur</i>.
+</p>
+<h3><span class="mw-headline" id="Chronology_and_the_Mazzaroth">Chronology and the Mazzaroth</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_astronomy&amp;action=edit&amp;section=6" title="Edit section: Chronology and the Mazzaroth"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew calendar</a></div> <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Jewish_views_on_astrology#Hebrew_calendar_correlation_to_zodiac" title="Jewish views on astrology">Jewish views on astrology §&#160;Hebrew calendar correlation to zodiac</a></div>
+<p><a href="/wiki/Chronology" title="Chronology">Chronology</a> was a chief consideration in the study of astronomy among the Jews; sacred time was based upon the cycles of the Sun and the Moon. The Talmud identified the twelve constellations of the <a href="/wiki/Mazzaroth" title="Mazzaroth">Mazzaroth</a> (<a href="/wiki/Zodiac" title="Zodiac">zodiac</a>) with the twelve months of the <a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Hebrew calendar</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2018)">citation needed</span></a></i>&#93;</sup> The correspondence of the constellations with their names in Hebrew and the months is as follows:
+</p>
+<ol><li><a href="/wiki/Aries_(constellation)" title="Aries (constellation)">Aries</a> - Ṭ'leh - <a href="/wiki/Nisan" title="Nisan">Nisan</a></li>
+<li><a href="/wiki/Taurus_(constellation)" title="Taurus (constellation)">Taurus</a> - Shor - <a href="/wiki/Iyar" title="Iyar">Iyar</a></li>
+<li><a href="/wiki/Gemini_(constellation)" title="Gemini (constellation)">Gemini</a> - Teomim - <a href="/wiki/Sivan" title="Sivan">Sivan</a></li>
+<li><a href="/wiki/Cancer_(constellation)" title="Cancer (constellation)">Cancer</a> - Sarṭan - <a href="/wiki/Tammuz_(Hebrew_month)" title="Tammuz (Hebrew month)">Tammuz</a></li>
+<li><a href="/wiki/Leo_(constellation)" title="Leo (constellation)">Leo</a> - Ari - <a href="/wiki/Av_(month)" title="Av (month)">Av</a></li>
+<li><a href="/wiki/Virgo_(constellation)" title="Virgo (constellation)">Virgo</a> - Betulah - <a href="/wiki/Elul" title="Elul">Elul</a></li>
+<li><a href="/wiki/Libra_(constellation)" title="Libra (constellation)">Libra</a> - Moznayim - <a href="/wiki/Tishrei" title="Tishrei">Tishrei</a></li>
+<li><a href="/wiki/Scorpius" title="Scorpius">Scorpio</a> - 'Aḳrab - <a href="/wiki/Cheshvan" title="Cheshvan">Cheshvan</a></li>
+<li><a href="/wiki/Sagittarius_(constellation)" title="Sagittarius (constellation)">Sagittarius</a> - Ḳeshet - <a href="/wiki/Kislev" title="Kislev">Kislev</a></li>
+<li><a href="/wiki/Capricornus" title="Capricornus">Capricorn</a> - Gedi - <a href="/wiki/Tevet" title="Tevet">Tevet</a></li>
+<li><a href="/wiki/Aquarius_(constellation)" title="Aquarius (constellation)">Aquarius</a> - D'li - <a href="/wiki/Shevat" title="Shevat">Shevat</a></li>
+<li><a href="/wiki/Pisces_(constellation)" title="Pisces (constellation)">Pisces</a> - Dagim - <a href="/wiki/Adar" title="Adar">Adar</a></li></ol>
+<p>The first three are in the east, the second three in the south, the third three in the west, and the last three in the north; and all are attendant on the Sun. According to one account, in the first three months (spring) the Sun travels in the south, in order to melt the snow; in the fourth through sixth months (summer) it travels directly above the Earth, in order to ripen the fruit; in the seventh through ninth months (autumn) it travels above the sea, in order to absorb the waters; and in the last three months (winter) it travels over the desert, in order that the grain may not dry up and wither.
+</p><p>According to one conception, Aries, Leo, and Sagittarius face northward; Taurus, Virgo, and Capricornus westward; Gemini, Libra, and Aquarius southward; and Cancer, Scorpio, and Pisces eastward. Some scholars identified the twelve signs of the zodiac with the <a href="/wiki/Israelite" class="mw-redirect" title="Israelite">twelve tribes of Israel</a>.
+</p><p>The four solstices (the Tekufot of Nisan, Tammuz, Tishrei, and Tevet) are often mentioned as determining the seasons of the year and there are occasional references to the rising-place of the Sun.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> Sometimes six seasons of the year are mentioned,<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> and reference is often made to the receptacle of the Sun (ναρθήκιον), by means of which the heat of the orb is mitigated.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup> The Moon was also a part of the calendar: "The moon begins to shine on the 1st of the month; its light increases until the 15th, when the disk [דסקוס (δίσκοσ)] is full; from the 15th to the 30th it wanes; and on the 30th it is invisible."<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="The_heavenly_bodies_and_their_motions">The heavenly bodies and their motions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_astronomy&amp;action=edit&amp;section=7" title="Edit section: The heavenly bodies and their motions"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Two different cosmologies can be found in the Talmud. One is a <a href="/wiki/Flat_Earth" title="Flat Earth">flat Earth</a> cosmology resembling descriptions of the world in the mythology of the <a href="/wiki/Ancient_Near_East" title="Ancient Near East">Ancient Near East</a>. The other, is a <a href="/wiki/Geocentric_model" title="Geocentric model">geocentric model</a>, according to which the stars move about the earth. According to <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>, <a href="/wiki/Ptolemy" title="Ptolemy">Ptolemy</a>, and other philosophers among the Greeks, the stars have no motion of their own, being firmly attached to spheres whose center is the Earth. A passage in the Talmud contrasts the pagan view with that of Jewish sages:
+</p>
+<blockquote><p>The learned of Israel say, "The sphere stands firm, and the planets revolve"; the learned of the nations say, "The sphere moves, and the planets stand firm." The learned of Israel say, "The sun moves by day beneath the firmament, and by night above the firmament"; the learned of the nations say, "The sun moves by day beneath the firmament, and by night beneath the earth."<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup></p></blockquote>
+<p>The Sun has 365 windows through which it emerges; 182 in the east, 182 in the west, and 1 in the middle, the place of its first entrance. The course described by it in a year is traversed by the Moon in 30 days. The solar year is longer by 11 days than the lunar year.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> The Sun completes its course in 12 months; Jupiter, in 12 years; Saturn, in 30 years; Venus and Mars, in 480 years;<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> however, an objection is raised here (in a gloss) against the last-mentioned number. King Antoninus asked the patriarch why the Sun rises in the east and sets in the west. At the time of the Deluge it traveled in the opposite direction.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> Every 28 years it returns to its original point of departure, and on Tuesday evening of the spring solstice it is in opposition with Saturn, although <a href="/wiki/Plato" title="Plato">Plato</a> maintained that the Sun and planets never return to the place whence they started. This is the cycle of 28 years.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup> The <a href="/wiki/Moon" title="Moon">Moon</a>-cycle of 19 years may have been meant in <a href="/wiki/Targum_Pseudo-Jonathan" title="Targum Pseudo-Jonathan">Targum Pseudo-Jonathan</a> Genesis 1:14.
+</p><p>The names of the five planets, one star and one moon [planetary satellite] are:<sup id="cite_ref-Hebrew_34-0" class="reference"><a href="#cite_note-Hebrew-34">&#91;34&#93;</a></sup>
+</p>
+<ul><li><i>Tzedeq</i> צדק, Jupiter
+<ul><li>Meaning: "righteousness", as Jupiter is the embodiment of divine influx.</li></ul></li>
+<li><i>Ma'adim</i> מאדים, Mars
+<ul><li>Meaning: "the red one"</li></ul></li>
+<li><i>Ḥammah</i> חמה, the Sun
+<ul><li>Meaning: "the hot one"</li></ul></li>
+<li><i>Kokhevet</i> כוכבת, <i>Nogah</i> נוגה or <i>Kokhav-Nogah</i> כוכב נוגה, Venus
+<ul><li>Meanings: "the she-planet", "the bright one", or "the bright planet", respectively</li></ul></li>
+<li><i>Kokhav</i> כוכב, Mercury
+<ul><li>Meaning: "the planet", since Mercury is the Principle of planetary influence, in and of itself. The Mercurial principle is that of multiplorancy. It embodies our means of adaptation, and represents the many facets of existence. In being deemed simply as "the planet", Mercury is presented as a blank slate; an open-ended modality of being.</li></ul></li>
+<li><i>Levanah</i> לבנה, the Moon
+<ul><li>Meaning: "the white one"</li></ul></li></ul>
+<p>In many languages, the names of the days of the week are derived from the names of the seven planets; each day was consecrated to the particular planet that ruled during the early hours of the morning. While Talmudists were familiar with the planets and their characteristics in <a href="/wiki/Astrology" title="Astrology">astrology</a>, they opposed their worship, so weekdays are not named in Hebrew besides for the Sabbath. Instead they are referred to by number.
+</p>
+<h3><span class="mw-headline" id="Fixed_stars_and_comets">Fixed stars and comets</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_astronomy&amp;action=edit&amp;section=8" title="Edit section: Fixed stars and comets"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Milky_Way" title="Milky Way">Milky Way</a> is called "Fire-Stream", a name borrowed from <a href="/wiki/Book_of_Daniel" title="Book of Daniel">Daniel</a> 7:10 (<i>Nehar di-nur</i>), where it may possibly have had the same signification. The statement is also made that the sting of Scorpio may be seen lying in the Milky Way.<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup> <a href="/wiki/Samuel_of_Nehardea" title="Samuel of Nehardea">Samuel</a> said: "We have it as a tradition that no comet ever passed across the face of Orion "Kesil"; for if this should happen the earth would be destroyed." When his hearers objected to this statement, saying, "Yet we see that this occurs," Samuel replied: "It only appears so; for the comet passes either above or below the star. Possibly also its radiance passes, but not its body." Again, Samuel says: "But for the warmth of Orion, the earth could not exist, because of the frigidity of Scorpio; furthermore, Orion lies near Taurus, with which the warm season begins.<sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup> The comet, because of its tail, is called <i>kokba de-shabbiṭ</i>. (rodstar). Rabbi <a href="/wiki/Joshua_ben_Hananiah" title="Joshua ben Hananiah">Joshua ben Hananiah</a> (about 100), declared that a star appears once every seventy years and leads mariners astray, hence they should at such time lay in a larger store of provisions.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup> Rapoport endeavors to prove that the path of <a href="/wiki/Halley%27s_comet" class="mw-redirect" title="Halley&#39;s comet">Halley's comet</a> had been computed by a wise rabbi.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> Samuel said: "I know all the paths of heaven, but nothing of the nature of the comet."
+</p><p>The following Biblical names of constellations are mentioned and explained: כימה = כמאה.  <a href="/wiki/Pleiades" title="Pleiades">Pleiades</a> (Biblically known as the Seven Stars) [a cluster of] about a hundred stars, and for the much disputed עש, its equally obscure Aramaic equivalent יותא (MS. M. אתא), Syriac עיותא, is given.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Post-Talmudic_times">Post-Talmudic times</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_astronomy&amp;action=edit&amp;section=9" title="Edit section: Post-Talmudic times"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Golden_age_of_Jewish_culture_in_Spain" title="Golden age of Jewish culture in Spain">Golden age of Jewish culture in Spain</a>, <a href="/wiki/Astronomy_in_medieval_Islam" class="mw-redirect" title="Astronomy in medieval Islam">Astronomy in medieval Islam</a>, and <a href="/wiki/List_of_medieval_Hebrew_astronomers" title="List of medieval Hebrew astronomers">List of medieval Hebrew astronomers</a></div>
+<p>With the revival of <a href="/wiki/Greek_astronomy" class="mw-redirect" title="Greek astronomy">Hellenistic astronomy</a> which took place during the <a href="/wiki/Islamic_Golden_Age" title="Islamic Golden Age">Islamic Golden Age</a>, Jews were intimately connected, and the <i><a href="/wiki/Almagest" title="Almagest">Almagest</a></i> is said to have been translated by <a href="/wiki/Ali_ibn_Sahl_Rabban_al-Tabari" title="Ali ibn Sahl Rabban al-Tabari">Sahal ibn Tabari</a> as early as AD 800, while one of the earliest independent students of astronomy among the Arabs was <a href="/wiki/Mashallah_ibn_Athari" title="Mashallah ibn Athari">Mashallah ibn Athari</a> (754-873?). Jews seem to have been particularly concerned with the formation of astronomical tables of practical utility to astronomers. Sind ben Ali (about 830) was one of the principal contributors to the tables drawn up under the patronage of the Caliph <a href="/wiki/Al-Mamun" class="mw-redirect" title="Al-Mamun">al-Mamun</a>. No less than twelve Jews were concerned in the <a href="/wiki/Tables_of_Toledo" class="mw-redirect" title="Tables of Toledo">Tables of Toledo</a>, drawn up about AD 1080 under the influence of <a href="/w/index.php?title=Ahmad_ibn_Zaid&amp;action=edit&amp;redlink=1" class="new" title="Ahmad ibn Zaid (page does not exist)">Ahmad ibn Zaid</a>, and the celebrated <a href="/wiki/Alfonsine_Tables" class="mw-redirect" title="Alfonsine Tables">Alfonsine Tables</a> were executed under the superintendence of <a href="/wiki/Isaac_ibn_Sid" title="Isaac ibn Sid">Isaac ibn Sid</a>, while Jews were equally concerned in the less-known tables of <a href="/wiki/Peter_IV_of_Aragon" title="Peter IV of Aragon">Peter IV of Aragon</a>.
+</p><p><a href="/wiki/Isaac_ibn_al-Ahdab" title="Isaac ibn al-Ahdab">Isaac al-Ḥadib</a> compiled astronomical tables from those of <a href="/w/index.php?title=Al-Rakkam&amp;action=edit&amp;redlink=1" class="new" title="Al-Rakkam (page does not exist)">Al-Rakkam</a>, <a href="/w/index.php?title=Al-Battam&amp;action=edit&amp;redlink=1" class="new" title="Al-Battam (page does not exist)">Al-Battam</a>, and <a href="/wiki/Ibn_al-Kammad" title="Ibn al-Kammad">Ibn al-Kammad</a>. <a href="/w/index.php?title=Joseph_ibn_Wakkar&amp;action=edit&amp;redlink=1" class="new" title="Joseph ibn Wakkar (page does not exist)">Joseph ibn Wakkar</a> (1357) drew up tables of the period 720 (Heg.); while <a href="/wiki/Mordecai_Comtino" title="Mordecai Comtino">Mordecai Comtino</a> and <a href="/wiki/Mattathia_Delacrut" class="mw-redirect" title="Mattathia Delacrut">Mattathia Delacrut</a> commented upon the Persian and Paris tables respectively; the latter were commented upon also by <a href="/wiki/Farissol_Botarel" class="mw-redirect" title="Farissol Botarel">Farissol Botarel</a>. <a href="/wiki/Abraham_ibn_Ezra" title="Abraham ibn Ezra">Abraham ibn Ezra</a> translated <a href="/w/index.php?title=Al-Mattani&amp;action=edit&amp;redlink=1" class="new" title="Al-Mattani (page does not exist)">Al-Mattani</a>'s Canons of the <a href="/wiki/Khwarizmi" class="mw-redirect" title="Khwarizmi">Khwarizmi</a> Tables, and in his introduction tells a remarkable story of a Jew in India who helped <a href="/wiki/Ya%CA%BFq%C5%ABb_ibn_%E1%B9%AC%C4%81riq" class="mw-redirect" title="Yaʿqūb ibn Ṭāriq">Jacob ben Tarik</a> to translate the Indian astronomical tables according to the Indian cycle of 432,000 years. Other tables were compiled by <a href="/wiki/Jacob_ben_Makir" class="mw-redirect" title="Jacob ben Makir">Jacob ben Makir</a>, <a href="/w/index.php?title=Emanuel_ben_Jacob&amp;action=edit&amp;redlink=1" class="new" title="Emanuel ben Jacob (page does not exist)">Emanuel ben Jacob</a>, <a href="/wiki/Jacob_ben_David_ben_Yom-%E1%B9%ACob_Poel" class="mw-redirect" title="Jacob ben David ben Yom-Ṭob Poel">Jacob ben David ben Yom-Ṭob Poel</a> (1361), <a href="/wiki/Solomon_ben_Elijah" class="mw-redirect" title="Solomon ben Elijah">Solomon ben Elijah</a> (from the Persian tables), and <a href="/wiki/Abraham_Zacuto" title="Abraham Zacuto">Abraham Zacuto</a> of <a href="/wiki/Salamanca" title="Salamanca">Salamanca</a> (about 1515).
+</p><p>The earliest to treatise of astronomy in Hebrew on a systematic plan was <a href="/wiki/Abraham_bar_%E1%B8%A4iyya" class="mw-redirect" title="Abraham bar Ḥiyya">Abraham bar Ḥiyya</a>, who wrote at Marseilles, about AD 1134. Discussions on astronomical points, especially with regard to the spheres, and disputed points in calculating the calendar occur frequently in the works of <a href="/wiki/Judah_ha-Levi" class="mw-redirect" title="Judah ha-Levi">Judah ha-Levi</a>, Abraham ibn Ezra, and <a href="/wiki/Maimonides" title="Maimonides">Maimonides</a>, while a new system of astronomy is contained in the "Wars of the Lord" ("Milḥamot Adonai") of <a href="/wiki/Levi_ben_Gershon" class="mw-redirect" title="Levi ben Gershon">Levi ben Gershon</a>.
+</p><p>Jews were especially involved as translators. <a href="/wiki/Moses_ibn_Tibbon" title="Moses ibn Tibbon">Moses ibn Tibbon</a> translated from the Arabic <a href="/wiki/Jabir_ben_Aflah" class="mw-redirect" title="Jabir ben Aflah">Jabir ben Aflah</a>'s acute criticisms of the <a href="/wiki/Ptolemaic_system" class="mw-redirect" title="Ptolemaic system">Ptolemaic system</a>, an anticipation of <a href="/wiki/Copernicus" class="mw-redirect" title="Copernicus">Copernicus</a>, and thus brought them to the notice of Maimonides. <a href="/wiki/Alhazen" class="mw-redirect" title="Alhazen">Ibn al-Haitham</a>'s Arabic compendium of astronomy was a particular favorite of Jewish astronomers; besides being translated into Spanish by Don <a href="/w/index.php?title=Abraham_Faquin&amp;action=edit&amp;redlink=1" class="new" title="Abraham Faquin (page does not exist)">Abraham Faquin</a>, it was turned into Hebrew by Jacob ben Makir and <a href="/w/index.php?title=Solomon_ibn_Pater_Cohen&amp;action=edit&amp;redlink=1" class="new" title="Solomon ibn Pater Cohen (page does not exist)">Solomon ibn Pater Cohen</a> and into Latin by <a href="/wiki/Abraham_de_Balmes" title="Abraham de Balmes">Abraham de Balmes</a>. Other translations from the Arabic were by <a href="/wiki/Jacob_Anatoli" title="Jacob Anatoli">Jacob Anatoli</a>, <a href="/w/index.php?title=Moses_Galeno&amp;action=edit&amp;redlink=1" class="new" title="Moses Galeno (page does not exist)">Moses Galeno</a>, and <a href="/wiki/Kalonymus_ben_Kalonymus" title="Kalonymus ben Kalonymus">Kalonymus ben Kalonymus</a>, bringing the Greco-Arabic astronomers to the notice of western Europe. Jacob Anatoli, for example, translated into Hebrew both the <i>Almagest</i> and <a href="/wiki/Averroes" title="Averroes">Averroes</a>' compendium of it, and this Hebrew version was itself translated into Latin by <a href="/wiki/Jacob_Christmann" class="mw-redirect" title="Jacob Christmann">Jacob Christmann</a>. Other translators from the Hebrew into Latin were Abraham de Balmes and <a href="/w/index.php?title=Kalonymus_ben_David_of_Naples&amp;action=edit&amp;redlink=1" class="new" title="Kalonymus ben David of Naples (page does not exist)">Kalonymus ben David of Naples</a>, while <a href="/wiki/David_Kalonymus_ben_Jacob" title="David Kalonymus ben Jacob">David Kalonymus ben Jacob</a>, <a href="/w/index.php?title=Ephraim_Mizra%E1%B8%A5i&amp;action=edit&amp;redlink=1" class="new" title="Ephraim Mizraḥi (page does not exist)">Ephraim Mizraḥi</a>, and <a href="/wiki/Solomon_Abigdor" title="Solomon Abigdor">Solomon Abigdor</a> translated from the Latin into Hebrew. The well-known family of translators, the Ibn Tibbons, may be especially mentioned. In practical astronomy Jewish work was even more effective. <a href="/wiki/Jacob_ben_Makir" class="mw-redirect" title="Jacob ben Makir">Jacob ben Makir</a> (who is known also as <a href="/wiki/Profiat_Tibbon" class="mw-redirect" title="Profiat Tibbon">Profiat Tibbon</a>) appears to have been professor of astronomy at <a href="/wiki/Montpellier" title="Montpellier">Montpellier</a>, about 1300, and to have invented a quadrant to serve as a substitute for the astrolabe. Levi ben Gershon was also the inventor of an astronomical instrument, and is often quoted with respect under the name of <a href="/wiki/Leon_de_Ba%C3%B1olas" class="mw-redirect" title="Leon de Bañolas">Leon de Bañolas</a>. <a href="/wiki/Bonet_de_Lattes" title="Bonet de Lattes">Bonet de Lattes</a> also invented an astronomical ring. Abraham Zacuto ben Samuel was professor of astronomy at Salamanca, and afterward astronomer-royal to <a href="/wiki/Manuel_I_of_Portugal" title="Manuel I of Portugal">Emmanuel of Portugal</a>, who had previously been advised by a Jewish astronomer, Rabbi <a href="/wiki/Joseph_Vecinho" class="mw-redirect" title="Joseph Vecinho">Joseph Vecinho</a>, a pupil of Abraham Zacuto, as to the project put before him by <a href="/wiki/Christopher_Columbus" title="Christopher Columbus">Christopher Columbus</a>, who, in carrying it out, made use of Zacuto's "Almanac" and "Tables".
+</p><p>With the <a href="/wiki/Renaissance" title="Renaissance">Renaissance</a>, Jewish work in astronomy lost in importance, as Europe could refer to the Greek astronomers without it. The chief name connected with the revival of astronomical studies on the Baltic is that of <a href="/wiki/David_Gans" title="David Gans">David Gans</a> of Prague (d. 1613), who corresponded with <a href="/wiki/Kepler" class="mw-redirect" title="Kepler">Kepler</a> and <a href="/wiki/Tycho_Brahe" title="Tycho Brahe">Tycho Brahe</a>. He was acquainted with the Copernican system, but preferred that of Ptolemy, while as late as 1714 <a href="/wiki/David_Nieto" title="David Nieto">David Nieto</a> of London still stood out against the Copernican system.
+</p><p>Other Jewish astronomers of note are <a href="/wiki/H._Goldschmidt" class="mw-redirect" title="H. Goldschmidt">H. Goldschmidt</a> (1802–1866), who discovered 14 asteroids. <a href="/wiki/Wilhelm_Beer" title="Wilhelm Beer">Wilhelm Beer</a> (1797–1850), the brother of Meyer Beer, drew one of the most accurate maps of the moon of his time.  <a href="/wiki/Moritz_Loewy" class="mw-redirect" title="Moritz Loewy">Moritz Loewy</a> (b. 1833) was director of the Paris Observatory, and the inventor of the coudé or elbow telescope, by which the stars may be observed without bending the neck back and without leaving the comfortable observatory.
+</p><p><span title="Hebrew-language romanization"><i lang="he-Latn"><a href="/wiki/Rahab_(term)" title="Rahab (term)">Rahab</a></i></span> is the official Hebrew name for the planet <a href="/wiki/Neptune_(planet)" class="mw-redirect" title="Neptune (planet)">Neptune</a> in a vote organised by the <a href="/wiki/Academy_of_the_Hebrew_Language" title="Academy of the Hebrew Language">Academy of the Hebrew Language</a> in 2009.<sup id="cite_ref-Haaretz_40-0" class="reference"><a href="#cite_note-Haaretz-40">&#91;40&#93;</a></sup><sup id="cite_ref-Hayadan.org.il_41-0" class="reference"><a href="#cite_note-Hayadan.org.il-41">&#91;41&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_astronomy&amp;action=edit&amp;section=10" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1184024115">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</style><div class="div-col" style="column-width: 30em;"> 
+<ul><li><a href="/wiki/Abraham_bar_Hiyya_Ha-Nasi" class="mw-redirect" title="Abraham bar Hiyya Ha-Nasi">Abraham bar Hiyya Ha-Nasi</a> (1130)</li>
+<li><a href="/wiki/Abraham_ibn_Ezra" title="Abraham ibn Ezra">Abraham ibn Ezra</a> (1093–1168)</li>
+<li><a href="/wiki/Abraham_Zacuto" title="Abraham Zacuto">Abraham Zacuto ben Samuel</a> (1452 – probably 1515)</li>
+<li><a href="/wiki/Babylonian_astronomy" title="Babylonian astronomy">Babylonian astronomy</a></li>
+<li><a href="/wiki/David_Gans" title="David Gans">David Gans</a> (died 1613)</li>
+<li><a href="/wiki/Elijah_Mizrachi" title="Elijah Mizrachi">Elijah Mizrachi</a> (died 1526)</li>
+<li><a href="/wiki/Genesis_creation_narrative" title="Genesis creation narrative">Genesis creation narrative</a></li>
+<li><a href="/wiki/Gersonides" title="Gersonides">Gersonides</a> (Levi ben Gershon), (1327–1344)</li>
+<li><a href="/wiki/Isaac_Israeli_ben_Joseph" title="Isaac Israeli ben Joseph">Isaac Israeli ben Joseph</a> (1310–1330)</li>
+<li><a href="/wiki/Islamic_astronomy" class="mw-redirect" title="Islamic astronomy">Islamic astronomy</a></li>
+<li><a href="/wiki/Jacob_Anatoli" title="Jacob Anatoli">Jacob Anatoli</a> (1232)</li>
+<li><a href="/wiki/Jewish_views_of_astrology" class="mw-redirect" title="Jewish views of astrology">Jewish views of astrology</a></li>
+<li><a href="/wiki/Judah_ha-Levi" class="mw-redirect" title="Judah ha-Levi">Judah ha-Levi</a> (1140)</li>
+<li><a href="/wiki/Kabbalistic_astrology" class="mw-redirect" title="Kabbalistic astrology">Kabbalistic astrology</a>
+<ul><li><i><a href="/wiki/Sefer_Raziel_HaMalakh" title="Sefer Raziel HaMalakh">Sefer Raziel HaMalakh</a></i></li>
+<li><i><a href="/wiki/Sefer_Yetzirah" title="Sefer Yetzirah">Sefer Yetzirah</a></i></li></ul></li>
+<li><a href="/wiki/Mashallah_ibn_Athari" title="Mashallah ibn Athari">Mashallah ibn Athari</a> (754–813)</li>
+<li><a href="/wiki/Moses_ibn_Tibbon" title="Moses ibn Tibbon">Moses ibn Tibbon</a> (<a href="/wiki/Floruit" title="Floruit">fl.</a> 1244–1274)</li>
+<li><a href="/wiki/Moses_Isserles" title="Moses Isserles">Moses Isserles</a> (d. 1573)</li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_astronomy&amp;action=edit&amp;section=11" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>In the Bible
+<ul><li>Gunkel's <i>Commentary on Genesis</i> (Nowack Series) may be consulted for incidental references to Biblical Astronomy;</li>
+<li>for the Babylonian views, see Jensen, <i>Kosmologie der Babylonier</i>, Strasburg, 1890, passim;</li>
+<li><a href="/wiki/Morris_Jastrow,_Jr." class="mw-redirect" title="Morris Jastrow, Jr.">Jastrow</a>, <i>Religion of Babylonia and Assyria</i>, xx.-xxii.;</li>
+<li><a href="/wiki/Joseph_Epping" title="Joseph Epping">Joseph Epping</a> and <a href="/w/index.php?title=Johann_Nepomuk_Strassmaier&amp;action=edit&amp;redlink=1" class="new" title="Johann Nepomuk Strassmaier (page does not exist)">Johann Nepomuk Strassmaier</a>, <i>Astronomisches aus Babylon</i>, Freiburg, 1889.J. Jr. P. J.</li></ul></li>
+<li>In the Talmud
+<ul><li>Winer, B. R. ii. 526–529, Leipsic, 1848;</li>
+<li>Hamburger, R. B. T. ii. 77–81, s.v. J. Sr. L. B.</li></ul></li>
+<li>"Astronomy", <i>Encyclopaedia Judaica</i>. Jerusalem: Encyclopaedia Judaica &amp; New York: Macmillan, 1971–72. 3:795-807.</li>
+<li><a href="/w/index.php?title=Tzvi_Langermann&amp;action=edit&amp;redlink=1" class="new" title="Tzvi Langermann (page does not exist)">Langermann, Y. Tzvi</a>. "Hebrew Astronomy: Deep Soundings from a Rich Tradition". In <i>Astronomy Across Cultures: The History of Non-Western Astronomy</i>, ed. <a href="/wiki/Helaine_Selin" title="Helaine Selin">Helaine Selin</a>, 555–84. Dordrecht: Kluwer Academic Publishers, 2000.</li>
+<li><a rel="nofollow" class="external text" href="http://jewishencyclopedia.com/view.jsp?artid=2052&amp;letter=A">Jewish Astronomy/Astrology</a></li></ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hebrew_astronomy&amp;action=edit&amp;section=12" title="Edit section: Notes"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1217336898">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1215172403">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a{background-size:contain}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a{background-size:contain}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a{background-size:contain}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#2C882D;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911F}html.skin-theme-clientpref-night .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-night .mw-parser-output .cs1-hidden-error{color:#f8a397}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-os .mw-parser-output .cs1-hidden-error{color:#f8a397}html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911F}}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.marquette.edu/maqom/giants.html#fnB2">"Two Types of Antedeluvian Tablets: Enochic Tradition from Historical Palea"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Two+Types+of+Antedeluvian+Tablets%3A+Enochic+Tradition+from+Historical+Palea&amp;rft_id=https%3A%2F%2Fwww.marquette.edu%2Fmaqom%2Fgiants.html%23fnB2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHebrew+astronomy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Josephus, The Antiquities of the Jews, Book I:1–3.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Isaiah 13:10; <a href="/wiki/Book_of_Amos" title="Book of Amos">Amos</a> 5:8; Job 9:9, 38:31.</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Amos l.c.; Job l.c.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Job 9:9, 38:32</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Job 37:9</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://bible.oremus.org/?passage=Amos%205:26&amp;version=nrsv">Amos 5:26</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://biblehub.com/hebrew/3594.htm">"Strong's Hebrew: 3594. כִּיּוּן (Kiyyun) -- a heathen god"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Strong%27s+Hebrew%3A+3594.+%D7%9B%D6%B4%D6%BC%D7%99%D6%BC%D7%95%D6%BC%D7%9F+%28Kiyyun%29+--+a+heathen+god&amp;rft_id=http%3A%2F%2Fbiblehub.com%2Fhebrew%2F3594.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHebrew+astronomy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.biblegateway.com/passage/?book_id=30&amp;chapter=7&amp;verse=18&amp;version=31&amp;context=verse">Biblegateway, Jeremiah 7, 18</a>.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Horayot 10a</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="/wiki/Pirkei_Avot" title="Pirkei Avot">Pirkei Avot</a> 3:18</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Sukkah 28a</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Isaiah 5:12</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Deuteronomy 4:6</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Shabbat 75a</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Yerushalmi Rosh Hashana 2 58b; Bavli Rosh Hashana 25a</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://bible.oremus.org/?passage=Genesis%201:14&amp;version=nrsv">Genesis 1:14</a></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">(<i>12 Signs, 12 Sons: Astrology in the Bible</i>, David Womack, Harper &amp; Row, San Francisco 1978, pg 43)</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Yerushalmi Berachot 1 2c; <a href="/wiki/Targum_Pseudo-Jonathan" title="Targum Pseudo-Jonathan">Targum Pseudo-Jonathan</a> Genesis 1:6</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Yerushalmi Berachot 1 2c, bottom; Pesachim 94a</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Yerushalmi Rosh Hashana 2 58a</span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Tamid 32a</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a href="/wiki/Genesis_Rabbah" title="Genesis Rabbah">Genesis Rabbah</a> 2:4; <a href="/wiki/Tosefta" title="Tosefta">Tosefta</a> Hagigah 2:5</span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Hagigah 12b; Yerushalmi Hagigah 2 77a</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Eruvin 56a</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a href="/wiki/Genesis_Rabbah" title="Genesis Rabbah">Genesis Rabbah</a> 34:11</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text">Genesis Rabbah 6:6, and elsewhere</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text">Exodus Rabbah 15:26</span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Pesachim 94b</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">Yerushalmi Rosh Hashana 2 58a</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text">Genesis Rabbah 10:4</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Sanhedrin 91b, 108b</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">Berachot 59b</span>
+</li>
+<li id="cite_note-Hebrew-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hebrew_34-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFStieglitz1981" class="citation journal cs1">Stieglitz, Robert (Apr 1981). "The Hebrew Names of the Seven Planets". <i>Journal of Near Eastern Studies</i>. <b>40</b> (2): 135–137. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1086%2F372867">10.1086/372867</a>. <a href="/wiki/JSTOR_(identifier)" class="mw-redirect" title="JSTOR (identifier)">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="https://www.jstor.org/stable/545038">545038</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:162579411">162579411</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Near+Eastern+Studies&amp;rft.atitle=The+Hebrew+Names+of+the+Seven+Planets&amp;rft.volume=40&amp;rft.issue=2&amp;rft.pages=135-137&amp;rft.date=1981-04&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A162579411%23id-name%3DS2CID&amp;rft_id=https%3A%2F%2Fwww.jstor.org%2Fstable%2F545038%23id-name%3DJSTOR&amp;rft_id=info%3Adoi%2F10.1086%2F372867&amp;rft.aulast=Stieglitz&amp;rft.aufirst=Robert&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHebrew+astronomy" class="Z3988"></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text">Hagigah 13b; <a href="/wiki/Exodus_Rabbah" title="Exodus Rabbah">Exodus Rabbah</a> 15:6, נהר אש; Berachot 58b</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text">Yerushalmi Berachot 9 13c; Bavli Berachot 58b</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text">Horayot 10a</span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text">Epistle to Slonimski in "Toledot ha-Shamayim," Warsaw, 1838</span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text">Berachot 58b</span>
+</li>
+<li id="cite_note-Haaretz-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-Haaretz_40-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.haaretz.com/uranus-and-neptune-get-hebrew-names-at-last-1.1053">"Uranus and Neptune get Hebrew names at last"</a>, Haaretz.com</span>
+</li>
+<li id="cite_note-Hayadan.org.il-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hayadan.org.il_41-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hayadan.org.il/hebrew-names-to-uranus-and-neptune-3112090">"Hebrew names to Uranus and Neptune"</a>, Hayadan.org.il</span>
+</li>
+</ol></div></div>
+<p><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/12px-PD-icon.svg.png" decoding="async" width="12" height="12" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/18px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/24px-PD-icon.svg.png 2x" data-file-width="196" data-file-height="196" /></span></span>&#160;This article&#160;incorporates text from a publication now in the <a href="/wiki/Public_domain" title="Public domain">public domain</a>:&#160;<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFSinger1901–1906" class="citation encyclopaedia cs1"><a href="/wiki/Isidore_Singer" title="Isidore Singer">Singer, Isidore</a>; et&#160;al., eds. (1901–1906). <a rel="nofollow" class="external text" href="http://www.jewishencyclopedia.com/view.jsp?letter=A&amp;artid=2052">"Astronomy"</a>. <i><a href="/wiki/The_Jewish_Encyclopedia" title="The Jewish Encyclopedia">The Jewish Encyclopedia</a></i>. New York: Funk &amp; Wagnalls.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Astronomy&amp;rft.btitle=The+Jewish+Encyclopedia&amp;rft.place=New+York&amp;rft.pub=Funk+%26+Wagnalls&amp;rft.date=1901%2F1906&amp;rft_id=http%3A%2F%2Fwww.jewishencyclopedia.com%2Fview.jsp%3Fletter%3DA%26artid%3D2052&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHebrew+astronomy" class="Z3988"></span>
+</p>
+<div class="navbox-styles"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Astronomy" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="text-align: center;"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Astronomy_navbox" title="Template:Astronomy navbox"><abbr title="View this template" style="text-align: center;;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Astronomy_navbox" title="Template talk:Astronomy navbox"><abbr title="Discuss this template" style="text-align: center;;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Astronomy_navbox" title="Special:EditPage/Template:Astronomy navbox"><abbr title="Edit this template" style="text-align: center;;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Astronomy" style="font-size:114%;margin:0 4em"><a href="/wiki/Astronomy" title="Astronomy">Astronomy</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="text-align: center;"><div>
+<ul><li><span class="nowrap"><a href="/wiki/Outline_of_astronomy" title="Outline of astronomy">Outline</a></span></li>
+<li><span class="nowrap"><a href="/wiki/History_of_astronomy" title="History of astronomy">History</a></span>
+<ul><li><span class="nowrap"><a href="/wiki/Timeline_of_astronomy" title="Timeline of astronomy">Timeline</a></span></li></ul></li>
+<li><span class="nowrap"><a href="/wiki/Astronomer" title="Astronomer">Astronomer</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Astronomical_symbols" title="Astronomical symbols">Astronomical symbols</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Astronomical_object" title="Astronomical object">Astronomical object</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Glossary_of_astronomy" title="Glossary of astronomy">Glossary</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Astronomy by</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal; text-align: center;">Manner</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Amateur_astronomy" title="Amateur astronomy">Amateur</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Observational_astronomy" title="Observational astronomy">Observational</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Sidewalk_astronomy" title="Sidewalk astronomy">Sidewalk</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Space_telescope" title="Space telescope">Space telescope</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal; text-align: center;">Celestial subject</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Galactic_astronomy" title="Galactic astronomy">Galactic</a> / <a href="/wiki/Extragalactic_astronomy" title="Extragalactic astronomy">Extragalactic</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Solar_System" title="Solar System">Local system</a></span>
+<ul><li><span class="nowrap"><a href="/wiki/Sun" title="Sun">Solar</a></span></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal; text-align: center;">EM methods</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Radio_astronomy" title="Radio astronomy">Radio</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Submillimetre_astronomy" title="Submillimetre astronomy">Submillimetre</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Infrared_astronomy" title="Infrared astronomy">Infrared</a> (<span style="font-size:85%;"><a href="/wiki/Far-infrared_astronomy" title="Far-infrared astronomy">Far-infrared</a></span>)</span></li>
+<li><span class="nowrap"><a href="/wiki/Visible-light_astronomy" title="Visible-light astronomy">Visible-light <span style="font-size:85%;">(optical)</span></a></span></li>
+<li><span class="nowrap"><a href="/wiki/Ultraviolet_astronomy" title="Ultraviolet astronomy">Ultraviolet</a></span></li>
+<li><span class="nowrap"><a href="/wiki/X-ray_astronomy" title="X-ray astronomy">X-ray</a></span>
+<ul><li><span class="nowrap"><a href="/wiki/History_of_X-ray_astronomy" title="History of X-ray astronomy">History</a></span></li></ul></li>
+<li><span class="nowrap"><a href="/wiki/Gamma-ray_astronomy" title="Gamma-ray astronomy">Gamma-ray</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal; text-align: center;">Other methods</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Neutrino_astronomy" title="Neutrino astronomy">Neutrino</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic rays</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Gravitational-wave_astronomy" title="Gravitational-wave astronomy">Gravitational radiation</a></span></li>
+<li><span class="nowrap"><a href="/wiki/High-energy_astronomy" title="High-energy astronomy">High-energy</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Radar_astronomy" title="Radar astronomy">Radar</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Spherical_astronomy" title="Spherical astronomy">Spherical</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Multi-messenger_astronomy" title="Multi-messenger astronomy">Multi-messenger</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;font-weight:normal; text-align: center;"><a href="/wiki/Cultural_astronomy" title="Cultural astronomy">Culture</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Australian_Aboriginal_astronomy" title="Australian Aboriginal astronomy">Australian Aboriginal</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Babylonian_astronomy" title="Babylonian astronomy">Babylonian</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Chinese_astronomy" title="Chinese astronomy">Chinese</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Egyptian_astronomy" title="Egyptian astronomy">Egyptian</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Ancient_Greek_astronomy" title="Ancient Greek astronomy">Greek</a></span></li>
+<li><span class="nowrap"><a class="mw-selflink selflink">Hebrew</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Indian_astronomy" title="Indian astronomy">Indian</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Inuit_astronomy" title="Inuit astronomy">Inuit</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Maya_astronomy" title="Maya astronomy">Maya</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Astronomy_in_the_medieval_Islamic_world" title="Astronomy in the medieval Islamic world">Medieval Islamic</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Persian_astronomy" title="Persian astronomy">Persian</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Astronomy_in_Serbia" title="Astronomy in Serbia">Serbian</a></span>
+<ul><li><span class="nowrap"><a href="/wiki/Serbian_folk_astronomy" title="Serbian folk astronomy">folk</a></span></li></ul></li>
+<li><span class="nowrap"><a href="/wiki/Tibetan_astronomy" title="Tibetan astronomy">Tibetan</a></span></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Optical_telescope" title="Optical telescope">Optical<br />telescopes</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/List_of_optical_telescopes" title="List of optical telescopes">List</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Category:Telescopes" title="Category:Telescopes">Category</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Extremely_large_telescope" title="Extremely large telescope">Extremely large telescope</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Gran_Telescopio_Canarias" title="Gran Telescopio Canarias">Gran Telescopio Canarias</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Hubble_Space_Telescope" title="Hubble Space Telescope">Hubble Space Telescope</a></span></li>
+<li><span class="nowrap"><a href="/wiki/W._M._Keck_Observatory" title="W. M. Keck Observatory">Keck Observatory</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Large_Binocular_Telescope" title="Large Binocular Telescope">Large Binocular Telescope</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Southern_African_Large_Telescope" title="Southern African Large Telescope">Southern African Large Telescope</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Very_Large_Telescope" title="Very Large Telescope">Very Large Telescope</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Related</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/Archaeoastronomy" title="Archaeoastronomy">Archaeoastronomy</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Astrobiology" title="Astrobiology">Astrobiology</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Astrochemistry" title="Astrochemistry">Astrochemistry</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Astrophysics" title="Astrophysics">Astrophysics</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Astrology_and_astronomy" title="Astrology and astronomy">Astrology and astronomy</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Astrometry" title="Astrometry">Astrometry</a></span></li>
+<li><span class="nowrap"><i><a href="/wiki/Astronomers_Monument" title="Astronomers Monument">Astronomers Monument</a></i></span></li>
+<li><span class="nowrap"><a href="/wiki/Astroparticle_physics" title="Astroparticle physics">Astroparticle physics</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Binoculars" title="Binoculars">Binoculars</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Constellation" title="Constellation">Constellation</a></span>
+<ul><li><span class="nowrap"><a href="/wiki/IAU_designated_constellations" title="IAU designated constellations">IAU</a></span></li></ul></li>
+<li><span class="nowrap"><a href="/wiki/Photometry_(astronomy)" title="Photometry (astronomy)">Photometry</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Planetarium" title="Planetarium">Planetarium</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Planetary_geology" title="Planetary geology">Planetary geology</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Physical_cosmology" title="Physical cosmology">Physical cosmology</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Quantum_cosmology" title="Quantum cosmology">Quantum cosmology</a></span></li>
+<li><span class="nowrap"><a href="/wiki/List_of_astronomers" title="List of astronomers">List of astronomers</a></span>
+<ul><li><span class="nowrap"><a href="/wiki/List_of_French_astronomers" title="List of French astronomers">French</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Astronomy_in_the_medieval_Islamic_world#Notable_astronomers" title="Astronomy in the medieval Islamic world">Medieval Islamic</a></span></li>
+<li><span class="nowrap"><a href="/wiki/List_of_Russian_astronomers_and_astrophysicists" title="List of Russian astronomers and astrophysicists">Russian</a></span></li>
+<li><span class="nowrap"><a href="/wiki/List_of_women_astronomers" title="List of women astronomers">Women</a></span></li></ul></li>
+<li><span class="nowrap"><a href="/wiki/Telescope" title="Telescope">Telescope</a></span>
+<ul><li><span class="nowrap"><a href="/wiki/X-ray_telescope" title="X-ray telescope">X-ray telescope</a></span></li>
+<li><span class="nowrap"><a href="/wiki/History_of_the_telescope" title="History of the telescope">history</a></span></li>
+<li><span class="nowrap"><a href="/wiki/Lists_of_telescopes" title="Lists of telescopes">lists</a></span></li></ul></li>
+<li><span class="nowrap"><a href="/wiki/Zodiac" title="Zodiac">Zodiac</a></span></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="text-align: center;"><div>
+<ul><li><span class="nowrap"><span class="noviewer" typeof="mw:File"><span title="Category"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <a href="/wiki/Category:Astronomy" title="Category:Astronomy">Category</a></span></li>
+<li><span class="nowrap"><span class="noviewer" typeof="mw:File"><span title="Commons page"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" decoding="async" width="12" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span> <a href="https://commons.wikimedia.org/wiki/Category:Astronomy" class="extiw" title="commons:Category:Astronomy">Commons</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw2333
+Cached time: 20240415201632
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.443 seconds
+Real time usage: 0.605 seconds
+Preprocessor visited node count: 2002/1000000
+Post‐expand include size: 53280/2097152 bytes
+Template argument size: 2993/2097152 bytes
+Highest expansion depth: 12/100
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 34074/5000000 bytes
+Lua time usage: 0.281/10.000 seconds
+Lua memory usage: 13323654/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  518.845      1 -total
+ 21.47%  111.405      1 Template:Transliteration
+ 20.64%  107.088      1 Template:Reflist
+ 15.96%   82.794      2 Template:Navbox
+ 15.42%   80.017      1 Template:Astronomy_navbox
+ 15.36%   79.674      1 Template:Short_description
+ 14.89%   77.239      2 Template:Cite_web
+ 10.88%   56.476      3 Template:Citation_needed
+  9.48%   49.176      2 Template:Pagetype
+  9.05%   46.959      3 Template:Fix
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2408446-0!canonical and timestamp 20240415201632 and revision id 1192723197. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hebrew_astronomy&amp;oldid=1192723197">https://en.wikipedia.org/w/index.php?title=Hebrew_astronomy&amp;oldid=1192723197</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ancient_astronomy" title="Category:Ancient astronomy">Ancient astronomy</a></li><li><a href="/wiki/Category:Religious_cosmologies" title="Category:Religious cosmologies">Religious cosmologies</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2014" title="Category:Articles with unsourced statements from November 2014">Articles with unsourced statements from November 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2011" title="Category:Articles with unsourced statements from February 2011">Articles with unsourced statements from February 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2018" title="Category:Articles with unsourced statements from February 2018">Articles with unsourced statements from February 2018</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1906_Jewish_Encyclopedia" title="Category:Wikipedia articles incorporating a citation from the 1906 Jewish Encyclopedia">Wikipedia articles incorporating a citation from the 1906 Jewish Encyclopedia</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1906_Jewish_Encyclopedia_without_a_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1906 Jewish Encyclopedia without a Wikisource reference">Wikipedia articles incorporating a citation from the 1906 Jewish Encyclopedia without a Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_the_1906_Jewish_Encyclopedia" title="Category:Wikipedia articles incorporating text from the 1906 Jewish Encyclopedia">Wikipedia articles incorporating text from the 1906 Jewish Encyclopedia</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 30 December 2023, at 23:53<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Hebrew_astronomy&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-95455fc5b-jrnzz","wgBackendResponseTime":168,"wgPageParseReport":{"limitreport":{"cputime":"0.443","walltime":"0.605","ppvisitednodes":{"value":2002,"limit":1000000},"postexpandincludesize":{"value":53280,"limit":2097152},"templateargumentsize":{"value":2993,"limit":2097152},"expansiondepth":{"value":12,"limit":100},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":34074,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  518.845      1 -total"," 21.47%  111.405      1 Template:Transliteration"," 20.64%  107.088      1 Template:Reflist"," 15.96%   82.794      2 Template:Navbox"," 15.42%   80.017      1 Template:Astronomy_navbox"," 15.36%   79.674      1 Template:Short_description"," 14.89%   77.239      2 Template:Cite_web"," 10.88%   56.476      3 Template:Citation_needed","  9.48%   49.176      2 Template:Pagetype","  9.05%   46.959      3 Template:Fix"]},"scribunto":{"limitreport-timeusage":{"value":"0.281","limit":"10.000"},"limitreport-memusage":{"value":13323654,"limit":52428800}},"cachereport":{"origin":"mw2333","timestamp":"20240415201632","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Hebrew astronomy","url":"https:\/\/en.wikipedia.org\/wiki\/Hebrew_astronomy","sameAs":"http:\/\/www.wikidata.org\/entity\/Q5695906","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q5695906","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-08-08T20:29:54Z","dateModified":"2023-12-30T23:53:31Z","headline":"astronomy written in Hebrew or by Hebrew speakers"}</script>
+</body>
+</html>

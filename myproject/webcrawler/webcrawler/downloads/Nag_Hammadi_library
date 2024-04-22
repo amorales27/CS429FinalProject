@@ -1,0 +1,1518 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Nag Hammadi library - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"ac7cf4c1-0400-49fd-88d6-387cc6a6e84f","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nag_Hammadi_library","wgTitle":"Nag Hammadi library","wgCurRevisionId":1210691916,"wgRevisionId":1210691916,"wgArticleId":210119,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Harv and Sfn no-target errors","Webarchive template wayback links","Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource reference","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Articles with short description","Short description is different from Wikidata",
+"Wikipedia articles needing clarification from December 2021","All articles with unsourced statements","Articles with unsourced statements from April 2009","Articles with FAST identifiers","Articles with VIAF identifiers","Articles with BIBSYS identifiers","Articles with BNE identifiers","Articles with BNF identifiers","Articles with BNFdata identifiers","Articles with CANTICN identifiers","Articles with GND identifiers","Articles with J9U identifiers","Articles with LCCN identifiers","Articles with Libris identifiers","Articles with NKC identifiers","Articles with SUDOC identifiers","Nag Hammadi library","1945 archaeological discoveries","Archaeological corpora","Coptic literature","Gnostic Gospels","Gnostic texts","Lists of manuscripts","Religion in Egypt","Papyrus"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Nag_Hammadi_library","wgRelevantArticleId":210119,"wgIsProbablyEditable":true,
+"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q222999","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":
+false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head"
+,"mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.25">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/42/El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="1200">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/4/42/El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="800">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png/640px-El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="640">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Nag Hammadi library - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Nag_Hammadi_library">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Nag_Hammadi_library&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Nag_Hammadi_library">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Nag_Hammadi_library rootpage-Nag_Hammadi_library skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nag+Hammadi+library" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Nag+Hammadi+library" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Nag+Hammadi+library" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Nag+Hammadi+library" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Discovery"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Discovery">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Discovery</div>
+		</a>
+		
+		<ul id="toc-Discovery-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Translation"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Translation">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Translation</div>
+		</a>
+		
+		<ul id="toc-Translation-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-List_of_codices_and_tractates"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#List_of_codices_and_tractates">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>List of codices and tractates</div>
+		</a>
+		
+		<ul id="toc-List_of_codices_and_tractates-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Dating"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Dating">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Dating</div>
+		</a>
+		
+		<ul id="toc-Dating-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Notes"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Notes">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Notes</div>
+		</a>
+		
+		<ul id="toc-Notes-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Further_reading"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Further_reading">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>Further reading</div>
+		</a>
+		
+		<ul id="toc-Further_reading-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Nag Hammadi library</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 40 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-40" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">40 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Nag_Hammadi-geskrifte" title="Nag Hammadi-geskrifte – Afrikaans" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%A7%D8%AA_%D9%86%D8%AC%D8%B9_%D8%AD%D9%85%D8%A7%D8%AF%D9%8A" title="مخطوطات نجع حمادي – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%BE%D1%82_%D0%9D%D0%B0%D0%B3_%D0%A5%D0%B0%D0%BC%D0%B0%D0%B4%D0%B8" title="Библиотека от Наг Хамади – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Manuscrits_de_Nag_Hammadi" title="Manuscrits de Nag Hammadi – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Rukopisy_z_Nag_Hamm%C3%A1d%C3%AD" title="Rukopisy z Nag Hammádí – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Nag_Hammadi-teksterne" title="Nag Hammadi-teksterne – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Nag-Hammadi-Schriften" title="Nag-Hammadi-Schriften – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Nag_Hammadi_kirjad" title="Nag Hammadi kirjad – Estonian" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%92%CE%B9%CE%B2%CE%BB%CE%B9%CE%BF%CE%B8%CE%AE%CE%BA%CE%B7_%CE%9D%CE%B1%CE%B3%CE%BA_%CE%A7%CE%B1%CE%BC%CE%B1%CE%BD%CF%84%CE%AF" title="Βιβλιοθήκη Ναγκ Χαμαντί – Greek" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Manuscritos_de_Nag_Hammadi" title="Manuscritos de Nag Hammadi – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Kodeksoj_de_Nag_Hammadi" title="Kodeksoj de Nag Hammadi – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Biblioth%C3%A8que_de_Nag_Hammadi" title="Bibliothèque de Nag Hammadi – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Leabharlann_Nag_Hammadi" title="Leabharlann Nag Hammadi – Irish" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EB%82%98%EA%B7%B8%ED%95%A8%EB%A7%88%EB%94%94_%EB%AC%B8%EC%84%9C" title="나그함마디 문서 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Nag_Hammadi" title="Nag Hammadi – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Perpustakaan_Nag_Hammadi" title="Perpustakaan Nag Hammadi – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Codici_di_Nag_Hammadi" title="Codici di Nag Hammadi – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%A4%D7%A8%D7%99%D7%99%D7%AA_%D7%A0%D7%92%D7%A2_%D7%97%D7%9E%D7%90%D7%93%D7%99" title="ספריית נגע חמאדי – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Nag_Hamad%C5%BEio_biblioteka" title="Nag Hamadžio biblioteka – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Nag_Hamm%C3%A1di-i_lelet" title="Nag Hammádi-i lelet – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-mg mw-list-item"><a href="https://mg.wikipedia.org/wiki/Vondrom-bokin%27_i_Nag_Hammadi" title="Vondrom-bokin&#039; i Nag Hammadi – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target"><span>Malagasy</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%A8%E0%B4%BE%E0%B4%97%E0%B5%8D_%E0%B4%B9%E0%B4%AE%E0%B5%8D%E0%B4%AE%E0%B4%A6%E0%B4%BF_%E0%B4%97%E0%B5%8D%E0%B4%B0%E0%B4%A8%E0%B5%8D%E0%B4%A5%E0%B4%B6%E0%B5%87%E0%B4%96%E0%B4%B0%E0%B4%82" title="നാഗ് ഹമ്മദി ഗ്രന്ഥശേഖരം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%A7%D8%AA_%D9%86%D8%AC%D8%B9_%D8%AD%D9%85%D8%A7%D8%AF%D9%89" title="مخطوطات نجع حمادى – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Nag_Hammadigeschriften" title="Nag Hammadigeschriften – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B0%E3%83%BB%E3%83%8F%E3%83%9E%E3%83%87%E3%82%A3%E5%86%99%E6%9C%AC" title="ナグ・ハマディ写本 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Nag_Hammadi-skriftene" title="Nag Hammadi-skriftene – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Bibliot%C3%A8ca_de_Nag_Hammadi" title="Bibliotèca de Nag Hammadi – Occitan" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Biblioteka_z_Nad%C5%BC_Hammadi" title="Biblioteka z Nadż Hammadi – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Biblioteca_de_Nague_Hamadi" title="Biblioteca de Nague Hamadi – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru badge-Q17437798 badge-goodarticle mw-list-item" title="good article badge"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9D%D0%B0%D0%B3-%D0%A5%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4%D0%B8" title="Библиотека Наг-Хаммади – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sk badge-Q17437798 badge-goodarticle mw-list-item" title="good article badge"><a href="https://sk.wikipedia.org/wiki/Rukopisy_z_Nag_Hamm%C3%A1d%C3%AD" title="Rukopisy z Nag Hammádí – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9D%D0%B0%D0%B3_%D0%A5%D0%B0%D0%BC%D0%B0%D0%B4%D0%B8" title="Библиотека Наг Хамади – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Knji%C5%BEnica_Nag_Hamadi" title="Knjižnica Nag Hamadi – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Nag_Hammadin_kirjasto" title="Nag Hammadin kirjasto – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Nag_Hammadi-biblioteket" title="Nag Hammadi-biblioteket – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Aklatang_Nag_Hammadi" title="Aklatang Nag Hammadi – Tagalog" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%AD%E0%B8%AA%E0%B8%A1%E0%B8%B8%E0%B8%94%E0%B8%99%E0%B8%B1%E0%B8%81%E0%B8%AE%E0%B8%B1%E0%B8%A1%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B8%B5" title="หอสมุดนักฮัมมาดี – Thai" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Nag_Hammadi_k%C3%BCt%C3%BCphanesi" title="Nag Hammadi kütüphanesi – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%91%D1%96%D0%B1%D0%BB%D1%96%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%9D%D0%B0%D0%B3-%D0%A5%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4%D1%96" title="Бібліотека Наг-Хаммаді – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%8B%BF%E6%88%88%E7%91%AA%E7%AC%AC%E7%B6%93%E9%9B%86" title="拿戈瑪第經集 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q222999#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Nag_Hammadi_library" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Nag_Hammadi_library" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Nag_Hammadi_library"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Nag_Hammadi_library&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Nag_Hammadi_library&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Nag_Hammadi_library"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Nag_Hammadi_library&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Nag_Hammadi_library&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Nag_Hammadi_library" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Nag_Hammadi_library" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Nag_Hammadi_library&amp;oldid=1210691916" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Nag_Hammadi_library&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Nag_Hammadi_library&amp;id=1210691916&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNag_Hammadi_library"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNag_Hammadi_library"><span>Download QR code</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q222999" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Nag_Hammadi_library&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Nag_Hammadi_library&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Nag_Hammadi_texts" hreflang="en"><span>Wikimedia Commons</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://en.wikiquote.org/wiki/Nag_Hammadi_library" hreflang="en"><span>Wikiquote</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Collection of Gnostic and Christian texts</div>
+<figure class="mw-default-size" typeof="mw:File/Thumb"><a href="/wiki/File:El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png/260px-El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png" decoding="async" width="260" height="260" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png/390px-El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png/520px-El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png 2x" data-file-width="800" data-file-height="800" /></a><figcaption>Codex II, one of the most prominent Gnostic writings found in the Nag Hammadi library, which contains the end of the <a href="/wiki/Gospel_of_Thomas" title="Gospel of Thomas">Gospel of Thomas</a> and the beginning of the <a href="/wiki/Apocryphon_of_John" title="Apocryphon of John">Apocryphon of John</a>.</figcaption></figure>
+<style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1045330069">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}</style><style data-mw-deduplicate="TemplateStyles:r886047488">.mw-parser-output .nobold{font-weight:normal}</style><table class="sidebar sidebar-collapse nomobile nowraplinks collapsible"><tbody><tr><th class="sidebar-title" style="font-size:92%;"><span style="padding-left:2.25em;">&#160;</span> 
+<div style="font-size:120%;line-height:1.2em; padding-bottom:0.4em;"> <span class="nobold">Part of <a href="/wiki/Category:Gnosticism" title="Category:Gnosticism">a series</a> on</span><br /><span style="font-size:150%;"><a href="/wiki/Gnosticism" title="Gnosticism">Gnosticism</a></span></div></th></tr><tr><td class="sidebar-image"><span class="notpageimage" typeof="mw:File"><a href="/wiki/File:Abraxas_gem_scan.svg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Abraxas_gem_scan.svg/100px-Abraxas_gem_scan.svg.png" decoding="async" width="100" height="131" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Abraxas_gem_scan.svg/150px-Abraxas_gem_scan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Abraxas_gem_scan.svg/200px-Abraxas_gem_scan.svg.png 2x" data-file-width="280" data-file-height="366" /></a></span></td></tr><tr><td class="sidebar-content hlist">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center">Gnostic concepts</div><div class="sidebar-list-content mw-collapsible-content">
+<ul><li><a href="/wiki/Adam_kasia" class="mw-redirect" title="Adam kasia">Adam kasia</a></li>
+<li><a href="/wiki/Adam_pagria" class="mw-redirect" title="Adam pagria">Adam pagria</a></li>
+<li><a href="/wiki/Aeon_(Gnosticism)" title="Aeon (Gnosticism)">Aeon</a></li>
+<li><a href="/wiki/Anima_mundi" title="Anima mundi">Anima mundi</a></li>
+<li><a href="/wiki/Archon_(Gnosticism)" title="Archon (Gnosticism)">Archon</a></li>
+<li><a href="/wiki/Barbelo" title="Barbelo">Barbelo</a></li>
+<li><a href="/wiki/Demiurge" title="Demiurge">Demiurge</a></li>
+<li><a href="/wiki/Five_Seals" title="Five Seals">Five Seals</a></li>
+<li><a href="/wiki/Gnosis" title="Gnosis">Gnosis</a></li>
+<li><a href="/wiki/Kenoma" title="Kenoma">Kenoma</a></li>
+<li><a href="/wiki/Luminary_(Gnosticism)" title="Luminary (Gnosticism)">Luminary</a></li>
+<li><a href="/wiki/Manda_(Mandaeism)" title="Manda (Mandaeism)">Manda</a></li>
+<li><a href="/wiki/Monad_(Gnosticism)" title="Monad (Gnosticism)">Monad</a></li>
+<li><a href="/wiki/Ogdoad_(Gnosticism)" title="Ogdoad (Gnosticism)">Ogdoad</a></li>
+<li><a href="/wiki/Pleroma" title="Pleroma">Pleroma</a></li>
+<li><a href="/wiki/Sophia_(Gnosticism)" title="Sophia (Gnosticism)">Sophia</a></li>
+<li><a href="/wiki/Uthra" title="Uthra">Uthra</a></li>
+<li><a href="/wiki/World_of_Light" title="World of Light">World of Light</a></li>
+<li><a href="/wiki/World_of_Darkness_(Mandaeism)" title="World of Darkness (Mandaeism)">World of Darkness</a></li>
+<li><a href="/wiki/Yaldabaoth" title="Yaldabaoth">Yaldabaoth</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content hlist">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center"><a href="/wiki/List_of_Gnostic_sects" title="List of Gnostic sects">Gnostic sects</a> and founders</div><div class="sidebar-list-content mw-collapsible-content">
+<ul><li><a href="/wiki/List_of_Gnostic_sects" title="List of Gnostic sects">List of Gnostic sects</a></li></ul>
+<hr />
+<dl><dt><a href="/wiki/Proto-Gnosticism" title="Proto-Gnosticism">Proto-Gnosticism</a></dt></dl>
+<ul><li><a href="/wiki/Magh%C4%81riya" title="Maghāriya">Maghāriya</a></li>
+<li><a href="/wiki/Thomasines" title="Thomasines">Thomasines</a></li></ul>
+<dl><dt>Judean / Israelite</dt></dl>
+<ul><li><a href="/wiki/Adam" title="Adam">Adam</a>
+<ul><li><a href="/wiki/Mandaeism" title="Mandaeism">Mandaeism</a></li></ul></li>
+<li>Elksai
+<ul><li><a href="/wiki/Elkasaites" class="mw-redirect" title="Elkasaites">Elkasaites</a></li></ul></li>
+<li>Samaritan Baptist
+<ul><li><a href="/wiki/Dositheos_(Samaritan)" title="Dositheos (Samaritan)">Dositheos</a></li>
+<li><a href="/wiki/Simon_Magus" title="Simon Magus">Simon Magus</a> (<a href="/wiki/Simonians" title="Simonians">Simonians</a>)</li>
+<li><a href="/wiki/Menander_(gnostic)" class="mw-redirect" title="Menander (gnostic)">Menander</a></li>
+<li><a href="/wiki/Quqites" title="Quqites">Quqites</a></li></ul></li></ul>
+<dl><dt>Christian Gnosticism</dt></dl>
+<ul><li><a href="/wiki/Apelles_(gnostic)" class="mw-redirect" title="Apelles (gnostic)">Apelles</a></li>
+<li><a href="/wiki/Cerinthus" title="Cerinthus">Cerinthus</a></li>
+<li><a href="/wiki/Justin_(gnostic)" class="mw-redirect" title="Justin (gnostic)">Justin</a></li>
+<li><a href="/wiki/Marcion_of_Sinope" title="Marcion of Sinope">Marcion</a>
+<ul><li><a href="/wiki/Marcionism" title="Marcionism">Marcionism</a></li></ul></li>
+<li><a href="/wiki/Nicolaism" title="Nicolaism">Nicolaism</a></li>
+<li><a href="/wiki/Perates" title="Perates">Perates</a></li>
+<li><a href="/wiki/Saturninus_of_Antioch" title="Saturninus of Antioch">Saturninus</a></li></ul>
+<dl><dt>Syrian-Egyptian</dt></dl>
+<ul><li><a href="/wiki/Ophites" title="Ophites">Ophites</a></li>
+<li><a href="/wiki/Sethianism" title="Sethianism">Sethianism</a></li></ul>
+<dl><dt>Alexandrian</dt></dl>
+<ul><li><a href="/wiki/Basilides" title="Basilides">Basilides</a>
+<ul><li><a href="/wiki/Basilideans" title="Basilideans">Basilideans</a></li></ul></li></ul>
+<dl><dt>Roman</dt></dl>
+<ul><li><a href="/wiki/Valentinus_(Gnostic)" title="Valentinus (Gnostic)">Valentinus</a>
+<ul><li><a href="/wiki/Valentinianism" title="Valentinianism">Valentinianism</a></li></ul></li>
+<li><a href="/wiki/Marcus_(Marcosian)" title="Marcus (Marcosian)">Marcus</a>
+<ul><li><a href="/wiki/Marcosians" title="Marcosians">Marcosians</a></li></ul></li>
+<li><a href="/wiki/Florinus_(Gnostic)" title="Florinus (Gnostic)">Florinus</a></li></ul>
+<dl><dt>Persian Gnosticism</dt></dl>
+<ul><li><a href="/wiki/Mani_(prophet)" title="Mani (prophet)">Mani</a>
+<ul><li><a href="/wiki/Manichaeism" title="Manichaeism">Manichaeism</a></li></ul></li></ul>
+<dl><dt>Chinese Gnosticism</dt></dl>
+<ul><li><a href="/wiki/Chinese_Manichaeism" title="Chinese Manichaeism">Chinese Manichaeism</a></li></ul>
+<dl><dt>Islamic Gnosticism</dt></dl>
+<ul><li><a href="/wiki/Druze" title="Druze">Druze</a></li>
+<li><a href="/wiki/Nusayrism" class="mw-redirect" title="Nusayrism">Nusayrism</a></li></ul>
+<dl><dt>Modern</dt></dl>
+<ul><li><a href="/wiki/Gnosticism_in_modern_times" title="Gnosticism in modern times">Modern schools</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content hlist">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center"><a href="/wiki/List_of_Gnostic_texts" title="List of Gnostic texts">Scriptures</a></div><div class="sidebar-list-content mw-collapsible-content">
+<ul><li><a href="/wiki/List_of_Gnostic_texts" title="List of Gnostic texts">List of Gnostic texts</a></li></ul>
+<hr />
+<dl><dt>Texts</dt></dl>
+<ul><li><a class="mw-selflink selflink">Nag Hammadi library</a></li>
+<li><a href="/wiki/Pseudo-Abdias" title="Pseudo-Abdias">Pseudo-Abdias</a></li>
+<li><a href="/wiki/Clementine_literature" title="Clementine literature">Clementine literature</a></li>
+<li><a href="/wiki/Gnosticism_and_the_New_Testament" class="mw-redirect" title="Gnosticism and the New Testament">Gnosticism and the New Testament</a></li>
+<li><a href="/wiki/List_of_Mandaean_texts" class="mw-redirect" title="List of Mandaean texts">Mandaean scriptures</a></li></ul>
+<dl><dt><a href="/wiki/Codex" title="Codex">Codices</a></dt></dl>
+<ul><li><a href="/wiki/Codex_Tchacos" title="Codex Tchacos">Codex Tchacos</a></li>
+<li><a href="/wiki/Cologne_Mani-Codex" title="Cologne Mani-Codex">Cologne Mani-Codex</a></li>
+<li><a href="/wiki/Askew_Codex" title="Askew Codex">Askew Codex</a></li>
+<li><a href="/wiki/Bruce_Codex" title="Bruce Codex">Bruce Codex</a></li>
+<li><a href="/wiki/Berlin_Codex" title="Berlin Codex">Berlin Codex</a></li>
+<li><a href="/wiki/Ginza_Rabba" title="Ginza Rabba">Codex Nasaraeus</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content hlist">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center">Influenced by</div><div class="sidebar-list-content mw-collapsible-content">
+<ul><li><a href="/wiki/Apocalyptic_literature" title="Apocalyptic literature">Apocalyptic literature</a></li>
+<li><a href="/wiki/Gnosticism#Relation_with_early_Christianity" title="Gnosticism">Early Christianity</a>
+<ul><li><a href="/wiki/Christology" title="Christology">Christology</a></li>
+<li><a href="/wiki/Docetism" title="Docetism">Docetism</a></li>
+<li><a href="/wiki/Gnosticism#Paul_and_Gnosticism" title="Gnosticism">Paul and Gnosticism</a></li></ul></li>
+<li><a href="/wiki/Merkabah_mysticism" title="Merkabah mysticism">Merkabah mysticism</a></li>
+<li><a href="/wiki/Middle_Platonism" title="Middle Platonism">Middle Platonism</a>
+<ul><li><a href="/wiki/Philo" title="Philo">Philo</a></li></ul></li>
+<li><a href="/wiki/Wisdom_(personification)" title="Wisdom (personification)">Wisdom (personification)</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content hlist">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="text-align:center">Influence on</div><div class="sidebar-list-content mw-collapsible-content">
+<ul><li><a href="/wiki/Carl_Jung" title="Carl Jung">Carl Jung</a></li>
+<li><a href="/wiki/Esoteric_Christianity" title="Esoteric Christianity">Esoteric Christianity</a>
+<ul><li><a href="/wiki/Christian_theosophy" title="Christian theosophy">Christian theosophy</a></li></ul></li>
+<li><a href="/wiki/Gnosticism_in_modern_times" title="Gnosticism in modern times">Gnosticism in modern times</a></li>
+<li><a href="/wiki/Neoplatonism_and_Gnosticism" title="Neoplatonism and Gnosticism">Neoplatonism and Gnosticism</a></li>
+<li><a href="/wiki/Perennial_philosophy" title="Perennial philosophy">Perennial philosophy</a></li>
+<li><a href="/wiki/Thelema" title="Thelema">Thelema</a></li>
+<li><a href="/wiki/Theosophy" title="Theosophy">Theosophy (Blavatskian)</a></li>
+<li><a href="/wiki/Western_esotericism" title="Western esotericism">Western esotericism</a></li>
+<li><a href="/wiki/Rene_Guenon" class="mw-redirect" title="Rene Guenon">Rene Guenon</a></li>
+<li><a href="/wiki/Rudolf_Steiner" title="Rudolf Steiner">Rudolf Steiner</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-navbar"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Gnosticism" title="Template:Gnosticism"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Gnosticism" title="Template talk:Gnosticism"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Gnosticism" title="Special:EditPage/Template:Gnosticism"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>The <b>Nag Hammadi library</b> (also known as the "<a href="/wiki/Chenoboskion" class="mw-redirect" title="Chenoboskion">Chenoboskion</a> Manuscripts" and the "Gnostic Gospels"<sup id="cite_ref-pagels_1-0" class="reference"><a href="#cite_note-pagels-1">&#91;a&#93;</a></sup>) is a collection of early Christian and <a href="/wiki/Gnostic_texts" class="mw-redirect" title="Gnostic texts">Gnostic texts</a> discovered near the <a href="/wiki/Upper_Egypt" title="Upper Egypt">Upper Egyptian</a> town of <a href="/wiki/Nag_Hammadi" title="Nag Hammadi">Nag Hammadi</a> in 1945.
+</p><p>Thirteen leather-bound <a href="/wiki/Papyrus" title="Papyrus">papyrus</a> <a href="/wiki/Codex" title="Codex">codices</a> buried in a sealed jar were found by a local farmer named Muhammed al-Samman.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;1&#93;</a></sup> The writings in these codices comprise 52 mostly Gnostic <a href="/wiki/Treatise" title="Treatise">treatises</a>, but they also include three works belonging to the <i><a href="/wiki/Hermetica" title="Hermetica">Corpus Hermeticum</a></i> and a partial translation/alteration of <a href="/wiki/Plato" title="Plato">Plato</a>'s <a href="/wiki/Republic_(Plato)" title="Republic (Plato)"><i>Republic</i></a>. In his introduction to <i>The Nag Hammadi Library in English</i>, James Robinson suggests that these codices may have belonged to a nearby <a href="/wiki/Sheneset-Chenoboskion" title="Sheneset-Chenoboskion">Pachomian</a> monastery and were buried after <a href="/wiki/Saint_Athanasius" class="mw-redirect" title="Saint Athanasius">Saint Athanasius</a> condemned the use of <a href="/wiki/Biblical_canon" title="Biblical canon">non-canonical</a> books in his <a href="/wiki/Easter_letter" title="Easter letter">Festal Letter of 367 A.D</a>. The discovery of these texts significantly influenced modern scholarship's pursuit and knowledge of early <a href="/wiki/Christianity" title="Christianity">Christianity</a> and <a href="/wiki/Gnosticism#Christianity_and_Gnosticism" title="Gnosticism">Gnosticism</a>.
+</p><p>The contents of the codices were written in the <a href="/wiki/Coptic_language" title="Coptic language">Coptic language</a>. The best-known of these works is probably the <a href="/wiki/Gospel_of_Thomas" title="Gospel of Thomas">Gospel of Thomas</a>, of which the Nag Hammadi codices contain the only complete text. After the discovery, scholars recognized that fragments of these sayings attributed to Jesus appeared in manuscripts discovered at <a href="/wiki/Oxyrhynchus" title="Oxyrhynchus">Oxyrhynchus</a> in 1898 (<a href="/wiki/Papyrus_Oxyrhynchus_1" title="Papyrus Oxyrhynchus 1">P. Oxy. 1</a>), and matching quotations were recognized in other early Christian sources. The written text of the Gospel of Thomas is dated to the second century by most interpreters, but based on much earlier sources.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;2&#93;</a></sup> The buried manuscripts date from the 3rd and 4th centuries.
+</p><p>The Nag Hammadi codices are now housed in the <a href="/wiki/Coptic_Museum" title="Coptic Museum">Coptic Museum</a> in <a href="/wiki/Cairo" title="Cairo">Cairo</a>, <a href="/wiki/Egypt" title="Egypt">Egypt</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Discovery">Discovery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nag_Hammadi_library&amp;action=edit&amp;section=1" title="Edit section: Discovery"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-default-size mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/File:Eg-NagHamadi-map.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Eg-NagHamadi-map.png/240px-Eg-NagHamadi-map.png" decoding="async" width="240" height="258" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/a/a8/Eg-NagHamadi-map.png 1.5x" data-file-width="342" data-file-height="367" /></a><figcaption>The site of discovery, <a href="/wiki/Nag_Hammadi" title="Nag Hammadi">Nag Hammadi</a> in map of Egypt</figcaption></figure>
+<p>Scholars first became aware of the Nag Hammadi library in 1946. Making careful inquiries from 1947–1950, <a href="/w/index.php?title=Jean_Doresse&amp;action=edit&amp;redlink=1" class="new" title="Jean Doresse (page does not exist)">Jean Doresse</a> discovered that a local farmer (boy) dug up the texts from a graveyard in the desert, located near tombs from the <a href="/wiki/Sixth_Dynasty_of_Egypt" title="Sixth Dynasty of Egypt">Sixth Dynasty of Egypt</a>. In the 1970s, <a href="/wiki/James_M._Robinson" title="James M. Robinson">James Robinson</a> sought out the local farmer in question, identifying him as Muhammad ‘Ali al-Samman. Al-Samman told Robinson a complex story involving a <a href="/wiki/Blood_feud" class="mw-redirect" title="Blood feud">blood feud</a>, <a href="/wiki/Human_cannibalism" title="Human cannibalism">cannibalism</a>, digging for fresh soil for agricultural use, and superstitions about a <i><a href="/wiki/Jinn" title="Jinn">jinn</a></i>. His mother claimed that she burned some of the manuscripts; Robinson identified these with Codex XII. Robinson gave multiple accounts of this interview, with the number of people present at the discovery ranging from two to eight.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;3&#93;</a></sup> Jean Doresse's account contains none of these elements.
+</p><p>Later scholarship has drawn attention to al-Samman's mention of a corpse and a "bed of charcoal" at the site, aspects of the story that were vehemently denied by al-Samman's brother. It is suggested that the library was initially a simple grave robbing, and the more fanciful aspects of the story were concocted as a cover story. Burials of books were common in Egypt in the early centuries AD, but if the library was a funerary deposit, it conflicts with Robinson's belief that the manuscripts were purposely hidden out of fear of persecution. Instead, Lewis &amp; Blount (2014) have proposed that the Nag Hammadi codices had been privately commissioned by a wealthy non-monastic individual, and that the books had been buried with him as funerary prestige items.<sup id="cite_ref-rethinking_5-0" class="reference"><a href="#cite_note-rethinking-5">&#91;4&#93;</a></sup> The blood feud<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (December 2021)">clarification needed</span></a></i>&#93;</sup>, however, is well attested by multiple sources.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;5&#93;</a></sup>
+</p><p>Slowly, most of the tracts came into the hands of <a href="/wiki/Phokion_J._Tanos" title="Phokion J. Tanos">Phokion J. Tanos</a>,<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;6&#93;</a></sup> a Cypriot antiques dealer in Cairo, and they were thereafter being retained by the Department of Antiquities, for fear that they would be sold out of the country. After the <a href="/wiki/Egyptian_revolution_of_1952" class="mw-redirect" title="Egyptian revolution of 1952">revolution</a> in 1952, the texts were handed to the Coptic Museum in Cairo, and declared national property.<sup id="cite_ref-The_Nag_Hammadi_Library_8-0" class="reference"><a href="#cite_note-The_Nag_Hammadi_Library-8">&#91;7&#93;</a></sup> <a href="/wiki/Pahor_Labib" title="Pahor Labib">Pahor Labib</a>, the director of the Coptic Museum at that time, was keen to keep the manuscripts in their country of origin.
+</p><p>Meanwhile, a single codex had been sold in Cairo to a Belgian <a href="/wiki/Antiques" class="mw-redirect" title="Antiques">antiques dealer</a>. After an attempt was made to sell the codex in both New York City and Paris, it was acquired by the <a href="/wiki/C._G._Jung_Institute,_Z%C3%BCrich" title="C. G. Jung Institute, Zürich">Carl Gustav Jung Institute</a> in Zurich in 1951, through the mediation of <a href="/wiki/Gilles_Quispel" title="Gilles Quispel">Gilles Quispel</a>. It was intended as a birthday present for Jung; for this reason, this codex is typically known as the Jung Codex, being Codex I in the collection.<sup id="cite_ref-The_Nag_Hammadi_Library_8-1" class="reference"><a href="#cite_note-The_Nag_Hammadi_Library-8">&#91;7&#93;</a></sup> Jung's death in 1961 resulted in a quarrel over the ownership of the Jung Codex; the pages were not given to the <a href="/wiki/Coptic_Museum" title="Coptic Museum">Coptic Museum</a> in Cairo until 1975, after a first edition of the text had been published. The papyri were finally brought together in Cairo: of the 1945 find, eleven complete books and fragments of two others, 'amounting to well over 1000 written pages', are preserved there.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Translation">Translation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nag_Hammadi_library&amp;action=edit&amp;section=2" title="Edit section: Translation"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first edition of a text found at Nag Hammadi was from the Jung Codex, a partial translation of which appeared in Cairo in 1956, and a single extensive facsimile edition was planned. Due to the <a href="/wiki/Suez_Crisis" title="Suez Crisis">difficult political circumstances</a> in Egypt, individual tracts followed from the Cairo and Zurich collections only slowly.
+</p><p>This state of affairs did not change until 1966, with the holding of the <a href="/w/index.php?title=Messina_Congress&amp;action=edit&amp;redlink=1" class="new" title="Messina Congress (page does not exist)">Messina Congress</a> in <a href="/wiki/Italy" title="Italy">Italy</a>. At this conference, intended to allow scholars to arrive at a group consensus concerning the definition of Gnosticism, <a href="/wiki/James_M._Robinson" title="James M. Robinson">James M. Robinson</a> assembled a group of editors and translators whose express task was to publish a <a href="/wiki/Bilingual" class="mw-redirect" title="Bilingual">bilingual</a> edition of the Nag Hammadi codices in English, in collaboration with the Institute for Antiquity and Christianity at the <a href="/wiki/Claremont_Graduate_University" title="Claremont Graduate University">Claremont Graduate University</a> in <a href="/wiki/Claremont,_California" title="Claremont, California">Claremont, California</a>, where Robinson was a faculty member.
+</p><p>Robinson was elected secretary of the <a href="/w/index.php?title=International_Committee_for_the_Nag_Hammadi_Codices&amp;action=edit&amp;redlink=1" class="new" title="International Committee for the Nag Hammadi Codices (page does not exist)">International Committee for the Nag Hammadi Codices</a>, which had been formed in 1970 by <a href="/wiki/UNESCO" title="UNESCO">UNESCO</a> and the Egyptian Ministry of Culture; it was in this capacity that he oversaw the project. A facsimile edition in twelve volumes was published between 1972 and 1977, with subsequent additions in 1979 and 1984 from the publisher <a href="/wiki/E.J._Brill" class="mw-redirect" title="E.J. Brill">E.J. Brill</a> in <a href="/wiki/Leiden" title="Leiden">Leiden</a>, entitled, <i>The Facsimile Edition of the Nag Hammadi Codices.</i> This made all the texts available for all interested parties to study in some form.
+</p><p>At the same time, in the <a href="/wiki/German_Democratic_Republic" class="mw-redirect" title="German Democratic Republic">German Democratic Republic</a>, a group of scholars—including <a href="/w/index.php?title=Alexander_B%C3%B6hlig&amp;action=edit&amp;redlink=1" class="new" title="Alexander Böhlig (page does not exist)">Alexander Böhlig</a>, <a href="/wiki/Martin_Krause" title="Martin Krause">Martin Krause</a> and <a href="/wiki/New_Testament" title="New Testament">New Testament</a> scholars <a href="/w/index.php?title=Gesine_Schenke&amp;action=edit&amp;redlink=1" class="new" title="Gesine Schenke (page does not exist)">Gesine Schenke</a>, <a href="/wiki/Hans-Martin_Schenke" title="Hans-Martin Schenke">Hans-Martin Schenke</a> and <a href="/w/index.php?title=Hans-Gebhard_Bethge&amp;action=edit&amp;redlink=1" class="new" title="Hans-Gebhard Bethge (page does not exist)">Hans-Gebhard Bethge</a>—were preparing the first German language translation of the find. The last three scholars prepared a complete scholarly translation under the auspices of the <a href="/wiki/Berlin" title="Berlin">Berlin</a> <a href="/wiki/Humboldt_University" class="mw-redirect" title="Humboldt University">Humboldt University</a>, which was published in 2001.
+</p><p>The <a href="/wiki/James_M._Robinson" title="James M. Robinson">James M. Robinson</a> translation was first published in 1977, with the name <i>The Nag Hammadi Library in English</i>, in collaboration between <a href="/wiki/E.J._Brill" class="mw-redirect" title="E.J. Brill">E.J. Brill</a> and <a href="/wiki/Harper_%26_Row" class="mw-redirect" title="Harper &amp; Row">Harper &amp; Row</a>. The single-volume publication, according to Robinson, 'marked the end of one stage of Nag Hammadi scholarship and the beginning of another' (from the Preface to the third revised edition). Paperback editions followed in 1981 and 1984, from E.J. Brill and Harper, respectively. A third, completely revised, edition was published in 1988. This marks the final stage in the gradual dispersal of gnostic texts into the wider public arena—the full complement of codices was finally available in unadulterated form to people around the world, in a variety of languages. A <a href="/wiki/Cross-reference" title="Cross-reference">cross-reference</a> apparatus for Robinson's translation and the Biblical canon also exists.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;9&#93;</a></sup>
+</p><p>Another English edition was published in 1987, by <a href="/wiki/Yale" class="mw-redirect" title="Yale">Yale</a> scholar <a href="/wiki/Bentley_Layton" title="Bentley Layton">Bentley Layton</a>, called <i>The Gnostic Scriptures: A New Translation with Annotations</i> (Garden City: Doubleday &amp; Co., 1987). The volume included new translations from the Nag Hammadi Library, together with extracts from the <a href="/wiki/Heresiology" title="Heresiology">heresiological</a> writers, and other gnostic material. It remains, along with <i>The Nag Hammadi Library in English,</i> one of the more accessible volumes of translations of the Nag Hammadi find. It includes extensive historical introductions to individual gnostic groups, notes on translation, annotations to the text, and the organization of tracts into clearly defined movements.
+</p><p>Not all scholars agree that the entire library should be considered Gnostic. Paterson Brown has argued that the three Nag Hammadi Gospels of Thomas, Philip and Truth cannot be so labeled, since each, in his opinion, may explicitly affirm the basic reality and sanctity of incarnate life, which Gnosticism by definition considers illusory.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;10&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="List_of_codices_and_tractates">List of codices and tractates</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nag_Hammadi_library&amp;action=edit&amp;section=3" title="Edit section: List of codices and tractates"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following table contains a list of codices and tractates in the Nag Hammadi library as given by <a href="/w/index.php?title=Aleksandr_Leonovich_Khosroev&amp;action=edit&amp;redlink=1" class="new" title="Aleksandr Leonovich Khosroev (page does not exist)">Aleksandr Leonovich Khosroev</a><span class="noprint" style="font-size:85%; font-style: normal;">&#160;&#91;<a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%81%D1%80%D0%BE%D0%B5%D0%B2,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9B%D0%B5%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87" class="extiw" title="ru:Хосроев, Александр Леонович">ru</a>&#93;</span>.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;11&#93;</a></sup><sup id="cite_ref-FOOTNOTEKhosroev199126-34_13-0" class="reference"><a href="#cite_note-FOOTNOTEKhosroev199126-34-13">&#91;12&#93;</a></sup> Abbreviations are from <i>The Coptic Gnostic Library</i>.
+</p>
+<table class="wikitable" style="font-size:small">
+
+<tbody><tr style="vertical-align:top">
+<th>Order of tractate
+</th>
+<th>Codex number
+</th>
+<th>Tractate number in the codex
+</th>
+<th style="width:10em">Tractate title
+</th>
+<th style="text-align:center">Pages
+</th>
+<th>Abbreviation
+</th>
+<th>Notes
+</th></tr>
+<tr style="vertical-align:top; border-top:solid 2px gray">
+<td>01
+</td>
+<th rowspan="5">NHC-I <br />(Jung Codex)<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;13&#93;</a></sup>
+</th>
+<td>1</td>
+<td>The <i><a href="/wiki/Prayer_of_the_Apostle_Paul" title="Prayer of the Apostle Paul">Prayer of the Apostle Paul</a></i></td>
+<td style="text-align:center">(2)</td>
+<td><i>Pr. Paul</i></td>
+<td>Text rewritten on <a href="/wiki/Endsheet" class="mw-redirect" title="Endsheet">flyleaf</a>, two lines lost, title in Greek.
+</td></tr>
+<tr style="vertical-align:top">
+<td>02</td>
+<td>2</td>
+<td><i>The <a href="/wiki/Apocryphon_of_James" title="Apocryphon of James">Apocryphon of James</a></i> (<i>The Secret Book of James</i>)</td>
+<td style="text-align:center">1–16</td>
+<td><i>Ap. Jas.</i></td>
+<td>The title is based on the content of the text, which takes the form of a letter from James to an addressee whose name is not mentioned. Most of the text is a dialogue between Jesus and the unnamed apostles.
+</td></tr>
+<tr style="vertical-align:top">
+<td>03</td>
+<td>3</td>
+<td><i>The <a href="/wiki/Gospel_of_Truth" title="Gospel of Truth">Gospel of Truth</a></i></td>
+<td style="text-align:center">16–43</td>
+<td><i>Gos. Truth</i></td>
+<td>The title is based on the opening words of the text.
+</td></tr>
+<tr style="vertical-align:top">
+<td>04</td>
+<td>4</td>
+<td><i>The <a href="/wiki/Treatise_on_the_Resurrection" title="Treatise on the Resurrection">Treatise on the Resurrection</a></i></td>
+<td style="text-align:center">43–50</td>
+<td><i>Treat Res.</i></td>
+<td>A treatise in the form of a letter from a teacher to a disciple, a certain Reginus, in which the addressee discusses the <a href="/wiki/Resurrection_of_Jesus_Christ" class="mw-redirect" title="Resurrection of Jesus Christ">resurrection of Jesus Christ</a>.
+</td></tr>
+<tr style="vertical-align:top">
+<td>05</td>
+<td>5</td>
+<td><i>The <a href="/wiki/Tripartite_Tractate" title="Tripartite Tractate">Tripartite Tractate</a></i></td>
+<td style="text-align:center">51–140</td>
+<td><i>Tri. Trac.</i></td>
+<td>Title given by scholars. The treatise discusses <a href="/wiki/Valentinianism" title="Valentinianism">Valentinian</a> views on creation and cosmology.
+</td></tr>
+<tr style="vertical-align:top; border-top:solid 2px gray; background-color:whitesmoke">
+<td>06
+</td>
+<th rowspan="7"><a href="/wiki/Nag_Hammadi_Codex_II" title="Nag Hammadi Codex II">NHC-II</a>
+</th>
+<td>1</td>
+<td><i>The <a href="/wiki/Apocryphon_of_John" title="Apocryphon of John">Apocryphon of John</a></i></td>
+<td style="text-align:center">1–32</td>
+<td><i>Ap. John</i></td>
+<td>A lengthy version, the first of the three versions in the Nag Hammadi library. The text is a revelation in the form of questions and answers given by Jesus to the apostle John.
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>07</td>
+<td>2</td>
+<td><i>The <a href="/wiki/Gospel_of_Thomas" title="Gospel of Thomas">Gospel of Thomas</a></i></td>
+<td style="text-align:center">32–51</td>
+<td><i>Gos. Thom.</i></td>
+<td>A collection of sayings of Jesus given secretly to the apostles. Some of the sayings are known from the canonical Gospels. Greek papyri of similar content known since the beginning of the twentieth century are <i><a href="/wiki/Oxyrhynchus_Papyri" title="Oxyrhynchus Papyri">P.Oxy.</a> 1, P.Oxy. 654, P.Oxy. 655</i>.
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>08</td>
+<td>3</td>
+<td><i>The <a href="/wiki/Gospel_of_Philip" title="Gospel of Philip">Gospel of Philip</a></i></td>
+<td style="text-align:center">51–86</td>
+<td><i>Gos. Phil.</i></td>
+<td>A Valentinian text that is a collection of discourses.
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>09</td>
+<td>4</td>
+<td><i>The <a href="/wiki/Hypostasis_of_the_Archons" title="Hypostasis of the Archons">Hypostasis of the Archons</a></i></td>
+<td style="text-align:center">86–97</td>
+<td><i>Hyp. Arch.</i></td>
+<td>The title is at the end of the text. The text deals with cosmology and the creation of man.
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>10</td>
+<td>5</td>
+<td><i><a href="/wiki/On_the_Origin_of_the_World_(Nag_Hammadi)" class="mw-redirect" title="On the Origin of the World (Nag Hammadi)">On the Origin of the World</a></i></td>
+<td style="text-align:center">97–127</td>
+<td><i>Orig. World</i></td>
+<td>Title given by scholars. The treatise discusses the creation of the universe and cosmology.
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>11</td>
+<td>6</td>
+<td><i>The <a href="/wiki/Exegesis_on_the_Soul" title="Exegesis on the Soul">Exegesis on the Soul</a></i></td>
+<td style="text-align:center">127–137</td>
+<td><i>Exeg. Soul</i></td>
+<td>A treatise on the fall and resurrection of the human soul that is an exegesis of Genesis 1–6. The only scriptural commentary in the library.
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>12</td>
+<td>7</td>
+<td><i>The <a href="/wiki/Book_of_Thomas_the_Contender" title="Book of Thomas the Contender">Book of Thomas the Contender</a></i></td>
+<td style="text-align:center">138–145</td>
+<td><i>Thom. Cont.</i></td>
+<td>The title is given at the end of the text. The dialogue of the risen Jesus with the apostle Thomas concerning knowledge and truth, as recorded by the apostle Matthew.
+</td></tr>
+<tr style="vertical-align:top; border-top:solid 2px gray">
+<td>13
+</td>
+<th rowspan="5">NHC-III
+</th>
+<td>1</td>
+<td><i>The <a href="/wiki/Apocryphon_of_John" title="Apocryphon of John">Apocryphon of John</a></i></td>
+<td style="text-align:center">1–40</td>
+<td><i>Ap. John</i></td>
+<td>Short version.
+</td></tr>
+<tr style="vertical-align:top">
+<td>14</td>
+<td>2</td>
+<td><i><a href="/wiki/Holy_Book_of_the_Great_Invisible_Spirit" title="Holy Book of the Great Invisible Spirit">Holy Book of the Great Invisible Spirit</a></i> (<i><a href="/wiki/Coptic_Gospel_of_the_Egyptians" class="mw-redirect" title="Coptic Gospel of the Egyptians">The Gospel of the Egyptians</a></i>)</td>
+<td style="text-align:center">40–69</td>
+<td><i>Gos. Eg.</i></td>
+<td>One of two editions of the text with the title at the end. The work begins with the phrase, "The Holy Book of the Great, Invisible Spirit." Its authorship is attributed to the biblical <a href="/wiki/Seth" title="Seth">Seth</a>. Contains cosmogonic and soteriological themes.
+</td></tr>
+<tr style="vertical-align:top">
+<td>15</td>
+<td>3</td>
+<td><i><a href="/wiki/Epistle_of_Eugnostos" title="Epistle of Eugnostos">Eugnostos the Blessed</a></i></td>
+<td style="text-align:center">70–90</td>
+<td><i>Eugnostos</i></td>
+<td>One of two versions of the text. A treatise on the Gnostic world order in the form of a message from a teacher (Eugnostus) to his disciples.
+</td></tr>
+<tr style="vertical-align:top">
+<td>16</td>
+<td>4</td>
+<td><i><a href="/wiki/The_Sophia_of_Jesus_Christ" class="mw-redirect" title="The Sophia of Jesus Christ">The Sophia of Jesus Christ</a></i></td>
+<td style="text-align:center">90–119</td>
+<td><i>Soph. Jes. Chr.</i></td>
+<td>Revelation in the form of questions and answers given by the risen Christ to his apostles. The text is dependent on <i>Eugnostos the Blessed</i>. Jesus' speeches in this text are verbatim with Eugnostus' teachings given in <i>Eugnostos the Blessed</i>.<sup id="cite_ref-FOOTNOTEKhosroev199130_15-0" class="reference"><a href="#cite_note-FOOTNOTEKhosroev199130-15">&#91;14&#93;</a></sup>
+</td></tr>
+<tr style="vertical-align:top">
+<td>17</td>
+<td>5</td>
+<td><i>The <a href="/wiki/Dialogue_of_the_Saviour" title="Dialogue of the Saviour">Dialogue of the Saviour</a></i></td>
+<td style="text-align:center">120–149</td>
+<td><i>Dial. Sav.</i></td>
+<td>The title is given at the beginning and end of the treatise. The content consists of Jesus' conversations with the apostles and <a href="/wiki/Mary_Magdalene" title="Mary Magdalene">Mary Magdalene</a> about the way to salvation.
+</td></tr>
+<tr style="vertical-align:top; border-top:solid 2px gray; background-color:whitesmoke">
+<td>18
+</td>
+<th rowspan="2">NHC-IV
+</th>
+<td>1</td>
+<td><i>The <a href="/wiki/Apocryphon_of_John" title="Apocryphon of John">Apocryphon of John</a></i></td>
+<td style="text-align:center">1–49</td>
+<td><i>Ap. John</i></td>
+<td>The second lengthy version.
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>19</td>
+<td>2</td>
+<td><i><a href="/wiki/Holy_Book_of_the_Great_Invisible_Spirit" title="Holy Book of the Great Invisible Spirit">Holy Book of the Great Invisible Spirit</a></i> (<i><a href="/wiki/Coptic_Gospel_of_the_Egyptians" class="mw-redirect" title="Coptic Gospel of the Egyptians">The Gospel of the Egyptians</a></i>)</td>
+<td style="text-align:center">50–81</td>
+<td><i>Gos. Eg.</i></td>
+<td>Second copy of the text.
+</td></tr>
+<tr style="vertical-align:top; border-top:solid 2px gray">
+<td>20
+</td>
+<th rowspan="5">NHC-V
+</th>
+<td>1</td>
+<td><i><a href="/wiki/Epistle_of_Eugnostos" title="Epistle of Eugnostos">Eugnostos the Blessed</a></i></td>
+<td style="text-align:center">1–17</td>
+<td><i>Eugnostos</i></td>
+<td>Second copy of the text.
+</td></tr>
+<tr style="vertical-align:top">
+<td>21</td>
+<td>2</td>
+<td><i>The <a href="/wiki/Coptic_Apocalypse_of_Paul" title="Coptic Apocalypse of Paul">Apocalypse of Paul</a></i></td>
+<td style="text-align:center">17–24</td>
+<td><i>Apoc. Paul.</i></td>
+<td>The text is derived from 2 Corinthians 12:2–4 and recounts the apostle Paul's journey and visions from the fourth heaven to the tenth heaven.
+</td></tr>
+<tr style="vertical-align:top">
+<td>22</td>
+<td>3</td>
+<td><i>The <a href="/wiki/First_Apocalypse_of_James" title="First Apocalypse of James">First Apocalypse of James</a></i></td>
+<td style="text-align:center">24–44</td>
+<td><i>1 Ap. Jas.</i></td>
+<td>Dialogue about the secret teaching that Jesus taught to James, first before his death, then after his resurrection.
+</td></tr>
+<tr style="vertical-align:top">
+<td>23</td>
+<td>4</td>
+<td><i>The <a href="/wiki/Second_Apocalypse_of_James" title="Second Apocalypse of James">Second Apocalypse of James</a></i></td>
+<td style="text-align:center">44–63</td>
+<td><i>2 Ap. Jas.</i></td>
+<td>The original title is the same as the previous text. The composition is complex: it includes James' speeches to the Jews about the greatness of Jesus and concludes with James' martyrdom.
+</td></tr>
+<tr style="vertical-align:top">
+<td>24</td>
+<td>5</td>
+<td><i>The <a href="/wiki/Apocalypse_of_Adam" title="Apocalypse of Adam">Apocalypse of Adam</a></i></td>
+<td style="text-align:center">63–85</td>
+<td><i>Apoc. Adam</i></td>
+<td>The revelation of the Flood and the ultimate fate of the world, which <a href="/wiki/Adam" title="Adam">Adam</a> received from God and passed on to his son <a href="/wiki/Seth" title="Seth">Seth</a>.<sup id="cite_ref-FOOTNOTEKhosroev199131_16-0" class="reference"><a href="#cite_note-FOOTNOTEKhosroev199131-16">&#91;15&#93;</a></sup>
+</td></tr>
+<tr style="vertical-align:top; border-top:solid 2px gray; background-color:whitesmoke">
+<td>25
+</td>
+<th rowspan="8">NHC-VI
+</th>
+<td>1</td>
+<td><i>The <a href="/wiki/Acts_of_Peter_and_the_Twelve" title="Acts of Peter and the Twelve">Acts of Peter and the Twelve</a> Apostles</i></td>
+<td style="text-align:center">1–12</td>
+<td><i>Acts Pet. 12 Apost.</i></td>
+<td>The only "Acts" text in the library. An account (on behalf of the <a href="/wiki/Apostle_Peter" class="mw-redirect" title="Apostle Peter">Apostle Peter</a>) of the journey of the apostles to a certain city and their encounter with Jesus, who took the form of a jewel merchant named Lithargoel.
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>26</td>
+<td>2</td>
+<td><i><a href="/wiki/The_Thunder,_Perfect_Mind" title="The Thunder, Perfect Mind">The Thunder, Perfect Mind</a></i></td>
+<td style="text-align:center">13–21</td>
+<td><i>Thund.</i></td>
+<td>A poetic treatise. It is a self-proclamation of a female (?) deity on the non-dual, all-encompassing nature of the divine.<sup id="cite_ref-FOOTNOTEKhosroev199134_17-0" class="reference"><a href="#cite_note-FOOTNOTEKhosroev199134-17">&#91;16&#93;</a></sup>
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>27</td>
+<td>3</td>
+<td><i><a href="/wiki/Authoritative_Teaching" class="mw-redirect" title="Authoritative Teaching">Authoritative Teaching</a></i> (<i><a href="/wiki/Authoritative_Discourse" title="Authoritative Discourse">Authoritative Discourse</a></i>)</td>
+<td style="text-align:center">23–35</td>
+<td><i>Auth. Teach.</i></td>
+<td>A philosophical text about the fate of the soul, its origins, fall, and victory over the material world via salvation.<sup id="cite_ref-FOOTNOTEKhosroev1991149-151_18-0" class="reference"><a href="#cite_note-FOOTNOTEKhosroev1991149-151-18">&#91;17&#93;</a></sup>
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>28</td>
+<td>4</td>
+<td><i>The <a href="/wiki/Concept_of_Our_Great_Power" title="Concept of Our Great Power">Concept of Our Great Power</a></i></td>
+<td style="text-align:center">36–48</td>
+<td><i>Great Pow.</i></td>
+<td>Title at the end of the treatise. Revelation of the three <a href="/wiki/Aeon_(Gnosticism)" title="Aeon (Gnosticism)">aeons</a>: the material aeon, which ended with the Flood; the spiritual aeon, when the Savior appeared; and the future aeon.
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>29</td>
+<td>5</td>
+<td>Fragments: 588a-589b of <a href="/wiki/Plato" title="Plato">Plato</a>'s <i><a href="/wiki/Republic_(Plato)" title="Republic (Plato)">Republic</a></i>.</td>
+<td style="text-align:center">48–51</td>
+<td><i>Plato Rep.</i></td>
+<td>A text about injustice<sup id="cite_ref-FOOTNOTEKhosroev2016244_19-0" class="reference"><a href="#cite_note-FOOTNOTEKhosroev2016244-19">&#91;18&#93;</a></sup>
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>30</td>
+<td>6</td>
+<td><i><a href="/wiki/The_Discourse_on_the_Eighth_and_Ninth" title="The Discourse on the Eighth and Ninth">The Discourse on the Eighth and Ninth</a></i></td>
+<td style="text-align:center">52–63</td>
+<td><i>Dis. 8–9</i></td>
+<td>Title given by scholars. Hermetic dialogue in which the teacher ("father") <a href="/wiki/Hermes_Trismegistus" title="Hermes Trismegistus">Hermes Trismegistus</a> leads his disciple ("son") through the "eight" and "nine" realms of heaven.<sup id="cite_ref-FOOTNOTEKhosroev199130_15-1" class="reference"><a href="#cite_note-FOOTNOTEKhosroev199130-15">&#91;14&#93;</a></sup>
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>31</td>
+<td>7</td>
+<td><i>The <a href="/wiki/Prayer_of_Thanksgiving" title="Prayer of Thanksgiving">Prayer of Thanksgiving</a></i></td>
+<td style="text-align:center">63–65</td>
+<td><i>Pr. Thanks.</i></td>
+<td>A hermetic prayer, previously known from both the Greek and Latin versions.
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>32</td>
+<td>8</td>
+<td><i><a href="/wiki/Asclepius_(Hermetic_treatise)" class="mw-redirect" title="Asclepius (Hermetic treatise)">Asclepius</a></i></td>
+<td style="text-align:center">65–78</td>
+<td><i>Asklepius</i></td>
+<td>Dialogue of <a href="/wiki/Hermes_Trismegistus" title="Hermes Trismegistus">Hermes Trismegistus</a> with his disciple Asclepius. Chapters 21–29 of the lost Greek hermetic treatise known from the full Latin translation.
+</td></tr>
+<tr style="vertical-align:top; border-top:solid 2px gray">
+<td>33
+</td>
+<th rowspan="5">NHC-VII
+</th>
+<td>1</td>
+<td><i>The <a href="/wiki/Paraphrase_of_Shem" title="Paraphrase of Shem">Paraphrase of Shem</a></i></td>
+<td style="text-align:center">1–49</td>
+<td><i>Paraph. Shem</i></td>
+<td>The title is at the beginning of the treatise. A revelation on cosmological and <a href="/wiki/Soteriology" title="Soteriology">soteriological</a> themes received by Shem (possibly not biblical) from Derdekeas, the son of infinite light, during the mystical separation of his mind from his body.
+</td></tr>
+<tr style="vertical-align:top">
+<td>34</td>
+<td>2</td>
+<td><i>The <a href="/wiki/Second_Treatise_of_the_Great_Seth" title="Second Treatise of the Great Seth">Second Treatise of the Great Seth</a></i></td>
+<td style="text-align:center">49–70</td>
+<td><i>Treat. Seth</i></td>
+<td>The title is at the end of the tractate. The revelation of Jesus Christ (probably identified with Seth), where he narrates his descent to earth, his death on the cross, and his return to the <a href="/wiki/Pleroma" title="Pleroma">Pleroma</a>.
+</td></tr>
+<tr style="vertical-align:top">
+<td>35</td>
+<td>3</td>
+<td><i><a href="/wiki/Gnostic_Apocalypse_of_Peter" title="Gnostic Apocalypse of Peter">Gnostic Apocalypse of Peter</a></i></td>
+<td style="text-align:center">70–84</td>
+<td><i>Apoc. Petr.</i></td>
+<td>An account of the visions of the <a href="/wiki/Apostle_Peter" class="mw-redirect" title="Apostle Peter">apostle Peter</a>, the meaning of which Jesus revealed to him on condition that it remain secret.
+</td></tr>
+<tr style="vertical-align:top">
+<td>36</td>
+<td>4</td>
+<td><i>The <a href="/wiki/Teachings_of_Silvanus" title="Teachings of Silvanus">Teachings of Silvanus</a></i></td>
+<td style="text-align:center">84–118</td>
+<td><i>Teach. Silv</i></td>
+<td>The only text in the library of unquestionably Christian origin.<sup id="cite_ref-FOOTNOTEKhosroev199192_20-0" class="reference"><a href="#cite_note-FOOTNOTEKhosroev199192-20">&#91;19&#93;</a></sup> An ethical treatise in the form of the teachings of a father to his spiritual son.
+</td></tr>
+<tr style="vertical-align:top">
+<td>37</td>
+<td>5</td>
+<td><i>The <a href="/wiki/Three_Steles_of_Seth" title="Three Steles of Seth">Three Steles of Seth</a></i></td>
+<td style="text-align:center">118–127</td>
+<td><i>Steles Seth</i></td>
+<td>The title is at the end of the treatise. A composition in the form of hymns to higher divine entities. It begins with the title "The Revelation of <a href="/wiki/Dositheos_(Samaritan)" title="Dositheos (Samaritan)">Dositheos</a>," but this name is not mentioned anywhere else in the text.
+</td></tr>
+<tr style="vertical-align:top; border-top:solid 2px gray; background-color:whitesmoke">
+<td>38
+</td>
+<th rowspan="2">NHC-VIII
+</th>
+<td>1</td>
+<td><i><a href="/wiki/Zostrianos" title="Zostrianos">Zostrianos</a></i></td>
+<td style="text-align:center">1–132</td>
+<td><i>Zost.</i></td>
+<td>The title at the end of the treatise. Revelations received by Zostrianos from the "angel of knowledge" and an account of the hero's subsequent ascent through the heavenly realms. This is the lengthiest text in the library, and is also in very poor condition.
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>39</td>
+<td>2</td>
+<td><i>The <a href="/wiki/Letter_of_Peter_to_Philip" title="Letter of Peter to Philip">Letter of Peter to Philip</a></i></td>
+<td style="text-align:center">132–140</td>
+<td><i>Ep. Pet. Phil.</i></td>
+<td>Title at the beginning of the treatise. Of the nine pages of the treatise, the <a href="/wiki/Epistle" title="Epistle">epistle</a> proper occupies only one page. The rest is part of the apocryphal acts of the apostles speaking to the risen Jesus.
+</td></tr>
+<tr style="vertical-align:top; border-top:solid 2px gray">
+<td>40
+</td>
+<th rowspan="3">NHC-IX
+</th>
+<td>1</td>
+<td><i><a href="/wiki/Melchizedek_(text)" title="Melchizedek (text)">Melchizedek</a></i></td>
+<td style="text-align:center">1–27</td>
+<td><i>Melch.</i></td>
+<td>Title at the beginning of the treatise. A series of revelations about Jesus Christ received by the biblical <a href="/wiki/Melchizedek" title="Melchizedek">Melchizedek</a> from an angel.
+</td></tr>
+<tr style="vertical-align:top">
+<td>41</td>
+<td>2</td>
+<td><i>The <a href="/wiki/Thought_of_Norea" title="Thought of Norea">Thought of Norea</a></i></td>
+<td style="text-align:center">27–29</td>
+<td><i>Norea</i></td>
+<td>One of the shortest texts in the library, with only 52 lines. The title is based on the phrase at the end of the text. A prayer, probably by a woman.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;20&#93;</a></sup>
+</td></tr>
+<tr style="vertical-align:top">
+<td>42</td>
+<td>3</td>
+<td><i>The <a href="/wiki/Testimony_of_Truth" title="Testimony of Truth">Testimony of Truth</a></i></td>
+<td style="text-align:center">29–74</td>
+<td><i>Testim. Truth.</i></td>
+<td>Title given by scholars. An address to the chosen (elect) on the essence of truth, along with a polemic against ecclesiastical Christianity.<sup id="cite_ref-FOOTNOTEKhosroev199134_17-1" class="reference"><a href="#cite_note-FOOTNOTEKhosroev199134-17">&#91;16&#93;</a></sup>
+</td></tr>
+<tr style="vertical-align:top; border-top:solid 2px gray; background-color:whitesmoke">
+<td>43
+</td>
+<th>NHC-X
+</th>
+<td>1</td>
+<td><i><a href="/wiki/Marsanes" title="Marsanes">Marsanes</a></i></td>
+<td style="text-align:center">1–68</td>
+<td><i>Marsanes</i></td>
+<td>The title is at the end of the text. The vision of the prophet Marsanus during his ecstatic ascent to heaven and of the essence of God.
+</td></tr>
+<tr style="vertical-align:top; border-top:solid 2px gray">
+<td>44
+</td>
+<th rowspan="4">NHC-XI
+</th>
+<td>1</td>
+<td><i>The <a href="/wiki/Interpretation_of_Knowledge" title="Interpretation of Knowledge">Interpretation of Knowledge</a></i></td>
+<td style="text-align:center">1–21</td>
+<td><i>Interp. Know.</i></td>
+<td>The title is at the end of the text. An ethical sermon by a Christian Gnostic author.
+</td></tr>
+<tr style="vertical-align:top">
+<td>45</td>
+<td>2</td>
+<td><i>A <a href="/wiki/Valentinian_Exposition" title="Valentinian Exposition">Valentinian Exposition</a></i></td>
+<td style="text-align:center">22–40</td>
+<td><i>Val. Exp.</i></td>
+<td>Five fragments of a <a href="/wiki/Valentinianism" title="Valentinianism">Valentinian</a> philosophical treatise on anointing (<i>On Anointing</i>), baptism (<i>On Bap.</i> A &amp; B), and the Eucharist (<i>On Euch.</i> A &amp; B).
+</td></tr>
+<tr style="vertical-align:top">
+<td>46</td>
+<td>3</td>
+<td><i><a href="/wiki/Allogenes" title="Allogenes">Allogenes</a></i></td>
+<td style="text-align:center">40–44</td>
+<td><i>Allogenes</i></td>
+<td>The title is at the end of the tractate. The account of Allogenes of a revelation received from the angel Jude, and of an ascent to heavenly beings.
+</td></tr>
+<tr style="vertical-align:top">
+<td>47</td>
+<td>4</td>
+<td><i><a href="/wiki/Hypsiphrone" title="Hypsiphrone">Hypsiphrone</a></i></td>
+<td style="text-align:center">45–69</td>
+<td><i>Hypsiph.</i></td>
+<td>The title is at the beginning of the text, which is very poorly preserved. The book of visions of Hypsiphrone.
+</td></tr>
+<tr style="vertical-align:top; border-top:solid 2px gray; background-color:whitesmoke">
+<td>48
+</td>
+<th rowspan="3">NHC-XII
+</th>
+<td>1</td>
+<td><i>The <a href="/wiki/Sentences_of_Sextus" title="Sentences of Sextus">Sentences of Sextus</a></i></td>
+<td style="text-align:center">15–16, 27–34</td>
+<td><i>Sext</i></td>
+<td>A collection of wisdom sayings.
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>49</td>
+<td>2</td>
+<td><i>The <a href="/wiki/Gospel_of_Truth" title="Gospel of Truth">Gospel of Truth</a></i></td>
+<td style="text-align:center"></td>
+<td><i>Gos. Truth</i></td>
+<td>The second copy, of which only a few fragments remain in a different dialect of Coptic.
+</td></tr>
+<tr style="background-color:whitesmoke; vertical-align:top">
+<td>50</td>
+<td>3</td>
+<td style="color:gray">fragments</td>
+<td style="text-align:center"></td>
+<td><i>Frm.</i></td>
+<td>A total of 10 pages with fragments of 15 texts have survived from the volume, of which only 2 texts have been identified.
+</td></tr>
+<tr style="vertical-align:top; border-top:solid 2px gray">
+<td>51
+</td>
+<th rowspan="3"><a href="/wiki/Nag_Hammadi_Codex_XIII" title="Nag Hammadi Codex XIII">NHC-XIII</a>
+</th>
+<td>1</td>
+<td><i><a href="/wiki/Trimorphic_Protennoia" title="Trimorphic Protennoia">Trimorphic Protennoia</a></i></td>
+<td style="text-align:center">35–50</td>
+<td><i>Trim. Prot.</i></td>
+<td>"Three Forms of First Thought". A treatise similar to the <a href="/wiki/Apocryphon_of_John" title="Apocryphon of John">Apocryphon of John</a> in many ways.
+</td></tr>
+<tr style="vertical-align:top">
+<td>52</td>
+<td>2</td>
+<td><i><a href="/wiki/On_the_Origin_of_the_World" title="On the Origin of the World">On the Origin of the World</a></i></td>
+<td style="text-align:center"></td>
+<td><i>Orig. World</i></td>
+<td>Ten opening lines in the text.
+</td></tr>
+<tr style="border-bottom:solid 2px gray; vertical-align:top">
+<td></td>
+<td></td>
+<td style="color:gray">fragments</td>
+<td style="text-align:center"></td>
+<td></td>
+<td>The volume contains a total of 16 heavily fragmented pages. Two texts are identified.
+</td></tr></tbody></table>
+<p>The so-called "Codex XIII" is not a codex, but rather the text of <i>Trimorphic Protennoia</i>, written on "eight leaves removed from a thirteenth book in late antiquity and tucked inside the front cover of the sixth." (Robinson, NHLE, p.&#160;10) Only a few lines from the beginning of <i>Origin of the World</i> are discernible on the bottom of the eighth leaf.
+</p>
+<h2><span class="mw-headline" id="Dating">Dating</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nag_Hammadi_library&amp;action=edit&amp;section=4" title="Edit section: Dating"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Although the manuscripts discovered at Nag Hammadi are generally dated to the 4th century, there is some debate regarding the original composition of the texts.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;21&#93;</a></sup> 
+</p>
+<ol><li>The <a href="/wiki/Gospel_of_Thomas" title="Gospel of Thomas">Gospel of Thomas</a> is held by most to be the earliest of the "gnostic" gospels composed. Scholars generally date the text to the early to mid-2nd century.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;22&#93;</a></sup> The Gospel of Thomas, it is often claimed, has some gnostic elements but lacks the full gnostic cosmology. However, even the description of these elements as "gnostic" is based mainly upon the presupposition that the text as a whole is a "gnostic" gospel, and this idea itself is based upon little other than the fact that it was found along with gnostic texts at Nag Hammadi.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;23&#93;</a></sup> Some scholars including <a href="/wiki/Nicholas_Perrin" title="Nicholas Perrin">Nicholas Perrin</a> argue that <i>Thomas</i> is dependent on the <i><a href="/wiki/Diatessaron" title="Diatessaron">Diatessaron</a></i>, which was composed shortly after 172 by <a href="/wiki/Tatian" title="Tatian">Tatian</a> in Syria.<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;24&#93;</a></sup> Others contend for an earlier date, with a minority claiming a date of perhaps 50 AD, citing a relationship to the hypothetical <a href="/wiki/Q_document" class="mw-redirect" title="Q document">Q document</a> among other reasons.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;25&#93;</a></sup></li>
+<li>The <i><a href="/wiki/Gospel_of_Truth" title="Gospel of Truth">Gospel of Truth</a></i><sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;26&#93;</a></sup> and the teachings of the <a href="/wiki/Pistis_Sophia" title="Pistis Sophia">Pistis Sophia</a> can be approximately dated to the early 2nd century as they were part of the original <a href="/wiki/Valentinus_(Gnostic)" title="Valentinus (Gnostic)">Valentinian</a> school, though the gospel itself is 3rd century.</li>
+<li>Documents with a <a href="/wiki/Sethian" class="mw-redirect" title="Sethian">Sethian</a> influence (like the <a href="/wiki/Gospel_of_Judas" title="Gospel of Judas">Gospel of Judas</a>, or outright Sethian like <a href="/wiki/Coptic_Gospel_of_the_Egyptians" class="mw-redirect" title="Coptic Gospel of the Egyptians">Coptic Gospel of the Egyptians</a>) can be dated substantially later than 40 and substantially earlier than 250; most scholars giving them a 2nd-century date.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;27&#93;</a></sup> More conservative scholars using the traditional dating method would argue in these cases for the early 3rd century.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2009)">citation needed</span></a></i>&#93;</sup></li>
+<li>Some gnostic gospels (for example <a href="/wiki/Trimorphic_Protennoia" title="Trimorphic Protennoia">Trimorphic Protennoia</a>) make use of fully developed <a href="/wiki/Neoplatonism" title="Neoplatonism">Neoplatonism</a> and thus need to be dated after <a href="/wiki/Plotinus" title="Plotinus">Plotinus</a> in the 3rd century.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;28&#93;</a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;29&#93;</a></sup></li></ol>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nag_Hammadi_library&amp;action=edit&amp;section=5" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1184024115">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</style><div class="div-col" style="column-width: 23em;">
+<ul><li><a href="/wiki/Apocalyptic_literature" title="Apocalyptic literature">Apocalyptic literature</a></li>
+<li><a href="/wiki/Acts_of_the_Apostles_(genre)" title="Acts of the Apostles (genre)">Acts of the Apostles (genre)</a></li>
+<li><a href="/wiki/Agrapha" title="Agrapha">Agrapha</a></li>
+<li><a href="/wiki/Biblical_archaeology" title="Biblical archaeology">Biblical archaeology</a></li>
+<li><a href="/wiki/Development_of_the_New_Testament_canon" title="Development of the New Testament canon">Development of the New Testament canon</a></li>
+<li><a href="/wiki/Gospel_of_Mary" title="Gospel of Mary">Gospel of Mary</a></li>
+<li><a href="/wiki/List_of_Gnostic_texts" title="List of Gnostic texts">List of Gnostic texts</a></li>
+<li><a href="/wiki/List_of_Gospels" title="List of Gospels">List of Gospels</a></li>
+<li><a href="/wiki/List_of_Mandaic_manuscripts" title="List of Mandaic manuscripts">List of Mandaic manuscripts</a></li>
+<li><a href="/wiki/List_of_New_Testament_papyri" title="List of New Testament papyri">List of New Testament papyri</a></li>
+<li><a href="/wiki/Medinet_Madi_library" title="Medinet Madi library">Medinet Madi library</a></li>
+<li><a href="/wiki/Nag_Hammadi_and_Manichaean_Studies" title="Nag Hammadi and Manichaean Studies">Nag Hammadi and Manichaean Studies</a></li>
+<li><a href="/wiki/New_Testament_apocrypha" title="New Testament apocrypha">New Testament apocrypha</a></li>
+<li><a href="/wiki/Pseudepigrapha" title="Pseudepigrapha">Pseudepigrapha</a></li>
+<li><a href="/wiki/Textual_criticism" title="Textual criticism">Textual criticism</a></li></ul>
+</div>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nag_Hammadi_library&amp;action=edit&amp;section=6" title="Edit section: Notes"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1217336898">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-lower-alpha">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-pagels-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-pagels_1-0">^</a></b></span> <span class="reference-text">The texts are referred to as the "Gnostic Gospels" after <a href="/wiki/Elaine_Pagels" title="Elaine Pagels">Elaine Pagels</a>' 1979 book of the same name, but the term also has a more generic meaning.</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nag_Hammadi_library&amp;action=edit&amp;section=7" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1217336898"><div class="reflist reflist-columns references-column-width" style="column-width: 23em;">
+<ol class="references">
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="/wiki/Marvin_Meyer" title="Marvin Meyer">Meyer, Marvin</a>. <i>The Nag Hammadi Scriptures: The International Edition</i>. HarperOne, 2007. pp. 2–3. <style data-mw-deduplicate="TemplateStyles:r1215172403">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a{background-size:contain}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a{background-size:contain}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a{background-size:contain}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#2C882D;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911F}html.skin-theme-clientpref-night .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-night .mw-parser-output .cs1-hidden-error{color:#f8a397}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-os .mw-parser-output .cs1-hidden-error{color:#f8a397}html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911F}}</style><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-06-052378-6" title="Special:BookSources/0-06-052378-6">0-06-052378-6</a></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFVan_Voorst2000" class="citation book cs1"><a href="/wiki/Robert_E._Van_Voorst" title="Robert E. Van Voorst">Van Voorst, Robert</a> (2000). <i>Jesus Outside the New Testament: an introduction to the ancient evidence</i>. Grand Rapids, Michigan: Eerdmans. p.&#160;189.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Jesus+Outside+the+New+Testament%3A+an+introduction+to+the+ancient+evidence&amp;rft.place=Grand+Rapids%2C+Michigan&amp;rft.pages=189&amp;rft.pub=Eerdmans&amp;rft.date=2000&amp;rft.aulast=Van+Voorst&amp;rft.aufirst=Robert&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFGoodacre2013" class="citation journal cs1">Goodacre, Mark (14 May 2013). "How Reliable is the Story of the Nag Hammadi Discovery?". <i>Journal for the Study of the New Testament</i>. <b>35</b> (4): 303–322. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1177%2F0142064X13482243">10.1177/0142064X13482243</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:161362141">161362141</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+for+the+Study+of+the+New+Testament&amp;rft.atitle=How+Reliable+is+the+Story+of+the+Nag+Hammadi+Discovery%3F&amp;rft.volume=35&amp;rft.issue=4&amp;rft.pages=303-322&amp;rft.date=2013-05-14&amp;rft_id=info%3Adoi%2F10.1177%2F0142064X13482243&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A161362141%23id-name%3DS2CID&amp;rft.aulast=Goodacre&amp;rft.aufirst=Mark&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></span>
+</li>
+<li id="cite_note-rethinking-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-rethinking_5-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFLewisBlount2014" class="citation journal cs1">Lewis, Nicola Denzey; Blount, Justine Ariel (2014). "Rethinking the Origins of the Nag Hammadi Codices". <i>Journal of Biblical Literature</i>. <b>133</b> (2): 399. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.15699%2Fjbibllite.133.2.399">10.15699/jbibllite.133.2.399</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Biblical+Literature&amp;rft.atitle=Rethinking+the+Origins+of+the+Nag+Hammadi+Codices&amp;rft.volume=133&amp;rft.issue=2&amp;rft.pages=399&amp;rft.date=2014&amp;rft_id=info%3Adoi%2F10.15699%2Fjbibllite.133.2.399&amp;rft.aulast=Lewis&amp;rft.aufirst=Nicola+Denzey&amp;rft.au=Blount%2C+Justine+Ariel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFBurns2016" class="citation journal cs1">Burns, Dylan Michael (7 May 2016). "Telling Nag Hammadi's Egyptian Stories". <i>Bulletin for the Study of Religion</i>. <b>45</b> (2): 5–11. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1558%2Fbsor.v45i2.28176">10.1558/bsor.v45i2.28176</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Bulletin+for+the+Study+of+Religion&amp;rft.atitle=Telling+Nag+Hammadi%27s+Egyptian+Stories&amp;rft.volume=45&amp;rft.issue=2&amp;rft.pages=5-11&amp;rft.date=2016-05-07&amp;rft_id=info%3Adoi%2F10.1558%2Fbsor.v45i2.28176&amp;rft.aulast=Burns&amp;rft.aufirst=Dylan+Michael&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.catholicireland.net/the-gnostic-discoveries-the-impact-of-the-nag-hammadi-library/">"The Gnostic Discoveries: The Impact of the Nag Hammadi Library"</a>. <i>Catholic Ireland</i>. November 30, 1999<span class="reference-accessdate">. Retrieved <span class="nowrap">April 15,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Catholic+Ireland&amp;rft.atitle=The+Gnostic+Discoveries%3A+The+Impact+of+the+Nag+Hammadi+Library&amp;rft.date=1999-11-30&amp;rft_id=https%3A%2F%2Fwww.catholicireland.net%2Fthe-gnostic-discoveries-the-impact-of-the-nag-hammadi-library%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></span>
+</li>
+<li id="cite_note-The_Nag_Hammadi_Library-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_Nag_Hammadi_Library_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_Nag_Hammadi_Library_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Robinson, James M. ed., <i>The Nag Hammadi Library, revised edition.</i> HarperCollins, San Francisco, California, 1990.</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Markschies, <i>Gnosis: An Introduction</i>, p. 49</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Clontz, T.E. and J., <i>The Comprehensive New Testament</i>, Cornerstone Publications (2008), <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-9778737-1-5" title="Special:BookSources/978-0-9778737-1-5">978-0-9778737-1-5</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20101227104649/http://www.metalog.org/">"Metalogos: The Gospels of Thomas, Philip and Truth"</a>. <i>Ecumenical Coptic Project</i>. Archived from <a rel="nofollow" class="external text" href="http://www.metalog.org/">the original</a> on December 27, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">April 15,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Ecumenical+Coptic+Project&amp;rft.atitle=Metalogos%3A+The+Gospels+of+Thomas%2C+Philip+and+Truth&amp;rft_id=http%3A%2F%2Fwww.metalog.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFKhosroev1991" class="citation book cs1">Khosroev, Aleksandr Leonovich (1991). <i>Alexandrian Christianity according to texts from Nag Hammadi (II, 7; VI, 3; VII, 4; IX, 3)</i>. Moscow: Nauka. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/5-02-017257-X" title="Special:BookSources/5-02-017257-X"><bdi>5-02-017257-X</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Alexandrian+Christianity+according+to+texts+from+Nag+Hammadi+%28II%2C+7%3B+VI%2C+3%3B+VII%2C+4%3B+IX%2C+3%29&amp;rft.place=Moscow&amp;rft.pub=Nauka&amp;rft.date=1991&amp;rft.isbn=5-02-017257-X&amp;rft.aulast=Khosroev&amp;rft.aufirst=Aleksandr+Leonovich&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></span>
+</li>
+<li id="cite_note-FOOTNOTEKhosroev199126-34-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEKhosroev199126-34_13-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFKhosroev1991">Khosroev 1991</a>, p.&#160;26-34.</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.tertullian.org/rpearse/manuscripts/jung_codex.htm">"The Jung Codex"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Jung+Codex&amp;rft_id=http%3A%2F%2Fwww.tertullian.org%2Frpearse%2Fmanuscripts%2Fjung_codex.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></span>
+</li>
+<li id="cite_note-FOOTNOTEKhosroev199130-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEKhosroev199130_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEKhosroev199130_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFKhosroev1991">Khosroev 1991</a>, p.&#160;30.</span>
+</li>
+<li id="cite_note-FOOTNOTEKhosroev199131-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEKhosroev199131_16-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFKhosroev1991">Khosroev 1991</a>, p.&#160;31.</span>
+</li>
+<li id="cite_note-FOOTNOTEKhosroev199134-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEKhosroev199134_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEKhosroev199134_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFKhosroev1991">Khosroev 1991</a>, p.&#160;34.</span>
+</li>
+<li id="cite_note-FOOTNOTEKhosroev1991149-151-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEKhosroev1991149-151_18-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFKhosroev1991">Khosroev 1991</a>, p.&#160;149-151.</span>
+</li>
+<li id="cite_note-FOOTNOTEKhosroev2016244-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEKhosroev2016244_19-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFKhosroev2016">Khosroev 2016</a>, p.&#160;244.<span class="error harv-error" style="display: none; font-size:100%"> sfn error: no target: CITEREFKhosroev2016 (<a href="/wiki/Category:Harv_and_Sfn_template_errors" title="Category:Harv and Sfn template errors">help</a>)</span></span>
+</li>
+<li id="cite_note-FOOTNOTEKhosroev199192-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEKhosroev199192_20-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFKhosroev1991">Khosroev 1991</a>, p.&#160;92.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://gnosticizm.com/articles/annotations/prefIX2.html">"Preface to the Thought of Noria (IХ,2)"</a>. <i>Gnosticizm.com</i>. 2001<span class="reference-accessdate">. Retrieved <span class="nowrap">2018-07-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Gnosticizm.com&amp;rft.atitle=Preface+to+the+Thought+of+Noria+%28I%D0%A5%2C2%29&amp;rft.date=2001&amp;rft_id=http%3A%2F%2Fgnosticizm.com%2Farticles%2Fannotations%2FprefIX2.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFBock2006" class="citation book cs1"><a href="/wiki/Darrell_L._Bock" title="Darrell L. Bock">Bock, Darrell</a> (2006). <span class="id-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/missinggospelsun00bock"><i>The Missing Gospels</i></a></span>. Nelson Books. p.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/missinggospelsun00bock/page/6">6</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780785212942" title="Special:BookSources/9780785212942"><bdi>9780785212942</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Missing+Gospels&amp;rft.pages=6&amp;rft.pub=Nelson+Books&amp;rft.date=2006&amp;rft.isbn=9780785212942&amp;rft.aulast=Bock&amp;rft.aufirst=Darrell&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fmissinggospelsun00bock&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFEhrman2003" class="citation book cs1"><a href="/wiki/Bart_Ehrman" class="mw-redirect" title="Bart Ehrman">Ehrman, Bart</a> (2003). <span class="id-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/lostchristianiti00ehrm"><i>Lost Christianities</i></a></span>. New York: Oxford University Press. pp.&#160;xi–xii. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-19-514183-2" title="Special:BookSources/978-0-19-514183-2"><bdi>978-0-19-514183-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Lost+Christianities&amp;rft.place=New+York&amp;rft.pages=xi-xii&amp;rft.pub=Oxford+University+Press&amp;rft.date=2003&amp;rft.isbn=978-0-19-514183-2&amp;rft.aulast=Ehrman&amp;rft.aufirst=Bart&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Flostchristianiti00ehrm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Davies, Stevan L., <i>The Gospel of Thomas and Christian Wisdom</i>, 1983, pp. 21–22.</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Nicholas Perrin, "Thomas: The Fifth Gospel?," <i>Journal of The Evangelical Theological Society</i> 49 (March 2006): 66–/80</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFKoesterLambdin1996" class="citation book cs1">Koester, Helmut; Lambdin, Thomas O. (1996). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=UiSFUJ6al1IC&amp;q=%22gospel+of+thomas%22+helmut&amp;pg=PA125">"The Gospel of Thomas"</a>. In Robinson, James MacConkey (ed.). <i>The Nag Hammadi Library in English</i> (Revised&#160;ed.). Leiden / New York / Cologne: E. J. Brill. p.&#160;125. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/90-04-08856-3" title="Special:BookSources/90-04-08856-3"><bdi>90-04-08856-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=The+Gospel+of+Thomas&amp;rft.btitle=The+Nag+Hammadi+Library+in+English&amp;rft.place=Leiden+%2F+New+York+%2F+Cologne&amp;rft.pages=125&amp;rft.edition=Revised&amp;rft.pub=E.+J.+Brill&amp;rft.date=1996&amp;rft.isbn=90-04-08856-3&amp;rft.aulast=Koester&amp;rft.aufirst=Helmut&amp;rft.au=Lambdin%2C+Thomas+O.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DUiSFUJ6al1IC%26q%3D%2522gospel%2Bof%2Bthomas%2522%2Bhelmut%26pg%3DPA125&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20070608005730/http://wesley.nnu.edu/biblical_studies/noncanon/fathers/ante-nic/irenaeus/03-ag-he.htm">"Irenaeus Against Heresies Book III"</a>. <i>Wesley Center Online</i>. Archived from <a rel="nofollow" class="external text" href="http://wesley.nnu.edu/biblical_studies/noncanon/fathers/ante-nic/irenaeus/03-ag-he.htm">the original</a> on June 8, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">April 15,</span> 2022</span>. <q>But the followers of Valentinus, putting away all fear, bring forward their own compositions and boast that they have more Gospels than really exist. Indeed their audacity has gone so far that they entitle their recent composition the Gospel of Truth</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Wesley+Center+Online&amp;rft.atitle=Irenaeus+Against+Heresies+Book+III&amp;rft_id=http%3A%2F%2Fwesley.nnu.edu%2Fbiblical_studies%2Fnoncanon%2Ffathers%2Fante-nic%2Firenaeus%2F03-ag-he.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFTurner1992" class="citation book cs1">Turner, John D. (7 July 1992). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070622200655/http://jdt.unl.edu/triadaft.htm"><i>Gnosticism and Platonism: The Platonizing Sethian texts from Nag Hammadi in their Relation to Later Platonic Literature</i></a>. University of Nebraska–Lincoln. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-7914-1338-1" title="Special:BookSources/0-7914-1338-1"><bdi>0-7914-1338-1</bdi></a>. Archived from <a rel="nofollow" class="external text" href="http://jdt.unl.edu/triadaft.htm">the original</a> on June 22, 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">April 15,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Gnosticism+and+Platonism%3A+The+Platonizing+Sethian+texts+from+Nag+Hammadi+in+their+Relation+to+Later+Platonic+Literature&amp;rft.pub=University+of+Nebraska%E2%80%93Lincoln&amp;rft.date=1992-07-07&amp;rft.isbn=0-7914-1338-1&amp;rft.aulast=Turner&amp;rft.aufirst=John+D.&amp;rft_id=http%3A%2F%2Fjdt.unl.edu%2Ftriadaft.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span>. See also:
+<ul><li><a rel="nofollow" class="external text" href="http://www.unl.edu/classics/faculty/turner/lithist.html">"Sethian Gnosticism: A Literary History"</a>, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070706155204/http://www.unl.edu/classics/faculty/turner/lithist.html">Archived</a> 2007-07-06 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> in Nag Hammadi, Gnosticism and Early Christianity, pp. 55–86 <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-913573-16-7" title="Special:BookSources/0-913573-16-7">0-913573-16-7</a></li>
+<li>The <a href="/wiki/National_Geographic_Society" title="National Geographic Society">National Geographic Society</a> dates the gospel of Judas originally to mid 2nd century: <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150418094225/http://www.nationalgeographic.com/lostgospel/timeline.html">"Time Line &amp; Map"</a>. <i>National Geographic</i>. Archived from <a rel="nofollow" class="external text" href="http://www.nationalgeographic.com/lostgospel/timeline.html">the original</a> on 2015-04-18<span class="reference-accessdate">. Retrieved <span class="nowrap">April 15,</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Geographic&amp;rft.atitle=Time+Line+%26+Map&amp;rft_id=http%3A%2F%2Fwww.nationalgeographic.com%2Flostgospel%2Ftimeline.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></li></ul>
+</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFTurner1911" class="citation encyclopaedia cs1">Turner, William (1911). <span class="cs1-ws-icon" title="s:Catholic Encyclopedia (1913)/Neo-Platonism"><a class="external text" href="https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/Neo-Platonism">"Neo-Platonism"&#160;</a></span>. In Herbermann, Charles (ed.). <i><a href="/wiki/Catholic_Encyclopedia" title="Catholic Encyclopedia">Catholic Encyclopedia</a></i>. Vol.&#160;10. New York: Robert Appleton Company.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Neo-Platonism&amp;rft.btitle=Catholic+Encyclopedia&amp;rft.place=New+York&amp;rft.pub=Robert+Appleton+Company&amp;rft.date=1911&amp;rft.aulast=Turner&amp;rft.aufirst=William&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFChisholm1911" class="citation encyclopaedia cs1"><a href="/wiki/Hugh_Chisholm" title="Hugh Chisholm">Chisholm, Hugh</a>, ed. (1911). <span class="cs1-ws-icon" title="s:1911 Encyclopædia Britannica/Neoplatonism"><a class="external text" href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Neoplatonism">"Neoplatonism"&#160;</a></span>. <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i>. Vol.&#160;20 (11th&#160;ed.). Cambridge University Press. p.&#160;375. <q>Plotinus, a native of Lycopolis in Egypt, who lived from 205 to 270 was the first systematic philosopher of [Neo-Platonism]</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Neoplatonism&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.pages=375&amp;rft.edition=11th&amp;rft.pub=Cambridge+University+Press&amp;rft.date=1911&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nag_Hammadi_library&amp;action=edit&amp;section=8" title="Edit section: Further reading"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1054258005">.mw-parser-output .refbegin{font-size:90%;margin-bottom:0.5em}.mw-parser-output .refbegin-hanging-indents>ul{margin-left:0}.mw-parser-output .refbegin-hanging-indents>ul>li{margin-left:0;padding-left:3.2em;text-indent:-3.2em}.mw-parser-output .refbegin-hanging-indents ul,.mw-parser-output .refbegin-hanging-indents ul li{list-style:none}@media(max-width:720px){.mw-parser-output .refbegin-hanging-indents>ul>li{padding-left:1.6em;text-indent:-1.6em}}.mw-parser-output .refbegin-columns{margin-top:0.3em}.mw-parser-output .refbegin-columns ul{margin-top:0}.mw-parser-output .refbegin-columns li{page-break-inside:avoid;break-inside:avoid-column}</style><div class="refbegin refbegin-columns references-column-width" style="column-width: 30em">
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFFranzmann1996" class="citation book cs1">Franzmann, Majella (1996). <i>Jesus in the Nag Hammadi Writings</i>. T &amp; T Clark International. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/056704470X" title="Special:BookSources/056704470X"><bdi>056704470X</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Jesus+in+the+Nag+Hammadi+Writings&amp;rft.pub=T+%26+T+Clark+International&amp;rft.date=1996&amp;rft.isbn=056704470X&amp;rft.aulast=Franzmann&amp;rft.aufirst=Majella&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFLaytonBrakke2021" class="citation book cs1"><a href="/wiki/Bentley_Layton" title="Bentley Layton">Layton, Bentley</a>; Brakke, David (2021). <i>The Gnostic Scriptures</i> (2nd&#160;ed.). Yale University Press. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-300-20854-2" title="Special:BookSources/978-0-300-20854-2"><bdi>978-0-300-20854-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Gnostic+Scriptures&amp;rft.edition=2nd&amp;rft.pub=Yale+University+Press&amp;rft.date=2021&amp;rft.isbn=978-0-300-20854-2&amp;rft.aulast=Layton&amp;rft.aufirst=Bentley&amp;rft.au=Brakke%2C+David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFMarkschies2000" class="citation book cs1">Markschies, Christoph (2000). <i>Gnosis: An Introduction</i>. Translated by John Bowden. T &amp; T Clark. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-567-08945-2" title="Special:BookSources/0-567-08945-2"><bdi>0-567-08945-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Gnosis%3A+An+Introduction&amp;rft.pub=T+%26+T+Clark&amp;rft.date=2000&amp;rft.isbn=0-567-08945-2&amp;rft.aulast=Markschies&amp;rft.aufirst=Christoph&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFPagels1979" class="citation book cs1"><a href="/wiki/Elaine_Pagels" title="Elaine Pagels">Pagels, Elaine</a> (1979). <i>The Gnostic Gospels</i>. Random House. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-679-72453-2" title="Special:BookSources/0-679-72453-2"><bdi>0-679-72453-2</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Gnostic+Gospels&amp;rft.pub=Random+House&amp;rft.date=1979&amp;rft.isbn=0-679-72453-2&amp;rft.aulast=Pagels&amp;rft.aufirst=Elaine&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFRobinson1979" class="citation journal cs1">Robinson, James M. (1979). "The discovery of the Nag Hammadi codices". <i>Biblical Archaeology</i>. <b>42</b> (4): 206–224. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2307%2F3209514">10.2307/3209514</a>. <a href="/wiki/JSTOR_(identifier)" class="mw-redirect" title="JSTOR (identifier)">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="https://www.jstor.org/stable/3209514">3209514</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:165183631">165183631</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Biblical+Archaeology&amp;rft.atitle=The+discovery+of+the+Nag+Hammadi+codices&amp;rft.volume=42&amp;rft.issue=4&amp;rft.pages=206-224&amp;rft.date=1979&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A165183631%23id-name%3DS2CID&amp;rft_id=https%3A%2F%2Fwww.jstor.org%2Fstable%2F3209514%23id-name%3DJSTOR&amp;rft_id=info%3Adoi%2F10.2307%2F3209514&amp;rft.aulast=Robinson&amp;rft.aufirst=James+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFRobinson1988" class="citation book cs1"><a href="/wiki/James_M._Robinson" title="James M. Robinson">Robinson, James</a> (1988). <i>The Nag Hammadi Library in English</i>. Harper &amp; Row. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-06-066934-9" title="Special:BookSources/0-06-066934-9"><bdi>0-06-066934-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Nag+Hammadi+Library+in+English&amp;rft.pub=Harper+%26+Row&amp;rft.date=1988&amp;rft.isbn=0-06-066934-9&amp;rft.aulast=Robinson&amp;rft.aufirst=James&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFRobinson2014" class="citation book cs1">Robinson, James (2014). <i>The Nag Hammadi story from the discovery to the publication</i>. Leiden: Brill. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-04-26423-6" title="Special:BookSources/978-90-04-26423-6"><bdi>978-90-04-26423-6</bdi></a>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/oclc/861119943">861119943</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Nag+Hammadi+story+from+the+discovery+to+the+publication&amp;rft.place=Leiden&amp;rft.pub=Brill&amp;rft.date=2014&amp;rft_id=info%3Aoclcnum%2F861119943&amp;rft.isbn=978-90-04-26423-6&amp;rft.aulast=Robinson&amp;rft.aufirst=James&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFScholer1997" class="citation book cs1">Scholer, David (1997). <i>Nag Hammadi bibliography, 1970-1994</i>. Leiden: Brill. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-04-43964-1" title="Special:BookSources/978-90-04-43964-1"><bdi>978-90-04-43964-1</bdi></a>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/oclc/681900140">681900140</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Nag+Hammadi+bibliography%2C+1970-1994&amp;rft.place=Leiden&amp;rft.pub=Brill&amp;rft.date=1997&amp;rft_id=info%3Aoclcnum%2F681900140&amp;rft.isbn=978-90-04-43964-1&amp;rft.aulast=Scholer&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFScholer2009" class="citation book cs1">Scholer, David (2009). <i>Nag Hammadi bibliography, 1995-2006</i>. Leiden: Brill. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-90-04-17240-1" title="Special:BookSources/978-90-04-17240-1"><bdi>978-90-04-17240-1</bdi></a>. <a href="/wiki/OCLC_(identifier)" class="mw-redirect" title="OCLC (identifier)">OCLC</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/oclc/568624988">568624988</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Nag+Hammadi+bibliography%2C+1995-2006&amp;rft.place=Leiden&amp;rft.pub=Brill&amp;rft.date=2009&amp;rft_id=info%3Aoclcnum%2F568624988&amp;rft.isbn=978-90-04-17240-1&amp;rft.aulast=Scholer&amp;rft.aufirst=David&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFTuckett1986" class="citation book cs1"><a href="/wiki/Christopher_M._Tuckett" title="Christopher M. Tuckett">Tuckett, Christopher M.</a> (1986). <i>Nag Hammadi and the Gospel Tradition: Synoptic Tradition in the Nag Hammadi Library</i>. T &amp; T Clark. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-567-09364-6" title="Special:BookSources/0-567-09364-6"><bdi>0-567-09364-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Nag+Hammadi+and+the+Gospel+Tradition%3A+Synoptic+Tradition+in+the+Nag+Hammadi+Library&amp;rft.pub=T+%26+T+Clark&amp;rft.date=1986&amp;rft.isbn=0-567-09364-6&amp;rft.aulast=Tuckett&amp;rft.aufirst=Christopher+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFYamauchi1983" class="citation book cs1"><a href="/wiki/Edwin_M._Yamauchi" title="Edwin M. Yamauchi">Yamauchi, Edwin M.</a> (1983). <i>Pre-Christian Gnosticism: A Survey of the Proposed Evidences</i>. Baker Book House. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8010-9919-6" title="Special:BookSources/0-8010-9919-6"><bdi>0-8010-9919-6</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Pre-Christian+Gnosticism%3A+A+Survey+of+the+Proposed+Evidences&amp;rft.pub=Baker+Book+House&amp;rft.date=1983&amp;rft.isbn=0-8010-9919-6&amp;rft.aulast=Yamauchi&amp;rft.aufirst=Edwin+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFYamauchin.d." class="citation journal cs1">Yamauchi, Edwin M. (n.d.). "Pre-Christian Gnosticism in the Nag Hammadi Texts?". <i>Church History</i>. <b>48</b> (2): 129–141. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2307%2F3164879">10.2307/3164879</a>. <a href="/wiki/JSTOR_(identifier)" class="mw-redirect" title="JSTOR (identifier)">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="https://www.jstor.org/stable/3164879">3164879</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:161310738">161310738</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Church+History&amp;rft.atitle=Pre-Christian+Gnosticism+in+the+Nag+Hammadi+Texts%3F&amp;rft.volume=48&amp;rft.issue=2&amp;rft.pages=129-141&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A161310738%23id-name%3DS2CID&amp;rft_id=https%3A%2F%2Fwww.jstor.org%2Fstable%2F3164879%23id-name%3DJSTOR&amp;rft_id=info%3Adoi%2F10.2307%2F3164879&amp;rft.aulast=Yamauchi&amp;rft.aufirst=Edwin+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ANag+Hammadi+library" class="Z3988"></span></li></ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Nag_Hammadi_library&amp;action=edit&amp;section=9" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1217611005">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1;min-width:0}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><style data-mw-deduplicate="TemplateStyles:r1126788409">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" decoding="async" width="34" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></span></span></div>
+<div class="side-box-text plainlist">Wikiquote has quotations related to <i><b><a href="https://en.wikiquote.org/wiki/Special:Search/Nag_Hammadi_library" class="extiw" title="q:Special:Search/Nag Hammadi library">Nag Hammadi library</a></b></i>.</div></div>
+</div>
+<ul><li><a rel="nofollow" class="external text" href="http://www.gnosis.org/naghamm/nhl.html">The Nag Hammadi Library</a> – Complete texts, at the <a href="/wiki/Gnostic_Society" title="Gnostic Society">Gnostic Society</a> Library</li>
+<li><a rel="nofollow" class="external text" href="http://www.gnosis.org/naghamm/nhl_thomas.htm">The Gospel of Thomas</a> – Multiple translations and resources, at the Gnostic Society Library</li>
+<li><a rel="nofollow" class="external text" href="http://www.tertullian.org/rpearse/manuscripts/nag_hammadi.htm">How the manuscripts were found</a> – A complete list of the manuscripts, at the Tertullian Project</li>
+<li><a rel="nofollow" class="external text" href="http://www.tertullian.org/rpearse/manuscripts/jung_codex.htm">Jung Codex</a>, at the Tertullian Project</li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Nag_Hammadi_library" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Nag_Hammadi_Codices" title="Template:Nag Hammadi Codices"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Nag_Hammadi_Codices" title="Template talk:Nag Hammadi Codices"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Nag_Hammadi_Codices" title="Special:EditPage/Template:Nag Hammadi Codices"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Nag_Hammadi_library" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Nag Hammadi library</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Codex I (Jung Codex)</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Prayer_of_the_Apostle_Paul" title="Prayer of the Apostle Paul">Prayer of the Apostle Paul</a></li>
+<li><a href="/wiki/Apocryphon_of_James" title="Apocryphon of James">Apocryphon of James</a></li>
+<li><a href="/wiki/Gospel_of_Truth" title="Gospel of Truth">Gospel of Truth</a></li>
+<li><a href="/wiki/Treatise_on_the_Resurrection" title="Treatise on the Resurrection">Treatise on the Resurrection</a></li>
+<li><a href="/wiki/Tripartite_Tractate" title="Tripartite Tractate">Tripartite Tractate</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nag_Hammadi_Codex_II" title="Nag Hammadi Codex II">Codex II</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apocryphon_of_John" title="Apocryphon of John">Apocryphon of John</a></li>
+<li><a href="/wiki/Gospel_of_Thomas" title="Gospel of Thomas">Gospel of Thomas</a></li>
+<li><a href="/wiki/Gospel_of_Philip" title="Gospel of Philip">Gospel of Philip</a></li>
+<li><a href="/wiki/Hypostasis_of_the_Archons" title="Hypostasis of the Archons">Hypostasis of the Archons</a></li>
+<li><a href="/wiki/On_the_Origin_of_the_World" title="On the Origin of the World">On the Origin of the World</a></li>
+<li><a href="/wiki/Exegesis_on_the_Soul" title="Exegesis on the Soul">Exegesis on the Soul</a></li>
+<li><a href="/wiki/Book_of_Thomas_the_Contender" title="Book of Thomas the Contender">Book of Thomas the Contender</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Codex III</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apocryphon_of_John" title="Apocryphon of John">Apocryphon of John</a> (shorter version)</li>
+<li><a href="/wiki/Holy_Book_of_the_Great_Invisible_Spirit" title="Holy Book of the Great Invisible Spirit">Gospel of the Egyptians</a></li>
+<li><a href="/wiki/Epistle_of_Eugnostos" title="Epistle of Eugnostos">Eugnostos the Blessed</a></li>
+<li><a href="/wiki/The_Sophia_of_Jesus_Christ" class="mw-redirect" title="The Sophia of Jesus Christ">The Sophia of Jesus Christ</a></li>
+<li><a href="/wiki/Dialogue_of_the_Saviour" title="Dialogue of the Saviour">Dialogue of the Saviour</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Codex IV</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Apocryphon_of_John" title="Apocryphon of John">Apocryphon of John</a> (longer version)</li>
+<li><a href="/wiki/Holy_Book_of_the_Great_Invisible_Spirit" title="Holy Book of the Great Invisible Spirit">Gospel of the Egyptians</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Codex V</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Epistle_of_Eugnostos" title="Epistle of Eugnostos">Eugnostos the Blessed</a></li>
+<li><a href="/wiki/Coptic_Apocalypse_of_Paul" title="Coptic Apocalypse of Paul">Apocalypse of Paul</a></li>
+<li><a href="/wiki/First_Apocalypse_of_James" title="First Apocalypse of James">First Apocalypse of James</a></li>
+<li><a href="/wiki/Second_Apocalypse_of_James" title="Second Apocalypse of James">Second Apocalypse of James</a></li>
+<li><a href="/wiki/Apocalypse_of_Adam" title="Apocalypse of Adam">Apocalypse of Adam</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Codex VI</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Acts_of_Peter_and_the_Twelve" title="Acts of Peter and the Twelve">Acts of Peter and the Twelve</a></li>
+<li><a href="/wiki/The_Thunder,_Perfect_Mind" title="The Thunder, Perfect Mind">The Thunder, Perfect Mind</a></li>
+<li><a href="/wiki/Authoritative_Discourse" title="Authoritative Discourse">Authoritative Discourse</a></li>
+<li><a href="/wiki/Concept_of_Our_Great_Power" title="Concept of Our Great Power">Concept of Our Great Power</a></li>
+<li><a href="/wiki/Republic_(Plato)" title="Republic (Plato)">Plato, <i>The Republic</i> 588A-589B</a></li>
+<li><a href="/wiki/The_Discourse_on_the_Eighth_and_Ninth" title="The Discourse on the Eighth and Ninth">The Discourse on the Eighth and Ninth</a></li>
+<li><a href="/wiki/Prayer_of_Thanksgiving" title="Prayer of Thanksgiving">The Prayer of Thanksgiving</a></li>
+<li><a href="/wiki/Asclepius_(treatise)" title="Asclepius (treatise)">Asclepius 21-29</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Codex VII</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Paraphrase_of_Shem" title="Paraphrase of Shem">Paraphrase of Shem</a></li>
+<li><a href="/wiki/Second_Treatise_of_the_Great_Seth" title="Second Treatise of the Great Seth">Second Treatise of the Great Seth</a></li>
+<li><a href="/wiki/Gnostic_Apocalypse_of_Peter" title="Gnostic Apocalypse of Peter">Gnostic Apocalypse of Peter</a></li>
+<li><a href="/wiki/Teachings_of_Silvanus" title="Teachings of Silvanus">Teachings of Silvanus</a></li>
+<li><a href="/wiki/Three_Steles_of_Seth" title="Three Steles of Seth">Three Steles of Seth</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Codex VIII</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Zostrianos" title="Zostrianos">Zostrianos</a></li>
+<li><a href="/wiki/Letter_of_Peter_to_Philip" title="Letter of Peter to Philip">Letter of Peter to Philip</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Codex IX</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Melchizedek_(text)" title="Melchizedek (text)">Melchizedek</a></li>
+<li><a href="/wiki/Thought_of_Norea" title="Thought of Norea">Thought of Norea</a></li>
+<li><a href="/wiki/Testimony_of_Truth" title="Testimony of Truth">Testimony of Truth</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Codex X</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Marsanes" title="Marsanes">Marsanes</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Codex XI</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Interpretation_of_Knowledge" title="Interpretation of Knowledge">Interpretation of Knowledge</a></li>
+<li><a href="/wiki/Valentinian_Exposition" title="Valentinian Exposition">Valentinian Exposition</a></li>
+<li><a href="/wiki/Allogenes" title="Allogenes">Allogenes</a></li>
+<li><a href="/wiki/Hypsiphrone" title="Hypsiphrone">Hypsiphrone</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Codex XII</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Sentences_of_Sextus" title="Sentences of Sextus">Sentences of Sextus</a></li>
+<li><a href="/wiki/Gospel_of_Truth" title="Gospel of Truth">Gospel of Truth</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Nag_Hammadi_Codex_XIII" title="Nag Hammadi Codex XIII">Codex XIII</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Trimorphic_Protennoia" title="Trimorphic Protennoia">Trimorphic Protennoia</a></li>
+<li><a href="/wiki/On_the_Origin_of_the_World" title="On the Origin of the World">On the Origin of the World</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"><style data-mw-deduplicate="TemplateStyles:r1038841319">.mw-parser-output .tooltip-dotted{border-bottom:1px dotted;cursor:help}</style><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1038841319"></div><div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q222999#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Authority_control_databases_frameless&amp;#124;text-top&amp;#124;10px&amp;#124;alt=Edit_this_at_Wikidata&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q222999#identifiers&amp;#124;class=noprint&amp;#124;Edit_this_at_Wikidata" style="font-size:114%;margin:0 4em"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a> <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q222999#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">International</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="http://id.worldcat.org/fast/1356911/">FAST</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://viaf.org/viaf/181848242">VIAF</a></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">National</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://authority.bibsys.no/authority/rest/authorities/html/90713688">Norway</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="http://catalogo.bne.es/uhtbin/authoritybrowse.cgi?action=display&amp;authority_id=XX3647274">Spain</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb133198569">France</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb133198569">BnF data</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://cantic.bnc.cat/registre/981058617104506706">Catalonia</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/1034033395">Germany</a></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="http://olduli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007265722105171">Israel</a></span></li>
+<li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Nag Hammadi codices"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/n81020972">United States</a></span></span></li>
+<li><span class="uid"><a rel="nofollow" class="external text" href="https://libris.kb.se/gdsw05m005jrf7z">Sweden</a></span></li>
+<li><span class="uid"><span class="rt-commentedText tooltip tooltip-dotted" title="Rukopisy z Nag Hammádí"><a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=unn2006375108&amp;CON_LNG=ENG">Czech Republic</a></span></span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://www.idref.fr/033107610">IdRef</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.codfw.main‐6d7488864f‐p6lcv
+Cached time: 20240410104253
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.709 seconds
+Real time usage: 0.906 seconds
+Preprocessor visited node count: 4223/1000000
+Post‐expand include size: 104783/2097152 bytes
+Template argument size: 4303/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 17/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 131697/5000000 bytes
+Lua time usage: 0.437/10.000 seconds
+Lua memory usage: 7901509/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  773.854      1 -total
+ 36.49%  282.401      2 Template:Reflist
+ 18.52%  143.292     16 Template:Cite_book
+ 11.38%   88.053      1 Template:Gnosticism
+ 10.96%   84.783      1 Template:Sidebar_with_collapsible_lists
+  9.66%   74.778      1 Template:Short_description
+  8.47%   65.524      3 Template:ISBN
+  7.71%   59.643      1 Template:Authority_control
+  7.36%   56.976      9 Template:Sfn
+  7.02%   54.309      3 Template:Catalog_lookup_link
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:210119-0!canonical and timestamp 20240410104253 and revision id 1210691916. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Nag_Hammadi_library&amp;oldid=1210691916">https://en.wikipedia.org/w/index.php?title=Nag_Hammadi_library&amp;oldid=1210691916</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Nag_Hammadi_library" title="Category:Nag Hammadi library">Nag Hammadi library</a></li><li><a href="/wiki/Category:1945_archaeological_discoveries" title="Category:1945 archaeological discoveries">1945 archaeological discoveries</a></li><li><a href="/wiki/Category:Archaeological_corpora" title="Category:Archaeological corpora">Archaeological corpora</a></li><li><a href="/wiki/Category:Coptic_literature" title="Category:Coptic literature">Coptic literature</a></li><li><a href="/wiki/Category:Gnostic_Gospels" title="Category:Gnostic Gospels">Gnostic Gospels</a></li><li><a href="/wiki/Category:Gnostic_texts" title="Category:Gnostic texts">Gnostic texts</a></li><li><a href="/wiki/Category:Lists_of_manuscripts" title="Category:Lists of manuscripts">Lists of manuscripts</a></li><li><a href="/wiki/Category:Religion_in_Egypt" title="Category:Religion in Egypt">Religion in Egypt</a></li><li><a href="/wiki/Category:Papyrus" title="Category:Papyrus">Papyrus</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Harv_and_Sfn_no-target_errors" title="Category:Harv and Sfn no-target errors">Harv and Sfn no-target errors</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_incorporating_a_citation_from_the_1913_Catholic_Encyclopedia_with_Wikisource_reference" title="Category:Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource reference">Articles incorporating a citation from the 1913 Catholic Encyclopedia with Wikisource reference</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_December_2021" title="Category:Wikipedia articles needing clarification from December 2021">Wikipedia articles needing clarification from December 2021</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2009" title="Category:Articles with unsourced statements from April 2009">Articles with unsourced statements from April 2009</a></li><li><a href="/wiki/Category:Articles_with_FAST_identifiers" title="Category:Articles with FAST identifiers">Articles with FAST identifiers</a></li><li><a href="/wiki/Category:Articles_with_VIAF_identifiers" title="Category:Articles with VIAF identifiers">Articles with VIAF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BIBSYS_identifiers" title="Category:Articles with BIBSYS identifiers">Articles with BIBSYS identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNE_identifiers" title="Category:Articles with BNE identifiers">Articles with BNE identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNF_identifiers" title="Category:Articles with BNF identifiers">Articles with BNF identifiers</a></li><li><a href="/wiki/Category:Articles_with_BNFdata_identifiers" title="Category:Articles with BNFdata identifiers">Articles with BNFdata identifiers</a></li><li><a href="/wiki/Category:Articles_with_CANTICN_identifiers" title="Category:Articles with CANTICN identifiers">Articles with CANTICN identifiers</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li><li><a href="/wiki/Category:Articles_with_J9U_identifiers" title="Category:Articles with J9U identifiers">Articles with J9U identifiers</a></li><li><a href="/wiki/Category:Articles_with_LCCN_identifiers" title="Category:Articles with LCCN identifiers">Articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Articles_with_Libris_identifiers" title="Category:Articles with Libris identifiers">Articles with Libris identifiers</a></li><li><a href="/wiki/Category:Articles_with_NKC_identifiers" title="Category:Articles with NKC identifiers">Articles with NKC identifiers</a></li><li><a href="/wiki/Category:Articles_with_SUDOC_identifiers" title="Category:Articles with SUDOC identifiers">Articles with SUDOC identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 27 February 2024, at 22:19<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Nag_Hammadi_library&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-5fb559bb98-pchrn","wgBackendResponseTime":194,"wgPageParseReport":{"limitreport":{"cputime":"0.709","walltime":"0.906","ppvisitednodes":{"value":4223,"limit":1000000},"postexpandincludesize":{"value":104783,"limit":2097152},"templateargumentsize":{"value":4303,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":17,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":131697,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  773.854      1 -total"," 36.49%  282.401      2 Template:Reflist"," 18.52%  143.292     16 Template:Cite_book"," 11.38%   88.053      1 Template:Gnosticism"," 10.96%   84.783      1 Template:Sidebar_with_collapsible_lists","  9.66%   74.778      1 Template:Short_description","  8.47%   65.524      3 Template:ISBN","  7.71%   59.643      1 Template:Authority_control","  7.36%   56.976      9 Template:Sfn","  7.02%   54.309      3 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.437","limit":"10.000"},"limitreport-memusage":{"value":7901509,"limit":52428800},"limitreport-logs":"anchor_id_list = table#1 {\n    [\"CITEREFBock2006\"] = 1,\n    [\"CITEREFBurns2016\"] = 1,\n    [\"CITEREFChisholm1911\"] = 1,\n    [\"CITEREFEhrman2003\"] = 1,\n    [\"CITEREFFranzmann1996\"] = 1,\n    [\"CITEREFGoodacre2013\"] = 1,\n    [\"CITEREFKhosroev1991\"] = 1,\n    [\"CITEREFKoesterLambdin1996\"] = 1,\n    [\"CITEREFLaytonBrakke2021\"] = 1,\n    [\"CITEREFLewisBlount2014\"] = 1,\n    [\"CITEREFMarkschies2000\"] = 1,\n    [\"CITEREFPagels1979\"] = 1,\n    [\"CITEREFRobinson1979\"] = 1,\n    [\"CITEREFRobinson1988\"] = 1,\n    [\"CITEREFRobinson2014\"] = 1,\n    [\"CITEREFScholer1997\"] = 1,\n    [\"CITEREFScholer2009\"] = 1,\n    [\"CITEREFTuckett1986\"] = 1,\n    [\"CITEREFTurner1911\"] = 1,\n    [\"CITEREFTurner1992\"] = 1,\n    [\"CITEREFVan_Voorst2000\"] = 1,\n    [\"CITEREFYamauchi1983\"] = 1,\n    [\"CITEREFYamauchin.d.\"] = 1,\n}\ntemplate_list = table#1 {\n    [\"Authority control\"] = 1,\n    [\"Citation needed\"] = 1,\n    [\"Cite Catholic Encyclopedia\"] = 1,\n    [\"Cite EB1911\"] = 1,\n    [\"Cite book\"] = 16,\n    [\"Cite journal\"] = 5,\n    [\"Cite web\"] = 6,\n    [\"Clarify\"] = 1,\n    [\"DEFAULTSORT:Nag Hammadi Library\"] = 1,\n    [\"Div col\"] = 1,\n    [\"Div col end\"] = 1,\n    [\"Efn\"] = 1,\n    [\"Gnosticism\"] = 1,\n    [\"ISBN\"] = 3,\n    [\"Ill\"] = 1,\n    [\"Notelist\"] = 1,\n    [\"Refbegin\"] = 1,\n    [\"Refend\"] = 1,\n    [\"Reflist\"] = 1,\n    [\"Sfn\"] = 9,\n    [\"Short description\"] = 1,\n    [\"The Nag Hammadi Codices\"] = 1,\n    [\"Webarchive\"] = 1,\n    [\"Wikiquote\"] = 1,\n}\narticle_whitelist = table#1 {\n}\n"},"cachereport":{"origin":"mw-web.codfw.main-6d7488864f-p6lcv","timestamp":"20240410104253","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Nag Hammadi library","url":"https:\/\/en.wikipedia.org\/wiki\/Nag_Hammadi_library","sameAs":"http:\/\/www.wikidata.org\/entity\/Q222999","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q222999","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-04-13T23:50:00Z","dateModified":"2024-02-27T22:19:50Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/42\/El_Evangelio_de_Tom%C3%A1s-Gospel_of_Thomas-_Codex_II_Manuscritos_de_Nag_Hammadi-The_Nag_Hammadi_manuscripts.png","headline":"collection of early Christian and Gnostic texts discovered near the Upper Egyptian town of Nag Hammadi in 1945"}</script>
+</body>
+</html>

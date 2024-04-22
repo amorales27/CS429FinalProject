@@ -1,0 +1,590 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="az" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Ontologiya (informasiya elmi) — Vikipediya</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t.",".\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","yanvar","fevral","mart","aprel","may","iyun","iyul","avqust","sentyabr","oktyabr","noyabr","dekabr"],"wgRequestId":"e344859c-5d63-473f-964c-411fdb9af282","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Ontologiya_(informasiya_elmi)","wgTitle":"Ontologiya (informasiya elmi)","wgCurRevisionId":7430988,"wgRevisionId":7430988,"wgArticleId":810204,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Biliklərin təsvir olunması","Semantik veb","İnformasiya elmi","Texniki kommunikasiya","Bilik mühəndisliyi","Ontologiya (informasiya elmi)"],"wgPageViewLanguage":"az","wgPageContentLanguage":"az","wgPageContentModel":"wikitext","wgRelevantPageName":"Ontologiya_(informasiya_elmi)",
+"wgRelevantArticleId":810204,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Ontologiya_(informatika)","wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"az","pageLanguageDir":"ltr","pageVariantFallbacks":"az"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":7000,"wgULSCurrentAutonym":"azərbaycanca","wgInternalRedirectTargetUrl":"/wiki/Ontologiya_(informasiya_elmi)","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q324254","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList",
+"mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.gadget.logo":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.ready","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.sidebarRelated","ext.gadget.metaBox","ext.gadget.EditToolbar",
+"ext.gadget.EditToolbar-menu-page_elements","ext.gadget.EditToolbar_infobox_person","ext.gadget.EditToolbar_discussion","ext.gadget.EditToolbar_references","ext.gadget.markadmins","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=az&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=az&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=az&amp;modules=ext.gadget.logo&amp;only=styles&amp;skin=vector">
+<link rel="stylesheet" href="/w/load.php?lang=az&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<meta name="generator" content="MediaWiki 1.43.0-wmf.1">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Ontologiya (informasiya elmi) — Vikipediya">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//az.m.wikipedia.org/wiki/Ontologiya_(informasiya_elmi)">
+<link rel="alternate" type="application/x-wiki" title="Redaktə" href="/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Vikipediya (az)">
+<link rel="EditURI" type="application/rsd+xml" href="//az.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://az.wikipedia.org/wiki/Ontologiya_(informasiya_elmi)">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.az">
+<link rel="alternate" type="application/atom+xml" title="Vikipediya — Atom-lenti" href="/w/index.php?title=X%C3%BCsusi:SonD%C9%99yi%C5%9Fiklikl%C9%99r&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Ontologiya_informasiya_elmi rootpage-Ontologiya_informasiya_elmi skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Ontologiya (informasiya elmi)</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Vikipediya, azad ensiklopediya</div>
+		<div id="contentSub"><div id="mw-content-subtitle"><span class="mw-redirectedfrom">(<a href="/w/index.php?title=Ontologiya_(informatika)&amp;redirect=no" class="mw-redirect" title="Ontologiya (informatika)">Ontologiya (informatika)</a> səhifəsindən istiqamətləndirilmişdir)</span></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Naviqasiyaya keçin</a>
+		<a class="mw-jump-link" href="#searchInput">Axtarışa keçin</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="az" dir="ltr"><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding: 0.3em"><a href="/wiki/%C4%B0nformasiya_elmi" title="İnformasiya elmi">İnformasiya elmi</a></th></tr><tr><th style="padding:0.1em;border-top:1px solid #CCC;">
+<a href="/w/index.php?title=%C4%B0nformasiya_elminin_%C9%99saslar%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="İnformasiya elminin əsasları (səhifə mövcud deyil)">Ümumi aspektlər</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="hlist hlist-separated">
+<ul><li><a href="/w/index.php?title=%C4%B0nformasiya_giri%C5%9Fi&amp;action=edit&amp;redlink=1" class="new" title="İnformasiya girişi (səhifə mövcud deyil)">Giriş</a></li>
+<li><a href="/w/index.php?title=%C4%B0nformasiya_arxitekturas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="İnformasiya arxitekturası (səhifə mövcud deyil)">Arxitektura</a></li>
+<li><a href="/w/index.php?title=%C4%B0nformasiya_davran%C4%B1%C5%9F%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="İnformasiya davranışı (səhifə mövcud deyil)">Davranış</a></li>
+<li><a href="/wiki/%C4%B0nformasiya_menecmenti" title="İnformasiya menecmenti">Menecment</a></li>
+<li><a href="/w/index.php?title=%C4%B0nformasiya_%C9%99ld%C9%99_etm%C9%99k&amp;action=edit&amp;redlink=1" class="new" title="İnformasiya əldə etmək (səhifə mövcud deyil)">Əldə etmək</a></li>
+<li><a href="/wiki/%C4%B0nformasiya_axtar%C4%B1%C5%9F%C4%B1" title="İnformasiya axtarışı">Axtarışı</a></li>
+<li><a href="/wiki/%C4%B0nformasiya_c%C9%99miyy%C9%99ti" title="İnformasiya cəmiyyəti">Cəmiyyət</a></li>
+<li><a href="/w/index.php?title=Bilik_t%C9%99%C5%9Fkilat%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Bilik təşkilatı (səhifə mövcud deyil)">Bilik təşkilatı</a></li>
+<li><a href="/wiki/Ontologiya_(informatika)" class="mw-redirect" title="Ontologiya (informatika)">Ontologiya</a></li>
+<li><a href="/wiki/%C4%B0nformasiya_f%C9%99ls%C9%99f%C9%99si" title="İnformasiya fəlsəfəsi">Fəlsəfə</a></li>
+<li><a href="/w/index.php?title=Elm_v%C9%99_texnologiya_t%C9%99dqiqatlar%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Elm və texnologiya tədqiqatları (səhifə mövcud deyil)">Elm və texnologiya tədqiqatları</a></li>
+<li><a href="/wiki/Taksonomiya" title="Taksonomiya">Taksonomiya</a></li></ul>
+</div></td>
+</tr><tr><th style="padding:0.1em;border-top:1px solid #CCC;">
+Əlaqədar sahələr və alt sahələr</th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="hlist hlist-separated">
+<ul><li><a href="/wiki/Bibliometriya" title="Bibliometriya">Bibliometriya</a></li>
+<li><a href="/w/index.php?title=Kateqoriyala%C5%9Fd%C4%B1rma&amp;action=edit&amp;redlink=1" class="new" title="Kateqoriyalaşdırma (səhifə mövcud deyil)">Kateqoriyalaşdırma</a></li>
+<li><a href="/wiki/Senzura" title="Senzura">Senzura</a></li>
+<li><a href="/w/index.php?title=T%C9%99snifat&amp;action=edit&amp;redlink=1" class="new" title="Təsnifat (səhifə mövcud deyil)">Təsnifat</a></li>
+<li><a href="/w/index.php?title=Komp%C3%BCter_m%C9%99lumatlar%C4%B1n%C4%B1n_saxlanmas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Kompüter məlumatlarının saxlanması (səhifə mövcud deyil)">Kompüter məlumatlarının saxlanması</a></li>
+<li><a href="/w/index.php?title=M%C9%99d%C9%99niyy%C9%99t%C5%9F%C3%BCnasl%C4%B1q&amp;action=edit&amp;redlink=1" class="new" title="Mədəniyyətşünaslıq (səhifə mövcud deyil)">Mədəniyyətşünaslıq</a></li>
+<li><a href="/w/index.php?title=Data_modell%C9%99m%C9%99&amp;action=edit&amp;redlink=1" class="new" title="Data modelləmə (səhifə mövcud deyil)">Data modelləmə</a></li>
+<li><a href="/wiki/%C4%B0nformatika" title="İnformatika">İnformatika</a></li>
+<li><a href="/wiki/%C4%B0nformasiya_texnologiyalar%C4%B1" title="İnformasiya texnologiyaları">İnformasiya texnologiyaları</a></li>
+<li><a href="/w/index.php?title=%C4%B0ntellektual_azadl%C4%B1q&amp;action=edit&amp;redlink=1" class="new" title="İntellektual azadlıq (səhifə mövcud deyil)">İntellektual azadlıq</a></li>
+<li><a href="/wiki/%C6%8Fqli_m%C3%BClkiyy%C9%99t" title="Əqli mülkiyyət">Əqli mülkiyyət</a></li>
+<li><a href="/w/index.php?title=Kitabxana%C5%9F%C3%BCnasl%C4%B1q_v%C9%99_informasiya_elml%C9%99ri&amp;action=edit&amp;redlink=1" class="new" title="Kitabxanaşünaslıq və informasiya elmləri (səhifə mövcud deyil)">Kitabxanaşünaslıq və informasiya elmləri</a></li>
+<li><a href="/wiki/Yadda%C5%9F" class="mw-redirect" title="Yaddaş">Yaddaş</a></li>
+<li><a href="/w/index.php?title=Qoruma_(kitabxana_v%C9%99_arxiv)&amp;action=edit&amp;redlink=1" class="new" title="Qoruma (kitabxana və arxiv) (səhifə mövcud deyil)">Qoruma</a></li>
+<li><a href="/wiki/Gizlilik" title="Gizlilik">Gizlilik</a></li>
+<li><a href="/w/index.php?title=Kvant_informasiya_elmi&amp;action=edit&amp;redlink=1" class="new" title="Kvant informasiya elmi (səhifə mövcud deyil)">Kvant informasiya elmi</a></li></ul>
+</div></td>
+</tr><tr><td style="text-align:right;font-size:115%"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/%C5%9Eablon:%C4%B0nformasiya_elmi" title="Şablon:İnformasiya elmi"><span title="Şablona bax">b</span></a></li><li class="nv-talk"><a href="/w/index.php?title=%C5%9Eablon_m%C3%BCzakir%C9%99si:%C4%B0nformasiya_elmi&amp;action=edit&amp;redlink=1" class="new" title="Şablon müzakirəsi:İnformasiya elmi (səhifə mövcud deyil)"><span title="Müzakirə et">m</span></a></li><li class="nv-edit"><a class="external text" href="https://az.wikipedia.org/w/index.php?title=%C5%9Eablon:%C4%B0nformasiya_elmi&amp;action=edit"><span title="Bu şablonu redaktə et">r</span></a></li></ul></div></td></tr></tbody></table>
+<p><b>Ontologiya</b>, məlumatlar və subyektlər arasındakı klassifikasiyaları, xassələri və əlaqələri təsvir edən bir anlayışdır. Bu <a href="/wiki/%C4%B0nformasiya_elmi" title="İnformasiya elmi">informasiya elmində</a> fərqli sahələrdə istifadə olunan bir metodikadır. Ontologiya mövzuların xüsusiyyətlərini və subyektlər arasındakı əlaqələri açıqlamaq (<a href="/w/index.php?title=Domains_of_discourse&amp;action=edit&amp;redlink=1" class="new" title="Domains of discourse (səhifə mövcud deyil)">domains of discourse</a>) üçün istifadə olunur. Əsasən ontologiya subyektləri təsvir edən anlayış və kateqoriyaları müəyyən etmək üçün istifadə edilir.
+</p><p>Hər bir <a href="/w/index.php?title=Akademik_intizam&amp;action=edit&amp;redlink=1" class="new" title="Akademik intizam (səhifə mövcud deyil)">akademik intizam</a>, hər hansı sahənin mürəkkəbliyini məhdudlaşdırmaq və məlumatları biliyə çevirmək üçün ontologiyalar yaradır. Hər biri açıq nəzəriyyələri, tədqiqatları və tətbiqləri qurmaq üçün ontoloji fərziyyələrdən istifadə edir. Yeni ontologiyalar bu sahədə problemlərin həllini təkmilləşdirə bilər. Müxtəlif ölkələrdən olan ekspertlər öz dillərinin <a href="/w/index.php?title=N%C9%99zar%C9%99t_edil%C9%99n_l%C3%BC%C4%9F%C9%99t&amp;action=edit&amp;redlink=1" class="new" title="Nəzarət edilən lüğət (səhifə mövcud deyil)">nəzarət edilən lüğətini</a> təkmilləşdirsə, bütün sahələrdə tədqiqat işlərinin tərcüməsi asanlaşır.<sup id="cite_ref-Budin2005_1-0" class="reference"><a href="#cite_note-Budin2005-1">&#91;1&#93;</a></sup> Məsələn, iqtisadiyyatın tərifi və ontologiyası <a href="/wiki/Marksist_m%C9%99kt%C9%99b" title="Marksist məktəb">marksist iqtisadiyyatda</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> eyni zamanda <a href="/w/index.php?title=%C4%B0qtisadiyyat%C4%B1n_dig%C9%99r_alt_sah%C9%99l%C9%99ri&amp;action=edit&amp;redlink=1" class="new" title="İqtisadiyyatın digər alt sahələri (səhifə mövcud deyil)">iqtisadiyyatın digər alt sahələrində</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> narahatlıq doğurur. İnformasiya elminə <a href="/w/index.php?title=%C6%8Fsas_kapital&amp;action=edit&amp;redlink=1" class="new" title="Əsas kapital (səhifə mövcud deyil)">əsaslanan iqtisadiyyat</a> nümunəsi isə, simulyasiya və ya modelin hansı kapital aktivlərinin risk altında olduğunu və nə qədər olduğunu müəyyən etmək kimi iqtisadi qərarlar qəbul etmək üçün nəzərdə tutulur (<a href="/wiki/Risk_menecment" title="Risk menecment">risk menecmentinə</a> baxın).
+</p><p><a href="/wiki/%C4%B0nformasiya_elmi" title="İnformasiya elmi">İnformasiya elmində</a> və <a href="/wiki/F%C9%99ls%C9%99f%C9%99" title="Fəlsəfə">fəlsəfədə</a> ontologiyalar ümumi məqsədə malikdir. Onlar ortaq varlıqları, ideyaları və hadisələri bir-birindən asılı olan xassələri və əlaqələri təmsil etməyi hədəfləyirlər. Bu təmsil kateqoriyalar sistemindən istifadə etməklə həyata keçirilir. Həm informasiya elmində, həm də fəlsəfədə <a href="/w/index.php?title=Ontologiya_m%C3%BCh%C9%99ndisliyi&amp;action=edit&amp;redlink=1" class="new" title="Ontologiya mühəndisliyi (səhifə mövcud deyil)">ontologiya mühəndisliyinə</a> yönəlmiş əsaslı tədqiqatlar var. <a href="/wiki/Uillard_van_Orman_Kuayn" title="Uillard van Orman Kuayn">Kuayn</a> və <a href="/w/index.php?title=Saul_Kripke&amp;action=edit&amp;redlink=1" class="new" title="Saul Kripke (səhifə mövcud deyil)">Kripke</a> kimi filosoflar fəlsəfə sahəsində, informasiya elmində isə <a href="/w/index.php?title=Con_F._Sova&amp;action=edit&amp;redlink=1" class="new" title="Con F. Sova (səhifə mövcud deyil)">Sowa</a> və <a href="/w/index.php?title=Nikola_Guarino&amp;action=edit&amp;redlink=1" class="new" title="Nikola Guarino (səhifə mövcud deyil)">Guarino</a><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> kimi tədqiqatçılar əhəmiyyətli töhfələr veriblər. <a href="/w/index.php?title=Normativ&amp;action=edit&amp;redlink=1" class="new" title="Normativ (səhifə mövcud deyil)">Normativ</a> ontologiyanın mümkünlüyü ilə bağlı mübahisələr də davam edir. Fəlsəfədə bu mübahisələr <a href="/w/index.php?title=T%C9%99m%C9%99l%C3%A7ilik&amp;action=edit&amp;redlink=1" class="new" title="Təməlçilik (səhifə mövcud deyil)">təməlçilik</a> və <a href="/w/index.php?title=Koherentizm&amp;action=edit&amp;redlink=1" class="new" title="Koherentizm (səhifə mövcud deyil)">koherentizmi</a> əhatə edir, süni intellektdə isə müzakirələr <a href="/w/index.php?title=%C6%8Fsas_Formal_Ontologiya&amp;action=edit&amp;redlink=1" class="new" title="Əsas Formal Ontologiya (səhifə mövcud deyil)">BFO</a> və <a href="/w/index.php?title=Cyc&amp;action=edit&amp;redlink=1" class="new" title="Cyc (səhifə mövcud deyil)">Cyc</a> kimi ontologiyalar ətrafında fırlanır.
+</p><p><a href="/w/index.php?title=T%C9%99tbiqi_ontologiya&amp;action=edit&amp;redlink=1" class="new" title="Tətbiqi ontologiya (səhifə mövcud deyil)">Tətbiqi ontologiya</a> əvvəlki fəlsəfi işlərin davamı kimi görünür. Bununla belə ontologiyada bir çox konkret sahələr üçün idarə olunan lüğətlərin yaradılmasına daha çox diqqət yetirir. <a href="/w/index.php?title=T%C9%99tbiqi_ontologiya&amp;action=edit&amp;redlink=1" class="new" title="Tətbiqi ontologiya (səhifə mövcud deyil)">Tətbiqi ontologiyada</a> sabit mahiyyətlərin mövcudluğu və ya davamlı obyektlərin (məsələn, <a href="/w/index.php?title=Davaml%C4%B1l%C4%B1q&amp;action=edit&amp;redlink=1" class="new" title="Davamlılıq (səhifə mövcud deyil)">davamlılıq</a> və <a href="/w/index.php?title=D%C3%B6z%C3%BCml%C3%BCl%C3%BCk&amp;action=edit&amp;redlink=1" class="new" title="Dözümlülük (səhifə mövcud deyil)">dözümlülük</a> kimi) <a href="/wiki/Proses" title="Proses">proseslər</a> üzərində ontoloji üstünlüyü kimi təməl prinsiplər araşdırılmır. <a href="/wiki/S%C3%BCni_intellekt" title="Süni intellekt">Süni intellekt</a> əsasən <a href="/wiki/T%C9%99bii_dilin_emal%C4%B1" title="Təbii dilin emalı">təbii dil emalı</a>, <a href="/wiki/Ma%C5%9F%C4%B1n_t%C9%99rc%C3%BCm%C9%99si" title="Maşın tərcüməsi">maşın tərcüməsi</a> və <a href="/w/index.php?title=Bilikl%C9%99rin_t%C9%99qdimat%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Biliklərin təqdimatı (səhifə mövcud deyil)">biliklərin təqdimatı</a> kimi alt sahələrdə <a href="/w/index.php?title=T%C9%99tbiqi_ontologiya&amp;action=edit&amp;redlink=1" class="new" title="Tətbiqi ontologiya (səhifə mövcud deyil)">tətbiqi ontologiyaya</a> yönəlib. Lakin ontologiya redaktorları süni intellektə töhfə vermək niyyəti olmadan təhsil kimi bir sıra sahələrdə tez-tez istifadə olunur.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span id="H.C9.99m.C3.A7inin_bax"></span><span class="mw-headline" id="Həmçinin_bax">Həmçinin bax</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;veaction=edit&amp;section=1" title="Həmçinin bax bölməsini redaktə et" class="mw-editsection-visualeditor"><span>redaktə</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;action=edit&amp;section=1" title="Bölmənin mənbə kodunu redaktə et: Həmçinin bax"><span>mənbəni redaktə et</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 25em; -webkit-column-width: 25em; column-width: 25em;">
+<ul><li><a href="/w/index.php?title=%C3%9Cmumi_m%C9%99nal%C4%B1_bilik_bazalar%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Ümumi mənalı bilik bazaları (səhifə mövcud deyil)">Ümumi mənalı bilik bazaları</a></li>
+<li><a href="/w/index.php?title=Konsepsiya_x%C9%99rit%C9%99si&amp;action=edit&amp;redlink=1" class="new" title="Konsepsiya xəritəsi (səhifə mövcud deyil)">Konsepsiya xəritəsi</a></li>
+<li><a href="/w/index.php?title=N%C9%99zar%C9%99t_olunan_l%C3%BC%C4%9F%C9%99t&amp;action=edit&amp;redlink=1" class="new" title="Nəzarət olunan lüğət (səhifə mövcud deyil)">Nəzarət olunan lüğət</a></li>
+<li><a href="/w/index.php?title=T%C9%99snifat_sxemi_(informasiya_elmi)&amp;action=edit&amp;redlink=1" class="new" title="Təsnifat sxemi (informasiya elmi) (səhifə mövcud deyil)">Təsnifat sxemi (informasiya elmi)</a></li>
+<li><a href="/w/index.php?title=Folksonomiya&amp;action=edit&amp;redlink=1" class="new" title="Folksonomiya (səhifə mövcud deyil)">Folksonomiya</a></li>
+<li><a href="/w/index.php?title=Formal_konsepsiyan%C4%B1n_t%C9%99hlili&amp;action=edit&amp;redlink=1" class="new" title="Formal konsepsiyanın təhlili (səhifə mövcud deyil)">Formal konsepsiyanın təhlili</a></li>
+<li><a href="/w/index.php?title=Formal_ontologiya&amp;action=edit&amp;redlink=1" class="new" title="Formal ontologiya (səhifə mövcud deyil)">Formal ontologiya</a></li>
+<li><a href="/w/index.php?title=Bilik_qrafiki&amp;action=edit&amp;redlink=1" class="new" title="Bilik qrafiki (səhifə mövcud deyil)">Bilik qrafiki</a></li>
+<li><a href="/w/index.php?title=Q%C9%99f%C9%99s_(c%C9%99br)&amp;action=edit&amp;redlink=1" class="new" title="Qəfəs (cəbr) (səhifə mövcud deyil)">Qəfəs (cəbr)</a></li>
+<li><a href="/wiki/Ontologiya" title="Ontologiya">Ontologiya</a></li>
+<li><a href="/w/index.php?title=Ontoloji_uy%C4%9Funla%C5%9Fma&amp;action=edit&amp;redlink=1" class="new" title="Ontoloji uyğunlaşma (səhifə mövcud deyil)">Ontoloji uyğunlaşma</a></li>
+<li><a href="/w/index.php?title=Ontoloji_diaqram&amp;action=edit&amp;redlink=1" class="new" title="Ontoloji diaqram (səhifə mövcud deyil)">Ontoloji diaqram</a></li>
+<li><a href="/w/index.php?title=A%C3%A7%C4%B1q_Semantik_Fraymvork%C3%BC&amp;action=edit&amp;redlink=1" class="new" title="Açıq Semantik Fraymvorkü (səhifə mövcud deyil)">Açıq Semantik Fraymvorkü</a></li>
+<li><a href="/w/index.php?title=Semantik_texnologiya&amp;action=edit&amp;redlink=1" class="new" title="Semantik texnologiya (səhifə mövcud deyil)">Semantik texnologiya</a></li>
+<li><a href="/w/index.php?title=Soft_ontologiya&amp;action=edit&amp;redlink=1" class="new" title="Soft ontologiya (səhifə mövcud deyil)">Soft  ontologiya</a></li>
+<li><a href="/w/index.php?title=Terminologiyan%C4%B1n_%C3%A7%C4%B1xar%C4%B1lmas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Terminologiyanın çıxarılması (səhifə mövcud deyil)">Terminologiyanın çıxarılması</a></li>
+<li><a href="/w/index.php?title=Z%C9%99if_ontologiya&amp;action=edit&amp;redlink=1" class="new" title="Zəif ontologiya (səhifə mövcud deyil)">Zəif ontologiya</a></li>
+<li><a href="/w/index.php?title=Veb_Ontologiya_Dili&amp;action=edit&amp;redlink=1" class="new" title="Veb Ontologiya Dili (səhifə mövcud deyil)">Veb Ontologiya Dili</a></li></ul>
+</div>
+<dl><dt>Əlaqədar fəlsəfi anlayışlar</dt></dl>
+<ul><li><a href="/w/index.php?title=%C4%B0nsan_d%C3%BC%C5%9F%C3%BCnc%C9%99sinin_%C9%99lifbas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="İnsan düşüncəsinin əlifbası (səhifə mövcud deyil)">İnsan düşüncəsinin əlifbası</a></li>
+<li><a href="/w/index.php?title=Universal_x%C3%BCsusiyy%C9%99t&amp;action=edit&amp;redlink=1" class="new" title="Universal xüsusiyyət (səhifə mövcud deyil)">Universal xüsusiyyət</a></li>
+<li><a href="/w/index.php?title=Qar%C5%9F%C4%B1l%C4%B1ql%C4%B1_i%C5%9Fl%C9%99m%C9%99_qabiliyy%C9%99ti&amp;action=edit&amp;redlink=1" class="new" title="Qarşılıqlı işləmə qabiliyyəti (səhifə mövcud deyil)">Qarşılıqlı işləmə qabiliyyəti</a></li>
+<li><a href="/w/index.php?title=%C3%96l%C3%A7m%C9%99_s%C9%99viyy%C9%99si&amp;action=edit&amp;redlink=1" class="new" title="Ölçmə səviyyəsi (səhifə mövcud deyil)">Ölçmə səviyyəsi</a></li>
+<li><a href="/w/index.php?title=Metaldil&amp;action=edit&amp;redlink=1" class="new" title="Metaldil (səhifə mövcud deyil)">Metaldil</a></li>
+<li><a href="/w/index.php?title=T%C9%99bii_semantik_metadil&amp;action=edit&amp;redlink=1" class="new" title="Təbii semantik metadil (səhifə mövcud deyil)">Təbii semantik metadil</a></li></ul>
+<h2><span id=".C4.B0stinadlar"></span><span class="mw-headline" id="İstinadlar">İstinadlar</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;veaction=edit&amp;section=2" title="İstinadlar bölməsini redaktə et" class="mw-editsection-visualeditor"><span>redaktə</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;action=edit&amp;section=2" title="Bölmənin mənbə kodunu redaktə et: İstinadlar"><span>mənbəni redaktə et</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r6982878">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-Budin2005-1"><span class="mw-cite-backlink"><a href="#cite_ref-Budin2005_1-0">↑</a></span> <span class="reference-text"><cite id="CITEREFG_Budin2005" class="citation"><i>G Budin, </i><a rel="nofollow" class="external text" href="https://books.google.com/books?id=IL2E9xuJLAAC&amp;pg=PA113">Ontology-driven translation management</a> //   Helle V. Dam (redaktor ), Knowledge Systems and Translation, Jan Engberg, Heidrun Gerzymisch-Arbogast, Walter de Gruyter, 2005, səh.&#160;113, <a href="/wiki/International_Standard_Book_Number" class="mw-redirect" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/X%C3%BCsusi:KitabM%C9%99nb%C9%99l%C9%99ri/978-3-11-018297-2" title="Xüsusi:KitabMənbələri/978-3-11-018297-2"><bdi>978-3-11-018297-2</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Ontology-driven+translation+management&amp;rft.btitle=Knowledge+Systems+and+Translation&amp;rft.pages=113&amp;rft.pub=Walter+de+Gruyter&amp;rft.date=2005&amp;rft.isbn=978-3-11-018297-2&amp;rft.au=G+Budin&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DIL2E9xuJLAAC%26pg%3DPA113&amp;rfr_id=info%3Asid%2Faz.wikipedia.org%3AOntologiya+%28informasiya+elmi%29" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r4913744">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .citation .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><cite class="citation journal"><i>Palermo, Giulio. </i>"The ontology of economic power in capitalism: mainstream economics and Marx". Cambridge Journal of Economics. 31 (4). 10 January 2007: 539–561. <a href="/wiki/R%C9%99q%C9%99mli_obyektin_identifikatoru" title="Rəqəmli obyektin identifikatoru">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1093%2Fcje%2Fbel036">10.1093/cje/bel036</a> &#8211; Oxford Journals vasitəsilə.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cambridge+Journal+of+Economics&amp;rft.atitle=The+ontology+of+economic+power+in+capitalism%3A+mainstream+economics+and+Marx&amp;rft.volume=31&amp;rft.issue=4&amp;rft.pages=539-561&amp;rft.date=2007-01-10&amp;rft_id=info%3Adoi%2F10.1093%2Fcje%2Fbel036&amp;rft.aulast=Palermo&amp;rft.aufirst=Giulio&amp;rfr_id=info%3Asid%2Faz.wikipedia.org%3AOntologiya+%28informasiya+elmi%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4913744"></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><cite class="citation journal"><i>Zuniga, Gloria L. </i><a rel="nofollow" class="external text" href="https://ideas.repec.org/p/pra/mprapa/5566.html">"An Ontology Of Economic Objects"</a>. Mpra Paper. Research Division of the Federal Reserve Bank of St. Louis. 1999-02-02. <small>2013-04-29 tarixində <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130429220708/http://ideas.repec.org/p/pra/mprapa/5566.html">arxivləşdirilib</a></small><span class="reference-accessdate">. <small>İstifadə tarixi: <span class="nowrap">2013-06-16</span></small></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Mpra+Paper&amp;rft.atitle=An+Ontology+Of+Economic+Objects&amp;rft.date=1999-02-02&amp;rft.au=Zuniga%2C+Gloria+L.&amp;rft_id=https%3A%2F%2Fideas.repec.org%2Fp%2Fpra%2Fmprapa%2F5566.html&amp;rfr_id=info%3Asid%2Faz.wikipedia.org%3AOntologiya+%28informasiya+elmi%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4913744"></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><cite class="citation journal"><i>Sowa, J. F. </i>"Top-level ontological categories". International Journal of Human-Computer Studies. 43 (5–6 (November/December)). 1995: 669–85. <a href="/wiki/R%C9%99q%C9%99mli_obyektin_identifikatoru" title="Rəqəmli obyektin identifikatoru">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1006%2Fijhc.1995.1068">10.1006/ijhc.1995.1068</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Human-Computer+Studies&amp;rft.atitle=Top-level+ontological+categories&amp;rft.volume=43&amp;rft.issue=5%E2%80%936+%28November%2FDecember%29&amp;rft.pages=669-85&amp;rft.date=1995&amp;rft_id=info%3Adoi%2F10.1006%2Fijhc.1995.1068&amp;rft.aulast=Sowa&amp;rft.aufirst=J.+F.&amp;rfr_id=info%3Asid%2Faz.wikipedia.org%3AOntologiya+%28informasiya+elmi%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4913744"></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><cite class="citation journal"><i>Musen, Mark. </i><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4883684">"The Protégé Project: A Look Back and a Look Forward"</a>. AI Matters. 1 (4). 2015: 4–12. <a href="/wiki/R%C9%99q%C9%99mli_obyektin_identifikatoru" title="Rəqəmli obyektin identifikatoru">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1145%2F2757001.2757003">10.1145/2757001.2757003</a>. <a href="/wiki/PubMed_Central" class="mw-redirect" title="PubMed Central">PMC</a>&#160;<span class="cs1-lock-free" title="İstifadə ödənişsizdir"><a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4883684">4883684</a></span>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/27239556">27239556</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=AI+Matters&amp;rft.atitle=The+Prot%C3%A9g%C3%A9+Project%3A+A+Look+Back+and+a+Look+Forward&amp;rft.volume=1&amp;rft.issue=4&amp;rft.pages=4-12&amp;rft.date=2015&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4883684&amp;rft_id=info%3Apmid%2F27239556&amp;rft_id=info%3Adoi%2F10.1145%2F2757001.2757003&amp;rft.aulast=Musen&amp;rft.aufirst=Mark&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4883684&amp;rfr_id=info%3Asid%2Faz.wikipedia.org%3AOntologiya+%28informasiya+elmi%29" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4913744"></span>
+</li>
+</ol></div></div>
+<h2><span id="Xarici_ke.C3.A7idl.C9.99r"></span><span class="mw-headline" id="Xarici_keçidlər">Xarici keçidlər</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;veaction=edit&amp;section=3" title="Xarici keçidlər bölməsini redaktə et" class="mw-editsection-visualeditor"><span>redaktə</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;action=edit&amp;section=3" title="Bölmənin mənbə kodunu redaktə et: Xarici keçidlər"><span>mənbəni redaktə et</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r7088574">.mw-parser-output .side-box{margin:4px 0;box-sizing:border-box;border:1px solid #aaa;font-size:88%;line-height:1.25em;background-color:#f9f9f9;display:flow-root}.mw-parser-output .side-box-abovebelow,.mw-parser-output .side-box-text{padding:0.25em 0.9em}.mw-parser-output .side-box-image{padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .side-box-imageright{padding:2px 0.9em 2px 0;text-align:center}@media(min-width:500px){.mw-parser-output .side-box-flex{display:flex;align-items:center}.mw-parser-output .side-box-text{flex:1}}@media(min-width:720px){.mw-parser-output .side-box{width:238px}.mw-parser-output .side-box-right{clear:right;float:right;margin-left:1em}.mw-parser-output .side-box-left{margin-right:1em}}</style><div class="side-box side-box-right plainlinks sistersitebox"><style data-mw-deduplicate="TemplateStyles:r6900090">.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}</style>
+<div class="side-box-flex">
+<div class="side-box-image"><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></span></span></div>
+<div class="side-box-text plainlist"><a href="/wiki/Vikianbar" title="Vikianbar">Vikianbarda</a> <span data-wikidata-property-id="P373" class="no-wikidata"><a href="https://commons.wikimedia.org/wiki/Category:Ontology" class="extiw" title="commons:Category:Ontology">Ontologiya</a></span> ilə əlaqəli mediafayllar var.</div></div>
+</div>
+<ul><li>Knowledge Representation at Open Directory Project</li>
+<li><a rel="nofollow" class="external text" href="http://protegewiki.stanford.edu/wiki/Protege_Ontology_Library">Library of ontologies</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.gopubmed.com/">GoPubMed</a> using Ontologies for searching</li>
+<li><a rel="nofollow" class="external text" href="http://ontolog.cim3.net/wiki">ONTOLOG</a> (a.k.a. "<a rel="nofollow" class="external text" href="http://ontolog.cim3.net/forum/ontolog-forum/">Ontolog Forum</a>") – an Open, International, Virtual Community of Practice on Ontology, Ontological Engineering and Semantic Technology</li>
+<li><a rel="nofollow" class="external text" href="http://trimc-nlp.blogspot.com/2013/08/nlp-driven-ontology-modeling-for.html">Use of Ontologies in Natural Language Processing</a></li>
+<li><a rel="nofollow" class="external text" href="http://ontolog.cim3.net/cgi-bin/wiki.pl?OntologySummit">Ontology Summit</a> – an annual series of events (first started in 2006) that involves the ontology community and communities related to each year's theme chosen for the summit.</li>
+<li><a rel="nofollow" class="external text" href="http://kore-nordmann.de/talks/09_04_standardization_of_ontologies_paper.pdf">Standardization of Ontologies</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Semantik_veb" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><span style="float:left;text-align:left;width:5em;margin-right:0.5em"><span typeof="mw:File"><a href="/wiki/%C5%9Eablon:Semantik_veb" title="Bu şablona bax"><img alt="⛭" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span></span><div id="Semantik_veb" style="font-size:114%;margin:0 5em"><a href="/wiki/Semantik_veb" title="Semantik veb">Semantik veb</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px">Arxa plan</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/M%C9%99lumat_bazas%C4%B1" class="mw-redirect" title="Məlumat bazası">Məlumat bazası</a></li>
+<li><a href="/wiki/Hiperm%C9%99tn" title="Hipermətn">Hipermətn</a></li>
+<li><a href="/wiki/%C4%B0nternet" title="İnternet">İnternet</a></li>
+<li><a href="/wiki/Ontologiya_(informatika)" class="mw-redirect" title="Ontologiya (informatika)">Ontologiya</a></li>
+<li><a href="/wiki/Semantika" title="Semantika">Semantika</a></li>
+<li><a href="/w/index.php?title=Semantik_%C5%9F%C9%99b%C9%99k%C9%99&amp;action=edit&amp;redlink=1" class="new" title="Semantik şəbəkə (səhifə mövcud deyil)">Semantik şəbəkələr</a></li>
+<li><a href="/wiki/World_Wide_Web" class="mw-redirect" title="World Wide Web">World Wide Web</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Alt mövzular</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=M%C9%99lumat_f%C9%99zalar%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Məlumat fəzaları (səhifə mövcud deyil)">Məlumat fəzaları</a></li>
+<li><a href="/w/index.php?title=Hiperm%C9%99lumat&amp;action=edit&amp;redlink=1" class="new" title="Hiperməlumat (səhifə mövcud deyil)">Hiperməlumat</a></li>
+<li><a href="/w/index.php?title=Ba%C4%9Flant%C4%B1l%C4%B1_m%C9%99lumat&amp;action=edit&amp;redlink=1" class="new" title="Bağlantılı məlumat (səhifə mövcud deyil)">Bağlantılı məlumat</a></li>
+<li><a href="/w/index.php?title=Qaydalara_%C9%99saslanan_sistem&amp;action=edit&amp;redlink=1" class="new" title="Qaydalara əsaslanan sistem (səhifə mövcud deyil)">Qaydalara əsaslanan sistemlər</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Tətbiqlər</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Semantik_analitika&amp;action=edit&amp;redlink=1" class="new" title="Semantik analitika (səhifə mövcud deyil)">Semantik analitika</a></li>
+<li><a href="/w/index.php?title=Semantik_broker&amp;action=edit&amp;redlink=1" class="new" title="Semantik broker (səhifə mövcud deyil)">Semantik broker</a></li>
+<li><a href="/w/index.php?title=Semantik_hesablama&amp;action=edit&amp;redlink=1" class="new" title="Semantik hesablama (səhifə mövcud deyil)">Semantik hesablama</a></li>
+<li><a href="/w/index.php?title=Semantik_x%C9%99rit%C9%99%C3%A7i&amp;action=edit&amp;redlink=1" class="new" title="Semantik xəritəçi (səhifə mövcud deyil)">Semantik xəritəçi</a></li>
+<li><a href="/w/index.php?title=Semantik_uy%C4%9Funluq&amp;action=edit&amp;redlink=1" class="new" title="Semantik uyğunluq (səhifə mövcud deyil)">Semantik uyğunluq</a></li>
+<li><a href="/w/index.php?title=Semantik_n%C9%99%C5%9Friyyat&amp;action=edit&amp;redlink=1" class="new" title="Semantik nəşriyyat (səhifə mövcud deyil)">Semantik nəşriyyat</a></li>
+<li><a href="/w/index.php?title=Semantik_%C9%99sasland%C4%B1r%C4%B1c%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Semantik əsaslandırıcı (səhifə mövcud deyil)">Semantik əsaslandırıcı</a></li>
+<li><a href="/w/index.php?title=Semantik_axtar%C4%B1%C5%9F&amp;action=edit&amp;redlink=1" class="new" title="Semantik axtarış (səhifə mövcud deyil)">Semantik axtarış</a></li>
+<li><a href="/w/index.php?title=Semantik_xidm%C9%99t_y%C3%B6n%C3%BCml%C3%BC_arxitektura&amp;action=edit&amp;redlink=1" class="new" title="Semantik xidmət yönümlü arxitektura (səhifə mövcud deyil)">Semantik xidmət yönümlü arxitektura</a></li>
+<li><a href="/wiki/Semantik_viki" title="Semantik viki">Semantik viki</a></li>
+<li><a href="/w/index.php?title=Solid_(veb_m%C9%99rk%C9%99zsizl%C9%99%C5%9Fdirm%C9%99_layih%C9%99si)&amp;action=edit&amp;redlink=1" class="new" title="Solid (veb mərkəzsizləşdirmə layihəsi) (səhifə mövcud deyil)">Solid</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Əlaqəli mövzular</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Kollektiv_k%C9%99%C5%9Ffiyyat&amp;action=edit&amp;redlink=1" class="new" title="Kollektiv kəşfiyyat (səhifə mövcud deyil)">Kollektiv kəşfiyyat</a></li>
+<li><a href="/w/index.php?title=A%C3%A7%C4%B1qlama_m%C9%99ntiqi&amp;action=edit&amp;redlink=1" class="new" title="Açıqlama məntiqi (səhifə mövcud deyil)">Açıqlama məntiqi</a></li>
+<li><a href="/w/index.php?title=Folksonomiya&amp;action=edit&amp;redlink=1" class="new" title="Folksonomiya (səhifə mövcud deyil)">Folksonomiya</a></li>
+<li><a href="/w/index.php?title=Co%C4%9Frafi_etiketl%C9%99m%C9%99&amp;action=edit&amp;redlink=1" class="new" title="Coğrafi etiketləmə (səhifə mövcud deyil)">Coğrafi etiketləmə</a></li>
+<li><a href="/w/index.php?title=%C4%B0nformasiya_arxitekturas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="İnformasiya arxitekturası (səhifə mövcud deyil)">İnformasiya arxitekturası</a></li>
+<li><a href="/w/index.php?title=M%C9%99lumat_%C3%A7%C4%B1xar%C4%B1lmas%C4%B1&amp;action=edit&amp;redlink=1" class="new" title="Məlumat çıxarılması (səhifə mövcud deyil)">Məlumat çıxarılması</a></li>
+<li><a href="/w/index.php?title=M%C9%99lumat_idar%C9%99etm%C9%99si&amp;action=edit&amp;redlink=1" class="new" title="Məlumat idarəetməsi (səhifə mövcud deyil)">Məlumat idarəetməsi</a></li>
+<li><a href="/w/index.php?title=M%C9%99lumat_t%C9%99qdimat%C4%B1_v%C9%99_%C9%99sasland%C4%B1rma&amp;action=edit&amp;redlink=1" class="new" title="Məlumat təqdimatı və əsaslandırma (səhifə mövcud deyil)">Məlumat təqdimatı və əsaslandırma</a></li>
+<li><a href="/wiki/Kitabxana_2.0" title="Kitabxana 2.0">Kitabxana 2.0</a></li>
+<li><a href="/wiki/R%C9%99q%C9%99msal_kitabxana" class="mw-redirect" title="Rəqəmsal kitabxana">Rəqəmsal kitabxana</a></li>
+<li><a href="/w/index.php?title=R%C9%99q%C9%99msal_humanitar_elml%C9%99r&amp;action=edit&amp;redlink=1" class="new" title="Rəqəmsal humanitar elmlər (səhifə mövcud deyil)">Rəqəmsal humanitar elmlər</a></li>
+<li><a href="/wiki/Metam%C9%99lumatlar" title="Metaməlumatlar">Metaməlumatlar</a></li>
+<li><a href="/w/index.php?title=%C4%B0stinad_(informatika)&amp;action=edit&amp;redlink=1" class="new" title="İstinad (informatika) (səhifə mövcud deyil)">İstinad</a></li>
+<li><a href="/w/index.php?title=Tematik_x%C9%99rit%C9%99&amp;action=edit&amp;redlink=1" class="new" title="Tematik xəritə (səhifə mövcud deyil)">Tematik xəritə</a></li>
+<li><a href="/wiki/Veb_2.0" title="Veb 2.0">Veb 2.0</a></li>
+<li><a href="/w/index.php?title=Veb_m%C3%BCh%C9%99ndislik&amp;action=edit&amp;redlink=1" class="new" title="Veb mühəndislik (səhifə mövcud deyil)">Veb mühəndislik</a></li>
+<li><a href="/w/index.php?title=Web_Science_Trust&amp;action=edit&amp;redlink=1" class="new" title="Web Science Trust (səhifə mövcud deyil)">Web Science Trust</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Standartlar</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1px">Sintaksis və dəstəkləyici texnologiyalar</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/HTTP" title="HTTP">HTTP</a></li>
+<li><a href="/w/index.php?title=Internationalized_Resource_Identifier&amp;action=edit&amp;redlink=1" class="new" title="Internationalized Resource Identifier (səhifə mövcud deyil)">IRI</a>
+<ul><li><small><a href="/wiki/URI" title="URI">URI</a></small></li></ul></li>
+<li><a href="/w/index.php?title=Resource_Description_Framework&amp;action=edit&amp;redlink=1" class="new" title="Resource Description Framework (səhifə mövcud deyil)">RDF</a>
+<ul><li><small><a href="/w/index.php?title=Semantik_%C3%BC%C3%A7l%C3%BCk&amp;action=edit&amp;redlink=1" class="new" title="Semantik üçlük (səhifə mövcud deyil)">üçlük</a></small></li>
+<li><small><a href="/w/index.php?title=RDF/XML&amp;action=edit&amp;redlink=1" class="new" title="RDF/XML (səhifə mövcud deyil)">RDF/XML</a></small></li>
+<li><small><a href="/w/index.php?title=JSON-LD&amp;action=edit&amp;redlink=1" class="new" title="JSON-LD (səhifə mövcud deyil)">JSON-LD</a></small></li>
+<li><small><a href="/w/index.php?title=Turtle_(sintaks)&amp;action=edit&amp;redlink=1" class="new" title="Turtle (sintaks) (səhifə mövcud deyil)">Turtle</a></small></li>
+<li><small><a href="/w/index.php?title=TriG_(sintaks)&amp;action=edit&amp;redlink=1" class="new" title="TriG (sintaks) (səhifə mövcud deyil)">TriG</a></small></li>
+<li><small><a href="/w/index.php?title=Notation3&amp;action=edit&amp;redlink=1" class="new" title="Notation3 (səhifə mövcud deyil)">Notation3</a></small></li>
+<li><small><a href="/w/index.php?title=N-Triples&amp;action=edit&amp;redlink=1" class="new" title="N-Triples (səhifə mövcud deyil)">N-Triples</a></small></li>
+<li><small><a href="/w/index.php?title=TriX_(serialla%C5%9Fd%C4%B1rma_format%C4%B1)&amp;action=edit&amp;redlink=1" class="new" title="TriX (seriallaşdırma formatı) (səhifə mövcud deyil)">TriX</a> (W3C standardı deyil)</small></li></ul></li>
+<li><a href="/w/index.php?title=Research_Resource_Identifier&amp;action=edit&amp;redlink=1" class="new" title="Research Resource Identifier (səhifə mövcud deyil)">RRID</a></li>
+<li><a href="/w/index.php?title=SPARQL&amp;action=edit&amp;redlink=1" class="new" title="SPARQL (səhifə mövcud deyil)">SPARQL</a></li>
+<li><a href="/wiki/XML" title="XML">XML</a></li>
+<li><a href="/w/index.php?title=Semantic_HTML&amp;action=edit&amp;redlink=1" class="new" title="Semantic HTML (səhifə mövcud deyil)">Semantic HTML</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Sxemlər, ontologiyalar və qaydalar</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Common_Logic&amp;action=edit&amp;redlink=1" class="new" title="Common Logic (səhifə mövcud deyil)">Common Logic</a></li>
+<li><a href="/w/index.php?title=Web_Ontology_Language&amp;action=edit&amp;redlink=1" class="new" title="Web Ontology Language (səhifə mövcud deyil)">OWL</a></li>
+<li><a href="/w/index.php?title=RDF_Schema&amp;action=edit&amp;redlink=1" class="new" title="RDF Schema (səhifə mövcud deyil)">RDFS</a></li>
+<li><a href="/w/index.php?title=Rule_Interchange_Format&amp;action=edit&amp;redlink=1" class="new" title="Rule Interchange Format (səhifə mövcud deyil)">Rule Interchange Format</a></li>
+<li><a href="/w/index.php?title=Semantic_Web_Rule_Language&amp;action=edit&amp;redlink=1" class="new" title="Semantic Web Rule Language (səhifə mövcud deyil)">Semantic Web Rule Language</a></li>
+<li><a href="/w/index.php?title=Application-Level_Profile_Semantics_(ALPS)&amp;action=edit&amp;redlink=1" class="new" title="Application-Level Profile Semantics (ALPS) (səhifə mövcud deyil)">ALPS</a></li>
+<li><a href="/w/index.php?title=SHACL&amp;action=edit&amp;redlink=1" class="new" title="SHACL (səhifə mövcud deyil)">SHACL</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Semantik annotasiya</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=Embedded_RDF&amp;action=edit&amp;redlink=1" class="new" title="Embedded RDF (səhifə mövcud deyil)">eRDF</a></li>
+<li><a href="/w/index.php?title=GRDDL&amp;action=edit&amp;redlink=1" class="new" title="GRDDL (səhifə mövcud deyil)">GRDDL</a></li>
+<li><a href="/w/index.php?title=Microm%C9%99lumat_(HTML)&amp;action=edit&amp;redlink=1" class="new" title="Microməlumat (HTML) (səhifə mövcud deyil)">Microdata</a></li>
+<li><a href="/w/index.php?title=Microformat&amp;action=edit&amp;redlink=1" class="new" title="Microformat (səhifə mövcud deyil)">Microformatlar</a></li>
+<li><a href="/w/index.php?title=RDFa&amp;action=edit&amp;redlink=1" class="new" title="RDFa (səhifə mövcud deyil)">RDFa</a></li>
+<li><a href="/w/index.php?title=SAWSDL&amp;action=edit&amp;redlink=1" class="new" title="SAWSDL (səhifə mövcud deyil)">SAWSDL</a></li>
+<li><a href="/w/index.php?title=Facebook_Platform&amp;action=edit&amp;redlink=1" class="new" title="Facebook Platform (səhifə mövcud deyil)">Facebook Platform</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Ümumi lüğətlər</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=DOAP&amp;action=edit&amp;redlink=1" class="new" title="DOAP (səhifə mövcud deyil)">DOAP</a></li>
+<li><a href="/w/index.php?title=Dublin_Core&amp;action=edit&amp;redlink=1" class="new" title="Dublin Core (səhifə mövcud deyil)">Dublin Core</a></li>
+<li><a href="/w/index.php?title=FOAF&amp;action=edit&amp;redlink=1" class="new" title="FOAF (səhifə mövcud deyil)">FOAF</a></li>
+<li><a href="/w/index.php?title=Schema.org&amp;action=edit&amp;redlink=1" class="new" title="Schema.org (səhifə mövcud deyil)">Schema.org</a></li>
+<li><a href="/w/index.php?title=Semantically_Interlinked_Online_Communities&amp;action=edit&amp;redlink=1" class="new" title="Semantically Interlinked Online Communities (səhifə mövcud deyil)">SIOC</a></li>
+<li><a href="/w/index.php?title=Simple_Knowledge_Organization_System&amp;action=edit&amp;redlink=1" class="new" title="Simple Knowledge Organization System (səhifə mövcud deyil)">SKOS</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Mikroformat lüğətləri</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=HAtom&amp;action=edit&amp;redlink=1" class="new" title="HAtom (səhifə mövcud deyil)">hAtom</a></li>
+<li><a href="/w/index.php?title=HCalendar&amp;action=edit&amp;redlink=1" class="new" title="HCalendar (səhifə mövcud deyil)">hCalendar</a></li>
+<li><a href="/w/index.php?title=HCard&amp;action=edit&amp;redlink=1" class="new" title="HCard (səhifə mövcud deyil)">hCard</a></li>
+<li><a href="/w/index.php?title=HProduct&amp;action=edit&amp;redlink=1" class="new" title="HProduct (səhifə mövcud deyil)">hProduct</a></li>
+<li><a href="/w/index.php?title=HRecipe&amp;action=edit&amp;redlink=1" class="new" title="HRecipe (səhifə mövcud deyil)">hRecipe</a></li>
+<li><a href="/w/index.php?title=HReview&amp;action=edit&amp;redlink=1" class="new" title="HReview (səhifə mövcud deyil)">hReview</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-label="Naviqasiya şablonu" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0px 18px 0px 0px; width: 100%;"><div style="float: left;"><span class="noprint plainlinksneverexpand" style="white-space:nowrap;font-size:xx-small">&#160;<span typeof="mw:File"><a href="/wiki/%C5%9Eablon:Xarici_ke%C3%A7idl%C9%99r" title="Bu şablona bax"><img alt="Bu şablona bax" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Searchtool.svg/14px-Searchtool.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Searchtool.svg/21px-Searchtool.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Searchtool.svg/28px-Searchtool.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span>&#160;</span></div>&#160;&#160;Lüğətlər və ensiklopediyalar</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"><a rel="nofollow" class="external text" href="https://snl.no/ontologi_-_klassifikasjon_og_indeksering">Böyük norveç</a></div></td></tr><tr><td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><style data-mw-deduplicate="TemplateStyles:r5571132">.mw-parser-output .ts-navbox-plaintitle{font-size:100%!important;margin:0 6em!important}</style></div><table class="nowraplinks authoritycontrol collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div id="Normativ_yoxlama" class="ts-navbox-plaintitle" style="font-size:114%;margin:0 5em"><a href="/wiki/Normativ_yoxlama" title="Normativ yoxlama">Normativ yoxlama</a></div></th></tr><tr><td class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"><a href="/wiki/Fransa_Milli_Kitabxanas%C4%B1" title="Fransa Milli Kitabxanası">BNF</a>:&#160;<a rel="nofollow" class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb155081885">155081885</a> · <a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>:&#160;<a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4827894-4">4827894-4</a> · <a href="/wiki/LCCN" title="LCCN">LCCN</a>:&#160;<a rel="nofollow" class="external text" href="http://id.loc.gov/authorities/sh2005006014">sh2005006014</a> · <a href="/wiki/Microsoft_Academic" title="Microsoft Academic">Microsoft</a>:&#160;<a rel="nofollow" class="external text" href="https://academic.microsoft.com/#/detail/166724064">166724064</a> · <span title="Yaponiya milli parlament kitabxanası" style="border-bottom: 1px dotted; cursor: help;">NDL</span>:&#160;<a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/01017770">01017770</a> · <a href="/wiki/%C3%87ex_Respublikas%C4%B1_Milli_Kitabxanas%C4%B1" title="Çex Respublikası Milli Kitabxanası">NKC</a>:&#160;<a rel="nofollow" class="external text" href="http://aut.nkp.cz/ph629087">ph629087</a></div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1487
+Cached time: 20240414122021
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.230 seconds
+Real time usage: 0.326 seconds
+Preprocessor visited node count: 682/1000000
+Post‐expand include size: 46414/2097152 bytes
+Template argument size: 2051/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 3/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18144/5000000 bytes
+Lua time usage: 0.137/10.000 seconds
+Lua memory usage: 5845444/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  281.698      1 -total
+ 35.45%   99.857      1 Şablon:İstinad_siyahısı
+ 26.55%   74.803      1 Şablon:Xarici_keçidlər
+ 17.44%   49.119      1 Şablon:Citation
+ 16.88%   47.537      1 Şablon:Commons_category
+ 15.91%   44.830      1 Şablon:Törəmə_layihələr
+ 15.01%   42.271      1 Şablon:Side_box
+ 12.75%   35.904      4 Şablon:Cite_journal
+  9.93%   27.984      1 Şablon:Semantik_Veb
+  9.00%   25.351      1 Şablon:Wikidata
+-->
+
+<!-- Saved in parser cache with key azwiki:pcache:idhash:810204-0!canonical and timestamp 20240414122021 and revision id 7430988. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Mənbə — "<a dir="ltr" href="https://az.wikipedia.org/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;oldid=7430988">https://az.wikipedia.org/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;oldid=7430988</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/X%C3%BCsusi:Kateqoriyalar" title="Xüsusi:Kateqoriyalar">Kateqoriyalar</a>: <ul><li><a href="/wiki/Kateqoriya:Bilikl%C9%99rin_t%C9%99svir_olunmas%C4%B1" title="Kateqoriya:Biliklərin təsvir olunması">Biliklərin təsvir olunması</a></li><li><a href="/wiki/Kateqoriya:Semantik_veb" title="Kateqoriya:Semantik veb">Semantik veb</a></li><li><a href="/wiki/Kateqoriya:%C4%B0nformasiya_elmi" title="Kateqoriya:İnformasiya elmi">İnformasiya elmi</a></li><li><a href="/wiki/Kateqoriya:Texniki_kommunikasiya" title="Kateqoriya:Texniki kommunikasiya">Texniki kommunikasiya</a></li><li><a href="/wiki/Kateqoriya:Bilik_m%C3%BCh%C9%99ndisliyi" title="Kateqoriya:Bilik mühəndisliyi">Bilik mühəndisliyi</a></li><li><a href="/wiki/Kateqoriya:Ontologiya_(informasiya_elmi)" title="Kateqoriya:Ontologiya (informasiya elmi)">Ontologiya (informasiya elmi)</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Naviqasiya menyusu</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Şəxsi alətlər</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Redaktə edərkən istifadə etdiyiniz IP ünvanı üçün istifadəçi səhifəsi">Daxil olmamısınız</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/X%C3%BCsusi:M%C3%BCzakir%C9%99S%C9%99hif%C9%99m" title="Bu IP ünvanından edilmiş müzakirələr [n]" accesskey="n"><span>Müzakirə</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/X%C3%BCsusi:T%C3%B6hf%C9%99l%C9%99rim" title="A list of edits made from this IP address [y]" accesskey="y"><span>Töhfələr</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=X%C3%BCsusi:HesabYarat&amp;returnto=Ontologiya+%28informasiya+elmi%29" title="Hesab yaratmaq və daxil olmaq üçün təşviq olunursunuz; Ancaq məcburi deyil"><span>Hesab yarat</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=X%C3%BCsusi:DaxilOl&amp;returnto=Ontologiya+%28informasiya+elmi%29" title="Daxil olmanız tövsiyə olunur, amma bu məcburi tələb deyil. [o]" accesskey="o"><span>Daxil ol</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ad fəzaları</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Ontologiya_(informasiya_elmi)" title="Məqalənin məzmununu göstər [c]" accesskey="c"><span>Məqalə</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=M%C3%BCzakir%C9%99:Ontologiya_(informasiya_elmi)&amp;action=edit&amp;redlink=1" rel="discussion" title="Məqalə haqqında müzakirə (səhifə mövcud deyil) [t]" accesskey="t"><span>Müzakirə</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">azərbaycanca</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Görünüş</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected mw-list-item"><a href="/wiki/Ontologiya_(informasiya_elmi)"><span>Oxu</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;veaction=edit" title="Bu səhifəni redaktə et [v]" accesskey="v"><span>Redaktə</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;action=edit" title="Səhifənin cari kodunu redaktə et [e]" accesskey="e"><span>Mənbəni redaktə et</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;action=history" title="Bu səhifənin keçmiş nüsxələri. [h]" accesskey="h"><span>Tarixçəyə bax</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label" role="navigation"  title="More options" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Daha çox</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Axtar</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Vikipediya layihəsində axtar" aria-label="Vikipediya layihəsində axtar" autocapitalize="sentences" title="Vikipediya saytında axtar [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Xüsusi:Axtar">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Bu mətnin olduğu səhifələri axtar" value="Axtar">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Əgər varsa, eyni adı daşıyan səhifəyə keç" value="Get">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Ana_s%C9%99hif%C9%99"
+			title="Ana səhifə"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Bələdçi</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage" class="mw-list-item"><a href="/wiki/Ana_s%C9%99hif%C9%99" title="Ana səhifəni ziyarət edin [z]" accesskey="z"><span>Ana səhifə</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Vikipediya:K%C9%99nd_meydan%C4%B1" title="Layihə haqqında, nələr edəbilərsiniz, axtardıqlarınızı harda tapmaq olar"><span>Kənd meydanı</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Vikipediya:%C4%B0cma_portal%C4%B1" title="Gündəlik xəbərlər ilə əlaqəli məlumatlar"><span>İcma portalı</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/X%C3%BCsusi:SonD%C9%99yi%C5%9Fiklikl%C9%99r" title="Vikidəki son dəyişikliklər siyahısı [r]" accesskey="r"><span>Son dəyişikliklər</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/X%C3%BCsusi:T%C9%99sad%C3%BCfi" title="Təsadüfi məqaləyə keç [x]" accesskey="x"><span>Təsadüfi səhifə</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-Layihələr" class="mw-portlet mw-portlet-Layihələr vector-menu-portal portal vector-menu" aria-labelledby="p-Layihələr-label" role="navigation"  >
+	<h3
+		id="p-Layihələr-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Layihələr</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-Seçilmiş-məqalələr" class="mw-list-item"><a href="/wiki/Vikipediya:Se%C3%A7ilmi%C5%9F_m%C9%99qal%C9%99l%C9%99r"><span>Seçilmiş məqalələr</span></a></li><li id="n-Seçilmiş-siyahılar" class="mw-list-item"><a href="/wiki/Vikipediya:Se%C3%A7ilmi%C5%9F_siyah%C4%B1lar"><span>Seçilmiş siyahılar</span></a></li><li id="n-Seçilmiş-portallar" class="mw-list-item"><a href="/wiki/Vikipediya:Se%C3%A7ilmi%C5%9F_portallar"><span>Seçilmiş portallar</span></a></li><li id="n-Yaxşı-məqalələr" class="mw-list-item"><a href="/wiki/Vikipediya:Yax%C5%9F%C4%B1_m%C9%99qal%C9%99l%C9%99r"><span>Yaxşı məqalələr</span></a></li><li id="n-Məqalə-namizədləri" class="mw-list-item"><a href="/wiki/Vikipediya:M%C9%99qal%C9%99_namiz%C9%99dl%C9%99ri"><span>Məqalə namizədləri</span></a></li><li id="n-Mövzulu-ay" class="mw-list-item"><a href="/wiki/Vikipediya:M%C3%B6vzulu_ay"><span>Mövzulu ay</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-Xüsusi" class="mw-portlet mw-portlet-Xüsusi vector-menu-portal portal vector-menu" aria-labelledby="p-Xüsusi-label" role="navigation"  >
+	<h3
+		id="p-Xüsusi-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Xüsusi</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-contactpage" class="mw-list-item"><a href="/wiki/Vikipediya:%C6%8Flaq%C9%99_s%C9%99hif%C9%99si"><span>Bizimlə əlaqə</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_az.wikipedia.org&amp;uselang=az" title="Bizə dəstək verin"><span>Maddi kömək</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/K%C3%B6m%C9%99k:M%C3%BCnd%C9%99ricat" title="Yardım almaq üçün."><span>Kömək</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Alətlər</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/X%C3%BCsusi:S%C9%99hif%C9%99y%C9%99Ke%C3%A7idl%C9%99r/Ontologiya_(informasiya_elmi)" title="Vikidə bu məqaləyə bağlantılar [j]" accesskey="j"><span>Səhifəyə keçidlər</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/X%C3%BCsusi:%C6%8Flaq%C9%99liD%C9%99yi%C5%9Fiklikl%C9%99r/Ontologiya_(informasiya_elmi)" rel="nofollow" title="Bu məqaləyə aid başqa səhifələrdə yeni dəyişikliklər [k]" accesskey="k"><span>Əlaqəli redaktələr</span></a></li><li id="t-upload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=az" title="Yeni şəkil və ya multimedia faylı yüklə [u]" accesskey="u"><span>Fayl yüklə</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/X%C3%BCsusi:X%C3%BCsusiS%C9%99hif%C9%99l%C9%99r" title="Xüsusi səhifələrin siyahısı [q]" accesskey="q"><span>Xüsusi səhifələr</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;oldid=7430988" title="Səhifənin bu versiyasına daimi keçid"><span>Daimi keçid</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;action=info" title="More information about this page"><span>Səhifə məlumatları</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=X%C3%BCsusi:CiteThisPage&amp;page=Ontologiya_%28informasiya_elmi%29&amp;id=7430988&amp;wpFormIdentifier=titleform" title="Bu səhifəyə necə istinad etmək barədə məlumat"><span>Bu səhifəyə istinad et</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=X%C3%BCsusi:UrlShortener&amp;url=https%3A%2F%2Faz.wikipedia.org%2Fwiki%2FOntologiya_%28informasiya_elmi%29"><span>Qısaldılmış URL əldə et</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=X%C3%BCsusi:QrCode&amp;url=https%3A%2F%2Faz.wikipedia.org%2Fwiki%2FOntologiya_%28informasiya_elmi%29"><span>QR-kodu endir</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q324254" title="Bağlanan məlumatların saxlanması elementinə keçid [g]" accesskey="g"><span>Vikiverilənlər elementi</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Çap et/ixrac</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=X%C3%BCsusi:Book&amp;bookcmd=book_creator&amp;referer=Ontologiya+%28informasiya+elmi%29"><span>Kitab yarat</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=X%C3%BCsusi:DownloadAsPdf&amp;page=Ontologiya_%28informasiya_elmi%29&amp;action=show-download-screen"><span>PDF kimi yüklə</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;printable=yes" title="Səhifənin çap versiyası [p]" accesskey="p"><span>Çap versiyası</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Digər layihələrdə</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Ontology" hreflang="en"><span>Vikianbar</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Başqa dillərdə</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%B7%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A9_(%D8%B9%D9%84%D9%85_%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA)" title="أنطولوجية (علم المعلومات) – ərəb" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%A7%E0%A6%BE%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%AC%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE" title="অভিধাব্যবস্থা – benqal" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Ontologia_(tecnologia_de_la_informaci%C3%B3)" title="Ontologia (tecnologia de la informació) – katalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Ontologie_(informatika)" title="Ontologie (informatika) – çex" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Ontologi_(datalogi)" title="Ontologi (datalogi) – danimarka" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Ontologie_(Informatik)" title="Ontologie (Informatik) – alman" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%9F%CE%BD%CF%84%CE%BF%CE%BB%CE%BF%CE%B3%CE%AF%CE%B1_(%CF%80%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%B9%CE%BA%CE%AE)" title="Οντολογία (πληροφορική) – yunan" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Ontology_(information_science)" title="Ontology (information science) – ingilis" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Ontolog%C3%ADa_(inform%C3%A1tica)" title="Ontología (informática) – ispan" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Ontoloogia_(informaatika)" title="Ontoloogia (informaatika) – eston" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Ontologia_(informatika)" title="Ontologia (informatika) – bask" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%87%D8%B3%D8%AA%DB%8C%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C_(%D8%B9%D9%84%D9%85_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA)" title="هستی‌شناسی (علم اطلاعات) – fars" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Ontologia_(tietojenk%C3%A4sittelytiede)" title="Ontologia (tietojenkäsittelytiede) – fin" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Ontologie_(informatique)" title="Ontologie (informatique) – fransız" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%95%D7%A0%D7%98%D7%95%D7%9C%D7%95%D7%92%D7%99%D7%94_(%D7%9E%D7%93%D7%A2%D7%99_%D7%94%D7%9E%D7%99%D7%93%D7%A2)" title="אונטולוגיה (מדעי המידע) – ivrit" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Ontologija_(informacijske_znanosti)" title="Ontologija (informacijske znanosti) – xorvat" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Ontol%C3%B3gia_(informatika)" title="Ontológia (informatika) – macar" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Ontologia_(informatica)" title="Ontologia (informatica) – italyan" lang="it" hreflang="it" class="interlanguage-link-target"><span>İtaliano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B8%E3%83%BC_(%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6)" title="オントロジー (情報科学) – yapon" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%98%A8%ED%86%A8%EB%A1%9C%EC%A7%80" title="온톨로지 – koreya" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Ontologie_(informatica)" title="Ontologie (informatica) – holland" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Ontologi_(informatikk)" title="Ontologi (informatikk) – bokmal norveç" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Ontologia_(informatyka)" title="Ontologia (informatyka) – polyak" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Ontologia_(ci%C3%AAncia_da_computa%C3%A7%C3%A3o)" title="Ontologia (ciência da computação) – portuqal" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%BD%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_(%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Онтология (информатика) – rus" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Ontologija_(informatika)" title="Ontologija (informatika) – sloven" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9E%D0%BD%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0_(%D1%80%D0%B0%D1%87%D1%83%D0%BD%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE)" title="Онтологија (рачунарство) – serb" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%8A%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AF%8D_(%E0%AE%A4%E0%AE%95%E0%AE%B5%E0%AE%B2%E0%AF%8D_%E0%AE%85%E0%AE%B1%E0%AE%BF%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%B2%E0%AF%8D)" title="மெய்ப்பொருளியம் (தகவல் அறிவியல்) – tamil" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%A0%E0%B8%A7%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2_(%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%99%E0%B9%80%E0%B8%97%E0%B8%A8)" title="ภววิทยา (วิทยาการสารสนเทศ) – tay" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Ontoloji_(bilgi_bilimi)" title="Ontoloji (bilgi bilimi) – türk" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9E%D0%BD%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F_(%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)" title="Онтологія (інформатика) – ukrayna" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/B%E1%BA%A3n_th%E1%BB%83_h%E1%BB%8Dc_(khoa_h%E1%BB%8Dc_th%C3%B4ng_tin)" title="Bản thể học (khoa học thông tin) – vyetnam" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%9C%AC%E4%BD%93_(%E4%BF%A1%E6%81%AF%E7%A7%91%E5%AD%A6)" title="本体 (信息科学) – çin" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E6%9C%AC%E9%AB%94_(%E8%B3%87%E8%A8%8A%E7%A7%91%E5%AD%B8)" title="本體 (資訊科學) – kanton" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q324254#sitelinks-wikipedia" title="Dillərarası keçidləri redaktə et" class="wbc-editpage">Keçidlərin redaktəsi</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Bu səhifə sonuncu dəfə 23 yanvar 2024 12:12 tarixində redaktə edilib.</li>
+	<li id="footer-info-copyright">Mətn <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">Creative Commons Attribution-ShareAlike lisenziyası</a> altındadır, bəzi hallarda əlavə şərtlər tətbiq oluna bilər.
+Ətraflı məlumat üçün <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">istifadə şərtlərinə</a> baxın.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Gizlilik siyasəti</a></li>
+	<li id="footer-places-about"><a href="/wiki/Vikipediya:Haqq%C4%B1nda">Vikipediya haqqında</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Vikipediya:M%C9%99suliyy%C9%99td%C9%99n_imtina">Məsuliyyətdən imtina</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Davranış Kodeksi</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Tərtibatçılar</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/az.wikipedia.org">Statistikalar</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Kuki məlumatı</a></li>
+	<li id="footer-places-mobileview"><a href="//az.m.wikipedia.org/w/index.php?title=Ontologiya_(informasiya_elmi)&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobil görüntü</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-7f5bb5b669-grr7n","wgBackendResponseTime":169,"wgPageParseReport":{"limitreport":{"cputime":"0.230","walltime":"0.326","ppvisitednodes":{"value":682,"limit":1000000},"postexpandincludesize":{"value":46414,"limit":2097152},"templateargumentsize":{"value":2051,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18144,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  281.698      1 -total"," 35.45%   99.857      1 Şablon:İstinad_siyahısı"," 26.55%   74.803      1 Şablon:Xarici_keçidlər"," 17.44%   49.119      1 Şablon:Citation"," 16.88%   47.537      1 Şablon:Commons_category"," 15.91%   44.830      1 Şablon:Törəmə_layihələr"," 15.01%   42.271      1 Şablon:Side_box"," 12.75%   35.904      4 Şablon:Cite_journal","  9.93%   27.984      1 Şablon:Semantik_Veb","  9.00%   25.351      1 Şablon:Wikidata"]},"scribunto":{"limitreport-timeusage":{"value":"0.137","limit":"10.000"},"limitreport-memusage":{"value":5845444,"limit":52428800}},"cachereport":{"origin":"mw1487","timestamp":"20240414122021","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Ontologiya (informasiya elmi)","url":"https:\/\/az.wikipedia.org\/wiki\/Ontologiya_(informasiya_elmi)","sameAs":"http:\/\/www.wikidata.org\/entity\/Q324254","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q324254","author":{"@type":"Organization","name":"Vikimedia layih\u0259l\u0259rin\u0259 t\u00f6hf\u0259 ver\u0259nl\u0259r"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2023-08-28T07:36:53Z","dateModified":"2024-01-23T12:12:39Z","headline":"konseptualizasiyan\u0131n spesifikasiya"}</script>
+</body>
+</html>

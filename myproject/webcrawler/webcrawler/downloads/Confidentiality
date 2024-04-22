@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Confidentiality - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"0b8804a2-b7b0-4f0a-9292-ab241ce1a6b4","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Confidentiality","wgTitle":"Confidentiality","wgCurRevisionId":1209871041,"wgRevisionId":1209871041,"wgArticleId":353859,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles incorporating a citation from the ODNB","Pages using cite ODNB with id parameter","Webarchive template other archives","CS1 errors: missing periodical","Articles with short description","Short description is different from Wikidata","Use dmy dates from February 2023","Articles needing additional references from February 2022","All articles needing additional references","Articles with GND identifiers",
+"Confidentiality","Applications of cryptography","Sources (journalism)","Secrecy","Professional ethics"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Confidentiality","wgRelevantArticleId":353859,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,
+"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q2476929","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements"
+,"site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Confidentiality - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Confidentiality">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Confidentiality&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Confidentiality">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Confidentiality rootpage-Confidentiality skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Confidentiality" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Confidentiality" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Confidentiality" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Confidentiality" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Legal_confidentiality"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Legal_confidentiality">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Legal confidentiality</div>
+		</a>
+		
+			<button aria-controls="toc-Legal_confidentiality-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Legal confidentiality subsection</span>
+			</button>
+		
+		<ul id="toc-Legal_confidentiality-sublist" class="vector-toc-list">
+			<li id="toc-Breach_of_confidence_in_English_law"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Breach_of_confidence_in_English_law">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">1.1</span>Breach of confidence in English law</div>
+			</a>
+			
+			<ul id="toc-Breach_of_confidence_in_English_law-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Medical_confidentiality"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Medical_confidentiality">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Medical confidentiality</div>
+		</a>
+		
+			<button aria-controls="toc-Medical_confidentiality-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Medical confidentiality subsection</span>
+			</button>
+		
+		<ul id="toc-Medical_confidentiality-sublist" class="vector-toc-list">
+			<li id="toc-United_States"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#United_States">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>United States</div>
+			</a>
+			
+			<ul id="toc-United_States-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-European_Union"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#European_Union">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.2</span>European Union</div>
+			</a>
+			
+			<ul id="toc-European_Union-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-HIV_confidentiality"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#HIV_confidentiality">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.3</span>HIV confidentiality</div>
+			</a>
+			
+			<ul id="toc-HIV_confidentiality-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Clinical_and_counseling_psychology"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Clinical_and_counseling_psychology">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Clinical and counseling psychology</div>
+		</a>
+		
+		<ul id="toc-Clinical_and_counseling_psychology-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Commercial_confidentiality"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Commercial_confidentiality">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Commercial confidentiality</div>
+		</a>
+		
+		<ul id="toc-Commercial_confidentiality-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Banking_confidentiality"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Banking_confidentiality">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>Banking confidentiality</div>
+		</a>
+		
+		<ul id="toc-Banking_confidentiality-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Public_policy_concerns"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Public_policy_concerns">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>Public policy concerns</div>
+		</a>
+		
+		<ul id="toc-Public_policy_concerns-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Confidentiality</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 25 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-25" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">25 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Confidencialitat" title="Confidencialitat – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Tavshedspligt" title="Tavshedspligt – Danish" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Verschwiegenheitspflicht" title="Verschwiegenheitspflicht – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Confidencialidad" title="Confidencialidad – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Konfidenceco" title="Konfidenceco – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B9%D8%AF%D9%85%E2%80%8C%D8%A7%D9%81%D8%B4%D8%A7%D8%A1" title="عدم‌افشاء – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Confidentialit%C3%A9" title="Confidentialité – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EA%B8%B0%EB%B0%80%EC%84%B1" title="기밀성 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/%C3%9Eagnarskylda" title="Þagnarskylda – Icelandic" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Confidenzialit%C3%A0" title="Confidenzialità – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%94%D0%BE%D0%B2%D0%B5%D1%80%D0%BB%D0%B8%D0%B2%D0%BE%D1%81%D1%82" title="Доверливост – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Vertrouwelijkheid" title="Vertrouwelijkheid – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E5%AE%88%E7%A7%98%E7%BE%A9%E5%8B%99" title="守秘義務 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Taushetsplikt" title="Taushetsplikt – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Teieplikt" title="Teieplikt – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Poufno%C5%9B%C4%87" title="Poufność – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Confidencialidade" title="Confidencialidade – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Конфиденциальность – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/Cunfidenti" title="Cunfidenti – Sicilian" lang="scn" hreflang="scn" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Luottamuksellisuus" title="Luottamuksellisuus – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Sekretess" title="Sekretess – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%B1%E0%AF%88%E0%AE%A4%E0%AE%BF%E0%AE%B1%E0%AE%AE%E0%AF%8D" title="மறைதிறம் – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D1%84%D1%96%D0%B4%D0%B5%D0%BD%D1%86%D1%96%D0%B9%D0%BD%D1%96%D1%81%D1%82%D1%8C" title="Конфіденційність – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E4%BF%9D%E5%AF%86" title="保密 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E4%BF%9D%E5%AF%86" title="保密 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2476929#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Confidentiality" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Confidentiality" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Confidentiality"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Confidentiality&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Confidentiality&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Confidentiality"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Confidentiality&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Confidentiality&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Confidentiality" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Confidentiality" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Confidentiality&amp;oldid=1209871041" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Confidentiality&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Confidentiality&amp;id=1209871041&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FConfidentiality"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FConfidentiality"><span>Download QR code</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q2476929" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Confidentiality&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Confidentiality&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://en.wikiquote.org/wiki/Confidentiality" hreflang="en"><span>Wikiquote</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Non-disclosure of information</div>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">For the information security attribute CIA (confidentiality, integrity, and availability), see <a href="/wiki/Information_security" title="Information security">Information security</a>.</div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">"Confidential" redirects here. For other uses, see <a href="/wiki/Confidential_(disambiguation)" class="mw-disambig" title="Confidential (disambiguation)">Confidential (disambiguation)</a>.</div>
+<p class="mw-empty-elt">
+</p><p><b>Confidentiality</b> involves a set of rules or a promise usually executed through <a href="/wiki/Confidentiality_agreements" class="mw-redirect" title="Confidentiality agreements">confidentiality agreements</a> that limits the access to or places restrictions on distribution of certain types of <a href="/wiki/Information" title="Information">information</a>.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Legal_confidentiality">Legal confidentiality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Confidentiality&amp;action=edit&amp;section=1" title="Edit section: Legal confidentiality"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Privacy_law" title="Privacy law">Privacy law</a></div>
+<p>By law, lawyers are often required to keep confidential anything pertaining to the representation of a client. The duty of confidentiality is much broader than the <a href="/wiki/Attorney%E2%80%93client_privilege" title="Attorney–client privilege">attorney–client evidentiary privilege</a>, which only covers <i>communications</i> between the attorney and the client.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Both the privilege and the duty serve the purpose of encouraging clients to speak frankly about their cases. This way, lawyers can carry out their duty to provide clients with zealous representation. Otherwise, the opposing side may be able to surprise the lawyer in court with something he did not know about his client, which may weaken the client's position. Also, a distrustful client might hide a relevant fact he thinks is incriminating, but that a skilled lawyer could turn to the client's advantage (for example, by raising <a href="/wiki/Affirmative_defense" title="Affirmative defense">affirmative defenses</a> like self-defense). However, most jurisdictions have exceptions for situations where the lawyer has reason to believe that the client may kill or seriously injure someone, may cause substantial injury to the financial interest or property of another, or is using (or seeking to use) the lawyer's services to perpetrate a crime or fraud. In such situations the lawyer has the discretion, but not the obligation, to disclose information designed to prevent the planned action. Most states have a version of this discretionary disclosure rule under Rules of Professional Conduct, Rule 1.6 (or its equivalent). A few jurisdictions have made this traditionally discretionary duty mandatory. For example, see the New Jersey and Virginia Rules of Professional Conduct, Rule 1.6.
+</p><p>In some jurisdictions, the lawyer must try to convince the client to conform his or her conduct to the boundaries of the law before disclosing any otherwise confidential information. These exceptions generally do not cover crimes that have already occurred, even in extreme cases where murderers have confessed the location of missing bodies to their lawyers but the police are still looking for those bodies. The <a href="/wiki/U.S._Supreme_Court" class="mw-redirect" title="U.S. Supreme Court">U.S. Supreme Court</a> and many <a href="/wiki/State_supreme_court" title="State supreme court">state supreme courts</a> have affirmed the right of a lawyer to withhold information in such situations. Otherwise, it would be impossible for any criminal defendant to obtain a zealous defense.
+</p><p>California is famous for having one of the strongest duties of confidentiality in the world; its lawyers must protect client confidences at "every peril to himself [or herself]" under former California Business and Professions Code section 6068(e).  Until an amendment in 2004 (which turned subsection (e) into subsection (e)(1) and added subsection (e)(2) to section 6068), California lawyers were not even permitted to disclose that a client was about to commit murder or assault.  The Supreme Court of California promptly amended the California Rules of Professional Conduct to conform to the new exception in the revised statute. Recent legislation in the UK curtails the confidentiality professionals like lawyers and accountants can maintain at the expense of the state.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Accountants, for example, are required to disclose to the state any suspicions of fraudulent accounting and, even, the legitimate use of tax saving schemes if those schemes are not already known to the tax authorities.
+</p>
+<h3><span class="mw-headline" id="Breach_of_confidence_in_English_law">Breach of confidence in English law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Confidentiality&amp;action=edit&amp;section=2" title="Edit section: Breach of confidence in English law"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Breach_of_confidence_in_English_law" title="Breach of confidence in English law">Breach of confidence in English law</a></div>
+<p>The "three traditional requirements of the cause of action for breach of confidence"<sup id="cite_ref-campbell_3-0" class="reference"><a href="#cite_note-campbell-3">&#91;3&#93;</a></sup><sup class="reference nowrap"><span title="Page / location: 19">&#58;&#8202;[19]&#8202;</span></sup> were identified by <a href="/wiki/Robert_Megarry" title="Robert Megarry">Megarry J</a> in <i>Coco v A N Clark (Engineers) Ltd</i> (1968) in the following terms:<sup id="cite_ref-coco_4-0" class="reference"><a href="#cite_note-coco-4">&#91;4&#93;</a></sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r1211633275">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 32px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>In my judgment, three elements are normally required if, apart from contract, a case of breach of confidence is to succeed. First, the information itself, in the words of Lord Greene, M.R. in the <i>Saltman</i> case on page 215, must "have the necessary quality of confidence about it." Secondly, that information must have been imparted in circumstances importing an obligation of confidence. Thirdly, there must be an unauthorised use of that information to the detriment of the party communicating it.</p></blockquote>
+<p>The 1896 case featuring the royal <i>accoucheur</i> Dr <a href="/wiki/William_Smoult_Playfair" title="William Smoult Playfair">William Smoult Playfair</a> showed the difference between lay and medical views. Playfair was consulted by Linda Kitson; he ascertained that she had been pregnant while separated from her husband. He informed his wife, a relative of Kitson's, in order that she protect herself and their daughters from moral contagion. Kitson sued, and the case gained public notoriety, with huge damages awarded against the doctor.<sup id="cite_ref-ODNB_5-0" class="reference"><a href="#cite_note-ODNB-5">&#91;5&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Medical_confidentiality">Medical confidentiality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Confidentiality&amp;action=edit&amp;section=3" title="Edit section: Medical confidentiality"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1045330069">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}</style><table class="sidebar nomobile nowraplinks hlist"><tbody><tr><td class="sidebar-pretitle" style="background:#b6e3c9;;padding-top:0.4em;">Part of <a href="/wiki/Category:Medical_ethics" title="Category:Medical ethics">a series</a> on</td></tr><tr><th class="sidebar-title-with-pretitle" style="background:#b6e3c9;;padding-top:0;"><a href="/wiki/Medical_ethics" title="Medical ethics">Medical ethics</a></th></tr><tr><th class="sidebar-heading" style="background:#b6e3c9;;border-top:1px #b6e3c9 solid;">
+Values</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Primum_non_nocere" title="Primum non nocere">Primum non nocere</a></li>
+<li><a href="/wiki/Informed_consent" title="Informed consent">Informed consent</a></li>
+<li><a href="/wiki/Beneficence_(ethics)" title="Beneficence (ethics)">Beneficence</a></li>
+<li><a class="mw-selflink selflink">Confidentiality</a></li>
+<li><a href="/wiki/Autonomy" title="Autonomy">Autonomy</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="background:#b6e3c9;;border-top:1px #b6e3c9 solid;">
+Conflicts</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Capacity_(law)" title="Capacity (law)">Capacity</a></li>
+<li><a href="/wiki/Involuntary_treatment" title="Involuntary treatment">Involuntary treatment</a></li>
+<li><a href="/wiki/Duty_to_warn" title="Duty to warn">Duty to warn</a></li>
+<li><a href="/wiki/Duty_to_protect" title="Duty to protect">Duty to protect</a></li>
+<li><a href="/wiki/List_of_medical_ethics_cases" title="List of medical ethics cases">Cases</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="background:#b6e3c9;;border-top:1px #b6e3c9 solid;">
+Frameworks</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Advance_healthcare_directive" title="Advance healthcare directive">Advance healthcare directive</a></li>
+<li><a href="/wiki/Surrogate_decision-maker" title="Surrogate decision-maker">Surrogate decision-maker</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="background:#b6e3c9;;border-top:1px #b6e3c9 solid;">
+Related Concepts</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Medical_profession" class="mw-redirect" title="Medical profession">Medical profession</a></li>
+<li><a href="/wiki/Medical_law" title="Medical law">Medical law</a></li>
+<li><a href="/wiki/Bioethics" title="Bioethics">Bioethics</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="background:#b6e3c9;;border-top:1px #b6e3c9 solid;">
+Critiques</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Medical_sociology" title="Medical sociology">Medical sociology</a></li></ul></td>
+</tr><tr><td class="sidebar-navbar"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Medical_ethics_sidebar" title="Template:Medical ethics sidebar"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Medical_ethics_sidebar" title="Template talk:Medical ethics sidebar"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Medical_ethics_sidebar" title="Special:EditPage/Template:Medical ethics sidebar"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p>Confidentiality is commonly applied to conversations between doctors and patients. Legal protections prevent physicians from revealing certain discussions with patients, even under oath in court.<sup id="cite_ref-Coburn&#39;s_6-0" class="reference"><a href="#cite_note-Coburn&#39;s-6">&#91;6&#93;</a></sup> This <a href="/wiki/Physician-patient_privilege" class="mw-redirect" title="Physician-patient privilege">physician-patient privilege</a> only applies to secrets shared between physician and patient during the course of providing medical care.<sup id="cite_ref-Coburn&#39;s_6-1" class="reference"><a href="#cite_note-Coburn&#39;s-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>The rule dates back to at least the <a href="/wiki/Hippocratic_Oath" title="Hippocratic Oath">Hippocratic Oath</a>, which reads in part:  <i>Whatever, in connection with my professional service, or not in connection with it, I see or hear, in the life of men, which ought not to be spoken of abroad, I will not divulge, as reckoning that all such should be kept secret.</i>
+</p><p>Traditionally, medical ethics has viewed the duty of confidentiality as a relatively non-negotiable tenet of medical practice.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="United_States">United States</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Confidentiality&amp;action=edit&amp;section=4" title="Edit section: United States"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Confidentiality is standard in the United States by <a href="/wiki/Health_Insurance_Portability_and_Accountability_Act" title="Health Insurance Portability and Accountability Act">HIPAA</a> laws, specifically the Privacy Rule, and various state laws, some more rigorous than HIPAA. However, numerous exceptions to the rules have been carved out over the years. For example, many American states require physicians to report gunshot wounds to the police and impaired drivers to the Department of Motor Vehicles. Confidentiality is also challenged in cases involving the diagnosis of a sexually transmitted disease in a patient who refuses to reveal the diagnosis to a spouse, and in the termination of a pregnancy in an underage patient, without the knowledge of the patient's parents. Many states in the U.S. have laws governing parental notification in underage abortion.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> Confidentiality can be protected in medical research via <a href="/wiki/Certificate_of_confidentiality" title="Certificate of confidentiality">certificates of confidentiality</a>.
+</p>
+<h3><span class="mw-headline" id="European_Union">European Union</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Confidentiality&amp;action=edit&amp;section=5" title="Edit section: European Union"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Due to the <a href="/wiki/European_Union" title="European Union">EU</a> <a href="/wiki/Directive_2001/20/EC" class="mw-redirect" title="Directive 2001/20/EC">Directive 2001/20/EC</a>, inspectors appointed by the Member States have to maintain confidentiality whenever they gain access to confidential information as a result of the <a href="/wiki/Good_clinical_practice" title="Good clinical practice">good clinical practice</a> inspections in accordance with applicable national and international requirements.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>A typical patient declaration might read:
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1211633275"><blockquote class="templatequote"><p>I have been informed of the benefit that I gain from the protection and the rights granted by the European Union Data Protection Directive and other national laws on the protection of my personal data. I agree that the representatives of the sponsor or possibly the health authorities can have access to my medical records. My participation in the study will be treated as confidential. I will not be referred to by my name in any report of the study. My identity will not be disclosed to any person, except for the purposes described above and in the event of a medical emergency or if required by the law. My data will be processed electronically to determine the outcome of this study, and to provide it to the health authorities. My data may be transferred to other countries (such as the USA). For these purposes the sponsor has to protect my personal information even in countries whose <a href="/wiki/Information_privacy" title="Information privacy">data privacy</a> laws are less strict than those of this country.</p></blockquote>
+<h3><span class="mw-headline" id="HIV_confidentiality">HIV confidentiality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Confidentiality&amp;action=edit&amp;section=6" title="Edit section: HIV confidentiality"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the United Kingdom information about an individual's HIV status is kept confidential within the <a href="/wiki/National_Health_Service" title="National Health Service">National Health Service</a>. This is based in law, in the NHS Constitution, and in key NHS rules and procedures. It is also outlined in every NHS employee's contract of employment and in professional standards set by regulatory bodies.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> The National AIDS Trust's Confidentiality in the NHS: Your Information, Your Rights<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> outlines these rights. All registered healthcare professionals must abide by these standards and if they are found to have breached confidentiality, they can face disciplinary action.
+</p><p>A healthcare worker shares confidential information with someone else who is, or is about to, provide the patient directly with healthcare to make sure they get the best possible treatment. They only share information that is relevant to their care in that instance, and with consent.
+</p><p>There are two ways to give consent: <i>explicit consent</i> or <i>implied consent</i>. Explicit consent is when a patient clearly communicates to a healthcare worker, verbally or in writing or in some other way, that relevant confidential information can be shared. Implied consent means that a patient's consent to share personal confidential information is assumed. When personal confidential information is shared between healthcare workers, consent is taken as implied.
+</p><p>If a patient doesn't want a healthcare worker to share confidential health information, they need to make this clear and discuss the matter with healthcare staff. Patients have the right, in most situations, to refuse permission for a <a href="/wiki/Health_care" title="Health care">health care</a> professional to share their information with another healthcare professional, even one giving them care—but are advised, where appropriate, about the dangers of this course of action, due to possible drug interactions.
+</p><p>However, in a few limited instances, a healthcare worker can share personal information without consent if it is in the public interest. These instances are set out in guidance from the General Medical Council,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> which is the regulatory body for doctors. Sometimes the healthcare worker has to provide the information – if required by law or in response to a court order.
+</p><p>The <a href="/wiki/National_AIDS_Trust" title="National AIDS Trust">National AIDS Trust</a> has written a guide for people living with HIV to confidentiality in the NHS.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Clinical_and_counseling_psychology">Clinical and counseling psychology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Confidentiality&amp;action=edit&amp;section=7" title="Edit section: Clinical and counseling psychology"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-More_citations_needed_section plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><a href="/wiki/File:Question_book-new.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></span></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a href="/wiki/Special:EditPage/Confidentiality" title="Special:EditPage/Confidentiality">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>&#32;in this section. Unsourced material may be challenged and removed.</span>  <span class="date-container"><i>(<span class="date">February 2022</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<p>The ethical principle of confidentiality requires that information shared by a client with a <a href="/wiki/Therapist" title="Therapist">therapist</a> isn't shared without consent, and that the sharing of information would be guided by ETHIC Model: Examining professional values, after thinking about ethical standards of the certifying association, hypothesize about different courses of action and possible consequences, identifying how it and to whom will it be beneficial per professional standards, and after consulting with supervisor and colleagues.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup> Confidentiality principle bolsters the <a href="/wiki/Therapeutic_alliance" title="Therapeutic alliance">therapeutic alliance</a>, as it promotes an environment of trust. There are important exceptions to confidentiality, namely where it conflicts with the clinician's <a href="/wiki/Duty_to_warn" title="Duty to warn">duty to warn</a> or <a href="/wiki/Duty_to_protect" title="Duty to protect">duty to protect</a>. This includes instances of <a href="/wiki/Suicidal_behavior" class="mw-redirect" title="Suicidal behavior">suicidal behavior</a> or <a href="/wiki/Homicide" title="Homicide">homicidal</a> plans, <a href="/wiki/Child_abuse" title="Child abuse">child abuse</a>, <a href="/wiki/Elder_abuse" title="Elder abuse">elder abuse</a> and <a href="/wiki/Dependent_adult_abuse" class="mw-redirect" title="Dependent adult abuse">dependent adult abuse</a>. Information shared by a client with a therapist is considered as <a href="/wiki/Privileged_communication" class="mw-redirect" title="Privileged communication">privileged communication</a>, however in certain cases and based on certain provinces and states they are negated, it is determined by the use of negative and positive freedom.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Commercial_confidentiality">Commercial confidentiality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Confidentiality&amp;action=edit&amp;section=8" title="Edit section: Commercial confidentiality"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Some legal jurisdictions recognise a category of commercial confidentiality whereby a <a href="/wiki/Business" title="Business">business</a> may withhold information on the basis of perceived harm to "commercial interests".<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> For example: soft drink giant <a href="/wiki/Coca-Cola" title="Coca-Cola">Coca-Cola</a>'s main syrup formula remains a <a href="/wiki/Trade_secret" title="Trade secret">trade secret</a>.
+</p>
+<h2><span class="mw-headline" id="Banking_confidentiality">Banking confidentiality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Confidentiality&amp;action=edit&amp;section=9" title="Edit section: Banking confidentiality"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Bank%E2%80%93client_confidentiality" class="mw-redirect" title="Bank–client confidentiality">Bank–client confidentiality</a></div>
+<h2><span class="mw-headline" id="Public_policy_concerns">Public policy concerns</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Confidentiality&amp;action=edit&amp;section=10" title="Edit section: Public policy concerns"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Confidentiality agreements that "seal" <a href="/wiki/Settlement_(litigation)" title="Settlement (litigation)">litigation settlements</a> are not uncommon, but this can leave regulators and society ignorant of public hazards. In the U.S. state of Washington, for example, journalists discovered that about two dozen medical malpractice cases had been improperly sealed by judges, leading to improperly weak discipline by the state Department of Health.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> In the 1990s and early 2000s, the <a href="/wiki/Catholic_Church_sexual_abuse_cases" title="Catholic Church sexual abuse cases">Catholic sexual abuse scandal</a> involved a number of confidentiality agreements with victims.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> Some states have passed laws that limit confidentiality. For example, in 1990 Florida passed a 'Sunshine in Litigation' law that limits confidentiality from concealing public hazards.<sup id="cite_ref-:1_20-0" class="reference"><a href="#cite_note-:1-20">&#91;20&#93;</a></sup> Washington state, Texas, Arkansas, and Louisiana have laws limiting confidentiality as well, although judicial interpretation has weakened the application of these types of laws.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> In the U.S. Congress, a similar federal Sunshine in Litigation Act has been proposed but not passed in 2009, 2011, 2014, and 2015.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Confidentiality&amp;action=edit&amp;section=11" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1184024115">.mw-parser-output .div-col{margin-top:0.3em;column-width:30em}.mw-parser-output .div-col-small{font-size:90%}.mw-parser-output .div-col-rules{column-rule:1px solid #aaa}.mw-parser-output .div-col dl,.mw-parser-output .div-col ol,.mw-parser-output .div-col ul{margin-top:0}.mw-parser-output .div-col li,.mw-parser-output .div-col dd{page-break-inside:avoid;break-inside:avoid-column}</style><div class="div-col" style="column-width: 30em;">
+<ul><li><a href="/wiki/Bank_secrecy" title="Bank secrecy">Bank secrecy</a></li>
+<li><a href="/wiki/Classified_information" title="Classified information">Classified information</a></li>
+<li><a href="/wiki/Confidentiality_club" title="Confidentiality club">Confidentiality club</a></li>
+<li><a href="/wiki/Confidential_reporting_system" class="mw-redirect" title="Confidential reporting system">Confidential reporting system</a></li>
+<li><a href="/wiki/Data_Protection_Act_1998" title="Data Protection Act 1998">Data Protection Act 1998</a></li>
+<li><a href="/wiki/Fiduciary" title="Fiduciary">Fiduciary</a></li>
+<li><a href="/wiki/Integrity" title="Integrity">Integrity</a></li>
+<li><a href="/wiki/Mature_minor_doctrine" title="Mature minor doctrine">Mature minor doctrine</a></li>
+<li><a href="/wiki/Media_transparency" title="Media transparency">Media transparency</a></li>
+<li><a href="/wiki/Doctrine_of_mental_reservation" class="mw-redirect" title="Doctrine of mental reservation">Mental reservation</a> (a form of deception that does not involve outright lying)</li>
+<li><a href="/wiki/Non-disclosure_agreement" title="Non-disclosure agreement">Non-disclosure agreement</a>, also called confidentiality agreement</li>
+<li><a href="/wiki/Physician%E2%80%93patient_privilege" title="Physician–patient privilege">Physician–patient privilege</a> for Medical confidentiality</li>
+<li><a href="/wiki/Privacy_law" title="Privacy law">Privacy law</a></li>
+<li><a href="/wiki/Privilege_(evidence)" title="Privilege (evidence)">Privilege (evidence)</a></li>
+<li><a href="/wiki/Protection_of_sources" class="mw-redirect" title="Protection of sources">Protection of sources</a>, also called <i>confidentiality of (journalistic) sources</i></li>
+<li><a href="/wiki/Seal_of_the_Confessional_(disambiguation)" class="mw-redirect" title="Seal of the Confessional (disambiguation)">Seal of the confessional</a></li>
+<li><a href="/wiki/Secrecy" title="Secrecy">Secrecy</a></li>
+<li><a href="/wiki/Trade_secret" title="Trade secret">Trade secret</a></li>
+<li><a href="/wiki/Under_seal" title="Under seal">Under seal</a> (lat. <i>obsignato</i>)</li></ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Confidentiality&amp;action=edit&amp;section=12" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1217336898">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1215172403">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a{background-size:contain}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a{background-size:contain}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a{background-size:contain}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#2C882D;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911F}html.skin-theme-clientpref-night .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-night .mw-parser-output .cs1-hidden-error{color:#f8a397}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-os .mw-parser-output .cs1-hidden-error{color:#f8a397}html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911F}}</style><cite id="CITEREFMorgan1980" class="citation journal cs1">Morgan, Thomas D. (1980). <a rel="nofollow" class="external text" href="https://dx.doi.org/10.1111/j.1747-4469.1980.tb01046.x">"Conflicts of Interests and the Former Client in the Model Rules of Professional Conduct"</a>. <i>American Bar Foundation Research Journal</i>. <b>5</b> (4): 993–1002. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1747-4469.1980.tb01046.x">10.1111/j.1747-4469.1980.tb01046.x</a>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0361-9486">0361-9486</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=American+Bar+Foundation+Research+Journal&amp;rft.atitle=Conflicts+of+Interests+and+the+Former+Client+in+the+Model+Rules+of+Professional+Conduct&amp;rft.volume=5&amp;rft.issue=4&amp;rft.pages=993-1002&amp;rft.date=1980&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1747-4469.1980.tb01046.x&amp;rft.issn=0361-9486&amp;rft.aulast=Morgan&amp;rft.aufirst=Thomas+D.&amp;rft_id=http%3A%2F%2Fdx.doi.org%2F10.1111%2Fj.1747-4469.1980.tb01046.x&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFInternational_Bar_Association" class="citation web cs1">International Bar Association. <a rel="nofollow" class="external text" href="https://www.icj.org/wp-content/uploads/2014/10/IBA_International_Principles_on_Conduct_for_the_legal_prof.pdf">"IBA International Principles on Conduct for the Legal Profession"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">9 March</span> 2021</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=IBA+International+Principles+on+Conduct+for+the+Legal+Profession&amp;rft.au=International+Bar+Association&amp;rft_id=https%3A%2F%2Fwww.icj.org%2Fwp-content%2Fuploads%2F2014%2F10%2FIBA_International_Principles_on_Conduct_for_the_legal_prof.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span></span>
+</li>
+<li id="cite_note-campbell-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-campbell_3-0">^</a></b></span> <span class="reference-text"><i><a href="/wiki/Campbell_v_MGN_Ltd" title="Campbell v MGN Ltd">Campbell v MGN Ltd</a></i>&#32;<a rel="nofollow" class="external text" href="https://www.bailii.org/uk/cases/UKHL/2004/22.html">&#91;2004&#93; UKHL 22</a>, [2004] 2 AC 457.</span>
+</li>
+<li id="cite_note-coco-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-coco_4-0">^</a></b></span> <span class="reference-text"><i>Coco v A N Clark (Engineers) Ltd</i> [1969] RPC 41; [1968] <a href="/wiki/Fleet_Street_Reports:_Cases_on_Intellectual_Property_Law" class="mw-redirect" title="Fleet Street Reports: Cases on Intellectual Property Law">FSR</a> 415.</span>
+</li>
+<li id="cite_note-ODNB-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-ODNB_5-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFDally" class="citation encyclopaedia cs1">Dally, Ann. "Playfair, William Smoult". <i><a href="/wiki/Dictionary_of_National_Biography#Oxford_Dictionary_of_National_Biography" title="Dictionary of National Biography">Oxford Dictionary of National Biography</a></i> (online&#160;ed.). Oxford University Press. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1093%2Fref%3Aodnb%2F35541">10.1093/ref:odnb/35541</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Playfair%2C+William+Smoult&amp;rft.btitle=Oxford+Dictionary+of+National+Biography&amp;rft.edition=online&amp;rft.pub=Oxford+University+Press&amp;rft_id=info%3Adoi%2F10.1093%2Fref%3Aodnb%2F35541&amp;rft.aulast=Dally&amp;rft.aufirst=Ann&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span>&#x20;<span style="font-size:0.95em; font-size:95%; color: var( --color-subtle, #555 )">(Subscription or <a rel="nofollow" class="external text" href="https://www.oxforddnb.com/help/subscribe#public">UK public library membership</a> required.)</span></span>
+</li>
+<li id="cite_note-Coburn&#39;s-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Coburn&#39;s_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Coburn&#39;s_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/jacob-m-appel/dr-coburns-peculiar-privi_b_308077.html">Dr. Coburn's Peculiar Privilege</a>, 2 October 2009</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFBeltran-ArocaGirela-LopezCollazo-ChaoMontero-Pérez-Barquero2016" class="citation journal cs1">Beltran-Aroca, Cristina M.; Girela-Lopez, Eloy; Collazo-Chao, Eliseo; Montero-Pérez-Barquero, Manuel; Muñoz-Villanueva, Maria C. (2 September 2016). <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009672">"Confidentiality breaches in clinical practice: what happens in hospitals?"</a>. <i>BMC Medical Ethics</i>. <b>17</b> (1): 52. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1186%2Fs12910-016-0136-y">10.1186/s12910-016-0136-y</a></span>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/1472-6939">1472-6939</a>. <a href="/wiki/PMC_(identifier)" class="mw-redirect" title="PMC (identifier)">PMC</a>&#160;<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009672">5009672</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/27590300">27590300</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=BMC+Medical+Ethics&amp;rft.atitle=Confidentiality+breaches+in+clinical+practice%3A+what+happens+in+hospitals%3F&amp;rft.volume=17&amp;rft.issue=1&amp;rft.pages=52&amp;rft.date=2016-09-02&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC5009672%23id-name%3DPMC&amp;rft.issn=1472-6939&amp;rft_id=info%3Apmid%2F27590300&amp;rft_id=info%3Adoi%2F10.1186%2Fs12910-016-0136-y&amp;rft.aulast=Beltran-Aroca&amp;rft.aufirst=Cristina+M.&amp;rft.au=Girela-Lopez%2C+Eloy&amp;rft.au=Collazo-Chao%2C+Eliseo&amp;rft.au=Montero-P%C3%A9rez-Barquero%2C+Manuel&amp;rft.au=Mu%C3%B1oz-Villanueva%2C+Maria+C.&amp;rft_id=https%3A%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC5009672&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFMallis2023" class="citation web cs1">Mallis, Adam (6 March 2023). <a rel="nofollow" class="external text" href="https://www.theukcatpeople.co.uk/post/confidentiality-in-healthcare-medicine-interview-hot-topic-questions">"Confidentiality In Healthcare - Medicine Interview Hot Topic Questions"</a>. <i>The UKCAT People</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 March</span> 2023</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+UKCAT+People&amp;rft.atitle=Confidentiality+In+Healthcare+-+Medicine+Interview+Hot+Topic+Questions&amp;rft.date=2023-03-06&amp;rft.aulast=Mallis&amp;rft.aufirst=Adam&amp;rft_id=https%3A%2F%2Fwww.theukcatpeople.co.uk%2Fpost%2Fconfidentiality-in-healthcare-medicine-interview-hot-topic-questions&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ncsl.org/programs/health/aborlaws.htm">Notification Laws</a> <a rel="nofollow" class="external text" href="http://webarchive.loc.gov/all/20090429230410/http://www.ncsl.org/programs/health/aborlaws.htm">Archived</a> 29 April 2009 at the <a href="/wiki/Library_of_Congress" title="Library of Congress">Library of Congress</a> Web Archives</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">AR Waladkhani. (2008). Conducting clinical trials. A theoretical and practical guide.
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-3-940934-00-0" title="Special:BookSources/978-3-940934-00-0">978-3-940934-00-0</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.nhs.uk/NHSEngland/thenhs/healthregulators/Pages/professional-standards-authority.aspx">"Professional Standards Authority – Home"</a>. <i>nhs.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">17 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=nhs.uk&amp;rft.atitle=Professional+Standards+Authority+%E2%80%93+Home&amp;rft_id=http%3A%2F%2Fwww.nhs.uk%2FNHSEngland%2Fthenhs%2Fhealthregulators%2FPages%2Fprofessional-standards-authority.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.nat.org.uk/media/Files/Publications/Confidentiality-July-2014_FINAL-2.pdf">"Publications – National AIDS Trust – NAT"</a> <span class="cs1-format">(PDF)</span>. <i>nat.org.uk</i><span class="reference-accessdate">. Retrieved <span class="nowrap">17 March</span> 2018</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=nat.org.uk&amp;rft.atitle=Publications+%E2%80%93+National+AIDS+Trust+%E2%80%93+NAT&amp;rft_id=http%3A%2F%2Fwww.nat.org.uk%2Fmedia%2FFiles%2FPublications%2FConfidentiality-July-2014_FINAL-2.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.gmc-uk.org/guidance/ethical_guidance/confidentiality.asp">"GMC – Confidentiality"</a>. <i>gmc-uk.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=gmc-uk.org&amp;rft.atitle=GMC+%E2%80%93+Confidentiality&amp;rft_id=http%3A%2F%2Fwww.gmc-uk.org%2Fguidance%2Fethical_guidance%2Fconfidentiality.asp&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140911001737/http://nat.org.uk/media/Files/Publications/Confidentiality-July-2014_FINAL-2.pdf">"Confidentiality in the NHS: Your Information, Your Rights"</a> <span class="cs1-format">(PDF)</span>. <i>National Aids Trust</i>. British HIV Association. July 2014. Archived from <a rel="nofollow" class="external text" href="http://nat.org.uk/media/Files/Publications/Confidentiality-July-2014_FINAL-2.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 11 September 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">9 November</span> 2022</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=National+Aids+Trust&amp;rft.atitle=Confidentiality+in+the+NHS%3A+Your+Information%2C+Your+Rights&amp;rft.date=2014-07&amp;rft_id=http%3A%2F%2Fnat.org.uk%2Fmedia%2FFiles%2FPublications%2FConfidentiality-July-2014_FINAL-2.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFSheperisHenningKocet2015" class="citation book cs1">Sheperis, Donna S.; Henning, Stacy L.; Kocet, Michael M. (16 September 2015). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=iQWQCgAAQBAJ"><i>Ethical Decision Making for the 21st Century Counselor</i></a>. SAGE Publications. pp.&#160;53+. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4833-1150-0" title="Special:BookSources/978-1-4833-1150-0"><bdi>978-1-4833-1150-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Ethical+Decision+Making+for+the+21st+Century+Counselor&amp;rft.pages=53%2B&amp;rft.pub=SAGE+Publications&amp;rft.date=2015-09-16&amp;rft.isbn=978-1-4833-1150-0&amp;rft.aulast=Sheperis&amp;rft.aufirst=Donna+S.&amp;rft.au=Henning%2C+Stacy+L.&amp;rft.au=Kocet%2C+Michael+M.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DiQWQCgAAQBAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFBerlin1997" class="citation book cs1">Berlin, Isaiah (1997). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=RPNlAAAAMAAJ"><i>The Proper Study of Mankind</i></a>. London: Chatto &amp; Windus. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-7011-6527-7" title="Special:BookSources/978-0-7011-6527-7"><bdi>978-0-7011-6527-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Proper+Study+of+Mankind&amp;rft.place=London&amp;rft.pub=Chatto+%26+Windus&amp;rft.date=1997&amp;rft.isbn=978-0-7011-6527-7&amp;rft.aulast=Berlin&amp;rft.aufirst=Isaiah&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DRPNlAAAAMAAJ&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">
+For example: <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFParadissisPurdue2007" class="citation book cs1">Paradissis, Jean-Jacques; Purdue, Michael (2007). "Access to Environmental Justice in United Kingdom Law". In Harding, Andrew (ed.). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=gfEHqR-6i1YC"><i>Access to Environmental Justice: A Comparative Study</i></a>. The London-Leiden Series on Law, Administration and Development. Vol.&#160;11. Martinus Nijhoff Publishers. p.&#160;293. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9789004157835" title="Special:BookSources/9789004157835"><bdi>9789004157835</bdi></a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 October</span> 2015</span>. <q>Commercial confidentiality is usually defined by reference to commercial interests of the person concerned: if disclosure can 'prejudice to an unreasonable degree' commercial interests, then it must not be permitted.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Access+to+Environmental+Justice+in+United+Kingdom+Law&amp;rft.btitle=Access+to+Environmental+Justice%3A+A+Comparative+Study&amp;rft.series=The+London-Leiden+Series+on+Law%2C+Administration+and+Development&amp;rft.pages=293&amp;rft.pub=Martinus+Nijhoff+Publishers&amp;rft.date=2007&amp;rft.isbn=9789004157835&amp;rft.aulast=Paradissis&amp;rft.aufirst=Jean-Jacques&amp;rft.au=Purdue%2C+Michael&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DgfEHqR-6i1YC&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.seattletimes.com/seattle-news/special-reports/what-the-state-didnt-know-about-doctor-malpractice-suit/">"What the state didn't know about doctor, malpractice suit"</a>. <i>The Seattle Times</i>. 13 December 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">20 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Seattle+Times&amp;rft.atitle=What+the+state+didn%27t+know+about+doctor%2C+malpractice+suit&amp;rft.date=2006-12-13&amp;rft_id=http%3A%2F%2Fwww.seattletimes.com%2Fseattle-news%2Fspecial-reports%2Fwhat-the-state-didnt-know-about-doctor-malpractice-suit%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFGoodstein2002" class="citation news cs1">Goodstein, Laurie (27 June 2002). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2002/06/27/nyregion/albany-diocese-settled-abuse-case-for-almost-1-million.html">"Albany Diocese Settled Abuse Case for Almost $1 Million"</a>. <i>The New York Times</i>. <a href="/wiki/ISSN_(identifier)" class="mw-redirect" title="ISSN (identifier)">ISSN</a>&#160;<a rel="nofollow" class="external text" href="https://www.worldcat.org/issn/0362-4331">0362-4331</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=Albany+Diocese+Settled+Abuse+Case+for+Almost+%241+Million&amp;rft.date=2002-06-27&amp;rft.issn=0362-4331&amp;rft.aulast=Goodstein&amp;rft.aufirst=Laurie&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2002%2F06%2F27%2Fnyregion%2Falbany-diocese-settled-abuse-case-for-almost-1-million.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span></span>
+</li>
+<li id="cite_note-:1-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-:1_20-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.americanbar.org/publications/gp_solo/2012/november_december2012privacyandconfidentiality/confidentiality_settlement_agreements_is_bad_clients_lawyers_justice.html">"Confidentiality in Settlement Agreements Is Bad for Clients, Bad for Lawyers, Bad for Justice"</a>. <i>americanbar.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=americanbar.org&amp;rft.atitle=Confidentiality+in+Settlement+Agreements+Is+Bad+for+Clients%2C+Bad+for+Lawyers%2C+Bad+for+Justice&amp;rft_id=http%3A%2F%2Fwww.americanbar.org%2Fpublications%2Fgp_solo%2F2012%2Fnovember_december2012privacyandconfidentiality%2Fconfidentiality_settlement_agreements_is_bad_clients_lawyers_justice.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFLothes2005" class="citation journal cs1">Lothes, Alison (December 2005). <a rel="nofollow" class="external text" href="http://scholarship.law.upenn.edu/penn_law_review/vol154/iss2/4/">"<span class="cs1-kern-left"></span>"Quality, Not Quantity: An Analysis of Confidential Settlements and Lit" by Alison Lothes"</a>. <i>University of Pennsylvania Law Review</i>. <b>154</b> (2): 433. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.2307%2F25047592">10.2307/25047592</a>. <a href="/wiki/JSTOR_(identifier)" class="mw-redirect" title="JSTOR (identifier)">JSTOR</a>&#160;<a rel="nofollow" class="external text" href="https://www.jstor.org/stable/25047592">25047592</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 March</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=University+of+Pennsylvania+Law+Review&amp;rft.atitle=%22Quality%2C+Not+Quantity%3A+An+Analysis+of+Confidential+Settlements+and+Lit%22+by+Alison+Lothes&amp;rft.volume=154&amp;rft.issue=2&amp;rft.pages=433&amp;rft.date=2005-12&amp;rft_id=info%3Adoi%2F10.2307%2F25047592&amp;rft_id=https%3A%2F%2Fwww.jstor.org%2Fstable%2F25047592%23id-name%3DJSTOR&amp;rft.aulast=Lothes&amp;rft.aufirst=Alison&amp;rft_id=http%3A%2F%2Fscholarship.law.upenn.edu%2Fpenn_law_review%2Fvol154%2Fiss2%2F4%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFFan2015" class="citation journal cs1">Fan, Mary D. (18 September 2015). "Private Data, Public Safety: A Bounded Access Model of Disclosure". <a href="/wiki/SSRN_(identifier)" class="mw-redirect" title="SSRN (identifier)">SSRN</a>&#160;<a rel="nofollow" class="external text" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2662678">2662678</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.atitle=Private+Data%2C+Public+Safety%3A+A+Bounded+Access+Model+of+Disclosure&amp;rft.date=2015-09-18&amp;rft_id=https%3A%2F%2Fpapers.ssrn.com%2Fsol3%2Fpapers.cfm%3Fabstract_id%3D2662678%23id-name%3DSSRN&amp;rft.aulast=Fan&amp;rft.aufirst=Mary+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConfidentiality" class="Z3988"></span> <span class="cs1-visible-error citation-comment"><code class="cs1-code">{{<a href="/wiki/Template:Cite_journal" title="Template:Cite journal">cite journal</a>}}</code>: </span><span class="cs1-visible-error citation-comment">Cite journal requires <code class="cs1-code">&#124;journal=</code> (<a href="/wiki/Help:CS1_errors#missing_periodical" title="Help:CS1 errors">help</a>)</span></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Confidentiality&amp;action=edit&amp;section=13" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Wiktionary-logo-en-v2.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/16px-Wiktionary-logo-en-v2.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/24px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/32px-Wiktionary-logo-en-v2.svg.png 2x" data-file-width="512" data-file-height="512" /></a></span> The dictionary definition of <a href="https://en.wiktionary.org/wiki/Special:Search/confidentiality" class="extiw" title="wiktionary:Special:Search/confidentiality"><i>confidentiality</i></a> at Wiktionary
+</p><p><span class="noviewer" typeof="mw:File"><a href="/wiki/File:Wikiquote-logo.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/13px-Wikiquote-logo.svg.png" decoding="async" width="13" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/20px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/27px-Wikiquote-logo.svg.png 2x" data-file-width="300" data-file-height="355" /></a></span> Quotations related to <a href="https://en.wikiquote.org/wiki/Special:Search/Confidentiality" class="extiw" title="wikiquote:Special:Search/Confidentiality">Confidentiality</a> at Wikiquote
+</p>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Bioethics" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Medical_ethics" title="Template:Medical ethics"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Medical_ethics" title="Template talk:Medical ethics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Medical_ethics" title="Special:EditPage/Template:Medical ethics"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Bioethics" style="font-size:114%;margin:0 4em"><a href="/wiki/Bioethics" title="Bioethics">Bioethics</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Classic principles</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Autonomy" title="Autonomy">Autonomy</a></li>
+<li><a href="/wiki/Beneficence_(ethics)" title="Beneficence (ethics)">Beneficence</a></li>
+<li><a href="/wiki/Primum_non_nocere" title="Primum non nocere">Non-maleficence</a></li>
+<li><a href="/wiki/Justice" title="Justice">Justice</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other principles</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Authority" title="Authority">Authority</a></li>
+<li><a class="mw-selflink selflink">Confidentiality</a></li>
+<li><a href="/wiki/Conscience" title="Conscience">Conscience</a></li>
+<li><a href="/wiki/Principle_of_double_effect" title="Principle of double effect">Doctrine of double effect</a></li>
+<li><a href="/wiki/Egalitarianism" title="Egalitarianism">Equality</a></li>
+<li><a href="/wiki/Health_equity" title="Health equity">Equity</a></li>
+<li><a href="/wiki/Guilt_(emotion)" title="Guilt (emotion)">Guilt</a></li>
+<li><a href="/wiki/Mercy" title="Mercy">Mercy</a></li>
+<li><a href="/wiki/Oath" title="Oath">Oath</a></li>
+<li><a href="/wiki/Ownership" title="Ownership">Ownership</a></li>
+<li><a href="/wiki/Privacy" title="Privacy">Privacy</a></li>
+<li><a href="/wiki/Persuasion" title="Persuasion">Persuasion</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Theory" title="Theory">Theories</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Consequentialism" title="Consequentialism">Consequentialism</a></li>
+<li><a href="/wiki/Deontological_ethics" class="mw-redirect" title="Deontological ethics">Deontology</a></li>
+<li><a href="/wiki/Virtue_ethics" title="Virtue ethics">Virtue ethics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Reproduction" title="Reproduction">Reproduction</a></th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Abortion" title="Abortion">Abortion</a></li>
+<li><a href="/wiki/Reproductive_technology" title="Reproductive technology">Reproductive technology</a></li>
+<li><a href="/wiki/Sex_assignment" title="Sex assignment">Gender assignment</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Genetics" title="Genetics">Genetics</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Gender" title="Gender">Gender</a></li>
+<li><a href="/wiki/Gene_therapy" title="Gene therapy">Gene therapy</a></li>
+<li><a href="/wiki/Genetic_testing" title="Genetic testing">Genetic testing</a></li>
+<li><a href="/wiki/Genetic_engineering" title="Genetic engineering">Genetic modification</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Death, dying, and <br />emergent situations</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Arbitration" title="Arbitration">Arbitration</a></li>
+<li><a href="/wiki/Brain_death" title="Brain death">Brain death</a></li>
+<li><a href="/wiki/Cardiac_death" class="mw-redirect" title="Cardiac death">Cardiac death</a></li>
+<li><a href="/wiki/Consensus_decision-making" title="Consensus decision-making">Consensus</a></li>
+<li><a href="/w/index.php?title=Court_intervention&amp;action=edit&amp;redlink=1" class="new" title="Court intervention (page does not exist)">Court intervention</a></li>
+<li><a href="/wiki/Death" title="Death">Death</a></li>
+<li><a href="/wiki/Ethics_committee_(disambiguation)" class="mw-disambig" title="Ethics committee (disambiguation)">Ethics committee</a></li>
+<li><a href="/wiki/Euthanasia" title="Euthanasia">Euthanasia</a></li>
+<li><a href="/wiki/Executor" title="Executor">Executor</a></li>
+<li><a href="/w/index.php?title=Family_meeting&amp;action=edit&amp;redlink=1" class="new" title="Family meeting (page does not exist)">Family meeting</a></li>
+<li><a href="/wiki/Mediation" title="Mediation">Mediation</a></li>
+<li><a href="/wiki/Next_of_kin" title="Next of kin">Next of kin</a></li>
+<li><a href="/wiki/Healthcare_proxy" title="Healthcare proxy">Health care proxy</a></li>
+<li><a href="/wiki/Suicide" title="Suicide">Suicide</a></li>
+<li><a href="/w/index.php?title=Transplant_ethics&amp;action=edit&amp;redlink=1" class="new" title="Transplant ethics (page does not exist)">Transplant ethics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Cultural differences</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Dignity" title="Dignity">Dignity</a></li>
+<li><a href="/wiki/Etiquette" title="Etiquette">Etiquette</a></li>
+<li><a href="/wiki/Jewish_medical_ethics" title="Jewish medical ethics">Jewish medical ethics</a></li>
+<li><a href="/wiki/Pain" title="Pain">Pain</a></li>
+<li><a href="/wiki/Suffering" title="Suffering">Suffering</a></li>
+<li><a href="/wiki/Religion" title="Religion">Religion</a></li>
+<li><a href="/wiki/Respect" title="Respect">Respect</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Personal conduct</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Position_of_trust" title="Position of trust">Abuse of trust</a></li>
+<li><a href="/wiki/Continuity_of_care" class="mw-redirect" title="Continuity of care">Continuity of care</a></li>
+<li><a href="/wiki/Duty" title="Duty">Duty</a></li>
+<li><a href="/wiki/Gift" title="Gift">Gifts</a></li>
+<li><a href="/wiki/Legal_liability" title="Legal liability">Liability</a></li>
+<li><a href="/wiki/Lie" title="Lie">Lying</a></li>
+<li><a href="/wiki/Misconduct" title="Misconduct">Misconduct</a></li>
+<li><a href="/wiki/Scientific_misconduct" title="Scientific misconduct">Scientific misconduct</a></li>
+<li><a href="/w/index.php?title=Medical_misconduct&amp;action=edit&amp;redlink=1" class="new" title="Medical misconduct (page does not exist)">Medical misconduct</a></li>
+<li><a href="/wiki/Competence_(law)" title="Competence (law)">Competence (law)</a></li>
+<li><a href="/wiki/Competence_(human_resources)" title="Competence (human resources)">Competency</a></li>
+<li><a href="/wiki/Incompetency" class="mw-redirect" title="Incompetency">Incompetency</a></li>
+<li><a href="/w/index.php?title=Termination_of_the_patient-physician_relationship&amp;action=edit&amp;redlink=1" class="new" title="Termination of the patient-physician relationship (page does not exist)">Termination of the patient-physician relationship</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Research ethics</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Informed_consent" title="Informed consent">Informed consent</a></li>
+<li><a href="/wiki/Informed_assent" title="Informed assent">Informed assent</a></li>
+<li><a href="/wiki/Human_rights" title="Human rights">Human rights</a></li>
+<li><a href="/wiki/Institutional_review_board" title="Institutional review board">Institutional review board</a></li>
+<li><a href="/wiki/Human_challenge_study" title="Human challenge study">Human challenge study</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1061467846"></div><div role="navigation" class="navbox authority-control" aria-label="Navbox" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control databases</a>: National <span class="mw-valign-text-top noprint" typeof="mw:File/Frameless"><a href="https://www.wikidata.org/wiki/Q2476929#identifiers" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/10px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="10" height="10" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4180447-8">Germany</a></span></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐bd49cb6d6‐b9fkz
+Cached time: 20240405070926
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.621 seconds
+Real time usage: 0.804 seconds
+Preprocessor visited node count: 2650/1000000
+Post‐expand include size: 77252/2097152 bytes
+Template argument size: 5298/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 10/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 95734/5000000 bytes
+Lua time usage: 0.385/10.000 seconds
+Lua memory usage: 6978422/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  728.524      1 -total
+ 38.41%  279.855      1 Template:Reflist
+ 16.91%  123.181      4 Template:Cite_journal
+ 13.13%   95.629      1 Template:Medical_ethics_sidebar
+ 12.75%   92.921      1 Template:Sidebar
+ 11.56%   84.233      1 Template:Short_description
+  8.05%   58.641      1 Template:More_citations_needed_section
+  7.46%   54.337      1 Template:More_citations_needed
+  7.07%   51.482      1 Template:Ambox
+  6.97%   50.748      2 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:353859-0!canonical and timestamp 20240405070926 and revision id 1209871041. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Confidentiality&amp;oldid=1209871041">https://en.wikipedia.org/w/index.php?title=Confidentiality&amp;oldid=1209871041</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Confidentiality" title="Category:Confidentiality">Confidentiality</a></li><li><a href="/wiki/Category:Applications_of_cryptography" title="Category:Applications of cryptography">Applications of cryptography</a></li><li><a href="/wiki/Category:Sources_(journalism)" title="Category:Sources (journalism)">Sources (journalism)</a></li><li><a href="/wiki/Category:Secrecy" title="Category:Secrecy">Secrecy</a></li><li><a href="/wiki/Category:Professional_ethics" title="Category:Professional ethics">Professional ethics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_ODNB" title="Category:Wikipedia articles incorporating a citation from the ODNB">Wikipedia articles incorporating a citation from the ODNB</a></li><li><a href="/wiki/Category:Pages_using_cite_ODNB_with_id_parameter" title="Category:Pages using cite ODNB with id parameter">Pages using cite ODNB with id parameter</a></li><li><a href="/wiki/Category:Webarchive_template_other_archives" title="Category:Webarchive template other archives">Webarchive template other archives</a></li><li><a href="/wiki/Category:CS1_errors:_missing_periodical" title="Category:CS1 errors: missing periodical">CS1 errors: missing periodical</a></li><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_is_different_from_Wikidata" title="Category:Short description is different from Wikidata">Short description is different from Wikidata</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_February_2023" title="Category:Use dmy dates from February 2023">Use dmy dates from February 2023</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2022" title="Category:Articles needing additional references from February 2022">Articles needing additional references from February 2022</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_with_GND_identifiers" title="Category:Articles with GND identifiers">Articles with GND identifiers</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 23 February 2024, at 23:04<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Confidentiality&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-5d64f48656-mqj5f","wgBackendResponseTime":272,"wgPageParseReport":{"limitreport":{"cputime":"0.621","walltime":"0.804","ppvisitednodes":{"value":2650,"limit":1000000},"postexpandincludesize":{"value":77252,"limit":2097152},"templateargumentsize":{"value":5298,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":95734,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  728.524      1 -total"," 38.41%  279.855      1 Template:Reflist"," 16.91%  123.181      4 Template:Cite_journal"," 13.13%   95.629      1 Template:Medical_ethics_sidebar"," 12.75%   92.921      1 Template:Sidebar"," 11.56%   84.233      1 Template:Short_description","  8.05%   58.641      1 Template:More_citations_needed_section","  7.46%   54.337      1 Template:More_citations_needed","  7.07%   51.482      1 Template:Ambox","  6.97%   50.748      2 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.385","limit":"10.000"},"limitreport-memusage":{"value":6978422,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-bd49cb6d6-b9fkz","timestamp":"20240405070926","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Confidentiality","url":"https:\/\/en.wikipedia.org\/wiki\/Confidentiality","sameAs":"http:\/\/www.wikidata.org\/entity\/Q2476929","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q2476929","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2003-10-31T17:04:55Z","dateModified":"2024-02-23T23:04:34Z","headline":"characteristic of information or data that are not shared with specified parties due to restrictions or a promise"}</script>
+</body>
+</html>

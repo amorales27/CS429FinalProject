@@ -1,0 +1,1460 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Sefirot - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"c6e3c512-93cb-486d-b3f7-b769d4faa841","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sefirot","wgTitle":"Sefirot","wgCurRevisionId":1216152126,"wgRevisionId":1216152126,"wgArticleId":1458368,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Articles needing additional references from July 2022","All articles needing additional references","Articles containing Hebrew-language text","All articles lacking reliable references","Articles lacking reliable references from March 2024","All articles with unsourced statements","Articles with unsourced statements from October 2014",
+"Wikipedia articles needing clarification from October 2014","Articles with Curlie links","Sephirot","Concepts in metaphysics","Jewish mysticism","Kabbalistic words and phrases","Mysticism","Religious philosophical concepts","Trees in mythology","Religious diagrams"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Sefirot","wgRelevantArticleId":1458368,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgULSCurrentAutonym":"English",
+"wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q660267","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":
+"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ktreewnames.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="2236">
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ktreewnames.png">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="1490">
+<meta property="og:image:width" content="640">
+<meta property="og:image:height" content="1192">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Sefirot - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Sefirot">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Sefirot&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Sefirot">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Sefirot rootpage-Sefirot skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sefirot" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sefirot" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sefirot" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Sefirot" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Ein_Sof"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Ein_Sof">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Ein Sof</div>
+		</a>
+		
+		<ul id="toc-Ein_Sof-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Ten_sefirot"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Ten_sefirot">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Ten sefirot</div>
+		</a>
+		
+			<button aria-controls="toc-Ten_sefirot-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Ten sefirot subsection</span>
+			</button>
+		
+		<ul id="toc-Ten_sefirot-sublist" class="vector-toc-list">
+			<li id="toc-Names_in_Cordoveran_Kabbalah"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Names_in_Cordoveran_Kabbalah">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">2.1</span>Names in Cordoveran Kabbalah</div>
+			</a>
+			
+			<ul id="toc-Names_in_Cordoveran_Kabbalah-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Man-metaphor_in_Kabbalah"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Man-metaphor_in_Kabbalah">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Man-metaphor in Kabbalah</div>
+		</a>
+		
+		<ul id="toc-Man-metaphor_in_Kabbalah-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Inner_dimensions_and_the_powers_of_the_soul"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Inner_dimensions_and_the_powers_of_the_soul">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Inner dimensions and the powers of the soul</div>
+		</a>
+		
+		<ul id="toc-Inner_dimensions_and_the_powers_of_the_soul-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-The_four_worlds"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#The_four_worlds">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>The four worlds</div>
+		</a>
+		
+		<ul id="toc-The_four_worlds-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">7</span>References</div>
+		</a>
+		
+			<button aria-controls="toc-References-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle References subsection</span>
+			</button>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+			<li id="toc-Notes"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Notes">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.1</span>Notes</div>
+			</a>
+			
+			<ul id="toc-Notes-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Citations"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Citations">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.2</span>Citations</div>
+			</a>
+			
+			<ul id="toc-Citations-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Works_cited"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Works_cited">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">7.3</span>Works cited</div>
+			</a>
+			
+			<ul id="toc-Works_cited-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-Further_reading"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Further_reading">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">8</span>Further reading</div>
+		</a>
+		
+		<ul id="toc-Further_reading-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-External_links"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#External_links">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">9</span>External links</div>
+		</a>
+		
+		<ul id="toc-External_links-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Sefirot</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 24 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-24" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">24 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%B3%D9%8A%D9%81%D8%B1%D9%88%D8%AA_(%D9%82%D8%A8%D8%A7%D9%84%D8%A9)" title="سيفروت (قبالة) – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-bar mw-list-item"><a href="https://bar.wikipedia.org/wiki/Sefirot" title="Sefirot – Bavarian" lang="bar" hreflang="bar" class="interlanguage-link-target"><span>Boarisch</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Sefirot" title="Sefirot – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Sefirot" title="Sefirot – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Sephiroth" title="Sephiroth – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A3%CE%B5%CF%86%CE%B9%CF%81%CF%8C%CF%84" title="Σεφιρότ – Greek" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Sefirot_(C%C3%A1bala)" title="Sefirot (Cábala) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Sefirot" title="Sefirot – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D9%81%DB%8C%D8%B1%D9%88%D8%AA" title="سفیروت – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Sephiroth_(Kabbale)" title="Sephiroth (Kabbale) – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Sefirot" title="Sefirot – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/S%C4%95fir%C5%8Dt" title="Sĕfirōt – Italian" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A1%D7%A4%D7%99%D7%A8%D7%94_(%D7%A7%D7%91%D7%9C%D7%94)" title="ספירה (קבלה) – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Szefir%C3%A1k" title="Szefirák – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%B3%D9%8A%D9%81%D8%B1%D9%88%D8%AA_(%D9%82%D8%A8%D8%A7%D9%84%D9%87)" title="سيفروت (قباله) – Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Sefira" title="Sefira – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Sefirot" title="Sefirot – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Arborele_sephiroth" title="Arborele sephiroth – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%84%D0%B8%D1%80%D0%BE%D1%82" title="Сфирот – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Sfira" title="Sfira – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Sefirot" title="Sefirot – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Sefirot" title="Sefirot – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Sefirot" title="Sefirot – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E8%B4%A8%E7%82%B9_(%E5%8D%A1%E5%B7%B4%E6%8B%89)" title="质点 (卡巴拉) – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q660267#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Sefirot" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Sefirot" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Sefirot"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Sefirot&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Sefirot&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Sefirot"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Sefirot&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Sefirot&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Sefirot" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Sefirot" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Sefirot&amp;oldid=1216152126" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Sefirot&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sefirot&amp;id=1216152126&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSefirot"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSefirot"><span>Download QR code</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q660267" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Sefirot&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Sefirot&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects"  >
+	<div class="vector-menu-heading">
+		In other projects
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Tree_of_life_(Kabbalah)" hreflang="en"><span>Wikimedia Commons</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Ten emanations in Kabbalah</div>
+<style data-mw-deduplicate="TemplateStyles:r1097763485">.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}</style><table class="box-More_citations_needed plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation"><tbody><tr><td class="mbox-image"><div class="mbox-image-div"><span typeof="mw:File"><a href="/wiki/File:Question_book-new.svg" class="mw-file-description"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></span></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>.<span class="hide-when-compact"> Please help <a href="/wiki/Special:EditPage/Sefirot" title="Special:EditPage/Sefirot">improve this article</a> by <a href="/wiki/Help:Referencing_for_beginners" title="Help:Referencing for beginners">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.<br /><small><span class="plainlinks"><i>Find sources:</i>&#160;<a rel="nofollow" class="external text" href="https://www.google.com/search?as_eq=wikipedia&amp;q=%22Sefirot%22">"Sefirot"</a>&#160;–&#160;<a rel="nofollow" class="external text" href="https://www.google.com/search?tbm=nws&amp;q=%22Sefirot%22+-wikipedia&amp;tbs=ar:1">news</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.google.com/search?&amp;q=%22Sefirot%22&amp;tbs=bkt:s&amp;tbm=bks">newspapers</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.google.com/search?tbs=bks:1&amp;q=%22Sefirot%22+-wikipedia">books</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://scholar.google.com/scholar?q=%22Sefirot%22">scholar</a>&#160;<b>·</b> <a rel="nofollow" class="external text" href="https://www.jstor.org/action/doBasicSearch?Query=%22Sefirot%22&amp;acc=on&amp;wc=on">JSTOR</a></span></small></span>  <span class="date-container"><i>(<span class="date">July 2022</span>)</i></span><span class="hide-when-compact"><i> (<small><a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a></small>)</i></span></div></td></tr></tbody></table>
+<table style="border: darkblue 1px solid; text-align:center; font-size:85%; margin:5px 0px 15px 15px; clear:right; float:right;" bgcolor="#FFFFFF" cellpadding="0">
+<tbody><tr>
+<th colspan="3" style="text-align:center;">The <a class="mw-selflink selflink">Sefirot</a> in <a href="/wiki/Kabbalah" title="Kabbalah">Kabbalah</a>
+</th></tr>
+<tr>
+<td colspan="3" style="padding: 15px; padding-top:5px; padding-bottom:0px; text-align:center; background-color:#FFFFFF;">
+<div style="width: 192px; position: relative; padding: 0px;">
+<div style="height:1px;"></div>
+<figure class="noresize" typeof="mw:File"><span title="The Sefirot in Jewish Kabbalah"><img alt="The Sefirot in Jewish Kabbalah" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ktreewnames.png/192px-Ktreewnames.png" decoding="async" width="192" height="358" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ktreewnames.png/288px-Ktreewnames.png 1.5x, //upload.wikimedia.org/wikipedia/commons/d/d5/Ktreewnames.png 2x" data-file-width="336" data-file-height="626" usemap="#ImageMap_12a55c3261c0fb30" /></span><map name="ImageMap_12a55c3261c0fb30"><area href="/wiki/Keter" shape="circle" coords="97,27,19" alt="Keter" title="Keter" /><area href="/wiki/Binah_(Kabbalah)" shape="circle" coords="31,65,19" alt="Binah" title="Binah" /><area href="/wiki/Chokhmah" shape="circle" coords="163,65,19" alt="Chokhmah" title="Chokhmah" /><area href="/wiki/Da%27at" shape="circle" coords="97,103,19" alt="Da'at" title="Da'at" /><area href="/wiki/Gevurah" shape="circle" coords="31,142,19" alt="Gevurah" title="Gevurah" /><area href="/wiki/Chesed" shape="circle" coords="163,141,19" alt="Chesed" title="Chesed" /><area href="/wiki/Tiferet" shape="circle" coords="97,180,19" alt="Tiferet" title="Tiferet" /><area href="/wiki/Hod_(Kabbalah)" shape="circle" coords="31,217,19" alt="Hod" title="Hod" /><area href="/wiki/Netzach" shape="circle" coords="163,217,19" alt="Netzach" title="Netzach" /><area href="/wiki/Yesod" shape="circle" coords="97,256,19" alt="Yesod" title="Yesod" /><area href="/wiki/Malkuth" shape="circle" coords="97,332,19" alt="Malkuth" title="Malkuth" /></map><figcaption>The Sefirot in Jewish Kabbalah</figcaption></figure>
+</div>
+</td></tr>
+<tr>
+<td style="width:30px;padding:0px;"><span typeof="mw:File"><a href="/wiki/File:Ktreewnames.png" title="View the image description page for this diagram"><img alt="View the image description page for this diagram" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/16px-Gtk-dialog-info.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/24px-Gtk-dialog-info.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/32px-Gtk-dialog-info.svg.png 2x" data-file-width="60" data-file-height="60" /></a></span>
+</td>
+<td style="padding:0px; text-size:80%;"><a href="/wiki/Category:Sephirot" title="Category:Sephirot">Category:Sephirot</a>
+</td>
+<td style="text-align:right; padding-top:0px; width: 30px; padding-right:5px;"><style data-mw-deduplicate="TemplateStyles:r1129693374">.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:" · ";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:")";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:" ("counter(listitem)"\a0 "}</style><style data-mw-deduplicate="TemplateStyles:r1063604349">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Sefirot" title="Template:Sefirot"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Sefirot" title="Template talk:Sefirot"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Sefirot" title="Special:EditPage/Template:Sefirot"><abbr title="Edit this template">e</abbr></a></li></ul></div>
+</td></tr></tbody></table>
+<p><b>Sefirot</b> (<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt" lang="en-fonipa"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="&#39;s&#39; in &#39;sigh&#39;">s</span><span title="&#39;f&#39; in &#39;find&#39;">f</span><span title="/ɪ/: &#39;i&#39; in &#39;kit&#39;">ɪ</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;r&#39; in &#39;rye&#39;">r</span><span title="/oʊ/: &#39;o&#39; in &#39;code&#39;">oʊ</span><span title="&#39;t&#39; in &#39;tie&#39;">t</span></span>,<span class="wrap"> </span><span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="&#39;s&#39; in &#39;sigh&#39;">s</span><span title="&#39;f&#39; in &#39;find&#39;">f</span><span title="/ɪr/: &#39;irr&#39; in &#39;mirror&#39;">ɪr</span><span title="/oʊ/: &#39;o&#39; in &#39;code&#39;">oʊ</span><span title="&#39;t&#39; in &#39;tie&#39;">t</span></span>/</a></span></span>; <a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>: <span lang="he" dir="rtl">סְפִירוֹת</span>, <small><a href="/wiki/Romanization_of_Hebrew" title="Romanization of Hebrew">romanized</a>:&#160;</small><span title="Hebrew-language romanization"><i lang="he-Latn">Səfīrōt</i></span>, <a href="/wiki/Tiberian_Hebrew" title="Tiberian Hebrew">Tiberian</a>: <i><span title="Hebrew-language romanization"><i lang="he-Latn">Săp̄īrōṯ</i></span></i>),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> meaning <i><a href="https://en.wiktionary.org/wiki/emanation#Noun" class="extiw" title="wikt:emanation">emanations</a></i>, are the 10 attributes/emanations in <a href="/wiki/Kabbalah" title="Kabbalah">Kabbalah</a>,<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> through which <a href="/wiki/Ein_Sof" title="Ein Sof">Ein Sof</a> (<a href="/wiki/The_Infinite" class="mw-redirect" title="The Infinite">The Infinite</a>) reveals itself and continuously creates both the physical realm and the chain of higher <a href="/wiki/Metaphysical" class="mw-redirect" title="Metaphysical">metaphysical</a> realms (<i><a href="/wiki/Seder_hishtalshelus" title="Seder hishtalshelus">Seder hishtalshelus</a></i>). The term is alternatively transliterated into English as <i>sephirot/sephiroth</i>, singular <i>sefirah/sephirah</i>, etc.
+</p><p>Alternative configurations of the sefirot are interpreted by various schools in the historical evolution of Kabbalah, with each articulating differing spiritual aspects. The tradition of enumerating 10 is stated in the <i><a href="/wiki/Sefer_Yetzirah" title="Sefer Yetzirah">Sefer Yetzirah</a></i>, "Ten sefirot of nothingness, ten and not nine, ten and not eleven". As altogether 11 sefirot are listed across the various schemes, two (<a href="/wiki/Keter" title="Keter">Keter</a> and <a href="/wiki/Da%27at" title="Da&#39;at">Da'at</a>) are seen as unconscious and conscious manifestations of the same <a href="/wiki/Principle" title="Principle">principle</a>, conserving the 10 categories.<sup id="cite_ref-FOOTNOTEGinsburgh2006_3-0" class="reference"><a href="#cite_note-FOOTNOTEGinsburgh2006-3">&#91;3&#93;</a></sup> The sefirot are described as channels of divine creative life force or consciousness through which the unknowable divine essence is revealed to mankind. 
+</p><p>The first sefirah, Keter, describes the divine <a href="/wiki/Higher_consciousness" title="Higher consciousness">superconscious</a> <a href="/wiki/Volition_(psychology)" title="Volition (psychology)">Will</a> that is beyond conscious <a href="/wiki/Intellect" title="Intellect">intellect</a>. The next three sefirot (<a href="/wiki/Chokhmah" title="Chokhmah">Chokhmah</a>, <a href="/wiki/Binah_(Kabbalah)" title="Binah (Kabbalah)">Binah</a> and Da'at) describe three levels of conscious divine intellect. In particular, <a href="/wiki/Da%27at" title="Da&#39;at">Da'at</a> represents <a href="/wiki/Keter" title="Keter">Keter</a> in its knowable form, the concept of knowledge. Will and knowledge are corresponding somewhat dependent opposites. The seven subsequent sefirot (<a href="/wiki/Chesed" title="Chesed">Chesed</a>, <a href="/wiki/Gevurah" title="Gevurah">Gevurah</a>, <a href="/wiki/Tiferet" title="Tiferet">Tiferet</a>, <a href="/wiki/Netzach" title="Netzach">Netzach</a>, <a href="/wiki/Hod_(Kabbalah)" title="Hod (Kabbalah)">Hod</a>, <a href="/wiki/Yesod" title="Yesod">Yesod</a> and <a href="/wiki/Malkuth" title="Malkuth">Malkuth</a>) describe the primary and secondary conscious divine emotions. The sefirot of the left side and the sefira of <a href="/wiki/Malkuth" title="Malkuth">Malkuth</a> are feminine, as the female principle in Kabbalah describes a <a href="/wiki/Kli" class="mw-redirect" title="Kli">vessel</a> that receives the outward male <a href="/wiki/Ohr" title="Ohr">light</a>, then inwardly nurtures and gives birth to the sefirot below them. Kabbalah sees the human soul as mirroring the divine (after <a href="/wiki/Book_of_Genesis" title="Book of Genesis">Genesis</a> 1:27, "God created man in His own image, in the image of God He created him, male and female He created them"), and more widely, all creations as reflections of their life source in the sefirot. Therefore, the sefirot also describe the spiritual life of man, break down man's psychological processes, and constitute the conceptual paradigm in Kabbalah for understanding everything. This relationship between the soul of man and the divine gives Kabbalah one of its two central metaphors in describing divinity, alongside the other <a href="/wiki/Ohr" title="Ohr">Ohr</a> (light) metaphor. However, Kabbalah repeatedly stresses the need to avoid all corporeal interpretation. Through this, the sefirot are related to the structure of the body and are reformed into <i><a href="/wiki/Partzufim" title="Partzufim">partzufim</a></i> (personas). Underlying the structural purpose of each sefirah is a hidden motivational force which is understood best by comparison with a corresponding psychological state in human spiritual experience.<sup id="cite_ref-FOOTNOTEGinsburgh2006_3-1" class="reference"><a href="#cite_note-FOOTNOTEGinsburgh2006-3">&#91;3&#93;</a></sup>
+</p><p>In <a href="/wiki/Hasidic_philosophy" title="Hasidic philosophy">Hasidic philosophy</a>, which has sought to internalise the experience of <a href="/wiki/Jewish_mysticism" title="Jewish mysticism">Jewish mysticism</a> into daily inspiration (<i><a href="/wiki/Devekut" title="Devekut">devekut</a></i>), this inner life of the sefirot is explored, and the role they play in man's service of God in this world.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Ein_Sof">Ein Sof</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sefirot&amp;action=edit&amp;section=1" title="Edit section: Ein Sof"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Ein_Sof" title="Ein Sof">Ein Sof</a> (lit: without end) is an important concept in Jewish Kabbalah. Generally translated as "infinity" and "endless", the Ein Sof represents the formless state of the universe before the self-materialization of God. In other words, the Ein Sof is God before he decided to become God as we now know him.<sup id="cite_ref-FOOTNOTECohn-Sherbok20069_4-0" class="reference"><a href="#cite_note-FOOTNOTECohn-Sherbok20069-4">&#91;4&#93;</a></sup>
+</p><p>The sefirot are divine emanations that come from the Ein Sof in a manner often described as a flame. The sefirot emanate from above to below. As the first Sefira is closest to Ein Sof, it is the least comprehensible to the human mind, while in turn the last is the best understood because it is closest to the material world that humanity dwells on.&lt;<sup id="cite_ref-FOOTNOTECohn-Sherbok20069_4-1" class="reference"><a href="#cite_note-FOOTNOTECohn-Sherbok20069-4">&#91;4&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Ten_sefirot">Ten sefirot</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sefirot&amp;action=edit&amp;section=2" title="Edit section: Ten sefirot"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Tree_of_life_(Kabbalah)" title="Tree of life (Kabbalah)">Tree of life (Kabbalah)</a></div>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1045330069">.mw-parser-output .sidebar{width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:#f8f9fa;border:1px solid #aaa;padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:115%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:720px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}</style><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1045330069"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1045330069"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1045330069"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1045330069"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1045330069"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1045330069"><table class="sidebar sidebar-collapse nomobile nowraplinks"><tbody><tr><td class="sidebar-pretitle" style="padding-top:0.5em;">Part of <a href="/wiki/Category:Kabbalah" title="Category:Kabbalah">a series</a> on</td></tr><tr><th class="sidebar-title-with-pretitle" style="padding-top:0;font-size:150%;"><a href="/wiki/Kabbalah" title="Kabbalah">Kabbalah</a></th></tr><tr><td class="sidebar-image" style="padding:10px;"><span typeof="mw:File"><a href="/wiki/File:Tree_of_life_bahir_Hebrew.svg" class="mw-file-description" title="Esoteric symbolism"><img alt="Esoteric symbolism" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tree_of_life_bahir_Hebrew.svg/75px-Tree_of_life_bahir_Hebrew.svg.png" decoding="async" width="75" height="142" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tree_of_life_bahir_Hebrew.svg/113px-Tree_of_life_bahir_Hebrew.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tree_of_life_bahir_Hebrew.svg/150px-Tree_of_life_bahir_Hebrew.svg.png 2x" data-file-width="395" data-file-height="750" /></a></span></td></tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="padding-top:0.2em;padding-left:0.4em;background:lightblue;font-size:105%;">Concepts</div><div class="sidebar-list-content mw-collapsible-content hlist" style="font-size:105%;">
+<ul><li><a href="/wiki/Ein_Sof" title="Ein Sof">Ein Sof</a></li>
+<li><a href="/wiki/Tzimtzum" title="Tzimtzum">Tzimtzum</a></li>
+<li><a href="/wiki/Ohr" title="Ohr">Ohr</a></li>
+<li><a href="/wiki/Ayin_and_Yesh" title="Ayin and Yesh">Ayin and Yesh</a></li>
+<li><a class="mw-selflink selflink">Sefirot</a></li>
+<li><a href="/wiki/Four_Worlds" title="Four Worlds">Four Worlds</a></li>
+<li><a href="/wiki/Seder_hishtalshelut" class="mw-redirect" title="Seder hishtalshelut">Seder hishtalshelut</a></li>
+<li><a href="/wiki/Tree_of_life_(Kabbalah)" title="Tree of life (Kabbalah)">Tree of Life</a></li>
+<li><a href="/wiki/The_path_of_the_flaming_sword" class="mw-redirect" title="The path of the flaming sword">The path of the flaming sword</a></li>
+<li><a href="/wiki/Merkabah" class="mw-redirect" title="Merkabah">Merkavah</a></li>
+<li><a href="/wiki/Jewish_angelic_hierarchy" class="mw-redirect" title="Jewish angelic hierarchy">Jewish angelic hierarchy</a></li>
+<li><a href="/wiki/Shekhinah" title="Shekhinah">Shekhinah</a></li>
+<li><a href="/wiki/Partzufim" title="Partzufim">Partzufim</a></li>
+<li><a href="/wiki/Qlippoth" title="Qlippoth">Qlippoth</a></li>
+<li><a href="/wiki/Tohu_and_Tikun" title="Tohu and Tikun">Tohu and Tikun</a></li>
+<li><a href="/wiki/Kashrut#Philosophical" title="Kashrut">Sparks of holiness</a></li>
+<li><a href="/wiki/Lurianic_Kabbalah" title="Lurianic Kabbalah">Messianic rectification</a></li>
+<li><a href="/wiki/Gilgul" title="Gilgul">Gilgul</a></li>
+<li><a href="/wiki/Jewish_views_on_astrology" title="Jewish views on astrology">Kabbalistic astrology</a></li>
+<li><a href="/wiki/Gematria" title="Gematria">Gematria</a></li>
+<li><a href="/wiki/Notarikon" title="Notarikon">Notarikon</a></li>
+<li><a href="/wiki/Temurah_(Kabbalah)" title="Temurah (Kabbalah)">Temurah</a></li>
+<li><a href="/wiki/Names_of_God_in_Judaism" title="Names of God in Judaism">Names of God in Judaism</a></li>
+<li><a href="/wiki/Shemhamphorasch" class="mw-redirect" title="Shemhamphorasch">Shemhamphorasch</a></li>
+<li><a href="/wiki/Tzadik" title="Tzadik">Tzadik</a></li>
+<li><a href="/wiki/Tzadikim_Nistarim" title="Tzadikim Nistarim">Tzadikim Nistarim</a></li>
+<li><a href="/wiki/Anthropomorphism_in_Kabbalah" title="Anthropomorphism in Kabbalah">Anthropomorphism in Kabbalah</a></li>
+<li><a href="/wiki/Panentheism" title="Panentheism">Panentheism</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="padding-top:0.2em;padding-left:0.4em;background:lightblue;font-size:105%;"><a href="/wiki/Kabbalah:_Primary_Texts" class="mw-redirect" title="Kabbalah: Primary Texts">History</a></div><div class="sidebar-list-content mw-collapsible-content hlist" style="font-size:105%;"><table class="sidebar nomobile nowraplinks" style="background-color: transparent; border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+Pre-Kabbalistic <a href="/wiki/Jewish_mysticism" title="Jewish mysticism">Jewish mysticism</a></th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Tannaim" title="Tannaim">Tannaim</a></li>
+<li><a href="/wiki/Heichalot" class="mw-redirect" title="Heichalot">Heichalot</a></li>
+<li><i><a href="/wiki/Sefer_Yetzirah" title="Sefer Yetzirah">Sefer Yetzirah</a></i></li>
+<li><a href="/wiki/Chassidei_Ashkenaz" class="mw-redirect" title="Chassidei Ashkenaz">Chassidei Ashkenaz</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+Medieval</th></tr><tr><td class="sidebar-content">
+<ul><li><i><a href="/wiki/Bahir" title="Bahir">Bahir</a></i></li>
+<li><a href="/wiki/Toledano_tradition" class="mw-redirect" title="Toledano tradition">Toledano tradition</a></li>
+<li><a href="/wiki/Abraham_Abulafia" title="Abraham Abulafia">Prophetic Kabbalah</a></li>
+<li><a href="/wiki/Zohar" title="Zohar">Zohar</a></li></ul>
+<div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Jewish_commentaries_on_the_Bible#Commentaries" title="Jewish commentaries on the Bible">Kabbalistic commentaries<br />on the Bible</a></div>
+<div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Jewish_philosophy" title="Jewish philosophy">Mainstream displacement of<br />rationalism with Kabbalah</a></div>
+<div style="padding:0.3em 0;"><i>Renaissance</i></div>
+<div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Christian_Kabbalah" title="Christian Kabbalah">Selective influence on<br />Western thought</a></div>
+<ul><li><a href="/wiki/Hermetic_Qabalah" title="Hermetic Qabalah">Hermetic Qabalah</a></li></ul>
+<div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Shlomo_Halevi_Alkabetz#Move_to_Safed" class="mw-redirect" title="Shlomo Halevi Alkabetz">Mysticism after<br />Spanish expulsion</a></div>
+<div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Safed" title="Safed">Mystics of<br />16th-century Safed</a></div>
+<ul><li><a href="/wiki/Cordoveran_Kabbalah" class="mw-redirect" title="Cordoveran Kabbalah">Cordoveran Kabbalah</a></li>
+<li><a href="/wiki/Lurianic_Kabbalah" title="Lurianic Kabbalah">Lurianic Kabbalah</a></li>
+<li><a href="/wiki/Judah_Loew_ben_Bezalel" title="Judah Loew ben Bezalel">Maharal's thought</a></li></ul>
+<div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Musar_literature#Medieval_Musar_literature" title="Musar literature">Popular Kabbalistic<br />Mussar</a></div></td>
+</tr><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+Early modern</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Baal_Shem" title="Baal Shem">Baal Shem-Nistarim</a></li>
+<li><a href="/wiki/Sabbateans" title="Sabbateans">Sabbatean mystical heresies</a></li>
+<li><a href="/wiki/Jonathan_Eybeschutz#Sabbatian_controversy" title="Jonathan Eybeschutz">Emden–Eybeschutz controversy</a></li>
+<li><a href="/wiki/Old_Yishuv" title="Old Yishuv">Immigration to the Land of Israel</a></li>
+<li><a href="/wiki/Sephardic_Judaism" class="mw-redirect" title="Sephardic Judaism">Traditional Oriental Kabbalists</a></li>
+<li><a href="/wiki/Beit_El_Synagogue" class="mw-redirect" title="Beit El Synagogue">Beit El Synagogue</a></li>
+<li><a href="/wiki/Shtetl" title="Shtetl">Eastern European Judaism</a></li>
+<li><a href="/wiki/Hasidic_Judaism" title="Hasidic Judaism">Hasidic Judaism</a>&#160;/&#32;<a href="/wiki/Hasidic_philosophy" title="Hasidic philosophy">philosophy</a></li>
+<li><a href="/wiki/Lithuanian_Jews" class="mw-redirect" title="Lithuanian Jews">Lithuanian Jews</a></li>
+<li><a href="/wiki/Schisms_among_the_Jews#Hasidim_and_Mitnagdim" class="mw-redirect" title="Schisms among the Jews">Hasidic-Mitnagdic schism</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+Modern</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Hasidic_dynasties" class="mw-redirect" title="Hasidic dynasties">Hasidic dynasties</a></li></ul>
+<div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Abraham_Isaac_Kook" title="Abraham Isaac Kook">Mysticism in<br />religious Zionism</a></div>
+<div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Gershom_Scholem" title="Gershom Scholem">Academic interest in<br />Jewish mysticism</a></div>
+<div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Neo-Hasidism" title="Neo-Hasidism">Non-Orthodox interest in<br /> Jewish mysticism</a></div>
+<ul><li><a href="/wiki/English_Qabalah" class="mw-redirect" title="English Qabalah">English</a>
+<ul><li><a href="/wiki/English_Qaballa" title="English Qaballa">James Lees'</a></li></ul></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="padding-top:0.2em;padding-left:0.4em;background:lightblue;font-size:105%;">Practices</div><div class="sidebar-list-content mw-collapsible-content hlist" style="font-size:105%;">
+<ul><li><a href="/wiki/Torah_study" title="Torah study">Torah study</a></li>
+<li><a href="/wiki/Jewish_mystical_exegesis" title="Jewish mystical exegesis">Mystical exegesis</a></li>
+<li><a href="/wiki/Mitzvah" title="Mitzvah">Mitzvot</a></li>
+<li><a href="/wiki/Minhag" title="Minhag">Minhag</a></li>
+<li><a href="/wiki/Mikveh" title="Mikveh">Customary immersion in mikveh</a></li>
+<li><a href="/wiki/Jewish_meditation" title="Jewish meditation">Meditation</a></li>
+<li><a href="/wiki/Kavanah" title="Kavanah">Kavanot</a></li>
+<li><a href="/wiki/Teshuvah" class="mw-redirect" title="Teshuvah">Teshuvah</a></li>
+<li><a href="/wiki/Devekut" title="Devekut">Deveikut</a></li>
+<li><a href="/wiki/Jewish_services" class="mw-redirect" title="Jewish services">Prayer</a></li>
+<li><a href="/wiki/Nusach_(Jewish_custom)" title="Nusach (Jewish custom)">Nusach</a></li>
+<li><a href="/wiki/Tikkun_Chatzot" title="Tikkun Chatzot">Tikkun Chatzot</a></li>
+<li><a href="/wiki/Shavuot#All-night_Torah_study" title="Shavuot">Tikkun Leil Shavuot</a></li>
+<li><a href="/wiki/Tzaddik" class="mw-redirect" title="Tzaddik">Pilgrimage to Tzadik</a></li>
+<li><a href="/wiki/Ohel_(grave)" title="Ohel (grave)">Pilgrimage to holy grave</a></li>
+<li><a href="/wiki/Lag_BaOmer" title="Lag BaOmer">Lag BaOmer at Meron</a></li>
+<li><a href="/wiki/Asceticism_in_Judaism" title="Asceticism in Judaism">Asceticism</a></li>
+<li><a href="/wiki/Rosicrucianism" title="Rosicrucianism">Rosicrucianism</a></li>
+<li><a href="/wiki/Practical_Kabbalah" title="Practical Kabbalah">Practical Kabbalah</a></li></ul></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="padding-top:0.2em;padding-left:0.4em;background:lightblue;font-size:105%;"><a href="/wiki/Timeline_List_of_Jewish_Kabbalists" class="mw-redirect" title="Timeline List of Jewish Kabbalists">People</a></div><div class="sidebar-list-content mw-collapsible-content hlist" style="font-size:105%;"><table class="sidebar nomobile nowraplinks" style="background-color: transparent; border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+100s</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Pardes_(legend)" title="Pardes (legend)">Four Who Entered the Pardes</a></li>
+<li><a href="/wiki/Simeon_bar_Yochai" class="mw-redirect" title="Simeon bar Yochai">Simeon bar Yochai</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+1100s</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Isaac_the_Blind" title="Isaac the Blind">Isaac the Blind</a></li>
+<li><a href="/wiki/Azriel_(Jewish_mystic)" class="mw-redirect" title="Azriel (Jewish mystic)">Azriel</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+1200s</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Nahmanides" class="mw-redirect" title="Nahmanides">Nahmanides</a></li>
+<li><a href="/wiki/Abraham_Abulafia" title="Abraham Abulafia">Abraham Abulafia</a></li>
+<li><a href="/wiki/Joseph_ben_Abraham_Gikatilla" title="Joseph ben Abraham Gikatilla">Joseph ben Abraham Gikatilla</a></li>
+<li><a href="/wiki/Moses_de_Leon" class="mw-redirect" title="Moses de Leon">Moses de Leon</a></li>
+<li><a href="/wiki/Menahem_Recanati" title="Menahem Recanati">Menahem Recanati</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+1300s</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Bahya_ben_Asher" title="Bahya ben Asher">Bahya ben Asher</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+1400s</th></tr><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+1500s</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Meir_ibn_Gabbai" class="mw-redirect" title="Meir ibn Gabbai">Meir ibn Gabbai</a></li>
+<li><a href="/wiki/Joseph_ben_Ephraim_Karo" class="mw-redirect" title="Joseph ben Ephraim Karo">Joseph Karo</a></li>
+<li><a href="/wiki/Shlomo_Alkabetz" class="mw-redirect" title="Shlomo Alkabetz">Shlomo Alkabetz</a></li>
+<li><a href="/wiki/Moshe_Alshich" title="Moshe Alshich">Moshe Alshich</a></li>
+<li><a href="/wiki/Moses_ben_Jacob_Cordovero" title="Moses ben Jacob Cordovero">Moses ben Jacob Cordovero</a></li>
+<li><a href="/wiki/Isaac_Luria" title="Isaac Luria">Isaac Luria</a></li>
+<li><a href="/wiki/Hayyim_ben_Joseph_Vital" title="Hayyim ben Joseph Vital">Chaim Vital</a></li>
+<li><a href="/wiki/Judah_Loew_ben_Bezalel" title="Judah Loew ben Bezalel">Judah Loew ben Bezalel</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+1600s</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Isaiah_Horowitz" title="Isaiah Horowitz">Isaiah Horowitz</a></li>
+<li><a href="/wiki/Abraham_Azulai" title="Abraham Azulai">Abraham Azulai</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+1700s</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Chaim_ibn_Attar" title="Chaim ibn Attar">Chaim ibn Attar</a></li>
+<li><a href="/wiki/Baal_Shem_Tov" title="Baal Shem Tov">Baal Shem Tov</a></li>
+<li><a href="/wiki/Dov_Ber_of_Mezeritch" title="Dov Ber of Mezeritch">Dov Ber of Mezeritch</a></li>
+<li><a href="/wiki/Moshe_Chaim_Luzzatto" title="Moshe Chaim Luzzatto">Moshe Chaim Luzzatto</a></li>
+<li><a href="/wiki/Shalom_Sharabi" title="Shalom Sharabi">Shalom Sharabi</a></li>
+<li><a href="/wiki/Vilna_Gaon" title="Vilna Gaon">Vilna Gaon</a></li>
+<li><a href="/wiki/Chaim_Joseph_David_Azulai" class="mw-redirect" title="Chaim Joseph David Azulai">Chaim Joseph David Azulai</a></li>
+<li><a href="/wiki/Nathan_Adler" title="Nathan Adler">Nathan Adler</a></li>
+<li><a href="/wiki/Schneur_Zalman_of_Liadi" class="mw-redirect" title="Schneur Zalman of Liadi">Schneur Zalman of Liadi</a></li>
+<li><a href="/wiki/Chaim_Volozhin" class="mw-redirect" title="Chaim Volozhin">Chaim Volozhin</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+1800s</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Nachman_of_Breslov" title="Nachman of Breslov">Nachman of Breslov</a></li>
+<li><a href="/wiki/Ben_Ish_Chai" class="mw-redirect" title="Ben Ish Chai">Ben Ish Chai</a></li>
+<li><a href="/wiki/Shlomo_Eliyashiv" class="mw-redirect" title="Shlomo Eliyashiv">Shlomo Eliyashiv</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+1900s</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Abraham_Isaac_Kook" title="Abraham Isaac Kook">Abraham Isaac Kook</a></li>
+<li><a href="/wiki/Yehuda_Ashlag" title="Yehuda Ashlag">Yehuda Ashlag</a></li>
+<li><a href="/wiki/Baba_Sali" title="Baba Sali">Baba Sali</a></li></ul>
+<ul><li><a href="/wiki/Menachem_Mendel_Schneerson" title="Menachem Mendel Schneerson">Menachem Mendel Schneerson</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td class="sidebar-content">
+<div class="sidebar-list mw-collapsible mw-collapsed"><div class="sidebar-list-title" style="padding-top:0.2em;padding-left:0.4em;background:lightblue;font-size:105%;">Role</div><div class="sidebar-list-content mw-collapsible-content hlist" style="font-size:105%;"><table class="sidebar nomobile nowraplinks" style="background-color: transparent; border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+History</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/Torah" title="Torah">Torah</a></li>
+<li><a href="/wiki/Tanakh" class="mw-redirect" title="Tanakh">Tanakh</a></li>
+<li><a href="/wiki/Prophecy" title="Prophecy">Prophecy</a></li>
+<li><a href="/wiki/Ruach_HaKodesh" class="mw-redirect" title="Ruach HaKodesh">Ruach HaKodesh</a></li>
+<li><a href="/wiki/Pardes_(Jewish_exegesis)" class="mw-redirect" title="Pardes (Jewish exegesis)">Pardes exegesis</a></li>
+<li><a href="/wiki/Talmudical_hermeneutics" title="Talmudical hermeneutics">Talmudical hermeneutics</a></li>
+<li><a href="/wiki/Midrash" title="Midrash">Midrash</a></li></ul>
+<div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/Jewish_commentaries_on_the_Bible" title="Jewish commentaries on the Bible">Jewish commentaries<br />on the Bible</a></div>
+<ul><li><a href="/wiki/Oral_Torah" title="Oral Torah">Oral Torah</a></li>
+<li><a href="/wiki/Rabbinic_Judaism" title="Rabbinic Judaism">Eras of Rabbinic Judaism</a></li>
+<li><a href="/wiki/Yeridat_ha-dorot" title="Yeridat ha-dorot">Generational descent in Halacha</a></li>
+<li><a href="/wiki/Yeridat_ha-dorot#Generational_ascent_in_Kabbalah" title="Yeridat ha-dorot">Generational ascent in Kabbalah</a></li>
+<li><a href="/wiki/Rabbinic_literature" title="Rabbinic literature">Rabbinic literature</a></li>
+<li><a href="/wiki/Talmud" title="Talmud">Talmudic theology</a></li>
+<li><a href="/wiki/Halakha" title="Halakha">Halakha</a></li>
+<li><a href="/wiki/Aggadah" title="Aggadah">Aggadah</a></li>
+<li><a href="/wiki/Jewish_philosophy#Hakira_–_investigation" title="Jewish philosophy">Hakira</a></li>
+<li><a href="/wiki/Musar_literature" title="Musar literature">Classic Mussar literature</a></li>
+<li><a href="/wiki/Nusach_Ashkenaz" title="Nusach Ashkenaz">Ashkenazi Judaism</a></li>
+<li><a href="/wiki/Sephardic_law_and_customs" title="Sephardic law and customs">Sephardi Judaism</a></li>
+<li><a href="/wiki/Jewish_philosophy#Contemporary_Jewish_philosophies" title="Jewish philosophy">Modern Jewish philosophies</a></li>
+<li><a href="/wiki/Jewish_studies" title="Jewish studies">Jewish studies</a></li></ul></td>
+</tr><tr><th class="sidebar-heading" style="font-weight:normal; font-style:italic;">
+Topics</th></tr><tr><td class="sidebar-content">
+<ul><li><a href="/wiki/God_in_Judaism" title="God in Judaism">God in Judaism</a></li>
+<li><a href="/wiki/Divine_transcendence" class="mw-redirect" title="Divine transcendence">Divine transcendence</a></li>
+<li><a href="/wiki/Divine_immanence" class="mw-redirect" title="Divine immanence">Divine immanence</a></li>
+<li><a href="/wiki/Free_will_in_theology#Judaism" title="Free will in theology">Free will</a></li>
+<li><a href="/wiki/Divine_providence_(Judaism)" class="mw-redirect" title="Divine providence (Judaism)">Divine providence</a></li></ul>
+<div style="display:inline-block; padding:0.2em 0.4em; line-height:1.2em;"><a href="/wiki/613_commandments" title="613 commandments">Kabbalistic reasons<br />for the 613 Mitzvot</a></div>
+<ul><li><a href="/wiki/Jewish_principles_of_faith" title="Jewish principles of faith">Jewish principles of faith</a></li>
+<li><a href="/wiki/Jewish_eschatology" title="Jewish eschatology">Jewish eschatology</a></li>
+<li><a href="/wiki/Kabbalah:_Primary_texts" class="mw-redirect" title="Kabbalah: Primary texts">Primary texts</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td class="sidebar-navbar"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Kabbalah" title="Template:Kabbalah"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Kabbalah" title="Template talk:Kabbalah"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Kabbalah" title="Special:EditPage/Template:Kabbalah"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><i>Sefirot</i> (<span title="Hebrew-language text"><span lang="he" dir="rtl">ספירות</span></span>, <i>sfirot</i>, singular <span title="Hebrew-language text"><span lang="he" dir="rtl">ספירה</span></span> sfira), literally means "counting, enumeration", but early Kabbalists presented a number of other etymological possibilities from the same Hebrew root including: <i>sefer</i> ("text" - ספר), <i>sippur</i> ("recounting a story" - סיפור), <i>sappir</i> ("sapphire" - ספיר, "brilliance", "luminary"), <i>sfar</i> ("boundary" - ספר), and <i>sofer</i>, or <i>safra</i> ("scribe" - ספרא, סופר). The term sefirah thus has complex connotations within Kabbalah.<sup id="cite_ref-FOOTNOTEGinsburgh2006_3-2" class="reference"><a href="#cite_note-FOOTNOTEGinsburgh2006-3">&#91;3&#93;</a></sup>
+</p><p>The original reference to the sefirot is found in the ancient Kabbalistic text of <i><a href="/wiki/Sefer_Yetzirah" title="Sefer Yetzirah">Sefer Yetzirah</a></i>, "The Book of Formation", attributed to the first Jewish patriarch, <a href="/wiki/Abraham" title="Abraham">Abraham</a>.<sup id="cite_ref-FOOTNOTEGinsburgh2006_3-3" class="reference"><a href="#cite_note-FOOTNOTEGinsburgh2006-3">&#91;3&#93;</a></sup> However, the names of the sefirot as given in later Kabbalah are not specified there, but rather are only identified by their attributes "forward", "backward", "right", "left", "down", "up", "light", "darkness", "good" and "evil". Further references to the sefirot, now with their later-accepted names, are elaborated on in the medieval Kabbalistic text of the <i><a href="/wiki/Zohar" title="Zohar">Zohar</a></i>, which is one of the core texts of Kabbalah.
+</p><p>The sefirot are 10 emanations, or illuminations of God's infinite light as it manifests in creation. As revelations of the creator's will (<span title="Hebrew-language text"><span lang="he" dir="rtl">רצון</span></span> <i>rɔṣon</i>),<sup id="cite_ref-FOOTNOTEBar-Lev199473_5-0" class="reference"><a href="#cite_note-FOOTNOTEBar-Lev199473-5">&#91;5&#93;</a></sup><sup class="noprint Inline-Template noprint noexcerpt Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:NOTRS" class="mw-redirect" title="Wikipedia:NOTRS"><span title="This claim needs references to better sources. (March 2024)">better&#160;source&#160;needed</span></a></i>&#93;</sup> the sefirot should not be understood as 10 different "gods", but rather as 10 different channels through which the one God reveals His will. In later Jewish literature, the 10 sefirot refer either to the 10 manifestations of God; the 10 powers or faculties of the soul; or the 10 structural forces of nature.<sup id="cite_ref-FOOTNOTEGinsburgh2006_3-4" class="reference"><a href="#cite_note-FOOTNOTEGinsburgh2006-3">&#91;3&#93;</a></sup>
+</p><p>In <a href="/wiki/Moses_ben_Jacob_Cordovero" title="Moses ben Jacob Cordovero">Cordoveran</a> Kabbalah, the forces of creation are considered as autonomous forces that evolve independently of one another. By contrast, in Lurean or <a href="/wiki/Lurianic_Kabbalah" title="Lurianic Kabbalah">Lurianic Kabbalah</a> (the Kabbalah of <a href="/wiki/Isaac_Luria" title="Isaac Luria">Isaac Luria</a>), the sefirot are perceived as a constellation of forces in active dialogue with one another at every stage of that evolution. Luria described the sefirot as complex and dynamically interacting entities known as <i><a href="/wiki/Partzufim" title="Partzufim">partzufim</a></i>, or faces, each with its own symbolically human-like persona.<sup id="cite_ref-FOOTNOTEGinsburgh2006_3-5" class="reference"><a href="#cite_note-FOOTNOTEGinsburgh2006-3">&#91;3&#93;</a></sup>
+</p><p>Keter, the Crown, is the first sefirah. It is the superconscious intermediary between God and the other, conscious sefirot. Three different levels, or "heads", are identified within Keter. In some contexts, the highest level of Keter is called "The unknowable head",<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> The second level is "the head of nothingness" (<i>reisha d'ayin</i>) and the third level is "the long head" (<i>reisha d'arich</i>). These three heads correspond to the superconscious levels of faith, pleasure and will in the soul.<sup id="cite_ref-FOOTNOTEGinsburgh2006_3-6" class="reference"><a href="#cite_note-FOOTNOTEGinsburgh2006-3">&#91;3&#93;</a></sup>
+</p><p>In its early 12th-century dissemination, Kabbalah garnered <a href="/wiki/Criticism_of_Kabbalah" class="mw-redirect" title="Criticism of Kabbalah">criticism from some rabbis</a> who adhered to <a href="/wiki/Jewish_philosophy" title="Jewish philosophy">Jewish philosophy</a>, for its alleged introduction of multiplicity into Jewish monotheism. The seeming plurality of the One God is a result of the <a href="/wiki/Seder_hishtalshelus" title="Seder hishtalshelus">spiritual evolution</a> of God's light, which introduced a multiplicity of emanations from the one infinite divine essence. This was necessary due to the inability of mankind to exist in God's infinite presence.<sup id="cite_ref-FOOTNOTEGinsburgh2007_7-0" class="reference"><a href="#cite_note-FOOTNOTEGinsburgh2007-7">&#91;7&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;a&#93;</a></sup> God does not change; rather, it is our ability to perceive his emanations that is modified. This is stressed in Kabbalah to avoid heretical notions of any plurality in the Godhead. One parable to explain this is the difference between the <i>Ma'Ohr</i> ("Luminary"-divine essence) and the <i><a href="/wiki/Ohr" title="Ohr">Ohr</a></i> ("Light") he emanates, like the difference between the single body of the sun and the multiple rays of sunlight that illuminate a room.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;9&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Names_in_Cordoveran_Kabbalah">Names in Cordoveran Kabbalah</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sefirot&amp;action=edit&amp;section=3" title="Edit section: Names in Cordoveran Kabbalah"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Kabbalah, there is a direct correspondence between the Hebrew name of any spiritual or physical phenomenon and its manifestations in the mundane world. The Hebrew name represents the unique essence of the object. This reflects the belief that the universe is created through the <a href="/wiki/Metaphor" title="Metaphor">metaphorical</a> speech of God, as stated in the first chapter of <a href="/wiki/Book_of_Genesis" title="Book of Genesis">Genesis</a>. Kabbalah expounds on the names of the sefirot and their nuances, including their <a href="/wiki/Gematria" title="Gematria">gematria</a> (numerical values), in order to reach an understanding of these emanations of God's essence.<sup id="cite_ref-FOOTNOTEGinsburgh2006_3-7" class="reference"><a href="#cite_note-FOOTNOTEGinsburgh2006-3">&#91;3&#93;</a></sup><sup id="cite_ref-FOOTNOTESchochet1998Chapter_on_the_sefirot_11-0" class="reference"><a href="#cite_note-FOOTNOTESchochet1998Chapter_on_the_sefirot-11">&#91;10&#93;</a></sup>
+</p><p>In the 16th-century rational synthesis of Moses ben Jacob Cordovero (Cordoveran Kabbalah), the first complete systemisation of Kabbalah, the sefirot are listed from highest to lowest:<sup id="cite_ref-FOOTNOTESchochet1998Chapter_on_the_sefirot_11-1" class="reference"><a href="#cite_note-FOOTNOTESchochet1998Chapter_on_the_sefirot-11">&#91;10&#93;</a></sup>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Category:
+</th>
+<th>Sefirah:
+</th></tr>
+<tr>
+<td><b>Super-conscious</b>
+</td>
+<td>1 <i>Keter</i> - "Crown"
+</td></tr>
+<tr>
+<td><b>Conscious intellect</b>
+</td>
+<td>2 <i>Chokhmah</i> - "Wisdom"
+<p>3 <i>Binah</i> - "Understanding"
+</p>
+</td></tr>
+<tr>
+<td><b>Conscious emotions</b>
+</td>
+<td>(Primary emotions:)
+<p>4 <i>Chesed</i> - "Kindness"
+<br />5 <i>Gevurah</i> - "Discipline"
+<br />6 <i>Tiferet</i> - "Glory"
+<br />(Secondary emotions:)
+<br />7 <i>Netzach</i> - "Victory"
+<br />8 <i>Hod</i> - "Splendour"
+<br />9 <i>Yesod</i> - "Foundation"
+<br />(Vessel to bring action:)
+<br />10 <i>Malkuth</i> - "Kingdom" <i>Kingship</i>
+</p>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Man-metaphor_in_Kabbalah">Man-metaphor in Kabbalah</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sefirot&amp;action=edit&amp;section=4" title="Edit section: Man-metaphor in Kabbalah"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Anthropomorphism_in_Kabbalah" title="Anthropomorphism in Kabbalah">Anthropomorphism in Kabbalah</a></div>
+<p>Kabbalah uses subtle <a href="/wiki/Anthropomorphism_in_Kabbalah" title="Anthropomorphism in Kabbalah">anthropomorphic</a> analogies and metaphors to describe <a href="/wiki/God_in_Judaism" title="God in Judaism">God in Judaism</a>, both the God-world relationship, and the inner nature of the divine. These include the metaphor of the soul-body relationship, the functions of human soul-powers, the configuration of human bodily form, and female-male influences in the divine. Kabbalists repeatedly warn and stress the need to divorce their notions from any corporality, dualism, plurality, or spatial and temporal connotations. As "the Torah speaks in the language of Man",<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;11&#93;</a></sup> the empirical terms are necessarily imposed upon human experience in this world. Once the analogy is described, its limitations are then related to stripping the kernel of its husk to arrive at a truer conception. Nonetheless, Kabbalists carefully chose their terminology to denote subtle connotations and profound relationships in the divine spiritual influences. More accurately, as they see the emanation of the material world from the spiritual realms, the analogous anthropomorphisms and material metaphors themselves derive through cause and effect from their precise root analogies on High.
+</p><p>Describing the material world below in general, and humans in particular, as created in the "image" of the world above is not restricted in <a href="/wiki/Rabbinic_Judaism" title="Rabbinic Judaism">Rabbinic Judaism</a> to Kabbalah, but abounds more widely in <a href="/wiki/Hebrew_Bible" title="Hebrew Bible">Biblical</a>, <a href="/wiki/Midrashic" class="mw-redirect" title="Midrashic">Midrashic</a>, <a href="/wiki/Talmudic" class="mw-redirect" title="Talmudic">Talmudic</a> and philosophical literature.<sup id="cite_ref-FOOTNOTESchochet1998ch._1,_&quot;Anthropomorphism_and_Metaphors&quot;_13-0" class="reference"><a href="#cite_note-FOOTNOTESchochet1998ch._1,_&quot;Anthropomorphism_and_Metaphors&quot;-13">&#91;12&#93;</a></sup> Kabbalah extends the Man-metaphor more radically to anthropomorphise particular divine manifestations on high, while repeatedly stressing the need to divest analogies from impure materialistic corporality. Classical <a href="/wiki/Proof_text" class="mw-redirect" title="Proof text">proof texts</a> on which it bases its approach include, "From my flesh I envisage God",<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;13&#93;</a></sup> and the rabbinic analogy "As the soul permeates the whole body...sees but is not seen...sustains the whole body...is pure...abides in the innermost precincts...is unique in the body...does not eat and drink...no man knows where its place is...so the Holy One, Blessed is He..."<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;14&#93;</a></sup> Together with the metaphor of light, the Man-metaphor is central in Kabbalah. Nonetheless, it too has its limitations, needs qualification, and breaks down if taken as a literal, corporeal comparison. Its limitations include the effect of the body on the soul, while the World effects no change in God; and the distinct, separate origins of the soul and the body, while in relation to God's omnipresence, especially in its acosmic Hasidic development, all creation is nullified in its source.
+</p>
+<h2><span class="mw-headline" id="Inner_dimensions_and_the_powers_of_the_soul">Inner dimensions and the powers of the soul</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sefirot&amp;action=edit&amp;section=5" title="Edit section: Inner dimensions and the powers of the soul"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Kochos_hanefesh" title="Kochos hanefesh">Kochos hanefesh</a></div>
+<p>As all levels of Creation are constructed around the 10 sefirot, their names in Kabbalah describe the particular role each plays in forming reality. These are the external dimensions of the sefirot, describing their functional roles in channelling the divine, creative <i>Ohr</i> (Light) to all levels. As the sefirot are viewed to comprise both metaphorical "lights" and "<a href="/wiki/Kli" class="mw-redirect" title="Kli">vessels</a>", their structural role describes the particular identity each sefirah possesses from its characteristic vessel. Underlying this functional structure of the sefirot, each one possesses a hidden, inner spiritual motivation that inspires its activity. This forms the particular characteristic of inner light within each sefirah.
+</p><p>Understanding the sefirot throughout Jewish mysticism is achieved by their correspondence to the human soul. This applies to the outer, Kabbalistic structure of the sefirot. It applies even more to their inner dimensions, which correspond to inner psychological qualities in human perception. Identifying the essential spiritual properties of the soul gives the best insight into their divine source, and in the process reveals the spiritual beauty of the soul. In <a href="/wiki/Hasidic_thought" class="mw-redirect" title="Hasidic thought">Hasidic thought</a> these inner dimensions of the sefirot are called the Powers of the Soul (<a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>: <span lang="he" dir="rtl">Kochos HaNefesh</span>). Hasidism sought the internalisation of the abstract ideas of Kabbalah, both outwardly in joyful sincerity of <a href="/wiki/Dveikus" class="mw-redirect" title="Dveikus">dveikus</a> in daily life, acts of loving-kindness and prayer; and inwardly in its profound new articulation of Jewish mystical thought, by relating it to the inner life of man.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;15&#93;</a></sup> Articulation of the sefirot in <a href="/wiki/Hasidic_philosophy" title="Hasidic philosophy">Hasidic philosophy</a> is primarily concerned with their inner dimensions, and exploring the direct, enlivening contribution of each in man's spiritual worship of God.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;16&#93;</a></sup> Kabbalah focuses on the esoteric manifestations of God in creation, the vessels of divinity. Hasidut looks at the lights that fill these vessels, how the structures reveal the divine essence, and how this inwardness can be perceived. This difference can be seen in the names of these two stages of Jewish mysticism. "Kabbalah" in Hebrew is derived from "kabal" (to "receive" as a vessel). "Hasidut" is from "chesed" ("loving-kindness"), considered the first and greatest sefirah, also called "Greatness", the wish to reveal and share. The names of the sefirot come from Kabbalah, and describe the Divine effect that each has upon Creation, but not their inner qualities. Hasidic thought uses new descriptive terms for the inner dimensions of the sefirot:<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;17&#93;</a></sup><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;18&#93;</a></sup>
+</p>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Sefirah:<br /><small>Outer function in Divinity and soul</small>
+</th>
+<th>Inner experience:<br /><small>Inner Divine motivation and human soul response</small>
+</th></tr>
+<tr>
+<td>Above conscious:<br /><a href="/wiki/Keter" title="Keter">Keter</a>-Crown
+</td>
+<td>Essence of Keter:<br />Emunah – "Faith"<br />(expresses essence of soul in Infinite)<br /><br />Inner Keter:<br />Taanug-unconscious source of "Delight"<br />(soul rooted in delight)<br /><br />Outer Keter:<br />Ratzon-unconscious transcendent "Will"<br />(soul expresses through will)
+</td></tr>
+<tr>
+<td>First revelation of intellect:<br /><a href="/wiki/Chochmah" class="mw-redirect" title="Chochmah">Chochmah</a>-Insight of Wisdom
+</td>
+<td>Bittul – "Selflessness"<br />(Revelation inspires self nullification)
+</td></tr>
+<tr>
+<td>Grasped Intellect:<br /><a href="/wiki/Binah_(Kabbalah)" title="Binah (Kabbalah)">Binah</a>-Understanding
+</td>
+<td>Simchah – "Joy"<br />(Understanding awakens joy)
+</td></tr>
+<tr>
+<td>Assimilated Intellect:<br /><a href="/wiki/Daat" class="mw-redirect" title="Daat">Daat</a>-Knowledge
+</td>
+<td>Yichud – "Union"<br />(Union with idea awakens emotions)<sup id="cite_ref-FOOTNOTEMillern.d._20-0" class="reference"><a href="#cite_note-FOOTNOTEMillern.d.-20">&#91;19&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Primary emotion of giving:<br /><a href="/wiki/Chesed" title="Chesed">Chesed</a>-Loving-kindness
+</td>
+<td>Ahavah – "Love" of God and Divine in all things<br />(Response of Divine giving)
+</td></tr>
+<tr>
+<td>Primary emotion of restriction:<br /><a href="/wiki/Gevurah" title="Gevurah">Gevurah</a>-Might/Severity
+</td>
+<td>Yirah – "Fear" of God<br />(Mystical awe of Divinity)
+</td></tr>
+<tr>
+<td>Primary emotion of balance:<br /><a href="/wiki/Tiferet" title="Tiferet">Tiferet</a>-Beautiful harmony<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (October 2014)">citation needed</span></a></i>&#93;</sup>
+</td>
+<td>Rachamim – "Mercy/Compassion"<br />(Balances kindness with restriction)
+</td></tr>
+<tr>
+<td>Secondary emotion of giving:<br /><a href="/wiki/Netzach" title="Netzach">Netzach</a>-Victory/Eternity
+</td>
+<td>Bitachon – "Confidence"<br />(Confidence inspires determination)
+</td></tr>
+<tr>
+<td>Secondary emotion of restriction:<br /><a href="/wiki/Hod_(Kabbalah)" title="Hod (Kabbalah)">Hod</a>-Splendour/Thanksgiving
+</td>
+<td>Temimut – "Sincerity/Earnestness"<br />(Sincere response to Divine Glory)
+</td></tr>
+<tr>
+<td>Secondary emotion of balance:<br /><a href="/wiki/Yesod" title="Yesod">Yesod</a>-Foundation
+</td>
+<td>Emet – "Truth"<br />(Drive to verify connection in task)
+</td></tr>
+<tr>
+<td>Emotional vessel for action:<br /><a href="/wiki/Malchut" class="mw-redirect" title="Malchut">Malchut</a>-Kingship
+</td>
+<td>Shechinah - "Divine Presence"<br />(The Highest Light)
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="The_four_worlds">The four worlds</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sefirot&amp;action=edit&amp;section=6" title="Edit section: The four worlds"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Four_Worlds" title="Four Worlds">Four Worlds</a></div>
+<p>These ten levels are associated with Kabbalah's four different "Worlds" or planes of existence, the main part from the perspective of the descending "chain of progression" (<i>Seder hishtalshelut</i>), that links the infinite divine <i>Ein Sof</i> with the finite, physical realm. In all Worlds, the 10 sefirot radiate, and are the divine channels through which every level is continuously created from nothing. Since they are the attributes through which the unknowable, infinite divine essence becomes revealed to the creations, all ten emanate in each World. Nonetheless, the structure of the Four Worlds arises because in each one, certain sefirot predominate. Each World is spiritual, apart from the lower aspect of the final World, which is the <i>Asiyah Gashmi</i> ("Physical Asiyah"), the physical Universe. Each World is progressively grosser and further removed from consciousness of the Divine,<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;20&#93;</a></sup> until in this World it is possible to be unaware of or to deny God. In descending order:
+</p>
+<ol><li><b>World of Emanation</b> (<a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>: <span lang="he" dir="rtl">אֲצִילוּת</span>, <i><a href="/wiki/Atzilut" class="mw-redirect" title="Atzilut">Atzilut</a></i>): In this level the light of the Ein Sof radiates and is united with its source. Divine Chochmah, the limitless flash of wisdom beyond grasp, predominates.</li>
+<li><b>World of Creation</b> (<a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>: <span lang="he" dir="rtl">בְּרִיאָה</span>, <i><a href="/wiki/Beri%27ah" title="Beri&#39;ah">Beri'ah</a></i>): In this level, is the first <a href="/wiki/Creation_ex_nihilo" class="mw-redirect" title="Creation ex nihilo">creation ex nihilo</a>, where the souls and angels have self-awareness, but without form. Divine Binah, the intellectual understanding, predominates.</li>
+<li><b>World of Formation</b> (<a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>: <span lang="he" dir="rtl">יְצִירָה</span>, <i><a href="/wiki/Yetzirah" title="Yetzirah">Yetzirah</a></i>): On this level, creation is related to form. The Divine emotional sefirot of Chesed to Yesod predominate.</li>
+<li><b>World of Action</b> (<a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>: <span lang="he" dir="rtl">עֲשִׂיָּה</span>, <i><a href="/wiki/Assiah" title="Assiah">Assiah</a></i>): On this level creation is relegated to its physical aspect, the only physical realm and the lowest World, this realm with all its creatures. The Divine Kingship of Malchut predominates, the purpose of Creation.</li></ol>
+<p>In the Zohar and elsewhere, there are these four Worlds or planes of existence. In the Lurianic system of Kabbalah, five Worlds are counted, comprising these and a higher, fifth plane, Adam Kadmon-manifest Godhead level<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (October 2014)">clarification needed</span></a></i>&#93;</sup>, that mediates between the Ein Sof and the four lower Worlds.
+</p><p>As the four Worlds link the Infinite with this realm, they also enable the soul to ascend in devotion or mystical states, towards the Divine. Each World can be understood as descriptive of dimensional levels of intentionality related to the natural human "desire to receive", and a method for the soul's progress upward toward unity with or return to the Creator. (The terminology of this formulation is based on the exposition of Lurianic Kabbalah by the 20th century Kabbalist <a href="/wiki/Yehuda_Ashlag" title="Yehuda Ashlag">Yehuda Ashlag</a>).
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sefirot&amp;action=edit&amp;section=7" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Major_Arcana" title="Major Arcana">Major Arcana</a></li>
+<li><a href="/wiki/Qliphoth" class="mw-redirect" title="Qliphoth">Qliphoth</a></li>
+<li><a href="/wiki/The_path_of_the_flaming_sword" class="mw-redirect" title="The path of the flaming sword">The path of the flaming sword</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sefirot&amp;action=edit&amp;section=8" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sefirot&amp;action=edit&amp;section=9" title="Edit section: Notes"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r1217336898">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-lower-alpha">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">See for example the classic passage from the Zohar beginning "Elijah opened his discourse [...]" that is read every Friday afternoon to prepare for the Sabbath, in the Habad Siddur "<a href="/wiki/Tehillat_Hashem" title="Tehillat Hashem">Tehillat HaShem</a>."<sup id="cite_ref-FOOTNOTEKurzweil2011261_8-0" class="reference"><a href="#cite_note-FOOTNOTEKurzweil2011261-8">&#91;8&#93;</a></sup> </span>
+</li>
+</ol></div></div>
+<h3><span class="mw-headline" id="Citations">Citations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sefirot&amp;action=edit&amp;section=10" title="Edit section: Citations"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1217336898"><div class="reflist reflist-columns references-column-width" style="column-width: 30em;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1215172403">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a{background-size:contain}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a{background-size:contain}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a{background-size:contain}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#2C882D;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911F}html.skin-theme-clientpref-night .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-night .mw-parser-output .cs1-hidden-error{color:#f8a397}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-os .mw-parser-output .cs1-hidden-error{color:#f8a397}html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911F}}</style><cite id="CITEREFKhan2020" class="citation book cs1">Khan, Geoffrey (2020). <i>The Tiberian Pronunciation Tradition of Biblical Hebrew</i>. Vol.&#160;1. Open Book Publishers. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1783746767" title="Special:BookSources/978-1783746767"><bdi>978-1783746767</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Tiberian+Pronunciation+Tradition+of+Biblical+Hebrew&amp;rft.pub=Open+Book+Publishers&amp;rft.date=2020&amp;rft.isbn=978-1783746767&amp;rft.aulast=Khan&amp;rft.aufirst=Geoffrey&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASefirot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFTrachtenberg2004" class="citation book cs1"><a href="/wiki/Joshua_Trachtenberg" title="Joshua Trachtenberg">Trachtenberg, Joshua</a> (2004) [1939]. <a rel="nofollow" class="external text" href="https://www.sacred-texts.com/jud/jms/jms43.htm">"Glossary of Hebrew Terms"</a>. <i>Jewish Magic and Superstition</i>. Philadelphia: <a href="/wiki/University_of_Pennsylvania_Press" title="University of Pennsylvania Press">University of Pennsylvania Press</a>. p.&#160;333. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0812218626" title="Special:BookSources/978-0812218626"><bdi>978-0812218626</bdi></a> &#8211; via Sacred-texts.com. <q><i>Sefirot</i>—the ten creative attributes of God, according to the <i>Kabbalah</i>.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=Glossary+of+Hebrew+Terms&amp;rft.btitle=Jewish+Magic+and+Superstition&amp;rft.place=Philadelphia&amp;rft.pages=333&amp;rft.pub=University+of+Pennsylvania+Press&amp;rft.date=2004&amp;rft.isbn=978-0812218626&amp;rft.aulast=Trachtenberg&amp;rft.aufirst=Joshua&amp;rft_id=https%3A%2F%2Fwww.sacred-texts.com%2Fjud%2Fjms%2Fjms43.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASefirot" class="Z3988"></span></span>
+</li>
+<li id="cite_note-FOOTNOTEGinsburgh2006-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEGinsburgh2006_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEGinsburgh2006_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-FOOTNOTEGinsburgh2006_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-FOOTNOTEGinsburgh2006_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-FOOTNOTEGinsburgh2006_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-FOOTNOTEGinsburgh2006_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-FOOTNOTEGinsburgh2006_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-FOOTNOTEGinsburgh2006_3-7"><sup><i><b>h</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFGinsburgh2006">Ginsburgh (2006)</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTECohn-Sherbok20069-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTECohn-Sherbok20069_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTECohn-Sherbok20069_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFCohn-Sherbok2006">Cohn-Sherbok (2006)</a>, p.&#160;9.</span>
+</li>
+<li id="cite_note-FOOTNOTEBar-Lev199473-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEBar-Lev199473_5-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBar-Lev1994">Bar-Lev (1994)</a>, p.&#160;73.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="#CITEREFSchneerson1986">Schneerson (1986)</a>: The acronym "RADLA" for this level is identified as the origin of the Torah of Hasidus.</span>
+</li>
+<li id="cite_note-FOOTNOTEGinsburgh2007-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEGinsburgh2007_7-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFGinsburgh2007">Ginsburgh (2007)</a>.</span>
+</li>
+<li id="cite_note-FOOTNOTEKurzweil2011261-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEKurzweil2011261_8-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFKurzweil2011">Kurzweil (2011)</a>, p.&#160;261.</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">E.g. <a href="#CITEREFZalmann.d.">Zalman (n.d.)</a>, ch. 35.</span>
+</li>
+<li id="cite_note-FOOTNOTESchochet1998Chapter_on_the_sefirot-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTESchochet1998Chapter_on_the_sefirot_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTESchochet1998Chapter_on_the_sefirot_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFSchochet1998">Schochet (1998)</a>, Chapter on the sefirot.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a href="/wiki/Talmud" title="Talmud">Talmud</a> <a href="/wiki/Berakhot_(Talmud)" class="mw-redirect" title="Berakhot (Talmud)">Berachot</a> 31b and other sources in <a href="/wiki/Chazal" title="Chazal">Chazal</a></span>
+</li>
+<li id="cite_note-FOOTNOTESchochet1998ch._1,_&quot;Anthropomorphism_and_Metaphors&quot;-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTESchochet1998ch._1,_&quot;Anthropomorphism_and_Metaphors&quot;_13-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFSchochet1998">Schochet (1998)</a>, ch. 1, "Anthropomorphism and Metaphors".</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a href="/wiki/Book_of_Job" title="Book of Job">Job</a> 19:26</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a href="/wiki/Talmud" title="Talmud">Talmud</a> <a href="/wiki/Berakhot_(Talmud)" class="mw-redirect" title="Berakhot (Talmud)">Berachot</a> 10a, Midrash Tehillim 103:4,5, Tikunei Zohar 13:28a and later Kabbalistic commentary. Cited in footnote 7, chapter 1, <i>Mystical Concepts in Chassidism</i></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090202030707/http://www.inner.org/chassidut/chassidut.htm">Overview of Chassidut</a> from www.inner.org. Retrieved 1 November 2009</span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090315081622/http://inner.org/sefirot/sefirot.htm">The Ten Sefirot-Introduction</a> from www.inner.org. Retrieved 1 November 2009</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090327040646/http://inner.org/glossary/gloss_s.htm#Soul">"Sefirah" in Glossary of  Kabbalah and Chassidut</a> at www.inner.org. Retrieved 1 November 2009</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090301101904/http://inner.org/powers/powers.htm">The Powers of the Soul explained</a> at www.inner.org. Retrieved 1 November 2009</span>
+</li>
+<li id="cite_note-FOOTNOTEMillern.d.-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEMillern.d._20-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFMillern.d.">Miller (n.d.)</a>.</span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.neohasid.org/pdf/flowchart%20haggadah%202018N.pdf">"Neohasid.org's Tu Bish'vat Haggadah"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-12-07</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Neohasid.org%27s+Tu+Bish%27vat+Haggadah&amp;rft_id=http%3A%2F%2Fwww.neohasid.org%2Fpdf%2Fflowchart%2520haggadah%25202018N.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASefirot" class="Z3988"></span></span>
+</li>
+</ol></div>
+<h3><span class="mw-headline" id="Works_cited">Works cited</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sefirot&amp;action=edit&amp;section=11" title="Edit section: Works cited"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFBar-Lev1994" class="citation book cs1">Bar-Lev, Yechiel (1994). <i>Song of the Soul: Introduction to Kabbalah</i>. Bar-Lev.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Song+of+the+Soul%3A+Introduction+to+Kabbalah&amp;rft.pub=Bar-Lev&amp;rft.date=1994&amp;rft.aulast=Bar-Lev&amp;rft.aufirst=Yechiel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASefirot" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFCohn-Sherbok2006" class="citation book cs1">Cohn-Sherbok, Dan (2006). <i>Kabbalah and Jewish Mysticism: An Introductory Anthology</i>. Oxford: Oneworld Publications. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-85168-454-0" title="Special:BookSources/978-1-85168-454-0"><bdi>978-1-85168-454-0</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Kabbalah+and+Jewish+Mysticism%3A+An+Introductory+Anthology&amp;rft.place=Oxford&amp;rft.pub=Oneworld+Publications&amp;rft.date=2006&amp;rft.isbn=978-1-85168-454-0&amp;rft.aulast=Cohn-Sherbok&amp;rft.aufirst=Dan&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASefirot" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFGinsburgh2006" class="citation book cs1">Ginsburgh, Rabbi Yitzchak (2006). Genuth, Moshe (ed.). <i>What You Need to Know about Kabbalah</i>. Jerusalem: Gal Einai Institute. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/965-7146-119" title="Special:BookSources/965-7146-119"><bdi>965-7146-119</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=What+You+Need+to+Know+about+Kabbalah&amp;rft.place=Jerusalem&amp;rft.pub=Gal+Einai+Institute&amp;rft.date=2006&amp;rft.isbn=965-7146-119&amp;rft.aulast=Ginsburgh&amp;rft.aufirst=Rabbi+Yitzchak&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASefirot" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFGinsburgh2007" class="citation book cs1">Ginsburgh, Rabbi Yitzchak (2007). <i>Kabbalah and Meditation for the Nations</i>. Canada and Israel: Gal Einai. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-965-7146-125" title="Special:BookSources/978-965-7146-125"><bdi>978-965-7146-125</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Kabbalah+and+Meditation+for+the+Nations&amp;rft.place=Canada+and+Israel&amp;rft.pub=Gal+Einai&amp;rft.date=2007&amp;rft.isbn=978-965-7146-125&amp;rft.aulast=Ginsburgh&amp;rft.aufirst=Rabbi+Yitzchak&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASefirot" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFKurzweil2011" class="citation book cs1">Kurzweil, A. (2011). <i>Kabbalah For Dummies</i>. Wiley. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-118-06862-5" title="Special:BookSources/978-1-118-06862-5"><bdi>978-1-118-06862-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Kabbalah+For+Dummies&amp;rft.pub=Wiley&amp;rft.date=2011&amp;rft.isbn=978-1-118-06862-5&amp;rft.aulast=Kurzweil&amp;rft.aufirst=A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASefirot" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFMillern.d." class="citation web cs1">Miller, Moshe (n.d.). <a rel="nofollow" class="external text" href="https://www.chabad.org/kabbalah/article_cdo/aid/380812/jewish/Emanations-Interact.htm">"Emanations Interact: The sefirot are understood in the shape of the human form"</a>. <i>Chabad.org</i>. Kabbalah Online.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Chabad.org&amp;rft.atitle=Emanations+Interact%3A+The+sefirot+are+understood+in+the+shape+of+the+human+form&amp;rft.aulast=Miller&amp;rft.aufirst=Moshe&amp;rft_id=https%3A%2F%2Fwww.chabad.org%2Fkabbalah%2Farticle_cdo%2Faid%2F380812%2Fjewish%2FEmanations-Interact.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASefirot" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFSchneerson1986" class="citation book cs1"><a href="/wiki/Menachem_Mendel_Schneerson" title="Menachem Mendel Schneerson">Schneerson, Menachem Mendel</a> (1986). <i>On the Essence of Chassidus</i>. Translated by Y. Greenberg; S. S. Handelman. Kehot Publication Society. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0-8266-0470-5" title="Special:BookSources/978-0-8266-0470-5"><bdi>978-0-8266-0470-5</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=On+the+Essence+of+Chassidus&amp;rft.pub=Kehot+Publication+Society&amp;rft.date=1986&amp;rft.isbn=978-0-8266-0470-5&amp;rft.aulast=Schneerson&amp;rft.aufirst=Menachem+Mendel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASefirot" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFSchochet1998" class="citation book cs1"><a href="/wiki/Jacob_Immanuel_Schochet" title="Jacob Immanuel Schochet">Schochet, Jacob Immanuel</a> (1998). <i>Mystical Concepts in Chassidism: An Introduction to Kabbalistic Concepts and Doctrines</i> (3rd&#160;ed.). Kehot. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8266-0412-9" title="Special:BookSources/0-8266-0412-9"><bdi>0-8266-0412-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Mystical+Concepts+in+Chassidism%3A+An+Introduction+to+Kabbalistic+Concepts+and+Doctrines&amp;rft.edition=3rd&amp;rft.pub=Kehot&amp;rft.date=1998&amp;rft.isbn=0-8266-0412-9&amp;rft.aulast=Schochet&amp;rft.aufirst=Jacob+Immanuel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASefirot" class="Z3988"></span></li>
+<li><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFZalmann.d." class="citation book cs1">Zalman, HaRav Shneur (n.d.). Mindel, Rabbi Nissan; Schochet, Rabbi Ya'acov Immanuel (eds.). <i><a href="/wiki/Tanya_(Judaism)" title="Tanya (Judaism)">Tanya: Likutei Amarim: Sefer Shel Benonim</a></i> &#91;<i>It Was Taught: Collected Sayings: Book of Intermediates</i>&#93; (Bi-Lingual Hebrew-English&#160;ed.). Kehot Publishing.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Tanya%3A+Likutei+Amarim%3A+Sefer+Shel+Benonim&amp;rft.edition=Bi-Lingual+Hebrew-English&amp;rft.pub=Kehot+Publishing&amp;rft.aulast=Zalman&amp;rft.aufirst=HaRav+Shneur&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASefirot" class="Z3988"></span></li></ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sefirot&amp;action=edit&amp;section=12" title="Edit section: Further reading"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Early texts:
+</p>
+<ul><li><i>The Sefer Yetzirah the book of creation: In theory and practice</i>, translated and explained by <a href="/wiki/Aryeh_Kaplan" title="Aryeh Kaplan">Aryeh Kaplan</a> (1997). <a href="/wiki/Samuel_Weiser,_Inc." class="mw-redirect" title="Samuel Weiser, Inc.">Samuel Weiser, Inc.</a> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-87728-855-0" title="Special:BookSources/0-87728-855-0">0-87728-855-0</a>)</li>
+<li><i>The Bahir</i>, translated by <a href="/wiki/Aryeh_Kaplan" title="Aryeh Kaplan">Aryeh Kaplan</a> (1995). Aronson. (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56821-383-2" title="Special:BookSources/1-56821-383-2">1-56821-383-2</a>)</li></ul>
+<p>Modern guides:
+</p>
+<ul><li><i>The Mystical Qabalah</i>, <a href="/wiki/Dion_Fortune" title="Dion Fortune">Dion Fortune</a> (Originally published: London, Williams &amp; Norgate 1935; Revised edition published in 2000 by <a href="/wiki/Red_Wheel_Weiser_Conari" class="mw-redirect" title="Red Wheel Weiser Conari">Red Wheel/Weiser, LLC</a>) (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-57863-150-5" title="Special:BookSources/1-57863-150-5">1-57863-150-5</a>)</li>
+<li><i>Qabalistic Concepts: Living the Tree</i>, William G Gray (1997). <a href="/wiki/Samuel_Weiser,_Inc." class="mw-redirect" title="Samuel Weiser, Inc.">Samuel Weiser, Inc.</a> (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-57863-000-2" title="Special:BookSources/1-57863-000-2">1-57863-000-2</a>)</li>
+<li><i>The Decad of Creation</i> by Aaron Leitch (Journal of the Western Mystery Tradition, <a rel="nofollow" class="external free" href="http://www.jwmt.org/v2n13/doc.html">http://www.jwmt.org/v2n13/doc.html</a>)</li></ul>
+<p>Academic study:
+</p>
+<ul><li><i>On The Kabbalah and its Symbolism</i>, <a href="/wiki/Gershom_Scholem" title="Gershom Scholem">Gershom Scholem</a> (1996). Schocken. (<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-8052-1051-2" title="Special:BookSources/0-8052-1051-2">0-8052-1051-2</a>)</li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sefirot&amp;action=edit&amp;section=13" title="Edit section: External links"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.inner.org/sefirot/sefirot.htm">The Ten Sefirot: Introduction</a></li>
+<li><a rel="nofollow" class="external text" href="http://people.ucalgary.ca/~elsegal/Sefirot/Sefirot.html">Diagram of 10 Sefirot and Attributes</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.psyche.com/psyche/qbl/comparative_sephirot.html">Sefirotic Systems in the Sefer Yetsira, Bahir and Post-Zohar Kabbalah</a></li>
+<li><a rel="nofollow" class="external text" href="https://curlie.org/Society/Religion_and_Spirituality/Judaism/Mysticism">Kabbalah</a> at <a href="/wiki/Curlie" class="mw-redirect" title="Curlie">Curlie</a></li></ul>
+<div class="navbox-styles"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><style data-mw-deduplicate="TemplateStyles:r1061467846">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox-title{background-color:#ccf}.mw-parser-output .navbox-abovebelow,.mw-parser-output .navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Jews_and_Judaism" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1129693374"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1063604349"><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Jews_and_Judaism" title="Template:Jews and Judaism"><abbr title="View this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Jews_and_Judaism" title="Template talk:Jews and Judaism"><abbr title="Discuss this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a href="/wiki/Special:EditPage/Template:Jews_and_Judaism" title="Special:EditPage/Template:Jews and Judaism"><abbr title="Edit this template" style=";;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Jews_and_Judaism" style="font-size:114%;margin:0 4em"><a href="/wiki/Jews" title="Jews">Jews</a> and <a href="/wiki/Judaism" title="Judaism">Judaism</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="/wiki/Outline_of_Judaism" title="Outline of Judaism">Outline of Judaism</a></li>
+<li><a href="/wiki/Index_of_Jewish_history-related_articles" class="mw-redirect" title="Index of Jewish history-related articles">Index of Jewish history-related articles</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jewish_history" title="Jewish history">History</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Timeline_of_Jewish_history" title="Timeline of Jewish history">Timeline</a></li>
+<li><a href="/wiki/Israelites" title="Israelites">Israelites</a></li>
+<li><a href="/wiki/Origins_of_Judaism" title="Origins of Judaism">Origins of Judaism</a></li>
+<li><a href="/wiki/History_of_ancient_Israel_and_Judah" title="History of ancient Israel and Judah">Ancient Israel and Judah</a></li>
+<li><a href="/wiki/Second_Temple_period" title="Second Temple period">Second Temple period</a></li>
+<li><a href="/wiki/Synagogal_Judaism" title="Synagogal Judaism">Synagogal Judaism</a></li>
+<li><a href="/wiki/Rabbinic_Judaism" title="Rabbinic Judaism">Rabbinic Judaism</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_the_Middle_Ages" class="mw-redirect" title="History of the Jews in the Middle Ages">Middle Ages</a></li>
+<li><a href="/wiki/Zionism" title="Zionism">Zionism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jewish_population_by_country" title="Jewish population by country">Population</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Jewish_assimilation" title="Jewish assimilation">Assimilation</a></li>
+<li><a href="/wiki/Jewish_atheism" title="Jewish atheism">Atheists</a></li>
+<li><a href="/wiki/Jewish_Buddhist" title="Jewish Buddhist">Buddhists</a></li>
+<li><a href="/wiki/Israeli_Jews" title="Israeli Jews">Israeli Jews</a></li>
+<li><a href="/wiki/Karaite_Judaism" title="Karaite Judaism">Karaites</a></li>
+<li><a href="/wiki/Samaritans" title="Samaritans">Samaritans</a></li>
+<li><a href="/wiki/Lists_of_Jews" title="Lists of Jews">Lists of Jews</a></li>
+<li><a href="/wiki/Persecution_of_Jews" title="Persecution of Jews">Persecution</a>
+<ul><li><a href="/wiki/Antisemitism" title="Antisemitism">Antisemitism</a></li></ul></li>
+<li><a href="/wiki/Xueta_Christianity" title="Xueta Christianity">Xueta Christianity</a></li>
+<li><a href="/wiki/Zionism,_race_and_genetics" class="mw-redirect" title="Zionism, race and genetics">Zionism, race and genetics</a></li></ul>
+ </div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Diaspora" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jewish_diaspora" title="Jewish diaspora">Diaspora</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Ashkenazi_Jews" title="Ashkenazi Jews">Ashkenazim</a>
+<ul><li><a href="/wiki/Afrikaner-Jews" title="Afrikaner-Jews">Afrikaner-Jode</a></li>
+<li><a href="/wiki/Chuts" title="Chuts">Chuts</a></li>
+<li><a href="/wiki/Galician_Jews" title="Galician Jews">Galitzianers</a></li>
+<li><a href="/wiki/Litvaks" title="Litvaks">Lita'im</a></li>
+<li><a href="/wiki/Oberlander_Jews" title="Oberlander Jews">Oberlander Jews</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Udmurtia_and_Tatarstan" title="History of the Jews in Udmurtia and Tatarstan">Udmurt and Tatar Jews</a></li>
+<li><a href="/wiki/Unterlander_Jews" title="Unterlander Jews">Unterlander Jews</a></li>
+<li><a href="/wiki/Yekke" title="Yekke">Yekkes</a></li></ul></li>
+<li><a href="/wiki/Beta_Israel" title="Beta Israel">Beta Israel</a>
+<ul><li><a href="/wiki/Beta_Abraham" title="Beta Abraham">Beta Abraham</a></li>
+<li><a href="/wiki/Falash_Mura" title="Falash Mura">Falash Mura</a></li></ul></li>
+<li><a href="/wiki/Desi_Jews" title="Desi Jews">Desi Jews</a>
+<ul><li><a href="/wiki/Bene_Israel" title="Bene Israel">Bene Israel</a></li>
+<li><a href="/wiki/Cochin_Jews" title="Cochin Jews">Kochinim</a></li></ul></li>
+<li><a href="/wiki/D%C3%B6nmeh" title="Dönmeh">Dönmeh</a></li>
+<li><a href="/wiki/Georgian_Jews" title="Georgian Jews">Gruzínim</a></li>
+<li><a href="/wiki/Italian_Jews" title="Italian Jews">Italkim</a>
+<ul><li><a href="/wiki/Neofiti" title="Neofiti">Neofiti</a></li></ul></li>
+<li><a href="/wiki/Kaifeng_Jews" title="Kaifeng Jews">Kaifeng Jews</a></li>
+<li><a href="/wiki/Karaite_Judaism" title="Karaite Judaism">Karaites</a>
+<ul><li><a href="/wiki/Constantinopolitan_Karaites" title="Constantinopolitan Karaites">Constantinopolitan Karaites</a></li>
+<li><a href="/wiki/Crimean_Karaites" title="Crimean Karaites">Crimean Karaites</a></li></ul></li>
+<li><a href="/wiki/History_of_the_Jews_in_Kurdistan" title="History of the Jews in Kurdistan">Kurdish Jews</a></li>
+<li><a href="/wiki/Krymchaks" title="Krymchaks">Krymchaks</a></li>
+<li><a href="/wiki/Lemba_people" title="Lemba people">Lemba</a></li>
+<li><a href="/wiki/Maghrebi_Jews" title="Maghrebi Jews">Maghrebi</a>
+<ul><li><a href="/wiki/Berber_Jews" title="Berber Jews">Berber Jews</a></li></ul></li>
+<li><a href="/wiki/Mizrahi_Jews" title="Mizrahi Jews">Mizrahi</a>
+<ul><li><a href="/wiki/History_of_the_Jews_in_Afghanistan" title="History of the Jews in Afghanistan">Afghan Jews</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Alexandria" title="History of the Jews in Alexandria">Alexandrian Jews</a></li>
+<li><a href="/wiki/Baghdadi_Jews" title="Baghdadi Jews">Baghdadi</a></li>
+<li><a href="/wiki/Bukharan_Jews" title="Bukharan Jews">Bukharan Jews</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Egypt" title="History of the Jews in Egypt">Egyptian Jews</a></li>
+<li><a href="/wiki/Mountain_Jews" title="Mountain Jews">Mountain Jews</a></li>
+<li><a href="/wiki/Palestinian_Jews" title="Palestinian Jews">Palestinian Jews</a></li>
+<li><a href="/wiki/Persian_Jews" title="Persian Jews">Persian Jews</a></li>
+<li><a href="/wiki/Urfalim" title="Urfalim">Urfalim</a></li>
+<li><a href="/wiki/Yemenite_Jews" title="Yemenite Jews">Teimanim</a>
+<ul><li><a href="/wiki/Adeni_Jews" title="Adeni Jews">Adeni Jews</a></li>
+<li><a href="/wiki/Habbani_Jews" title="Habbani Jews">Ḥabbanim</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Hadramaut" title="History of the Jews in Hadramaut">Hadhrami Jews</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Saada" title="History of the Jews in Saada">Saada Jews</a></li></ul></li></ul></li>
+<li><a href="/wiki/Musta%27arabi_Jews" title="Musta&#39;arabi Jews">Mustaʿravim</a>
+<ul><li><a href="/wiki/Jewish_tribes_of_Arabia" title="Jewish tribes of Arabia">Jewish tribes of Arabia</a></li></ul></li>
+<li><a href="/wiki/Romaniote_Jews" title="Romaniote Jews">Romaniote</a></li>
+<li><a href="/wiki/Sephardic_Jews" title="Sephardic Jews">Sephardim</a>
+<ul><li><a href="/wiki/Spanish_and_Portuguese_Jews" title="Spanish and Portuguese Jews">Eastern Sephardim</a></li>
+<li><a href="/wiki/History_of_the_Jews_in_Livorno" title="History of the Jews in Livorno">Livornese Jews</a></li>
+<li><a href="/wiki/North_African_Sephardim" title="North African Sephardim">North African Sephardim</a></li>
+<li><a href="/wiki/Paradesi_Jews" title="Paradesi Jews">Paradesi</a>
+<ul><li><a href="/wiki/Meshuchrarim" title="Meshuchrarim">Meshuchrarim</a></li></ul></li>
+<li><a href="/wiki/Sephardic_Bnei_Anusim" title="Sephardic Bnei Anusim">Sephardic Bnei Anusim</a>
+<ul><li><a href="/wiki/Xueta" title="Xueta">Xuetes</a></li></ul></li></ul></li></ul>
+</div></td></tr></tbody></table><div>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jewish_languages" title="Jewish languages">Languages</a><br />(<a href="/wiki/List_of_Jewish_diaspora_languages" title="List of Jewish diaspora languages">Diasporic</a>)</th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Hebrew_language" title="Hebrew language">Hebrew</a>
+<ul><li><a href="/wiki/Modern_Hebrew" title="Modern Hebrew">Modern</a></li>
+<li><a href="/wiki/Ashkenazi_Hebrew" title="Ashkenazi Hebrew">Ashkenazi</a></li>
+<li><a href="/wiki/Sephardi_Hebrew" title="Sephardi Hebrew">Sephardi</a></li>
+<li><a href="/wiki/Mizrahi_Hebrew" title="Mizrahi Hebrew">Mizrahi</a></li>
+<li><a href="/wiki/Yemenite_Hebrew" title="Yemenite Hebrew">Yemenite</a></li>
+<li><a href="/wiki/Tiberian_Hebrew" title="Tiberian Hebrew">Tiberian</a></li>
+<li><a href="/wiki/Samaritan_Hebrew" title="Samaritan Hebrew">Samaritan</a></li>
+<li><a href="/wiki/Manually_coded_language#List_of_signed_languages" title="Manually coded language">Signed</a></li>
+<li><a href="/wiki/Medieval_Hebrew" title="Medieval Hebrew">Medieval</a></li>
+<li><a href="/wiki/Mishnaic_Hebrew" title="Mishnaic Hebrew">Mishnaic</a></li>
+<li><a href="/wiki/Biblical_Hebrew" title="Biblical Hebrew">Biblical</a></li>
+<li><a href="/wiki/Babylonian_vocalization" title="Babylonian vocalization">Babylonian</a></li>
+<li><a href="/wiki/Palestinian_vocalization" title="Palestinian vocalization">Palestinian</a></li></ul></li>
+<li><a href="/wiki/Judaeo-Catalan" title="Judaeo-Catalan">Catalanic</a></li>
+<li><a href="/wiki/Judeo-Berber_language" title="Judeo-Berber language">Judeo-Amazigh</a></li>
+<li><a href="/wiki/Judeo-Arabic_languages" class="mw-redirect" title="Judeo-Arabic languages">Judeo-Arabic</a>
+<ul><li><a href="/wiki/Judeo-Iraqi_Arabic" title="Judeo-Iraqi Arabic">Yahudic</a>
+<ul><li><a href="/wiki/Baghdad_Jewish_Arabic" title="Baghdad Jewish Arabic">Judeo-Baghdadi</a></li></ul></li>
+<li><a href="/wiki/Judeo-Moroccan_Arabic" title="Judeo-Moroccan Arabic">Judeo-Moroccan</a></li>
+<li><a href="/wiki/Judeo-Tripolitanian_Arabic" title="Judeo-Tripolitanian Arabic">Judeo-Tripolitanian</a></li>
+<li><a href="/wiki/Judeo-Tunisian_Arabic" title="Judeo-Tunisian Arabic">Judeo-Tunisian</a></li>
+<li><a href="/wiki/Judeo-Yemeni_Arabic" title="Judeo-Yemeni Arabic">Judeo-Yemeni</a></li></ul></li>
+<li><a href="/wiki/Judeo-Aramaic_languages" title="Judeo-Aramaic languages">Judaeo-Aramaic</a>
+<ul><li><a href="/wiki/Targum_(Aramaic_dialects)" title="Targum (Aramaic dialects)">Targum</a></li>
+<li><a href="/wiki/Jewish_Neo-Aramaic_dialect_of_Barzani" title="Jewish Neo-Aramaic dialect of Barzani">Barzani</a></li>
+<li><a href="/wiki/Jewish_Neo-Aramaic_dialect_of_Betanure" title="Jewish Neo-Aramaic dialect of Betanure">Betanure</a></li>
+<li><a href="/wiki/Trans-Zab_Jewish_Neo-Aramaic" title="Trans-Zab Jewish Neo-Aramaic">Hulaulá</a></li>
+<li><a href="/wiki/Jewish_Neo-Aramaic_dialect_of_Zakho" title="Jewish Neo-Aramaic dialect of Zakho">Lishana Deni</a></li>
+<li><a href="/wiki/Jewish_Neo-Aramaic_dialect_of_Urmia" title="Jewish Neo-Aramaic dialect of Urmia">Lishán Didán</a></li>
+<li><a href="/wiki/Inter-Zab_Jewish_Neo-Aramaic" title="Inter-Zab Jewish Neo-Aramaic">Lishanid Noshan</a></li>
+<li><a href="/wiki/Biblical_Aramaic" title="Biblical Aramaic">Biblical</a></li>
+<li><a href="/wiki/Jewish_Babylonian_Aramaic" title="Jewish Babylonian Aramaic">Talmudic</a></li>
+<li><a href="/wiki/Jewish_Palestinian_Aramaic" title="Jewish Palestinian Aramaic">Palestinian</a>
+<ul><li><a href="/wiki/Galilean_dialect" title="Galilean dialect">Galilean</a></li></ul></li></ul></li>
+<li><a href="/wiki/Judaeo-Aragonese" title="Judaeo-Aragonese">Judeo-Aragonese</a></li>
+<li><a href="/wiki/Jewish_English_varieties" title="Jewish English varieties">Jewish English</a>
+<ul><li><a href="/wiki/Yeshivish" title="Yeshivish">Yeshivish</a></li>
+<li><a href="/wiki/Yinglish" class="mw-redirect" title="Yinglish">Yinglish</a></li>
+<li><a href="/wiki/Heblish" class="mw-redirect" title="Heblish">Heblish</a></li></ul></li>
+<li><a href="/wiki/Judeo-Gascon" title="Judeo-Gascon">Judeo-Gascon</a></li>
+<li><a href="/wiki/Yevanic_language" title="Yevanic language">Judaeo-Greek</a></li>
+<li><a href="/wiki/Judeo-Italian_languages" title="Judeo-Italian languages">Judeo-Italian</a>
+<ul><li><a href="/wiki/Judaeo-Piedmontese" title="Judaeo-Piedmontese">Judaeo-Piedmontese</a></li></ul></li>
+<li><a href="/wiki/Judeo-Latin" title="Judeo-Latin">Judeo-Latin</a></li>
+<li><a href="/wiki/Judeo-Malayalam" title="Judeo-Malayalam">Judeo-Malayalam</a></li>
+<li><a href="/wiki/Judeo-Marathi" title="Judeo-Marathi">Judeo-Marathi</a></li>
+<li><a href="/wiki/Judeo-Proven%C3%A7al" title="Judeo-Provençal">Judaeo-Occitan</a></li>
+<li><a href="/wiki/Judeo-Persian" title="Judeo-Persian">Judeo-Persian</a>
+<ul><li><a href="/wiki/Bukharian_(Judeo-Tajik_dialect)" title="Bukharian (Judeo-Tajik dialect)">Bukhori</a></li>
+<li><a href="/wiki/Judeo-Borujerdi" class="mw-redirect" title="Judeo-Borujerdi">Judeo-Borujerdi</a></li>
+<li><a href="/wiki/Judeo-Golpaygani" title="Judeo-Golpaygani">Judeo-Golpaygani</a></li>
+<li><a href="/wiki/Judeo-Hamedani" class="mw-redirect" title="Judeo-Hamedani">Judeo-Hamedani</a></li>
+<li><a href="/wiki/Judeo-Shirazi" title="Judeo-Shirazi">Judeo-Shirazi</a></li>
+<li><a href="/wiki/Judeo-Tat" title="Judeo-Tat">Juhuri</a></li></ul></li>
+<li><a href="/wiki/Judaeo-Portuguese" title="Judaeo-Portuguese">Judaeo-Portuguese</a></li>
+<li><a href="/wiki/Judeo-Urdu" title="Judeo-Urdu">Judeo-Urdu</a></li>
+<li><a href="/wiki/Karaim_language" title="Karaim language">Karaim</a></li>
+<li><a href="/wiki/Kayla_dialect" title="Kayla dialect">Kayliñña</a></li>
+<li><a href="/wiki/Judaeo-Georgian" title="Judaeo-Georgian">Kivruli</a></li>
+<li><a href="/wiki/Knaanic_language" title="Knaanic language">Knaanic</a></li>
+<li><a href="/wiki/Jewish_Koine_Greek" title="Jewish Koine Greek">Koiné Greek</a></li>
+<li><a href="/wiki/Krymchak_language" title="Krymchak language">Krymchak</a></li>
+<li><a href="/wiki/Lachoudisch" title="Lachoudisch">Lachoudisch</a></li>
+<li><a href="/wiki/Judaeo-Spanish" title="Judaeo-Spanish">Ladino</a>
+<ul><li><a href="/wiki/Haketia" title="Haketia">Haketia</a></li>
+<li><a href="/wiki/Tetuani_Ladino" title="Tetuani Ladino">Tetuani</a></li></ul></li>
+<li><a href="/wiki/Lotegorisch" title="Lotegorisch">Lotegorisch</a></li>
+<li><a href="/wiki/Qwara_dialect" title="Qwara dialect">Qwareña</a></li>
+<li><a href="/wiki/Algerian_Jewish_Sign_Language" title="Algerian Jewish Sign Language">Shassagh</a></li>
+<li><a href="/wiki/Israeli_Sign_Language" title="Israeli Sign Language">Shassi</a></li>
+<li><a href="/wiki/Judeo-Proven%C3%A7al" title="Judeo-Provençal">Shuadit</a></li>
+<li><a href="/wiki/Yiddish" title="Yiddish">Yiddish</a>
+<ul><li><a href="/wiki/Yiddish_dialects" title="Yiddish dialects">dialects</a>
+<ul><li><a href="/wiki/Eastern_Yiddish" class="mw-redirect" title="Eastern Yiddish">Eastern</a>
+<ul><li><a href="/wiki/Galitzish" class="mw-redirect" title="Galitzish">Galitzish</a></li>
+<li><a href="/wiki/Lithuanian_Yiddish" class="mw-redirect" title="Lithuanian Yiddish">Litvish</a></li>
+<li><a href="/wiki/Poylish" class="mw-redirect" title="Poylish">Poylish</a></li>
+<li><i><a href="/wiki/Klezmer-loshn" title="Klezmer-loshn">Klezmer-loshn</a></i></li></ul></li>
+<li><a href="/wiki/Western_Yiddish" class="mw-redirect" title="Western Yiddish">Western</a>
+<ul><li><a href="/wiki/Judeo-Alsatian" class="mw-redirect" title="Judeo-Alsatian">Judeo-Alsatian</a></li>
+<li><i><a href="/wiki/Lachoudisch" title="Lachoudisch">Lachoudisch</a></i></li></ul></li>
+<li><a href="/wiki/Scots-Yiddish" class="mw-redirect" title="Scots-Yiddish">Scots-Yiddish</a></li></ul></li></ul></li>
+<li><a href="/wiki/Zarphatic_language" title="Zarphatic language">Zarphatic</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jewish_philosophy" title="Jewish philosophy">Philosophy</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Jewish_principles_of_faith" title="Jewish principles of faith">Beliefs</a>
+<ul><li><a href="/wiki/Mitzvah" title="Mitzvah">Mitzvah</a></li></ul></li>
+<li><a href="/wiki/Rabbinic_authority" title="Rabbinic authority">Rabbinic authority</a></li>
+<li><a href="/wiki/Jews_as_the_chosen_people" title="Jews as the chosen people">Chosen people</a></li>
+<li><a href="/wiki/Conversion_to_Judaism" title="Conversion to Judaism">Conversion</a></li>
+<li><a href="/wiki/Jewish_eschatology" title="Jewish eschatology">Eschatology</a>
+<ul><li><a href="/wiki/Messiah_in_Judaism" title="Messiah in Judaism">Messiah</a></li></ul></li>
+<li><a href="/wiki/Jewish_ethics" title="Jewish ethics">Ethics</a></li>
+<li><a href="/wiki/Holiness_in_Judaism" title="Holiness in Judaism">Holiness</a></li>
+<li><a href="/wiki/God_in_Judaism" title="God in Judaism">God</a>
+<ul><li><a href="/wiki/Names_of_God_in_Judaism" title="Names of God in Judaism">Names of God</a></li></ul></li>
+<li><a href="/wiki/Halakha" title="Halakha">Halakha</a></li>
+<li><a href="/wiki/Haskalah" title="Haskalah">Haskalah</a></li>
+<li><a href="/wiki/Kabbalah" title="Kabbalah">Kabbalah</a>
+<ul><li><a class="mw-selflink selflink">Sefirot</a></li></ul></li>
+<li><a href="/wiki/Land_of_Israel" title="Land of Israel">Land of Israel</a></li>
+<li><a href="/wiki/Who_is_a_Jew%3F" title="Who is a Jew?">Who is a Jew?</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Branches_of_Judaism" class="mw-redirect" title="Branches of Judaism">Branches</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Jewish_religious_movements" title="Jewish religious movements">Religious movements</a>
+<ul><li><a href="/wiki/Orthodox_Judaism" title="Orthodox Judaism">Orthodox</a>
+<ul><li><a href="/wiki/Haredi_Judaism" title="Haredi Judaism">Haredi</a>
+<ul><li><a href="/wiki/Hasidic_Judaism" title="Hasidic Judaism">Hasidic</a></li>
+<li><a href="/wiki/Litvishe" class="mw-redirect" title="Litvishe">Litvaks</a></li></ul></li>
+<li><a href="/wiki/Modern_Orthodox_Judaism" title="Modern Orthodox Judaism">Modern</a></li></ul></li>
+<li><a href="/wiki/Conservative_Judaism" title="Conservative Judaism">Conservative</a></li>
+<li><a href="/wiki/Reform_Judaism" title="Reform Judaism">Reform</a></li>
+<li><a href="/wiki/Reconstructionist_Judaism" title="Reconstructionist Judaism">Reconstructionist</a></li>
+<li><a href="/wiki/Humanistic_Judaism" title="Humanistic Judaism">Humanistic</a></li>
+<li><a href="/wiki/Neo-Hasidism" title="Neo-Hasidism">Neo-Hasidism</a>
+<ul><li><a href="/wiki/Jewish_Renewal" title="Jewish Renewal">Renewal</a></li></ul></li>
+<li><a href="/wiki/Neolog_Judaism" title="Neolog Judaism">Neolog</a></li>
+<li><a href="/wiki/Relationships_between_Jewish_religious_movements" title="Relationships between Jewish religious movements">relations</a></li></ul></li>
+<li><a href="/wiki/Haymanot" title="Haymanot">Haymanot</a></li>
+<li><a href="/wiki/Hellenistic_Judaism" title="Hellenistic Judaism">Hellenistic</a></li>
+<li><a href="/wiki/Karaite_Judaism" title="Karaite Judaism">Karaite</a></li>
+<li><a href="/wiki/Samaritanism" title="Samaritanism">Samaritanism</a></li>
+<li><a href="/wiki/Jewish_Science" title="Jewish Science">Science</a></li>
+<li><a href="/wiki/Jewish_secularism" title="Jewish secularism">Secularism</a></li>
+<li><a href="/wiki/Jewish_schisms" title="Jewish schisms">Schisms</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jewish_literature" title="Jewish literature">Literature</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Sifrei_Kodesh" title="Sifrei Kodesh">Sifrei Kodesh</a></li>
+<li><a href="/wiki/Hebrew_Bible" title="Hebrew Bible">Tanakh</a>/Hebrew <a href="/wiki/Bible" title="Bible">Bible</a>
+<ul><li><a href="/wiki/Torah" title="Torah">Torah</a></li>
+<li><a href="/wiki/Nevi%27im" title="Nevi&#39;im">Nevi'im</a></li>
+<li><a href="/wiki/Ketuvim" title="Ketuvim">Ketuvim</a></li></ul></li>
+<li><a href="/wiki/Rabbinic_literature" title="Rabbinic literature">Rabbinic</a>
+<ul><li><a href="/wiki/Mishnah" title="Mishnah">Mishnah</a></li>
+<li><a href="/wiki/Talmud" title="Talmud">Talmud</a></li>
+<li><a href="/wiki/Tosefta" title="Tosefta">Tosefta</a></li>
+<li><a href="/wiki/Midrash" title="Midrash">Midrash</a></li></ul></li>
+<li><a href="/wiki/Primary_texts_of_Kabbalah" title="Primary texts of Kabbalah">Kabbalah texts</a>
+<ul><li><a href="/wiki/Hekhalot_literature" title="Hekhalot literature">Hekhalot literature</a></li>
+<li><a href="/wiki/Pardes_Rimonim" title="Pardes Rimonim">Pardes Rimonim</a></li>
+<li><a href="/wiki/Sefer_HaBahir" class="mw-redirect" title="Sefer HaBahir">Sefer HaBahir</a></li>
+<li><a href="/wiki/Etz_Chaim_(book)" title="Etz Chaim (book)">Sefer HaEtz Chaim</a></li>
+<li><a href="/wiki/Sefer_Raziel_HaMalakh" title="Sefer Raziel HaMalakh">Sefer Raziel HaMalakh</a></li>
+<li><a href="/wiki/Sefer_Yetzirah" title="Sefer Yetzirah">Sefer Yetzirah</a></li>
+<li><a href="/wiki/Zohar" title="Zohar">Zohar</a></li></ul></li>
+<li><a href="/wiki/Shulchan_Aruch" title="Shulchan Aruch">Shulchan Aruch</a></li>
+<li><a href="/wiki/Siddur" title="Siddur">Siddur</a></li>
+<li><a href="/wiki/Hebrew_literature" title="Hebrew literature">Hebrew literature</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jewish_culture" title="Jewish culture">Culture</a></th><td class="navbox-list-with-group navbox-list navbox-even" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Jewish_astrology" title="Jewish astrology">Astrology</a>
+<ul><li><a href="/wiki/Jewish_views_on_astrology" title="Jewish views on astrology">perspectives</a></li>
+<li><a href="/wiki/Monen" title="Monen">Monen</a></li></ul></li>
+<li><a href="/wiki/Hebrew_astronomy" title="Hebrew astronomy">Astronomy</a></li>
+<li><a href="/wiki/Hebrew_calendar" title="Hebrew calendar">Calendar</a>
+<ul><li><a href="/wiki/Jewish_holidays" title="Jewish holidays">Holidays</a></li></ul></li>
+<li><a href="/wiki/Jewish_cuisine" title="Jewish cuisine">Cuisine</a>
+<ul><li><a href="/wiki/Kashrut" title="Kashrut">Kashrut</a></li></ul></li>
+<li><a href="/wiki/Jewish_education" title="Jewish education">Education</a></li>
+<li><a href="/wiki/Jewish_leadership" title="Jewish leadership">Leadership</a>
+<ul><li><a href="/wiki/Rabbi" title="Rabbi">Rabbi</a></li>
+<li><a href="/wiki/Rebbe" title="Rebbe">Rebbe</a></li></ul></li>
+<li><a href="/wiki/Jewish_views_on_marriage" title="Jewish views on marriage">Marriage</a>
+<ul><li><a href="/wiki/Divorce_in_Judaism" class="mw-redirect" title="Divorce in Judaism">Divorce</a></li></ul></li>
+<li><a href="/wiki/Jewish_music" title="Jewish music">Music</a></li>
+<li><a href="/wiki/Jewish_name" title="Jewish name">Names</a></li>
+<li><a href="/wiki/Jewish_political_movements" title="Jewish political movements">Politics</a></li>
+<li><a href="/wiki/Jewish_prayer" title="Jewish prayer">Prayer</a>
+<ul><li><a href="/wiki/Synagogue" title="Synagogue">Synagogue</a></li>
+<li><a href="/wiki/Hazzan" title="Hazzan">Hazzan</a></li></ul></li>
+<li><a href="/wiki/Jewish_symbolism" title="Jewish symbolism">Symbolism</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Jewish_studies" title="Jewish studies">Studies</a></th><td class="navbox-list-with-group navbox-list navbox-odd" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Center_for_Jewish_History" title="Center for Jewish History">Center for Jewish History</a>
+<ul><li><a href="/wiki/American_Jewish_Historical_Society" title="American Jewish Historical Society">American Jewish Historical Society</a></li>
+<li><a href="/wiki/American_Sephardi_Federation" title="American Sephardi Federation">American Sephardi Federation</a></li>
+<li><a href="/wiki/Leo_Baeck_Institute_New_York" title="Leo Baeck Institute New York">Leo Baeck Institute New York</a></li>
+<li><a href="/wiki/Yeshiva_University_Museum" title="Yeshiva University Museum">Yeshiva University Museum</a></li>
+<li><a href="/wiki/YIVO" title="YIVO">YIVO Institute for Jewish Research</a></li></ul></li>
+<li><a href="/wiki/Center_of_Contemporary_Jewish_Documentation" title="Center of Contemporary Jewish Documentation">Center of Contemporary Jewish Documentation</a></li>
+<li><i><a href="/wiki/Encyclopaedia_Judaica" title="Encyclopaedia Judaica">Encyclopaedia Judaica</a></i></li>
+<li><a href="/wiki/Genetic_studies_on_Jews" class="mw-redirect" title="Genetic studies on Jews">Genetics</a></li>
+<li><a href="/wiki/Jew_(word)" title="Jew (word)">Jew (word)</a></li>
+<li><i><a href="/wiki/The_Jewish_Encyclopedia" title="The Jewish Encyclopedia">Jewish Encyclopedia</a></i></li>
+<li><a href="/wiki/Jewish_Virtual_Library" title="Jewish Virtual Library">Jewish Virtual Library</a></li>
+<li><a href="/wiki/National_Library_of_Israel" title="National Library of Israel">National Library of Israel</a></li>
+<li><i><a href="/wiki/The_YIVO_Encyclopedia_of_Jews_in_Eastern_Europe" title="The YIVO Encyclopedia of Jews in Eastern Europe">YIVO Encyclopedia</a></i></li>
+<li><a href="/wiki/United_States_Holocaust_Memorial_Museum" title="United States Holocaust Memorial Museum">United States Holocaust Memorial Museum</a></li>
+<li><i><a href="/wiki/Encyclopedia_of_the_Holocaust" title="Encyclopedia of the Holocaust">Encyclopedia of the Holocaust</a></i></li>
+<li><i><a href="/wiki/Holocaust_Encyclopedia" title="Holocaust Encyclopedia">Holocaust Encyclopedia</a></i></li>
+<li><a href="/wiki/Judaism_and_other_religions" class="mw-redirect" title="Judaism and other religions">Relations with other religions</a>
+<ul><li><a href="/wiki/Christianity_and_Judaism" title="Christianity and Judaism">Christian</a>
+<ul><li><a href="/wiki/Anabaptist%E2%80%93Jewish_relations" title="Anabaptist–Jewish relations">Anabaptism</a></li>
+<li><a href="/wiki/Catholic_Church_and_Judaism" title="Catholic Church and Judaism">Catholicism</a></li>
+<li><a href="/wiki/Judaism_and_Mormonism" title="Judaism and Mormonism">Mormonism</a></li>
+<li><a href="/wiki/Protestantism_and_Judaism" title="Protestantism and Judaism">Protestantism</a></li>
+<li><a href="/wiki/Jews_and_Christmas" title="Jews and Christmas">Jews and Christmas</a></li>
+<li><a href="/wiki/Jews_and_Halloween" title="Jews and Halloween">Jews and Halloween</a></li></ul></li>
+<li>non-Christian
+<ul><li><a href="/wiki/Judaism_and_Buddhism" class="mw-redirect" title="Judaism and Buddhism">Buddhism</a></li>
+<li><a href="/wiki/Islamic%E2%80%93Jewish_relations" title="Islamic–Jewish relations">Islam</a></li>
+<li><a href="/wiki/Hinduism_and_Judaism" title="Hinduism and Judaism">Hinduism</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><i>Italics</i> indicate <a href="/wiki/Language_death" title="Language death">extinct languages</a>
+<ul><li><span class="noviewer" typeof="mw:File"><span title="Category"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/16px-Symbol_category_class.svg.png" decoding="async" width="16" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/23px-Symbol_category_class.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/96/Symbol_category_class.svg/31px-Symbol_category_class.svg.png 2x" data-file-width="180" data-file-height="185" /></span></span> <b><a href="/wiki/Category:Jews_and_Judaism" title="Category:Jews and Judaism">Category</a></b></li>
+<li><b><span class="noviewer" typeof="mw:File"><span><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/14px-Star_of_David.svg.png" decoding="async" width="14" height="16" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/21px-Star_of_David.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Star_of_David.svg/28px-Star_of_David.svg.png 2x" data-file-width="600" data-file-height="693" /></span></span>&#160;<a href="/wiki/Portal:Judaism" title="Portal:Judaism">Judaism&#32;portal</a></b></li></ul></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐fc98cb858‐pz8md
+Cached time: 20240415182353
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.784 seconds
+Real time usage: 1.147 seconds
+Preprocessor visited node count: 4323/1000000
+Post‐expand include size: 141995/2097152 bytes
+Template argument size: 5010/2097152 bytes
+Highest expansion depth: 14/100
+Expensive parser function count: 11/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 94085/5000000 bytes
+Lua time usage: 0.488/10.000 seconds
+Lua memory usage: 24252445/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  978.136      1 -total
+ 16.58%  162.213      2 Template:Reflist
+ 16.06%  157.122     10 Template:Cite_book
+ 13.84%  135.338      6 Template:Lang-he
+ 11.51%  112.538      1 Template:Short_description
+  9.27%   90.709      1 Template:Verification
+  8.27%   80.849     17 Template:Sfnp
+  8.20%   80.177      1 Template:Ambox
+  7.52%   73.594      1 Template:Sefirot
+  7.09%   69.301      2 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1458368-0!canonical and timestamp 20240415182353 and revision id 1216152126. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sefirot&amp;oldid=1216152126">https://en.wikipedia.org/w/index.php?title=Sefirot&amp;oldid=1216152126</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sephirot" title="Category:Sephirot">Sephirot</a></li><li><a href="/wiki/Category:Concepts_in_metaphysics" title="Category:Concepts in metaphysics">Concepts in metaphysics</a></li><li><a href="/wiki/Category:Jewish_mysticism" title="Category:Jewish mysticism">Jewish mysticism</a></li><li><a href="/wiki/Category:Kabbalistic_words_and_phrases" title="Category:Kabbalistic words and phrases">Kabbalistic words and phrases</a></li><li><a href="/wiki/Category:Mysticism" title="Category:Mysticism">Mysticism</a></li><li><a href="/wiki/Category:Religious_philosophical_concepts" title="Category:Religious philosophical concepts">Religious philosophical concepts</a></li><li><a href="/wiki/Category:Trees_in_mythology" title="Category:Trees in mythology">Trees in mythology</a></li><li><a href="/wiki/Category:Religious_diagrams" title="Category:Religious diagrams">Religious diagrams</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2022" title="Category:Articles needing additional references from July 2022">Articles needing additional references from July 2022</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_containing_Hebrew-language_text" title="Category:Articles containing Hebrew-language text">Articles containing Hebrew-language text</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_March_2024" title="Category:Articles lacking reliable references from March 2024">Articles lacking reliable references from March 2024</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_October_2014" title="Category:Articles with unsourced statements from October 2014">Articles with unsourced statements from October 2014</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_October_2014" title="Category:Wikipedia articles needing clarification from October 2014">Wikipedia articles needing clarification from October 2014</a></li><li><a href="/wiki/Category:Articles_with_Curlie_links" title="Category:Articles with Curlie links">Articles with Curlie links</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 29 March 2024, at 11:32<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Sefirot&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-fc98cb858-7ggl4","wgBackendResponseTime":185,"wgPageParseReport":{"limitreport":{"cputime":"0.784","walltime":"1.147","ppvisitednodes":{"value":4323,"limit":1000000},"postexpandincludesize":{"value":141995,"limit":2097152},"templateargumentsize":{"value":5010,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":11,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":94085,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  978.136      1 -total"," 16.58%  162.213      2 Template:Reflist"," 16.06%  157.122     10 Template:Cite_book"," 13.84%  135.338      6 Template:Lang-he"," 11.51%  112.538      1 Template:Short_description","  9.27%   90.709      1 Template:Verification","  8.27%   80.849     17 Template:Sfnp","  8.20%   80.177      1 Template:Ambox","  7.52%   73.594      1 Template:Sefirot","  7.09%   69.301      2 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.488","limit":"10.000"},"limitreport-memusage":{"value":24252445,"limit":52428800},"limitreport-logs":"anchor_id_list = table#1 {\n    [\"CITEREFBar-Lev1994\"] = 1,\n    [\"CITEREFCohn-Sherbok2006\"] = 1,\n    [\"CITEREFGinsburgh2006\"] = 1,\n    [\"CITEREFGinsburgh2007\"] = 1,\n    [\"CITEREFKhan2020\"] = 1,\n    [\"CITEREFKurzweil2011\"] = 1,\n    [\"CITEREFMillern.d.\"] = 1,\n    [\"CITEREFSchneerson1986\"] = 1,\n    [\"CITEREFSchochet1998\"] = 1,\n    [\"CITEREFTrachtenberg2004\"] = 1,\n    [\"CITEREFZalmann.d.\"] = 1,\n}\ntemplate_list = table#1 {\n    [\"Better source needed\"] = 1,\n    [\"Citation needed\"] = 1,\n    [\"Cite book\"] = 10,\n    [\"Cite web\"] = 2,\n    [\"Clarify\"] = 1,\n    [\"Curlie\"] = 1,\n    [\"Efn\"] = 1,\n    [\"Harvp\"] = 2,\n    [\"IPAc-en\"] = 1,\n    [\"ISBN\"] = 5,\n    [\"Jews and Judaism\"] = 1,\n    [\"Kabbalah\"] = 1,\n    [\"Lang\"] = 3,\n    [\"Lang-he\"] = 6,\n    [\"Main\"] = 4,\n    [\"Notelist\"] = 1,\n    [\"Reflist\"] = 1,\n    [\"Sefirot\"] = 1,\n    [\"Sfnp\"] = 17,\n    [\"Short description\"] = 1,\n    [\"Transl\"] = 1,\n    [\"Verification\"] = 1,\n}\narticle_whitelist = table#1 {\n}\ntable#1 {\n    [\"size\"] = \"tiny\",\n}\n"},"cachereport":{"origin":"mw-web.eqiad.main-fc98cb858-pz8md","timestamp":"20240415182353","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Sefirot","url":"https:\/\/en.wikipedia.org\/wiki\/Sefirot","sameAs":"http:\/\/www.wikidata.org\/entity\/Q660267","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q660267","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-02-02T02:48:20Z","dateModified":"2024-03-29T11:32:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d5\/Ktreewnames.png","headline":"Ten emanations in Kabbalah"}</script>
+</body>
+</html>

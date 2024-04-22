@@ -1,0 +1,911 @@
+<!DOCTYPE html>
+<html class="client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Vinylcyclopropane rearrangement - Wikipedia</title>
+<script>(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-page-header-disabled vector-feature-sticky-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-0 vector-feature-client-preferences-disabled vector-feature-client-prefs-pinned-disabled vector-feature-night-mode-disabled skin-theme-clientpref-day vector-toc-available";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],
+"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"7427c5d3-95c7-4f3c-9068-a935dac098c3","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Vinylcyclopropane_rearrangement","wgTitle":"Vinylcyclopropane rearrangement","wgCurRevisionId":1181389003,"wgRevisionId":1181389003,"wgArticleId":17926212,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Rearrangement reactions","Cyclopropanes"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Vinylcyclopropane_rearrangement","wgRelevantArticleId":17926212,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{
+"status":{"levels":1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,"wgULSCurrentAutonym":"English","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1968994","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"skins.vector.user.styles":"ready",
+"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","skins.vector.user":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.ReferenceTooltips","ext.gadget.switcher","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns"
+,"ext.cx.uls.quick.actions","wikibase.client.vector-2022","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cskins.vector.icons%2Cstyles%7Cskins.vector.search.codex.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector-2022">
+<script async="" src="/w/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector-2022"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector-2022">
+<meta name="generator" content="MediaWiki 1.42.0-wmf.26">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Vinylcyclopropane rearrangement - Wikipedia">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Vinylcyclopropane_rearrangement">
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)">
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Vinylcyclopropane_rearrangement">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.en">
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector skin-vector-search-vue mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Vinylcyclopropane_rearrangement rootpage-Vinylcyclopropane_rearrangement skin-vector-2022 action-view"><a class="mw-jump-link" href="#bodyContent">Jump to content</a>
+<div class="vector-header-container">
+	<header class="vector-header mw-header">
+		<div class="vector-header-start">
+			<nav class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				
+<div id="vector-main-menu-dropdown" class="vector-dropdown vector-main-menu-dropdown vector-button-flush-left vector-button-flush-right"  >
+	<input type="checkbox" id="vector-main-menu-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-main-menu-dropdown" class="vector-dropdown-checkbox "  aria-label="Main menu"  >
+	<label id="vector-main-menu-dropdown-label" for="vector-main-menu-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-menu mw-ui-icon-wikimedia-menu"></span>
+
+<span class="vector-dropdown-label-text">Main menu</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+				<div id="vector-main-menu-unpinned-container" class="vector-unpinned-container">
+		
+<div id="vector-main-menu" class="vector-main-menu vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-main-menu-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="main-menu-pinned"
+	data-pinnable-element-id="vector-main-menu"
+	data-pinned-container-id="vector-main-menu-pinned-container"
+	data-unpinned-container-id="vector-main-menu-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Main menu</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-main-menu.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-main-menu.unpin">hide</button>
+</div>
+
+	
+<div id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation"  >
+	<div class="vector-menu-heading">
+		Navigation
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	
+<div id="p-interaction" class="vector-menu mw-portlet mw-portlet-interaction"  >
+	<div class="vector-menu-heading">
+		Contribute
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_upload_wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+				</div>
+
+	</div>
+</div>
+
+		</nav>
+			
+<a href="/wiki/Main_Page" class="mw-logo">
+	<img class="mw-logo-icon" src="/static/images/icons/wikipedia.png" alt="" aria-hidden="true" height="50" width="50">
+	<span class="mw-logo-container">
+		<img class="mw-logo-wordmark" alt="Wikipedia" src="/static/images/mobile/copyright/wikipedia-wordmark-en.svg" style="width: 7.5em; height: 1.125em;">
+		<img class="mw-logo-tagline" alt="The Free Encyclopedia" src="/static/images/mobile/copyright/wikipedia-tagline-en.svg" width="117" height="13" style="width: 7.3125em; height: 0.8125em;">
+	</span>
+</a>
+
+		</div>
+		<div class="vector-header-end">
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-collapses vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<a href="/wiki/Special:Search" class="cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle" id="" title="Search Wikipedia [f]" accesskey="f"><span class="vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search"></span>
+
+<span>Search</span>
+	</a>
+	<div class="vector-typeahead-search-container">
+		<div class="cdx-typeahead-search cdx-typeahead-search--show-thumbnail cdx-typeahead-search--auto-expand-width">
+			<form action="/w/index.php" id="searchform" class="cdx-search-input cdx-search-input--has-end-button">
+				<div id="simpleSearch" class="cdx-search-input__input-wrapper"  data-search-loc="header-moved">
+					<div class="cdx-text-input cdx-text-input--has-start-icon">
+						<input
+							class="cdx-text-input__input"
+							 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+							>
+						<span class="cdx-text-input__icon cdx-text-input__start-icon"></span>
+					</div>
+					<input type="hidden" name="title" value="Special:Search">
+				</div>
+				<button class="cdx-button cdx-search-input__end-button">Search</button>
+			</form>
+		</div>
+	</div>
+</div>
+
+			<nav class="vector-user-links vector-user-links-wide" aria-label="Personal tools" role="navigation" >
+	<div class="vector-user-links-main">
+	
+<div id="p-vector-user-menu-preferences" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-userpage" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+		
+		
+	</nav>
+	
+<div id="p-vector-user-menu-notifications" class="vector-menu mw-portlet emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+	
+<div id="p-vector-user-menu-overflow" class="vector-menu mw-portlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			<li id="pt-createaccount-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:CreateAccount&amp;returnto=Vinylcyclopropane+rearrangement" title="You are encouraged to create an account and log in; however, it is not mandatory" class=""><span>Create account</span></a>
+</li>
+<li id="pt-login-2" class="user-links-collapsible-item mw-list-item user-links-collapsible-item"><a data-mw="interface" href="/w/index.php?title=Special:UserLogin&amp;returnto=Vinylcyclopropane+rearrangement" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o" class=""><span>Log in</span></a>
+</li>
+
+			
+		</ul>
+		
+	</div>
+</div>
+
+	</div>
+	
+<div id="vector-user-links-dropdown" class="vector-dropdown vector-user-menu vector-button-flush-right vector-user-menu-logged-out"  title="Log in and more options" >
+	<input type="checkbox" id="vector-user-links-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-user-links-dropdown" class="vector-dropdown-checkbox "  aria-label="Personal tools"  >
+	<label id="vector-user-links-dropdown-label" for="vector-user-links-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-ellipsis mw-ui-icon-wikimedia-ellipsis"></span>
+
+<span class="vector-dropdown-label-text">Personal tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+		
+<div id="p-personal" class="vector-menu mw-portlet mw-portlet-personal user-links-collapsible-item"  title="User menu" >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-createaccount" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Vinylcyclopropane+rearrangement" title="You are encouraged to create an account and log in; however, it is not mandatory"><span class="vector-icon mw-ui-icon-userAdd mw-ui-icon-wikimedia-userAdd"></span> <span>Create account</span></a></li><li id="pt-login" class="user-links-collapsible-item mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Vinylcyclopropane+rearrangement" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span class="vector-icon mw-ui-icon-logIn mw-ui-icon-wikimedia-logIn"></span> <span>Log in</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-user-menu-anon-editor" class="vector-menu mw-portlet mw-portlet-user-menu-anon-editor"  >
+	<div class="vector-menu-heading">
+		Pages for logged out editors <a href="/wiki/Help:Introduction" aria-label="Learn more about editing"><span>learn more</span></a>
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+	
+	</div>
+</div>
+
+</nav>
+
+		</div>
+	</header>
+</div>
+<div class="mw-page-container">
+	<div class="mw-page-container-inner">
+		<div class="vector-sitenotice-container">
+			<div id="siteNotice"><!-- CentralNotice --></div>
+		</div>
+		<div class="vector-column-start">
+			<div class="vector-main-menu-container">
+		<div id="mw-navigation">
+			<nav id="mw-panel" class="vector-main-menu-landmark" aria-label="Site" role="navigation">
+				<div id="vector-main-menu-pinned-container" class="vector-pinned-container">
+				
+				</div>
+		</nav>
+		</div>
+	</div>
+	<div class="vector-sticky-pinned-container">
+				<nav id="mw-panel-toc" role="navigation" aria-label="Contents" data-event-name="ui.sidebar-toc" class="mw-table-of-contents-container vector-toc-landmark">
+					<div id="vector-toc-pinned-container" class="vector-pinned-container">
+					<div id="vector-toc" class="vector-toc vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-toc-pinnable-header vector-pinnable-header-pinned"
+	data-feature-name="toc-pinned"
+	data-pinnable-element-id="vector-toc"
+	
+	
+>
+	<h2 class="vector-pinnable-header-label">Contents</h2>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-toc.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-toc.unpin">hide</button>
+</div>
+
+
+	<ul class="vector-toc-contents" id="mw-panel-toc-list">
+		<li id="toc-mw-content-text"
+			class="vector-toc-list-item vector-toc-level-1">
+			<a href="#" class="vector-toc-link">
+				<div class="vector-toc-text">(Top)</div>
+			</a>
+		</li>
+		<li id="toc-Origins_and_history"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Origins_and_history">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">1</span>Origins and history</div>
+		</a>
+		
+		<ul id="toc-Origins_and_history-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Mechanism"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Mechanism">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">2</span>Mechanism</div>
+		</a>
+		
+		<ul id="toc-Mechanism-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Methodology_development"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Methodology_development">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">3</span>Methodology development</div>
+		</a>
+		
+		<ul id="toc-Methodology_development-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-Use_in_total_synthesis"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#Use_in_total_synthesis">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">4</span>Use in total synthesis</div>
+		</a>
+		
+			<button aria-controls="toc-Use_in_total_synthesis-sublist" class="cdx-button cdx-button--weight-quiet cdx-button--icon-only vector-toc-toggle">
+				<span class="vector-icon vector-icon--x-small mw-ui-icon-wikimedia-expand"></span>
+				<span>Toggle Use in total synthesis subsection</span>
+			</button>
+		
+		<ul id="toc-Use_in_total_synthesis-sublist" class="vector-toc-list">
+			<li id="toc-Trost&#039;s_synthesis_of_aphidicolin_(1979)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Trost&#039;s_synthesis_of_aphidicolin_(1979)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.1</span>Trost's synthesis of aphidicolin (1979)</div>
+			</a>
+			
+			<ul id="toc-Trost&#039;s_synthesis_of_aphidicolin_(1979)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Piers&#039;_synthesis_of_zizaene_(1979)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Piers&#039;_synthesis_of_zizaene_(1979)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.2</span>Piers' synthesis of zizaene (1979)</div>
+			</a>
+			
+			<ul id="toc-Piers&#039;_synthesis_of_zizaene_(1979)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Hudlicky&#039;s_synthesis_of_hirstuene_(1980)_and_isocomene_(1984)"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Hudlicky&#039;s_synthesis_of_hirstuene_(1980)_and_isocomene_(1984)">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.3</span>Hudlicky's synthesis of hirstuene (1980) and isocomene (1984)</div>
+			</a>
+			
+			<ul id="toc-Hudlicky&#039;s_synthesis_of_hirstuene_(1980)_and_isocomene_(1984)-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Synthesis_of_alpha-Vetispirene"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Synthesis_of_alpha-Vetispirene">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.4</span>Synthesis of alpha-Vetispirene</div>
+			</a>
+			
+			<ul id="toc-Synthesis_of_alpha-Vetispirene-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Synthesis_of_Antheridiogen-An"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Synthesis_of_Antheridiogen-An">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.5</span>Synthesis of Antheridiogen-An</div>
+			</a>
+			
+			<ul id="toc-Synthesis_of_Antheridiogen-An-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Synthesis_of_biotin"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Synthesis_of_biotin">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.6</span>Synthesis of biotin</div>
+			</a>
+			
+			<ul id="toc-Synthesis_of_biotin-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+		<li id="toc-Synthesis_of_salviasperanol"
+			class="vector-toc-list-item vector-toc-level-2">
+			<a class="vector-toc-link" href="#Synthesis_of_salviasperanol">
+				<div class="vector-toc-text">
+				<span class="vector-toc-numb">4.7</span>Synthesis of salviasperanol</div>
+			</a>
+			
+			<ul id="toc-Synthesis_of_salviasperanol-sublist" class="vector-toc-list">
+			</ul>
+		</li>
+	</ul>
+	</li>
+	<li id="toc-See_also"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#See_also">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">5</span>See also</div>
+		</a>
+		
+		<ul id="toc-See_also-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+	<li id="toc-References"
+		class="vector-toc-list-item vector-toc-level-1 vector-toc-list-item-expanded">
+		<a class="vector-toc-link" href="#References">
+			<div class="vector-toc-text">
+			<span class="vector-toc-numb">6</span>References</div>
+		</a>
+		
+		<ul id="toc-References-sublist" class="vector-toc-list">
+		</ul>
+	</li>
+</ul>
+</div>
+
+					</div>
+		</nav>
+			</div>
+		</div>
+		<div class="mw-content-container">
+			<main id="content" class="mw-body" role="main">
+				<header class="mw-body-header vector-page-titlebar">
+					<nav role="navigation" aria-label="Contents" class="vector-toc-landmark">
+						
+<div id="vector-page-titlebar-toc" class="vector-dropdown vector-page-titlebar-toc vector-button-flush-left"  >
+	<input type="checkbox" id="vector-page-titlebar-toc-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-titlebar-toc" class="vector-dropdown-checkbox "  aria-label="Toggle the table of contents"  >
+	<label id="vector-page-titlebar-toc-label" for="vector-page-titlebar-toc-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only " aria-hidden="true"  ><span class="vector-icon mw-ui-icon-listBullet mw-ui-icon-wikimedia-listBullet"></span>
+
+<span class="vector-dropdown-label-text">Toggle the table of contents</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+							<div id="vector-page-titlebar-toc-unpinned-container" class="vector-unpinned-container">
+			</div>
+		
+	</div>
+</div>
+
+					</nav>
+					<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Vinylcyclopropane rearrangement</span></h1>
+							
+<div id="p-lang-btn" class="vector-dropdown mw-portlet mw-portlet-lang"  >
+	<input type="checkbox" id="p-lang-btn-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-lang-btn" class="vector-dropdown-checkbox mw-interlanguage-selector" aria-label="Go to an article in another language. Available in 4 languages"   >
+	<label id="p-lang-btn-label" for="p-lang-btn-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--action-progressive mw-portlet-lang-heading-4" aria-hidden="true"  ><span class="vector-icon mw-ui-icon-language-progressive mw-ui-icon-wikimedia-language-progressive"></span>
+
+<span class="vector-dropdown-label-text">4 languages</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+		<div class="vector-menu-content">
+			
+			<ul class="vector-menu-content-list">
+				
+				<li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B2%D8%A2%D8%B1%D8%A7%DB%8C%DB%8C_%D9%88%DB%8C%D9%86%DB%8C%D9%84%E2%80%8C%D8%B3%DB%8C%DA%A9%D9%84%D9%88%D9%BE%D8%B1%D9%88%D9%BE%D8%A7%D9%86" title="بازآرایی وینیل‌سیکلوپروپان – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Vinylcyclopropaan-cyclopenteen-omlegging" title="Vinylcyclopropaan-cyclopenteen-omlegging – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%8B%E3%83%AB%E3%82%B7%E3%82%AF%E3%83%AD%E3%83%97%E3%83%AD%E3%83%91%E3%83%B3%E8%BB%A2%E4%BD%8D" title="ビニルシクロプロパン転位 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E4%B9%99%E7%83%AF%E5%9F%BA%E7%8E%AF%E4%B8%99%E7%83%B7%E9%87%8D%E6%8E%92%E5%8F%8D%E5%BA%94" title="乙烯基环丙烷重排反应 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li>
+			</ul>
+			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1968994#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+		</div>
+
+	</div>
+</div>
+</header>
+				<div class="vector-page-toolbar">
+					<div class="vector-page-toolbar-container">
+						<div id="left-navigation">
+							<nav aria-label="Namespaces">
+								
+<div id="p-associated-pages" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-associated-pages"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Vinylcyclopropane_rearrangement" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="vector-tab-noicon mw-list-item"><a href="/wiki/Talk:Vinylcyclopropane_rearrangement" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+								
+<div id="p-variants" class="vector-dropdown emptyPortlet"  >
+	<input type="checkbox" id="p-variants-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-p-variants" class="vector-dropdown-checkbox " aria-label="Change language variant"   >
+	<label id="p-variants-label" for="p-variants-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">English</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+					
+<div id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</div>
+
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+						<div id="right-navigation" class="vector-collapsible">
+							<nav aria-label="Views">
+								
+<div id="p-views" class="vector-menu vector-menu-tabs mw-portlet mw-portlet-views"  >
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected vector-tab-noicon mw-list-item"><a href="/wiki/Vinylcyclopropane_rearrangement"><span>Read</span></a></li><li id="ca-edit" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="vector-tab-noicon mw-list-item"><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+							</nav>
+				
+							<nav class="vector-page-tools-landmark" aria-label="Page tools">
+								
+<div id="vector-page-tools-dropdown" class="vector-dropdown vector-page-tools-dropdown"  >
+	<input type="checkbox" id="vector-page-tools-dropdown-checkbox" role="button" aria-haspopup="true" data-event-name="ui.dropdown-vector-page-tools-dropdown" class="vector-dropdown-checkbox "  aria-label="Tools"  >
+	<label id="vector-page-tools-dropdown-label" for="vector-page-tools-dropdown-checkbox" class="vector-dropdown-label cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet" aria-hidden="true"  ><span class="vector-dropdown-label-text">Tools</span>
+	</label>
+	<div class="vector-dropdown-content">
+
+
+									<div id="vector-page-tools-unpinned-container" class="vector-unpinned-container">
+						
+<div id="vector-page-tools" class="vector-page-tools vector-pinnable-element">
+	<div
+	class="vector-pinnable-header vector-page-tools-pinnable-header vector-pinnable-header-unpinned"
+	data-feature-name="page-tools-pinned"
+	data-pinnable-element-id="vector-page-tools"
+	data-pinned-container-id="vector-page-tools-pinned-container"
+	data-unpinned-container-id="vector-page-tools-unpinned-container"
+>
+	<div class="vector-pinnable-header-label">Tools</div>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-pin-button" data-event-name="pinnable-header.vector-page-tools.pin">move to sidebar</button>
+	<button class="vector-pinnable-header-toggle-button vector-pinnable-header-unpin-button" data-event-name="pinnable-header.vector-page-tools.unpin">hide</button>
+</div>
+
+	
+<div id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-has-collapsible-items"  title="More options" >
+	<div class="vector-menu-heading">
+		Actions
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-more-view" class="selected vector-more-collapsible-item mw-list-item"><a href="/wiki/Vinylcyclopropane_rearrangement"><span>Read</span></a></li><li id="ca-more-edit" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-more-history" class="vector-more-collapsible-item mw-list-item"><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=history"><span>View history</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-tb" class="vector-menu mw-portlet mw-portlet-tb"  >
+	<div class="vector-menu-heading">
+		General
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Vinylcyclopropane_rearrangement" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Vinylcyclopropane_rearrangement" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;oldid=1181389003" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Vinylcyclopropane_rearrangement&amp;id=1181389003&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=Special:UrlShortener&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVinylcyclopropane_rearrangement"><span>Get shortened URL</span></a></li><li id="t-urlshortener-qrcode" class="mw-list-item"><a href="/w/index.php?title=Special:QrCode&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVinylcyclopropane_rearrangement"><span>Download QR code</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1968994" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+<div id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export"  >
+	<div class="vector-menu-heading">
+		Print/export
+	</div>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Vinylcyclopropane_rearrangement&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li>
+		</ul>
+		
+	</div>
+</div>
+
+</div>
+
+									</div>
+				
+	</div>
+</div>
+
+							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="vector-column-end">
+					<div class="vector-sticky-pinned-container">
+						<nav class="vector-page-tools-landmark" aria-label="Page tools">
+							<div id="vector-page-tools-pinned-container" class="vector-pinned-container">
+				
+							</div>
+		</nav>
+						<nav class="vector-client-prefs-landmark" aria-label="Appearance">
+						</nav>
+					</div>
+				</div>
+				<div id="bodyContent" class="vector-body" aria-labelledby="firstHeading" data-mw-ve-target-container>
+					<div class="vector-body-before-content">
+							<div class="mw-indicators">
+		</div>
+
+						<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+					</div>
+					<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+					
+					
+					<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p>The <b>vinylcyclopropane rearrangement</b> or <b>vinylcyclopropane-cyclopentene rearrangement</b> is a <a href="/wiki/Ring_expansion_reaction" class="mw-redirect" title="Ring expansion reaction">ring expansion reaction</a>, converting a vinyl-substituted <a href="/wiki/Cyclopropane" title="Cyclopropane">cyclopropane</a> ring into a <a href="/wiki/Cyclopentene" title="Cyclopentene">cyclopentene</a> ring.<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p><p>Cyclopropyl groups adjacent to vinyl groups can undergo <a href="/wiki/Ring_expansion" class="mw-redirect" title="Ring expansion">ring expansion</a> reactions. This reactivity can be exploited to generate unusual cyclic compounds, such as <a href="/wiki/Cyclobutene" title="Cyclobutene">cyclobutenes</a>,<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> or <a href="/wiki/Bicyclic" class="mw-redirect" title="Bicyclic">bicyclic</a> species such as the <a href="/wiki/Cycloheptene" title="Cycloheptene">cycloheptene</a> shown below.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<dl><dd><span typeof="mw:File"><a href="/wiki/File:CyclopropaneCycloaddition.png" class="mw-file-description" title="Cyclopropane Cycloaddition"><img alt="Cyclopropane Cycloaddition" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/CyclopropaneCycloaddition.png/500px-CyclopropaneCycloaddition.png" decoding="async" width="500" height="81" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/CyclopropaneCycloaddition.png/750px-CyclopropaneCycloaddition.png 1.5x, //upload.wikimedia.org/wikipedia/commons/7/78/CyclopropaneCycloaddition.png 2x" data-file-width="770" data-file-height="124" /></a></span></dd></dl>
+<p><br />
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:VinylcyclopropaneRearrangement_Header_1.png" class="mw-file-description" title="Vinylcyclopropane Rearrangement"><img alt="Vinylcyclopropane Rearrangement" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/VinylcyclopropaneRearrangement_Header_1.png/600px-VinylcyclopropaneRearrangement_Header_1.png" decoding="async" width="600" height="173" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/VinylcyclopropaneRearrangement_Header_1.png/900px-VinylcyclopropaneRearrangement_Header_1.png 1.5x, //upload.wikimedia.org/wikipedia/commons/3/3b/VinylcyclopropaneRearrangement_Header_1.png 2x" data-file-width="923" data-file-height="266" /></a><figcaption>Vinylcyclopropane Rearrangement</figcaption></figure>
+<p>Experimental and computational investigations show that mechanistically, the vinylcyclopropane rearrangement can be thought of as either a diradical-mediated two-step and/or orbital-symmetry-controlled pericyclic process. The amount by which each of the two mechanisms is operative is highly dependent on the substrate.
+</p><p>Due to its ability to form <a href="/wiki/Cyclopentene" title="Cyclopentene">cyclopentene</a> rings the vinylcyclopropane rearrangement has served several times as a key reaction in complex natural product synthesis.
+</p>
+<meta property="mw:PageProp/toc" />
+<h2><span class="mw-headline" id="Origins_and_history">Origins and history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit&amp;section=1" title="Edit section: Origins and history"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1959, a young research chemist with <a href="/wiki/Humble_Oil_and_Refining" class="mw-redirect" title="Humble Oil and Refining">Humble Oil and Refining</a> (<a href="/wiki/Esso" title="Esso">Esso</a>, now <a href="/wiki/Exxon" class="mw-redirect" title="Exxon">Exxon</a>) named <a href="/wiki/Norman_P._Neureiter" title="Norman P. Neureiter">Norman P. Neureiter</a> was instructed to find new uses for the excess <a href="/wiki/Butadiene" title="Butadiene">butadiene</a> produced from one of the refinery processes. Discussions about <a href="/wiki/Carbene" title="Carbene">carbene</a> chemistry with one of the company's most respectable consultants at the time, <a href="/wiki/William_von_Eggers_Doering" title="William von Eggers Doering">William von Eggers Doering</a>, then a professor at <a href="/wiki/Yale" class="mw-redirect" title="Yale">Yale</a>, led the young Ph.D. graduate from <a href="/wiki/Northwestern_University" title="Northwestern University">Northwestern University</a> to follow a recent procedure combining both, carbenes and butadiene.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+In particular the procedure described the reaction of 1,3-butadiene with carbenes generated from the action of base on <a href="/wiki/Chloroform" title="Chloroform">chloroform</a> or <a href="/wiki/Bromoform" title="Bromoform">bromoform</a>, which had been studied previously by Doering.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> Neureiter then took the resulting 1,1-dichloro-2,2-dimethylcyclopropane and under pyrolysis conditions (above 400&#160;°C) discovered a rearrangement to 4,4-dichlorocyclopentene which today is considered to be the first thermal vinylcyclopropane-cyclopentene rearrangement in history.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:1_History_Neureiter.png" class="mw-file-description" title="Vinylcyclopropane Rearrangement of 1,1-dichloro-2,2-dimethylcyclopropane to 4,4-dichlorocyclopentene"><img alt="Vinylcyclopropane Rearrangement of 1,1-dichloro-2,2-dimethylcyclopropane to 4,4-dichlorocyclopentene" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/1_History_Neureiter.png/300px-1_History_Neureiter.png" decoding="async" width="300" height="113" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7a/1_History_Neureiter.png/450px-1_History_Neureiter.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7a/1_History_Neureiter.png/600px-1_History_Neureiter.png 2x" data-file-width="928" data-file-height="349" /></a><figcaption>Vinylcyclopropane Rearrangement of 1,1-dichloro-2,2-dimethylcyclopropane to 4,4-dichlorocyclopentene</figcaption></figure>
+<p>The corresponding all-carbon version of the reaction was independently reported by Emanuel Vogel<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> and Overberger &amp; Borchert just one year after the Neureiter publication appeared.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+Doering, although interacting with Humble Oil and Refining - and therefore also with Neureiter - as a consultant, in a 1963 publication stated the following&#160;: <i>"Credit for discovery that vinylcyclopropane rearranges to cyclopentene is due to Overberger and Borchert, and Vogel et al., who appear to have developed several examples of the rearrangement independently."</i><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+The development of further vinylcyclopropane rearrangement variants didn't take long as demonstrated by Atkinson &amp; Rees in 1967,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> Lwowski in 1968.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup> and Paladini &amp; Chuche in 1971.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:2_History_Vogel.png" class="mw-file-description" title="Historical Overview Vinylcyclopropane Rearrangement 1"><img alt="Historical Overview Vinylcyclopropane Rearrangement 1" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/2_History_Vogel.png/300px-2_History_Vogel.png" decoding="async" width="300" height="305" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/2_History_Vogel.png/450px-2_History_Vogel.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/2_History_Vogel.png/600px-2_History_Vogel.png 2x" data-file-width="924" data-file-height="940" /></a><figcaption>Historical Overview Vinylcyclopropane Rearrangement 1</figcaption></figure>
+<p>The classical vinylcyclopropane rearrangement was discovered well after two of its heteroatom variants had already been reported. Although it is believed that the vinylcyclopropane rearrangement must have occurred during <a href="/wiki/Nikolay_Demyanov" title="Nikolay Demyanov">Nikolay Demyanov</a>'s preparation of vinylcyclopropane by <a href="/wiki/Hofmann_elimination" title="Hofmann elimination">Hofmann elimination</a> at elevated temperatures in 1922,<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> the cyclopropylimine-pyrroline rearrangement by Cloke in 1929<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup> and Wilson's cyclopropylcarbaldehyde-2,3-dihydrofuran rearrangement in 1947<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> are really the only examples of vinylcyclopropane-like rearrangements.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:3_History_Cloke.png" class="mw-file-description" title="Historical Overview Vinylcyclopropane Rearrangement 2"><img alt="Historical Overview Vinylcyclopropane Rearrangement 2" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/3_History_Cloke.png/300px-3_History_Cloke.png" decoding="async" width="300" height="194" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/3_History_Cloke.png/450px-3_History_Cloke.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/3_History_Cloke.png/600px-3_History_Cloke.png 2x" data-file-width="924" data-file-height="597" /></a><figcaption>Historical Overview Vinylcyclopropane Rearrangement 2</figcaption></figure>
+<p>This last reaction type is also known as the <b>Cloke–Wilson Rearrangement</b> <sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Mechanism">Mechanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit&amp;section=2" title="Edit section: Mechanism"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The mechanistic discussion on whether the vinylcyclopropane rearrangement proceeds through a diradical-mediated two-step or a fully concerted orbital-symmetry-controlled mechanism has been going on for more than half a century. Kinetic data together with the secondary kinetic isotope effects observed at the vinyl terminus of the vinylcyclopropane suggest a concerted mechanism whereas product distribution indicates a stepwise-diradical mechanism.<sup id="cite_ref-CR_20-0" class="reference"><a href="#cite_note-CR-20">&#91;20&#93;</a></sup>
+In the 1960s, shortly after the rearrangement was discovered, it was established that the <a href="/wiki/Activation_energy" title="Activation energy">activation energy</a> for the vinylcyclopropane rearrangement is around 50 kcal/mol.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup> The kinetic data obtained for this rearrangement were consistent with a concerted mechanism where cleavage of the cyclopropyl carbon-carbon bond was rate-limiting. Albeit a concerted mechanism seemed likely it was shortly recognized that the activation energy to break the carbon-carbon bond in unsubstituted cyclopropane was with 63 kcal/mol<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup> exactly 13 kcal/mol higher in energy than the parent activation energy, a difference remarkably similar to the resonance energy of the allyl radical.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup> Immediately people started to appreciate the possibility for a diradical intermediate arising from homolytic cleavage of the weak C1-C2-cyclopropane bond under thermal conditions.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:Mechanism_01.png" class="mw-file-description" title="diradical mechanism"><img alt="diradical mechanism" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mechanism_01.png/700px-Mechanism_01.png" decoding="async" width="700" height="111" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mechanism_01.png/1050px-Mechanism_01.png 1.5x, //upload.wikimedia.org/wikipedia/commons/3/35/Mechanism_01.png 2x" data-file-width="1392" data-file-height="220" /></a><figcaption>diradical mechanism</figcaption></figure>
+<p>The discussion on whether the vinylcyclopropane rearrangement proceeds via a fully concerted or a two-step, non-concerted mechanism was given further careful consideration when Woodward and Hoffmann used the vinylcyclopropane rearrangement to exemplify [1,3]-sigmatropic concerted alkyl shifts in 1969.<sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup> They hypothesized that if a concerted mechanism was operative the consequences of orbital-symmetry controlled factors would only allow the formation of certain products. According to their analysis of a vinylcyclopropane substituted with three R groups the 
+antarafacial [1,3]-shift of bond 1,2 to C-5, with retention at C-2, leading to the <i>ar</i> cyclopentene and the suprafacial [1,3]-shift of bond 1,2 to C-5, with inversion at C-2, leading to cyclopentene <i>si</i> are symmetry allowed whereas the suprafacial [1,3]-shift of bond 1,2 to C-5, with retention at C-2, leading to cyclopentene <i>sr</i> and the antarafacial [1,3]-shift of bond 1,2 to C-5, with inversion at C-2, leading to the <i>ai</i> cyclopentene are symmetry-forbidden. It is important to note that Woodward and Hoffmann based their analysis solely on the principles of the conservation of orbital symmetry theory without however making any mechanistic or stereochemical prediction.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:Mechanism_02.png" class="mw-file-description" title="Woodward-Hoffmann analysis"><img alt="Woodward-Hoffmann analysis" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mechanism_02.png/800px-Mechanism_02.png" decoding="async" width="800" height="171" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mechanism_02.png/1200px-Mechanism_02.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mechanism_02.png/1600px-Mechanism_02.png 2x" data-file-width="2069" data-file-height="442" /></a><figcaption>Woodward-Hoffmann analysis</figcaption></figure>
+<p>The attention directed towards the vinylcyclopropane rearrangement by Woodward and Hoffmann as a representative example for [1,3]-carbon shifts clearly enhanced the interest in this reaction. Furthermore, their analysis revealed potential experiments that would allow to distinguish between a concerted or stepwise mechanism. The stereochemical consequences of a concerted reaction pathway on the reaction outcome suggested an experiment where one would correlate the obtained reaction stereochemistry with the predicted reaction stereochemistry for a model substrate. Observing the formation of <i>ai</i>- and <i>sr</i>-cyclopentene products would support the notion that a stepwise, non-concerted mechanism is operative whereas their absence would point towards a fully concerted mechanism. As it turned out finding an appropriate substituted model substrate to study the stereochemical outcome of the vinylcyclopropane rearrangement was much more challenging than initially thought since side reaction such as the homodienyl <a href="/wiki/1,5-hydride_shift" class="mw-redirect" title="1,5-hydride shift">[1,5]-hydrogen shifts</a> and more so thermal stereomutations tend to scramble stereochemical distinctions much faster than rearrangements lead to the cyclopentene products.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:Mechanism_03.png" class="mw-file-description" title="Stereomutations"><img alt="Stereomutations" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Mechanism_03.png/500px-Mechanism_03.png" decoding="async" width="500" height="276" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/66/Mechanism_03.png/750px-Mechanism_03.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/66/Mechanism_03.png/1000px-Mechanism_03.png 2x" data-file-width="1311" data-file-height="724" /></a><figcaption>Stereomutations</figcaption></figure>
+<p>Even though deconvolution of the complex kinetic scenarios underlying these rearrangements was difficult there have been several studies reported where exact and explicit deconvolutions of kinetic and stereochemical raw data to account for the stereochemical contributions arising from competitive stereomutations was possible.<sup id="cite_ref-CR_20-1" class="reference"><a href="#cite_note-CR-20">&#91;20&#93;</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup><sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup><sup id="cite_ref-Doijap1996_27-0" class="reference"><a href="#cite_note-Doijap1996-27">&#91;27&#93;</a></sup>
+</p><p>Thereby rate constants for all four stereochemically distinct pathways of the vinylcyclopropane rearrangement could be determined.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:Mechanism_04_05.png" class="mw-file-description" title="Stereochemical distribution of products"><img alt="Stereochemical distribution of products" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mechanism_04_05.png/500px-Mechanism_04_05.png" decoding="async" width="500" height="660" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mechanism_04_05.png/750px-Mechanism_04_05.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Mechanism_04_05.png/1000px-Mechanism_04_05.png 2x" data-file-width="1425" data-file-height="1881" /></a><figcaption>Stereochemical distribution of products</figcaption></figure>
+<p>The data clearly indicated that the mechanistic preferences of the rearrangements are system dependent. Whereas <i>trans</i>-vinylcyclopropanes tend to form more of the symmetry-allowed <i>ar</i>- and <i>si</i>-cyclopentenes supportive of a concerted mechanism, the <i>cis</i>-vinylcyclopropanes preferentially yield the symmetry-forbidden <i>ai</i>- and <i>sr</i>- products suggesting a more stepwise, diradical mechanism. The influence of substituent effects on the reaction stereochemistry also becomes apparent from the data. Substituents with increased radical stabilizing ability not only lower the rearrangements activation energy but also reclosure of the initially formed diradical species becomes slower relative to the rate of cyclopentene formation resulting in an overall more concerted mechanism with less stereomutation (e.g. entry 6 &amp; 7). In all cases though all the four products were formed indicating that both orbital-symmetry controlled pericyclic, as well as diradical-mediated two-step mechanisms are operative either way. The data is consistent with the formation of biradical species on a relatively flat potential energy surface allowing for restricted conformational flexibility before the products are formed. The amount of conformational flexibility and therefore conformational evolution accessible to the diradical species before forming product depends on the constitution of the potential energy surface. 
+This notion is also supported by computational work.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup> One transition state with a high diradicaloid character was found. Following the potential energy surface of the lowest energy path of the reaction it was found that a very shallow regime allows the diradical species to undergo conformational changes and stereoisomerization reactions with minor energetic consequences. Furthermore, it was shown that substituents can favor stereoselective pathways by destabilizing species that allow stereochemical scrambling.
+</p>
+<h2><span class="mw-headline" id="Methodology_development">Methodology development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit&amp;section=3" title="Edit section: Methodology development"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Arguably the biggest drawback of the vinylcyclopropane rearrangement as a synthetic method is its intrinsically high activation barrier resulting in very high reaction temperatures (500-600&#160;°C). Not only do these high temperatures allow side reactions with similar activation energies, such as homodienyl-[1,5]-hydrogen shifts, to occur but also do they significantly limit the functional groups tolerated in the substrates. It was well recognized by the chemical community that in order for this reaction to become a useful synthetic method, hopefully applicable in complex natural product settings at some point, some reaction development had to be done. It was found that the reaction temperature could be lowered drastically when the cyclopropane ring contained a <a href="/wiki/Dithiane" title="Dithiane">dithiane</a> group. Even though the dithiane-substituted vinylcyclopropane substrates required two synthetic steps starting from the corresponding <a href="/w/index.php?title=1,3-dienes&amp;action=edit&amp;redlink=1" class="new" title="1,3-dienes (page does not exist)">1,3-dienes</a> the method proved itself successful for the synthesis of a variety of substituted <a href="/w/index.php?title=Cyclopentenes&amp;action=edit&amp;redlink=1" class="new" title="Cyclopentenes (page does not exist)">cyclopentenes</a>. The immediate rearrangement products could be easily converted to the corresponding <a href="/w/index.php?title=Cyclopentenones&amp;action=edit&amp;redlink=1" class="new" title="Cyclopentenones (page does not exist)">cyclopentenones</a>.<sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;29&#93;</a></sup>
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:02_MechanisticDevelopment_Corey.png" class="mw-file-description" title="Corey"><img alt="Corey" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/02_MechanisticDevelopment_Corey.png/750px-02_MechanisticDevelopment_Corey.png" decoding="async" width="750" height="145" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/02_MechanisticDevelopment_Corey.png/1125px-02_MechanisticDevelopment_Corey.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/02_MechanisticDevelopment_Corey.png/1500px-02_MechanisticDevelopment_Corey.png 2x" data-file-width="2047" data-file-height="396" /></a><figcaption>Corey</figcaption></figure>
+<p>Methoxy-substituted vinylcyclopropanes show significantly faster reaction rates allowing the rearrangement to take place at 220&#160;°C.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup>
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:03_MechanisticDevelopment_Simpson.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/03_MechanisticDevelopment_Simpson.png/750px-03_MechanisticDevelopment_Simpson.png" decoding="async" width="750" height="116" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/03_MechanisticDevelopment_Simpson.png/1125px-03_MechanisticDevelopment_Simpson.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/03_MechanisticDevelopment_Simpson.png/1500px-03_MechanisticDevelopment_Simpson.png 2x" data-file-width="2046" data-file-height="316" /></a><figcaption></figcaption></figure>
+<p>It was found that <a href="/w/index.php?title=Siloxyvinylcyclopropanes&amp;action=edit&amp;redlink=1" class="new" title="Siloxyvinylcyclopropanes (page does not exist)">siloxyvinylcyclopropanes</a><sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> as well as the analogous sulfinylvinylcyclopropanes<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> could be used as substrates to build annulated <a href="/wiki/Cyclopentene" title="Cyclopentene">cyclopentene</a> structures. Albeit these reactions still required reaction temperatures above 300&#160;°C they were able to make useful products arising from the <a href="/wiki/Annulation" title="Annulation">annulation</a> of cyclopentene to a present ring system.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:01_MechanisticDevelopment_Trost.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/01_MechanisticDevelopment_Trost.png/750px-01_MechanisticDevelopment_Trost.png" decoding="async" width="750" height="234" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/01_MechanisticDevelopment_Trost.png/1125px-01_MechanisticDevelopment_Trost.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/01_MechanisticDevelopment_Trost.png/1500px-01_MechanisticDevelopment_Trost.png 2x" data-file-width="2047" data-file-height="638" /></a><figcaption></figcaption></figure>
+<p>Vinylcyclopropane rearrangements can also be mediated photochemically.<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup><sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup> In a particularly intriguing example he was able to show that vinylcyclopropanes embedded within a <a href="/wiki/Cyclooctane" title="Cyclooctane">cyclooctane</a> core can be converted to the corresponding [5-5]-fused ring systems.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:04_MechanisticDevelopment_Paquette.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/04_MechanisticDevelopment_Paquette.png/750px-04_MechanisticDevelopment_Paquette.png" decoding="async" width="750" height="132" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/04_MechanisticDevelopment_Paquette.png/1125px-04_MechanisticDevelopment_Paquette.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/04_MechanisticDevelopment_Paquette.png/1500px-04_MechanisticDevelopment_Paquette.png 2x" data-file-width="2047" data-file-height="359" /></a><figcaption></figcaption></figure>
+<p>Vinylcyclopropane rearrangements are amenable to <a href="/wiki/Transition_metal" title="Transition metal">transition metal</a> catalysts. [Dirhodium acetate]] catalyzes the rearrangements from room temperature to 80&#160;°C.y<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:05_MechanisticDevelopment_Brown%26Hudlicky.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/05_MechanisticDevelopment_Brown%26Hudlicky.png/750px-05_MechanisticDevelopment_Brown%26Hudlicky.png" decoding="async" width="750" height="236" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/05_MechanisticDevelopment_Brown%26Hudlicky.png/1125px-05_MechanisticDevelopment_Brown%26Hudlicky.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/05_MechanisticDevelopment_Brown%26Hudlicky.png/1500px-05_MechanisticDevelopment_Brown%26Hudlicky.png 2x" data-file-width="2047" data-file-height="643" /></a><figcaption></figcaption></figure>
+<p>Analogous to the rate acceleration observed in the anionic-oxy-<a href="/wiki/Cope_rearrangement" title="Cope rearrangement">Cope rearrangement</a> Danheiser reported a very similar effect for vinylcyclopropane substrates bearing [alkoxy] substituents.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:06_MechanisticDevelopment_Danheiser.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/06_MechanisticDevelopment_Danheiser.png/750px-06_MechanisticDevelopment_Danheiser.png" decoding="async" width="750" height="110" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/31/06_MechanisticDevelopment_Danheiser.png/1125px-06_MechanisticDevelopment_Danheiser.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/31/06_MechanisticDevelopment_Danheiser.png/1500px-06_MechanisticDevelopment_Danheiser.png 2x" data-file-width="2046" data-file-height="299" /></a><figcaption></figcaption></figure>
+<p>Another intriguing result was reported by Larsen in 1988.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> He was able to promote vinylcyclopropane rearrangements with substrates such as the one shown in the reaction below at temperatures as low as -78&#160;°C. The substrates were generated <i>in situ</i> upon ringcontracting thiocarbonyl <a href="/wiki/Diels-Alder" class="mw-redirect" title="Diels-Alder">Diels-Alder</a> adducts under basic conditions. This methodology allowed the formation of numerous highly functionalized cyclopentenes in a <a href="/wiki/Stereoselective" class="mw-redirect" title="Stereoselective">stereoselective</a> manner.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:07_MechanisticDevelopment_Larsen.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/07_MechanisticDevelopment_Larsen.png/750px-07_MechanisticDevelopment_Larsen.png" decoding="async" width="750" height="133" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/07_MechanisticDevelopment_Larsen.png/1125px-07_MechanisticDevelopment_Larsen.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/07_MechanisticDevelopment_Larsen.png/1500px-07_MechanisticDevelopment_Larsen.png 2x" data-file-width="2047" data-file-height="364" /></a><figcaption></figcaption></figure>
+<p>The methodology is allows the formation of various [5-5]- as well as [5-6]-carbon scaffolds.<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:08_MechanisticDevelopment_Hudlicky.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/08_MechanisticDevelopment_Hudlicky.png/750px-08_MechanisticDevelopment_Hudlicky.png" decoding="async" width="750" height="321" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/08_MechanisticDevelopment_Hudlicky.png/1125px-08_MechanisticDevelopment_Hudlicky.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/08_MechanisticDevelopment_Hudlicky.png/1500px-08_MechanisticDevelopment_Hudlicky.png 2x" data-file-width="2046" data-file-height="876" /></a><figcaption></figcaption></figure>
+<h2><span class="mw-headline" id="Use_in_total_synthesis">Use in total synthesis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit&amp;section=4" title="Edit section: Use in total synthesis"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Five-membered carbon rings are ubiquitous structural motifs in natural products. In contrast to the larger, fully "consonant" <a href="/wiki/Cyclohexane" title="Cyclohexane">cyclohexane</a> scaffold cyclopentanes and their derivatives are "<a href="/wiki/Consonance_and_dissonance" title="Consonance and dissonance">dissonant</a>" according to the <a href="/w/index.php?title=Lapworth-Evans_model&amp;action=edit&amp;redlink=1" class="new" title="Lapworth-Evans model (page does not exist)">Lapworth-Evans model</a> of alternating polarities. The dissonance in polarity clearly limits the ways by which cyclopentanes can be disconnected which becomes evident in the decreased number of general methods available for making five-membered rings versus the corresponding six-membered rings. Especially the fact that there is no <a href="/wiki/Diels-Alder" class="mw-redirect" title="Diels-Alder">Diels-Alder</a>-equivalent for the synthesis of five-membered rings has been bothering synthetic chemists for many decades. Consequentially, after the vinylcyclopropane rearrangement was discovered around 1960 it didn't take long for the synthetic community to realize the potential inherent to form cyclopentenes by means of the vinylcyclopropane rearrangement. As the vinylcyclopropane rearrangement progressed as a methodology and the reaction conditions improved during the 1970s, first total syntheses making use of the vinylcyclopropane rearrangement started to appear around 1980. Key figures to apply this reaction in total synthesis were <a href="/wiki/Barry_M._Trost" class="mw-redirect" title="Barry M. Trost">Barry M. Trost</a>, <a href="/wiki/Elias_J._Corey" class="mw-redirect" title="Elias J. Corey">Elias J. Corey</a>, <a href="/w/index.php?title=Thomas_Hudlicky&amp;action=edit&amp;redlink=1" class="new" title="Thomas Hudlicky (page does not exist)">Thomas Hudlicky</a>, <a href="/wiki/Leo_A._Paquette" class="mw-redirect" title="Leo A. Paquette">Leo A. Paquette</a>,
+</p>
+<h3><span id="Trost.27s_synthesis_of_aphidicolin_.281979.29"></span><span class="mw-headline" id="Trost's_synthesis_of_aphidicolin_(1979)">Trost's synthesis of aphidicolin (1979)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit&amp;section=5" title="Edit section: Trost&#039;s synthesis of aphidicolin (1979)"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A synthesis of <a href="/wiki/Aphidicolin" title="Aphidicolin">Aphidicolin</a> use methodology around the vinylcyclopropane rearrangement developed in their own laboratory .<sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup> A key step converts a late stage siloxyvinylcyclopropane into a cyclopentene that contained the [6-6-5]-fused carbon skeleton found within the natural product. The rearranged product into the natural product by further manipulations.
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:1_Aphidicolin_Trost.png" class="mw-file-description" title="Aphidicolin Trost"><img alt="Aphidicolin Trost" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/1_Aphidicolin_Trost.png/750px-1_Aphidicolin_Trost.png" decoding="async" width="750" height="243" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/1_Aphidicolin_Trost.png/1125px-1_Aphidicolin_Trost.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/1_Aphidicolin_Trost.png/1500px-1_Aphidicolin_Trost.png 2x" data-file-width="2050" data-file-height="665" /></a><figcaption>Aphidicolin Trost</figcaption></figure>
+<h3><span id="Piers.27_synthesis_of_zizaene_.281979.29"></span><span class="mw-headline" id="Piers'_synthesis_of_zizaene_(1979)">Piers' synthesis of zizaene (1979)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit&amp;section=6" title="Edit section: Piers&#039; synthesis of zizaene (1979)"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The synthesis of <a href="/w/index.php?title=Zizaene&amp;action=edit&amp;redlink=1" class="new" title="Zizaene (page does not exist)">zizaene</a> is another early example for the application of a vinylcyclopropane rearrangement as a key disconnection.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup>
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:2_Piers_Zizaene.png" class="mw-file-description" title="Piers Zizaene"><img alt="Piers Zizaene" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/2_Piers_Zizaene.png/800px-2_Piers_Zizaene.png" decoding="async" width="800" height="180" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/2_Piers_Zizaene.png/1200px-2_Piers_Zizaene.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/2_Piers_Zizaene.png/1600px-2_Piers_Zizaene.png 2x" data-file-width="2050" data-file-height="461" /></a><figcaption>Piers Zizaene</figcaption></figure>
+<h3><span id="Hudlicky.27s_synthesis_of_hirstuene_.281980.29_and_isocomene_.281984.29"></span><span class="mw-headline" id="Hudlicky's_synthesis_of_hirstuene_(1980)_and_isocomene_(1984)">Hudlicky's synthesis of hirstuene (1980) and isocomene (1984)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit&amp;section=7" title="Edit section: Hudlicky&#039;s synthesis of hirstuene (1980) and isocomene (1984)"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The methodology has also been applied to the synthesis <a href="/w/index.php?title=Hirsutene&amp;action=edit&amp;redlink=1" class="new" title="Hirsutene (page does not exist)">hirsutene</a><sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup> and <a href="/wiki/Isocomene" title="Isocomene">isocomene</a><sup id="cite_ref-43" class="reference"><a href="#cite_note-43">&#91;43&#93;</a></sup>
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:3_Triquinanes_Hudlicky.png" class="mw-file-description" title="Triquinanes Hudlicky"><img alt="Triquinanes Hudlicky" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/3_Triquinanes_Hudlicky.png/750px-3_Triquinanes_Hudlicky.png" decoding="async" width="750" height="558" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/3_Triquinanes_Hudlicky.png/1125px-3_Triquinanes_Hudlicky.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/3_Triquinanes_Hudlicky.png/1500px-3_Triquinanes_Hudlicky.png 2x" data-file-width="2050" data-file-height="1524" /></a><figcaption>Triquinanes Hudlicky</figcaption></figure>
+<h3><span class="mw-headline" id="Synthesis_of_alpha-Vetispirene">Synthesis of alpha-Vetispirene</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit&amp;section=8" title="Edit section: Synthesis of alpha-Vetispirene"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Cinylcyclopropane rearrangement has been used to build the <a href="/wiki/Spirocyclic" class="mw-redirect" title="Spirocyclic">spirocyclic</a> natural product alpha-Vetispirene in 1982.<sup id="cite_ref-44" class="reference"><a href="#cite_note-44">&#91;44&#93;</a></sup>
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:4_Paquette_vetispirene.png" class="mw-file-description" title="Paquette vetispirene"><img alt="Paquette vetispirene" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/4_Paquette_vetispirene.png/750px-4_Paquette_vetispirene.png" decoding="async" width="750" height="210" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/58/4_Paquette_vetispirene.png/1125px-4_Paquette_vetispirene.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/58/4_Paquette_vetispirene.png/1500px-4_Paquette_vetispirene.png 2x" data-file-width="2050" data-file-height="573" /></a><figcaption>Paquette vetispirene</figcaption></figure>
+<h3><span class="mw-headline" id="Synthesis_of_Antheridiogen-An">Synthesis of Antheridiogen-An</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit&amp;section=9" title="Edit section: Synthesis of Antheridiogen-An"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Antheridiogen" title="Antheridiogen">Antheridiogen</a>-An was prepared using a Lewis-acid mediated late-stage vinylcyclopropane rearrangement.<sup id="cite_ref-45" class="reference"><a href="#cite_note-45">&#91;45&#93;</a></sup>
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:5_Corey_Antheridiogen.png" class="mw-file-description" title="Corey Antheridiogen"><img alt="Corey Antheridiogen" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/5_Corey_Antheridiogen.png/750px-5_Corey_Antheridiogen.png" decoding="async" width="750" height="226" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/5_Corey_Antheridiogen.png/1125px-5_Corey_Antheridiogen.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/5_Corey_Antheridiogen.png/1500px-5_Corey_Antheridiogen.png 2x" data-file-width="2050" data-file-height="618" /></a><figcaption>Corey Antheridiogen</figcaption></figure>
+<h3><span class="mw-headline" id="Synthesis_of_biotin">Synthesis of biotin</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit&amp;section=10" title="Edit section: Synthesis of biotin"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Copper-catalyzed heteroatom-vinylcyclopropane rearrangement was used to form the <a href="/wiki/Tetrahydrothiophene" title="Tetrahydrothiophene">tetrahydrothiophene</a> core of <a href="/wiki/Biotin" title="Biotin">biotin</a> and the <a href="/wiki/Thiophene" title="Thiophene">thiophene</a> unit of <a href="/wiki/Plavix" class="mw-redirect" title="Plavix">Plavix</a> respectively.<sup id="cite_ref-46" class="reference"><a href="#cite_note-46">&#91;46&#93;</a></sup>
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:6_Njardarson_Biotin%26Plavix.png" class="mw-file-description" title="Njardarson Biotin&amp;Plavix"><img alt="Njardarson Biotin&amp;Plavix" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/6_Njardarson_Biotin%26Plavix.png/750px-6_Njardarson_Biotin%26Plavix.png" decoding="async" width="750" height="400" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/6_Njardarson_Biotin%26Plavix.png/1125px-6_Njardarson_Biotin%26Plavix.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/6_Njardarson_Biotin%26Plavix.png/1500px-6_Njardarson_Biotin%26Plavix.png 2x" data-file-width="2050" data-file-height="1094" /></a><figcaption>Njardarson Biotin&amp;Plavix</figcaption></figure>
+<h3><span class="mw-headline" id="Synthesis_of_salviasperanol">Synthesis of salviasperanol</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit&amp;section=11" title="Edit section: Synthesis of salviasperanol"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An acid-mediated vinylcyclopropane rearrangement was used to synthesize the natural product salviasperanol.<sup id="cite_ref-47" class="reference"><a href="#cite_note-47">&#91;47&#93;</a></sup>
+</p>
+<figure class="mw-halign-center" typeof="mw:File"><a href="/wiki/File:7_Majetich_Salviasperanol.png" class="mw-file-description" title="Majetich Salviasperanol"><img alt="Majetich Salviasperanol" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/7_Majetich_Salviasperanol.png/750px-7_Majetich_Salviasperanol.png" decoding="async" width="750" height="212" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/7_Majetich_Salviasperanol.png/1125px-7_Majetich_Salviasperanol.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/7_Majetich_Salviasperanol.png/1500px-7_Majetich_Salviasperanol.png 2x" data-file-width="2050" data-file-height="580" /></a><figcaption>Majetich Salviasperanol</figcaption></figure>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit&amp;section=12" title="Edit section: See also"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Skatteb%C3%B8l_rearrangement" title="Skattebøl rearrangement">Skattebøl rearrangement</a></li>
+<li><a href="/wiki/Di-%CF%80-methane_rearrangement" title="Di-π-methane rearrangement">Di-π-methane rearrangement</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vinylcyclopropane_rearrangement&amp;action=edit&amp;section=13" title="Edit section: References"><span>edit</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1217336898">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width reflist-columns-2">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r1215172403">.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a{background-size:contain}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a{background-size:contain}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a{background-size:contain}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:#d33}.mw-parser-output .cs1-visible-error{color:#d33}.mw-parser-output .cs1-maint{display:none;color:#2C882D;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911F}html.skin-theme-clientpref-night .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-night .mw-parser-output .cs1-hidden-error{color:#f8a397}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-visible-error,html.skin-theme-clientpref-os .mw-parser-output .cs1-hidden-error{color:#f8a397}html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911F}}</style><cite id="CITEREFMil&#39;vitskayaTarakanovaPlate1976" class="citation journal cs1">Mil'vitskaya, E M; Tarakanova, A V; Plate, Alfred F (1976). "Thermal Rearrangements of Vinylcyclopropanes". <i>Russ Chem. Rev</i>. <b>45</b>: 469–478. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1070%2FRC1976v045n05ABEH002675">10.1070/RC1976v045n05ABEH002675</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Russ+Chem.+Rev.&amp;rft.atitle=Thermal+Rearrangements+of+Vinylcyclopropanes&amp;rft.volume=45&amp;rft.pages=469-478&amp;rft.date=1976&amp;rft_id=info%3Adoi%2F10.1070%2FRC1976v045n05ABEH002675&amp;rft.aulast=Mil%27vitskaya&amp;rft.aufirst=E+M&amp;rft.au=Tarakanova%2C+A+V&amp;rft.au=Plate%2C+Alfred+F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFGoldschmidtCrammer1988" class="citation journal cs1">Goldschmidt, Z.; Crammer, B. (1988). "Vinylcyclopropane rearrangements". <i>Chem. Soc. Rev</i>. <b>17</b>: 229–267. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1039%2FCS9881700229">10.1039/CS9881700229</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chem.+Soc.+Rev.&amp;rft.atitle=Vinylcyclopropane+rearrangements&amp;rft.volume=17&amp;rft.pages=229-267&amp;rft.date=1988&amp;rft_id=info%3Adoi%2F10.1039%2FCS9881700229&amp;rft.aulast=Goldschmidt&amp;rft.aufirst=Z.&amp;rft.au=Crammer%2C+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFHudlickyReed2010" class="citation journal cs1">Hudlicky, Tomas; Reed, Josephine W. (2010). "From Discovery to Application: 50 Years of the Vinylcyclopropane-Cyclopentene Rearrangement and Its Impact on the Synthesis of Natural Products". <i>Angewandte Chemie International Edition</i>. <b>49</b> (29): 4864–76. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2Fanie.200906001">10.1002/anie.200906001</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/20586104">20586104</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Angewandte+Chemie+International+Edition&amp;rft.atitle=From+Discovery+to+Application%3A+50+Years+of+the+Vinylcyclopropane-Cyclopentene+Rearrangement+and+Its+Impact+on+the+Synthesis+of+Natural+Products&amp;rft.volume=49&amp;rft.issue=29&amp;rft.pages=4864-76&amp;rft.date=2010&amp;rft_id=info%3Adoi%2F10.1002%2Fanie.200906001&amp;rft_id=info%3Apmid%2F20586104&amp;rft.aulast=Hudlicky&amp;rft.aufirst=Tomas&amp;rft.au=Reed%2C+Josephine+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFFürstnerAïssa,_Christophe2006" class="citation journal cs1">Fürstner, Alois; Aïssa, Christophe (2006). "PtCl-Catalyzed Rearrangement of Methylenecyclopropanes". <i>Journal of the American Chemical Society</i>. <b>128</b> (19): 6306–6307. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja061392y">10.1021/ja061392y</a>. <a href="/wiki/Hdl_(identifier)" class="mw-redirect" title="Hdl (identifier)">hdl</a>:<span class="id-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://hdl.handle.net/11858%2F00-001M-0000-0025-AE20-3">11858/00-001M-0000-0025-AE20-3</a></span>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/16683781">16683781</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=PtCl-Catalyzed+Rearrangement+of+Methylenecyclopropanes&amp;rft.volume=128&amp;rft.issue=19&amp;rft.pages=6306-6307&amp;rft.date=2006&amp;rft_id=info%3Ahdl%2F11858%2F00-001M-0000-0025-AE20-3&amp;rft_id=info%3Apmid%2F16683781&amp;rft_id=info%3Adoi%2F10.1021%2Fja061392y&amp;rft.aulast=F%C3%BCrstner&amp;rft.aufirst=Alois&amp;rft.au=A%C3%AFssa%2C+Christophe&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFWenderHaustedtLimLove2006" class="citation journal cs1"><a href="/wiki/Paul_Wender" title="Paul Wender">Wender, Paul A.</a>; Haustedt, Lars O.; Lim, Jaehong; <a href="/wiki/Jennifer_Love_(chemist)" title="Jennifer Love (chemist)">Love, Jennifer A.</a>; Williams, Travis J.; Yoon, Joo-Yong (May 2006). "Asymmetric Catalysis of the [5 + 2] Cycloaddition Reaction of Vinylcyclopropanes and π-Systems". <i>Journal of the American Chemical Society</i>. <b>128</b> (19): 6302–6303. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja058590u">10.1021/ja058590u</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/16683779">16683779</a>. <a href="/wiki/S2CID_(identifier)" class="mw-redirect" title="S2CID (identifier)">S2CID</a>&#160;<a rel="nofollow" class="external text" href="https://api.semanticscholar.org/CorpusID:197039161">197039161</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=Asymmetric+Catalysis+of+the+%5B5+%2B+2%5D+Cycloaddition+Reaction+of+Vinylcyclopropanes+and+%CF%80-Systems&amp;rft.volume=128&amp;rft.issue=19&amp;rft.pages=6302-6303&amp;rft.date=2006-05&amp;rft_id=https%3A%2F%2Fapi.semanticscholar.org%2FCorpusID%3A197039161%23id-name%3DS2CID&amp;rft_id=info%3Apmid%2F16683779&amp;rft_id=info%3Adoi%2F10.1021%2Fja058590u&amp;rft.aulast=Wender&amp;rft.aufirst=Paul+A.&amp;rft.au=Haustedt%2C+Lars+O.&amp;rft.au=Lim%2C+Jaehong&amp;rft.au=Love%2C+Jennifer+A.&amp;rft.au=Williams%2C+Travis+J.&amp;rft.au=Yoon%2C+Joo-Yong&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFWoodworthSkell1957" class="citation journal cs1">Woodworth, Robert C.; Skell, Philip S. (1957). "Reactions of bivalent carbon species. Addition of dihalocarbenes to 1,3-butadiene". <i>J. Am. Chem. Soc</i>. <b>79</b> (10): 2542. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja01567a048">10.1021/ja01567a048</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=Reactions+of+bivalent+carbon+species.+Addition+of+dihalocarbenes+to+1%2C3-butadiene&amp;rft.volume=79&amp;rft.issue=10&amp;rft.pages=2542&amp;rft.date=1957&amp;rft_id=info%3Adoi%2F10.1021%2Fja01567a048&amp;rft.aulast=Woodworth&amp;rft.aufirst=Robert+C.&amp;rft.au=Skell%2C+Philip+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFDoeringHoffman1954" class="citation journal cs1">Doering, W. von E.; Hoffman, A. Kentaro (1954). "The Addition of Dichlorocarbene to Olefins". <i>J. Am. Chem. Soc</i>. <b>76</b> (23): 6162. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja01652a087">10.1021/ja01652a087</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=The+Addition+of+Dichlorocarbene+to+Olefins&amp;rft.volume=76&amp;rft.issue=23&amp;rft.pages=6162&amp;rft.date=1954&amp;rft_id=info%3Adoi%2F10.1021%2Fja01652a087&amp;rft.aulast=Doering&amp;rft.aufirst=W.+von+E.&amp;rft.au=Hoffman%2C+A.+Kentaro&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFNeureiter1959" class="citation journal cs1">Neureiter, Norman (1959). "Pyrolysis of 1,l-Dichloro-2-vinylcyclopropane. Synthesis of 2-Chlorocyclopentadiene". <i>J. Org. Chem</i>. <b>24</b> (12): 2044. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fjo01094a621">10.1021/jo01094a621</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Org.+Chem.&amp;rft.atitle=Pyrolysis+of+1%2Cl-Dichloro-2-vinylcyclopropane.+Synthesis+of+2-Chlorocyclopentadiene&amp;rft.volume=24&amp;rft.issue=12&amp;rft.pages=2044&amp;rft.date=1959&amp;rft_id=info%3Adoi%2F10.1021%2Fjo01094a621&amp;rft.aulast=Neureiter&amp;rft.aufirst=Norman&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFVogel1960" class="citation journal cs1">Vogel, Emanuel (1960). "Kleine Kohlenstoff-Ringe". <i>Angewandte Chemie</i>. <b>72</b>: 4–26. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2Fange.19600720103">10.1002/ange.19600720103</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Angewandte+Chemie&amp;rft.atitle=Kleine+Kohlenstoff-Ringe&amp;rft.volume=72&amp;rft.pages=4-26&amp;rft.date=1960&amp;rft_id=info%3Adoi%2F10.1002%2Fange.19600720103&amp;rft.aulast=Vogel&amp;rft.aufirst=Emanuel&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFOverbergerBorchert1960" class="citation journal cs1">Overberger, C. G.; Borchert, A. E. (1960). "Novel thermal rearrangements accompanying acetate pyrolysis in small ring systems". <i>J. Am. Chem. Soc</i>. <b>82</b> (4): 1007. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja01489a069">10.1021/ja01489a069</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=Novel+thermal+rearrangements+accompanying+acetate+pyrolysis+in+small+ring+systems&amp;rft.volume=82&amp;rft.issue=4&amp;rft.pages=1007&amp;rft.date=1960&amp;rft_id=info%3Adoi%2F10.1021%2Fja01489a069&amp;rft.aulast=Overberger&amp;rft.aufirst=C.+G.&amp;rft.au=Borchert%2C+A.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFOverbergerBorchert1960" class="citation journal cs1">Overberger, C. G.; Borchert, A. E. (1960). "Ionic Polymerization. XVI. Reactions of 1-Cyclopropylethanol-Vinylcyclopropane". <i>J. Am. Chem. Soc</i>. <b>82</b> (18): 4896. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja01503a036">10.1021/ja01503a036</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=Ionic+Polymerization.+XVI.+Reactions+of+1-Cyclopropylethanol-Vinylcyclopropane&amp;rft.volume=82&amp;rft.issue=18&amp;rft.pages=4896&amp;rft.date=1960&amp;rft_id=info%3Adoi%2F10.1021%2Fja01503a036&amp;rft.aulast=Overberger&amp;rft.aufirst=C.+G.&amp;rft.au=Borchert%2C+A.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFDoeringLambert1963" class="citation journal cs1">Doering, W. von E.; Lambert, J. B. (1963). "Thermal Reorganization of a- and b-Thujene: A degenerate rearrangement of the vinylcyclopropane type". <i>Tetrahedron</i>. <b>19</b> (12): 1989. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2F0040-4020%2863%2985013-9">10.1016/0040-4020(63)85013-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Tetrahedron&amp;rft.atitle=Thermal+Reorganization+of+a-+and+b-Thujene%3A+A+degenerate+rearrangement+of+the+vinylcyclopropane+type&amp;rft.volume=19&amp;rft.issue=12&amp;rft.pages=1989&amp;rft.date=1963&amp;rft_id=info%3Adoi%2F10.1016%2F0040-4020%2863%2985013-9&amp;rft.aulast=Doering&amp;rft.aufirst=W.+von+E.&amp;rft.au=Lambert%2C+J.+B.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFAtkinsonRees1967" class="citation journal cs1">Atkinson, R. S.; Rees, C. W. (1967). "A vinylaziridine to pyrroline rearrangement". <i>Chemical Communications</i> (23): 1232a. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1039%2FC1967001232a">10.1039/C1967001232a</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Communications&amp;rft.atitle=A+vinylaziridine+to+pyrroline+rearrangement&amp;rft.issue=23&amp;rft.pages=1232a&amp;rft.date=1967&amp;rft_id=info%3Adoi%2F10.1039%2FC1967001232a&amp;rft.aulast=Atkinson&amp;rft.aufirst=R.+S.&amp;rft.au=Rees%2C+C.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFLwowskiRiceLwowski1968" class="citation journal cs1">Lwowski, Walter; Rice, Susan N.; Lwowski, Walter (1968). "Singlet and Triplet Nitrenes. 111. The Addition of Carbethoxynitrene to 1,3-Dienes". <i>J. Org. Chem</i>. <b>33</b> (22): 481. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fjo01266a001">10.1021/jo01266a001</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Org.+Chem.&amp;rft.atitle=Singlet+and+Triplet+Nitrenes.+111.+The+Addition+of+Carbethoxynitrene+to+1%2C3-Dienes&amp;rft.volume=33&amp;rft.issue=22&amp;rft.pages=481&amp;rft.date=1968&amp;rft_id=info%3Adoi%2F10.1021%2Fjo01266a001&amp;rft.aulast=Lwowski&amp;rft.aufirst=Walter&amp;rft.au=Rice%2C+Susan+N.&amp;rft.au=Lwowski%2C+Walter&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFPaladiniChuche1971" class="citation journal cs1">Paladini, J; Chuche, X. X. (1971). "Rearrangement thermique d'epoxydes vinyliques". <i>Tetrahedron Letters</i>. <b>12</b> (46): 4383. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2FS0040-4039%2801%2997447-7">10.1016/S0040-4039(01)97447-7</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Tetrahedron+Letters&amp;rft.atitle=Rearrangement+thermique+d%27epoxydes+vinyliques&amp;rft.volume=12&amp;rft.issue=46&amp;rft.pages=4383&amp;rft.date=1971&amp;rft_id=info%3Adoi%2F10.1016%2FS0040-4039%2801%2997447-7&amp;rft.aulast=Paladini&amp;rft.aufirst=J&amp;rft.au=Chuche%2C+X.+X.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFDemjanowDojarenko1922" class="citation journal cs1">Demjanow, N. J.; Dojarenko, Marie (1922). <a rel="nofollow" class="external text" href="https://zenodo.org/record/1426739">"Über Vinylcyclopropan, einige Derivate des Methyl-cyclopropyl-carbinols und die Isomerisation des Cyclopropan-Ringes"</a>. <i>Ber. Dtsch. Chem. Ges. B</i>. <b>55</b> (8): 2718. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2Fcber.19220550846">10.1002/cber.19220550846</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Ber.+Dtsch.+Chem.+Ges.+B&amp;rft.atitle=%C3%9Cber+Vinylcyclopropan%2C+einige+Derivate+des+Methyl-cyclopropyl-carbinols+und+die+Isomerisation+des+Cyclopropan-Ringes&amp;rft.volume=55&amp;rft.issue=8&amp;rft.pages=2718&amp;rft.date=1922&amp;rft_id=info%3Adoi%2F10.1002%2Fcber.19220550846&amp;rft.aulast=Demjanow&amp;rft.aufirst=N.+J.&amp;rft.au=Dojarenko%2C+Marie&amp;rft_id=https%3A%2F%2Fzenodo.org%2Frecord%2F1426739&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFClokeBorchert1929" class="citation journal cs1">Cloke, J. B.; Borchert, A. E. (1929). "The formation of pyrrolines from gamma-chloropropyl and cyclopropyl ketimines". <i>J. Am. Chem. Soc</i>. <b>51</b> (18): 1174. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja01379a028">10.1021/ja01379a028</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=The+formation+of+pyrrolines+from+gamma-chloropropyl+and+cyclopropyl+ketimines&amp;rft.volume=51&amp;rft.issue=18&amp;rft.pages=1174&amp;rft.date=1929&amp;rft_id=info%3Adoi%2F10.1021%2Fja01379a028&amp;rft.aulast=Cloke&amp;rft.aufirst=J.+B.&amp;rft.au=Borchert%2C+A.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFWilsonBorchert1947" class="citation journal cs1">Wilson, C. L.; Borchert, A. E. (1947). "Reactions of Furan Compounds. VII. Thermal Interconversionof 2,3-Dihydrofuran and Cyclopropane Aldehyde". <i>J. Am. Chem. Soc</i>. <b>69</b> (18): 3002. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja01204a020">10.1021/ja01204a020</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=Reactions+of+Furan+Compounds.+VII.+Thermal+Interconversionof+2%2C3-Dihydrofuran+and+Cyclopropane+Aldehyde&amp;rft.volume=69&amp;rft.issue=18&amp;rft.pages=3002&amp;rft.date=1947&amp;rft_id=info%3Adoi%2F10.1021%2Fja01204a020&amp;rft.aulast=Wilson&amp;rft.aufirst=C.+L.&amp;rft.au=Borchert%2C+A.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><i>Organic Syntheses Based on Name Reactions: A Practical Guide to 750 Transformations</i> Alfred Hassner, Irishi Namboothiri Elsevier, 2012</span>
+</li>
+<li id="cite_note-CR-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-CR_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CR_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFBaldwin2003" class="citation journal cs1">Baldwin, John E. (2003). "Thermal Rearrangements of Vinylcyclopropanes to Cyclopentenes". <i>Chemical Reviews</i>. <b>103</b> (4): 1197–212. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fcr010020z">10.1021/cr010020z</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/12683781">12683781</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Chemical+Reviews&amp;rft.atitle=Thermal+Rearrangements+of+Vinylcyclopropanes+to+Cyclopentenes&amp;rft.volume=103&amp;rft.issue=4&amp;rft.pages=1197-212&amp;rft.date=2003&amp;rft_id=info%3Adoi%2F10.1021%2Fcr010020z&amp;rft_id=info%3Apmid%2F12683781&amp;rft.aulast=Baldwin&amp;rft.aufirst=John+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFFlowersRabinovitch1960" class="citation journal cs1">Flowers, M. C.; Rabinovitch, B. S. (1960). "The Thermal Unimolecular Isomerisation of Vinylcyclo- propane to Cyclopentene". <i>J. Chem. Soc</i>. <b>82</b> (23): 3547. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja01508a008">10.1021/ja01508a008</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Chem.+Soc.&amp;rft.atitle=The+Thermal+Unimolecular+Isomerisation+of+Vinylcyclo-+propane+to+Cyclopentene&amp;rft.volume=82&amp;rft.issue=23&amp;rft.pages=3547&amp;rft.date=1960&amp;rft_id=info%3Adoi%2F10.1021%2Fja01508a008&amp;rft.aulast=Flowers&amp;rft.aufirst=M.+C.&amp;rft.au=Rabinovitch%2C+B.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFSchlagRabinovitch1960" class="citation journal cs1">Schlag, E. W.; Rabinovitch, B. S. (1960). "Kinetics of the Thermal Unimolecular Isomerization Reactions of Cyclopropane-d2". <i>J. Am. Chem. Soc</i>. <b>82</b> (23): 5996. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja01508a008">10.1021/ja01508a008</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=Kinetics+of+the+Thermal+Unimolecular+Isomerization+Reactions+of+Cyclopropane-d2&amp;rft.volume=82&amp;rft.issue=23&amp;rft.pages=5996&amp;rft.date=1960&amp;rft_id=info%3Adoi%2F10.1021%2Fja01508a008&amp;rft.aulast=Schlag&amp;rft.aufirst=E.+W.&amp;rft.au=Rabinovitch%2C+B.+S.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFEggerGoldenBenson1964" class="citation journal cs1">Egger, K. W.; Golden, David M.; Benson, Sidney W. (1964). "Iodine-Catalyzed Isomerization of Olefins. 11. The Resonance Energy of the Allyl Radical and the Kinetics of the Positional Isomerization of 1-Butene". <i>J. Am. Chem. Soc</i>. <b>86</b> (24): 5420. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja01078a011">10.1021/ja01078a011</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=Iodine-Catalyzed+Isomerization+of+Olefins.+11.+The+Resonance+Energy+of+the+Allyl+Radical+and+the+Kinetics+of+the+Positional+Isomerization+of+1-Butene&amp;rft.volume=86&amp;rft.issue=24&amp;rft.pages=5420&amp;rft.date=1964&amp;rft_id=info%3Adoi%2F10.1021%2Fja01078a011&amp;rft.aulast=Egger&amp;rft.aufirst=K.+W.&amp;rft.au=Golden%2C+David+M.&amp;rft.au=Benson%2C+Sidney+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFWoodwardHoffmann1969" class="citation journal cs1">Woodward, R. B.; Hoffmann, R. (1969). "The Conservation of Orbital Symmetry". <i>Angew. Chem. Int. Ed</i>. <b>8</b> (11): 781. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1002%2Fanie.196907811">10.1002/anie.196907811</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Angew.+Chem.+Int.+Ed.&amp;rft.atitle=The+Conservation+of+Orbital+Symmetry&amp;rft.volume=8&amp;rft.issue=11&amp;rft.pages=781&amp;rft.date=1969&amp;rft_id=info%3Adoi%2F10.1002%2Fanie.196907811&amp;rft.aulast=Woodward&amp;rft.aufirst=R.+B.&amp;rft.au=Hoffmann%2C+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFGajewskiSquicciarini1989" class="citation journal cs1">Gajewski, Joseph J.; Squicciarini, Michael P. (1989). "Evidence for concert in the vinylcyclopropane rearrangement. A reinvestigation of the pyrolysis of trans-1-methyl-2-(1-tert-butylethenyl)cyclopropane". <i>Journal of the American Chemical Society</i>. <b>111</b> (17): 6717. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja00199a035">10.1021/ja00199a035</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=Evidence+for+concert+in+the+vinylcyclopropane+rearrangement.+A+reinvestigation+of+the+pyrolysis+of+trans-1-methyl-2-%281-tert-butylethenyl%29cyclopropane&amp;rft.volume=111&amp;rft.issue=17&amp;rft.pages=6717&amp;rft.date=1989&amp;rft_id=info%3Adoi%2F10.1021%2Fja00199a035&amp;rft.aulast=Gajewski&amp;rft.aufirst=Joseph+J.&amp;rft.au=Squicciarini%2C+Michael+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFGajewskiOlson1991" class="citation journal cs1">Gajewski, Joseph J.; Olson, Leif P. (1991). "Evidence for a dominant suprafacial-inversion pathway in the thermal unimolecular vinylcyclopropane to cyclopentene 1,3-sigmatropic shift". <i>Journal of the American Chemical Society</i>. <b>113</b> (19): 7432. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja00019a056">10.1021/ja00019a056</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=Evidence+for+a+dominant+suprafacial-inversion+pathway+in+the+thermal+unimolecular+vinylcyclopropane+to+cyclopentene+1%2C3-sigmatropic+shift&amp;rft.volume=113&amp;rft.issue=19&amp;rft.pages=7432&amp;rft.date=1991&amp;rft_id=info%3Adoi%2F10.1021%2Fja00019a056&amp;rft.aulast=Gajewski&amp;rft.aufirst=Joseph+J.&amp;rft.au=Olson%2C+Leif+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-Doijap1996-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-Doijap1996_27-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFGajewskiOlsonWillcott1996" class="citation journal cs1">Gajewski, Joseph J.; Olson, Leif P.; Willcott, M. Robert (1996). "Evidence for Concert in the Thermal Unimolecular Vinylcyclopropane to Cyclopentene Sigmatropic 1,3-Shift". <i>Journal of the American Chemical Society</i>. <b>118</b> (2): 299. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja951578p">10.1021/ja951578p</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=Evidence+for+Concert+in+the+Thermal+Unimolecular+Vinylcyclopropane+to+Cyclopentene+Sigmatropic+1%2C3-Shift&amp;rft.volume=118&amp;rft.issue=2&amp;rft.pages=299&amp;rft.date=1996&amp;rft_id=info%3Adoi%2F10.1021%2Fja951578p&amp;rft.aulast=Gajewski&amp;rft.aufirst=Joseph+J.&amp;rft.au=Olson%2C+Leif+P.&amp;rft.au=Willcott%2C+M.+Robert&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFHoukNendelWiestStorer1997" class="citation journal cs1">Houk, K. N.; Nendel, Maja; Wiest, Olaf; Storer, Joey W. (1997). "The Vinylcyclopropane−Cyclopentene Rearrangement: A Prototype Thermal Rearrangement Involving Competing Diradical Concerted and Stepwise Mechanisms". <i>Journal of the American Chemical Society</i>. <b>119</b> (43): 10545. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja971315q">10.1021/ja971315q</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=The+Vinylcyclopropane%E2%88%92Cyclopentene+Rearrangement%3A+A+Prototype+Thermal+Rearrangement+Involving+Competing+Diradical+Concerted+and+Stepwise+Mechanisms&amp;rft.volume=119&amp;rft.issue=43&amp;rft.pages=10545&amp;rft.date=1997&amp;rft_id=info%3Adoi%2F10.1021%2Fja971315q&amp;rft.aulast=Houk&amp;rft.aufirst=K.+N.&amp;rft.au=Nendel%2C+Maja&amp;rft.au=Wiest%2C+Olaf&amp;rft.au=Storer%2C+Joey+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFCoreyWalinsky1972" class="citation journal cs1">Corey, E. J.; Walinsky, S. W. (1972). "Reaction of 1,3-dithienium fluoroborate with 1,3-dienes. Synthesis of .DELTA.3-cyclopenten-1-ones". <i>Journal of the American Chemical Society</i>. <b>94</b> (25): 8932. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja00780a063">10.1021/ja00780a063</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=Reaction+of+1%2C3-dithienium+fluoroborate+with+1%2C3-dienes.+Synthesis+of+.DELTA.3-cyclopenten-1-ones&amp;rft.volume=94&amp;rft.issue=25&amp;rft.pages=8932&amp;rft.date=1972&amp;rft_id=info%3Adoi%2F10.1021%2Fja00780a063&amp;rft.aulast=Corey&amp;rft.aufirst=E.+J.&amp;rft.au=Walinsky%2C+S.+W.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFSimpsonRichey1973" class="citation journal cs1">Simpson, John M.; Richey, Herman G. (1973). "The effects of methoxyl and phenyl substituents on the thermal rearrangements of vinylcyclopropane". <i>Tetrahedron Letters</i>. <b>14</b> (27): 2545. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2FS0040-4039%2801%2996201-X">10.1016/S0040-4039(01)96201-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Tetrahedron+Letters&amp;rft.atitle=The+effects+of+methoxyl+and+phenyl+substituents+on+the+thermal+rearrangements+of+vinylcyclopropane&amp;rft.volume=14&amp;rft.issue=27&amp;rft.pages=2545&amp;rft.date=1973&amp;rft_id=info%3Adoi%2F10.1016%2FS0040-4039%2801%2996201-X&amp;rft.aulast=Simpson&amp;rft.aufirst=John+M.&amp;rft.au=Richey%2C+Herman+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFTrostBogdanowicz1973" class="citation journal cs1">Trost, Barry M.; Bogdanowicz, Mitchell J. (1973). "New synthetic reactions. IX. Facile synthesis of oxaspiropentanes, versatile synthetic intermediates". <i>Journal of the American Chemical Society</i>. <b>95</b> (16): 5311. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja00797a036">10.1021/ja00797a036</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=New+synthetic+reactions.+IX.+Facile+synthesis+of+oxaspiropentanes%2C+versatile+synthetic+intermediates&amp;rft.volume=95&amp;rft.issue=16&amp;rft.pages=5311&amp;rft.date=1973&amp;rft_id=info%3Adoi%2F10.1021%2Fja00797a036&amp;rft.aulast=Trost&amp;rft.aufirst=Barry+M.&amp;rft.au=Bogdanowicz%2C+Mitchell+J.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFTrostKeeley1976" class="citation journal cs1">Trost, Barry M.; Keeley, Donald E. (1976). "New synthetic methods. A stereocontrolled approach to cyclopentane annelation". <i>Journal of the American Chemical Society</i>. <b>98</b>: 248–250. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja00417a048">10.1021/ja00417a048</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=New+synthetic+methods.+A+stereocontrolled+approach+to+cyclopentane+annelation&amp;rft.volume=98&amp;rft.pages=248-250&amp;rft.date=1976&amp;rft_id=info%3Adoi%2F10.1021%2Fja00417a048&amp;rft.aulast=Trost&amp;rft.aufirst=Barry+M.&amp;rft.au=Keeley%2C+Donald+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFPaquetteMeehanHenzelEizember1973" class="citation journal cs1">Paquette, Leo A.; Meehan, George V.; Henzel, Richard P.; Eizember, Richard F. (1973). "Photochemistry of conjugated cis-bicyclo[5.1.0]octenones, cis- and trans-bicyclo[5.2.0]non-2-en-4-ones, and their methylene analogs". <i>The Journal of Organic Chemistry</i>. <b>38</b> (19): 3250. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fjo00959a004">10.1021/jo00959a004</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Organic+Chemistry&amp;rft.atitle=Photochemistry+of+conjugated+cis-bicyclo%5B5.1.0%5Doctenones%2C+cis-+and+trans-bicyclo%5B5.2.0%5Dnon-2-en-4-ones%2C+and+their+methylene+analogs&amp;rft.volume=38&amp;rft.issue=19&amp;rft.pages=3250&amp;rft.date=1973&amp;rft_id=info%3Adoi%2F10.1021%2Fjo00959a004&amp;rft.aulast=Paquette&amp;rft.aufirst=Leo+A.&amp;rft.au=Meehan%2C+George+V.&amp;rft.au=Henzel%2C+Richard+P.&amp;rft.au=Eizember%2C+Richard+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFPaquetteHenzelEizember1973" class="citation journal cs1">Paquette, Leo A.; Henzel, Richard P.; Eizember, Richard F. (1973). "Thermochemical behavior of conjugated cis-bicyclo[5.1.0]octenones, cis- and trans-bicyclo[5.2.0]non-2-en-4-ones, and their methylene analogs". <i>The Journal of Organic Chemistry</i>. <b>38</b> (19): 3257. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fjo00959a005">10.1021/jo00959a005</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Organic+Chemistry&amp;rft.atitle=Thermochemical+behavior+of+conjugated+cis-bicyclo%5B5.1.0%5Doctenones%2C+cis-+and+trans-bicyclo%5B5.2.0%5Dnon-2-en-4-ones%2C+and+their+methylene+analogs&amp;rft.volume=38&amp;rft.issue=19&amp;rft.pages=3257&amp;rft.date=1973&amp;rft_id=info%3Adoi%2F10.1021%2Fjo00959a005&amp;rft.aulast=Paquette&amp;rft.aufirst=Leo+A.&amp;rft.au=Henzel%2C+Richard+P.&amp;rft.au=Eizember%2C+Richard+F.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFHudlickyKoszykKutchanSheth1980" class="citation journal cs1">Hudlicky, Tomas; Koszyk, Francis F.; Kutchan, Toni M.; Sheth, Jagdish P. (1980). "Cyclopentene annulation via intramolecular addition of diazoketones to 1,3-dienes. Applications to the synthesis of cyclopentanoid terpenes". <i>The Journal of Organic Chemistry</i>. <b>45</b> (25): 5020. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fjo01313a003">10.1021/jo01313a003</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Organic+Chemistry&amp;rft.atitle=Cyclopentene+annulation+via+intramolecular+addition+of+diazoketones+to+1%2C3-dienes.+Applications+to+the+synthesis+of+cyclopentanoid+terpenes&amp;rft.volume=45&amp;rft.issue=25&amp;rft.pages=5020&amp;rft.date=1980&amp;rft_id=info%3Adoi%2F10.1021%2Fjo01313a003&amp;rft.aulast=Hudlicky&amp;rft.aufirst=Tomas&amp;rft.au=Koszyk%2C+Francis+F.&amp;rft.au=Kutchan%2C+Toni+M.&amp;rft.au=Sheth%2C+Jagdish+P.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFBrownBrownConneelyGolding1975" class="citation journal cs1">Brown, Vanessa; Brown, John M.; Conneely, John A.; Golding, Bernard T.; Williamson, David H. (1975). "Synthesis and thermolysis of rhodium and iridium complexes of endo-6-vinylbicyclo[3.1.0]hex-2-ene. A metal-promoted vinylcyclopropane to cyclopentene rearrangement". <i>Journal of the Chemical Society, Perkin Transactions 2</i> (1): 4. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1039%2FP29750000004">10.1039/P29750000004</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+Chemical+Society%2C+Perkin+Transactions+2&amp;rft.atitle=Synthesis+and+thermolysis+of+rhodium+and+iridium+complexes+of+endo-6-vinylbicyclo%5B3.1.0%5Dhex-2-ene.+A+metal-promoted+vinylcyclopropane+to+cyclopentene+rearrangement&amp;rft.issue=1&amp;rft.pages=4&amp;rft.date=1975&amp;rft_id=info%3Adoi%2F10.1039%2FP29750000004&amp;rft.aulast=Brown&amp;rft.aufirst=Vanessa&amp;rft.au=Brown%2C+John+M.&amp;rft.au=Conneely%2C+John+A.&amp;rft.au=Golding%2C+Bernard+T.&amp;rft.au=Williamson%2C+David+H.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFDanheiserMartinez-DavilaMorin1980" class="citation journal cs1"><a href="/wiki/Rick_L._Danheiser" title="Rick L. Danheiser">Danheiser, Rick L.</a>; Martinez-Davila, Carlos; Morin, John M. (1980). "Synthesis of 3-cyclopentenols by alkoxy-accelerated vinylcyclopropane rearrangement". <i>The Journal of Organic Chemistry</i>. <b>45</b> (7): 1340. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fjo01295a045">10.1021/jo01295a045</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Organic+Chemistry&amp;rft.atitle=Synthesis+of+3-cyclopentenols+by+alkoxy-accelerated+vinylcyclopropane+rearrangement&amp;rft.volume=45&amp;rft.issue=7&amp;rft.pages=1340&amp;rft.date=1980&amp;rft_id=info%3Adoi%2F10.1021%2Fjo01295a045&amp;rft.aulast=Danheiser&amp;rft.aufirst=Rick+L.&amp;rft.au=Martinez-Davila%2C+Carlos&amp;rft.au=Morin%2C+John+M.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFLarsen1988" class="citation journal cs1">Larsen, Scott D. (1988). "A stereoselective synthesis of functionalized cyclopentenes via base-induced ring contraction of thiocarbonyl Diels-Alder adducts". <i>Journal of the American Chemical Society</i>. <b>110</b> (17): 5932–5934. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja00225a072">10.1021/ja00225a072</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Journal+of+the+American+Chemical+Society&amp;rft.atitle=A+stereoselective+synthesis+of+functionalized+cyclopentenes+via+base-induced+ring+contraction+of+thiocarbonyl+Diels-Alder+adducts&amp;rft.volume=110&amp;rft.issue=17&amp;rft.pages=5932-5934&amp;rft.date=1988&amp;rft_id=info%3Adoi%2F10.1021%2Fja00225a072&amp;rft.aulast=Larsen&amp;rft.aufirst=Scott+D.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFHudlickyHeardFleming1990" class="citation journal cs1">Hudlicky, Tomas; Heard, Nina E.; Fleming, Alison (1990). "4-Siloxy-.alpha.-bromocrotonate: A new reagent for [2+3] annulation leading to oxygenated cyclopentenes at low temperatures". <i>The Journal of Organic Chemistry</i>. <b>55</b> (9): 2570. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fjo00296a004">10.1021/jo00296a004</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Journal+of+Organic+Chemistry&amp;rft.atitle=4-Siloxy-.alpha.-bromocrotonate%3A+A+new+reagent+for+%5B2%2B3%5D+annulation+leading+to+oxygenated+cyclopentenes+at+low+temperatures&amp;rft.volume=55&amp;rft.issue=9&amp;rft.pages=2570&amp;rft.date=1990&amp;rft_id=info%3Adoi%2F10.1021%2Fjo00296a004&amp;rft.aulast=Hudlicky&amp;rft.aufirst=Tomas&amp;rft.au=Heard%2C+Nina+E.&amp;rft.au=Fleming%2C+Alison&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-40">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFTrostNishimuraYamamoto1979" class="citation journal cs1">Trost, B. M.; Nishimura, Yoshio; Yamamoto, Kagetoshi (1979). "A Total Synthesis of Aphidicolin". <i>J. Am. Chem. Soc</i>. <b>101</b> (5): 1328. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja00499a071">10.1021/ja00499a071</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=A+Total+Synthesis+of+Aphidicolin&amp;rft.volume=101&amp;rft.issue=5&amp;rft.pages=1328&amp;rft.date=1979&amp;rft_id=info%3Adoi%2F10.1021%2Fja00499a071&amp;rft.aulast=Trost&amp;rft.aufirst=B.+M.&amp;rft.au=Nishimura%2C+Yoshio&amp;rft.au=Yamamoto%2C+Kagetoshi&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFPiers1979" class="citation journal cs1">Piers, E. (1979). "Five-membered Ring Annelation via Thermal Rearrangement of a-Cyclopropyl-ab-unsaturated Ketones: a New Total Synthesis of (&amp;)-Zizaene". <i>J. Chem. Soc. Chem. Commun.</i> (24): 1138. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1039%2FC39790001138">10.1039/C39790001138</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Chem.+Soc.+Chem.+Commun.&amp;rft.atitle=Five-membered+Ring+Annelation+via+Thermal+Rearrangement+of+a-Cyclopropyl-ab-unsaturated+Ketones%3A+a+New+Total+Synthesis+of+%28%26%29-Zizaene&amp;rft.issue=24&amp;rft.pages=1138&amp;rft.date=1979&amp;rft_id=info%3Adoi%2F10.1039%2FC39790001138&amp;rft.aulast=Piers&amp;rft.aufirst=E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFHudlickyKutchanWilsonMao1980" class="citation journal cs1">Hudlicky, T.; Kutchan, Toni M.; Wilson, Stephen R.; Mao, David T. (1980). "Total Synthesis of (rac)-Hirsutene". <i>J. Am. Chem. Soc</i>. <b>102</b> (20): 6351. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja00540a036">10.1021/ja00540a036</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=Total+Synthesis+of+%28rac%29-Hirsutene&amp;rft.volume=102&amp;rft.issue=20&amp;rft.pages=6351&amp;rft.date=1980&amp;rft_id=info%3Adoi%2F10.1021%2Fja00540a036&amp;rft.aulast=Hudlicky&amp;rft.aufirst=T.&amp;rft.au=Kutchan%2C+Toni+M.&amp;rft.au=Wilson%2C+Stephen+R.&amp;rft.au=Mao%2C+David+T.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-43">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFHudlickyKavkaHiggsHudlickyl1984" class="citation journal cs1">Hudlicky, T.; Kavka, Misha; Higgs, Leslie A.; Hudlickyl, Tomas (1984). "Stereocontrolled Total Synthesis of Isocomene Sesquiterpenes". <i>Tetrahedron Lett</i>. <b>25</b> (23): 2447. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2FS0040-4039%2801%2981201-6">10.1016/S0040-4039(01)81201-6</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Tetrahedron+Lett.&amp;rft.atitle=Stereocontrolled+Total+Synthesis+of+Isocomene+Sesquiterpenes&amp;rft.volume=25&amp;rft.issue=23&amp;rft.pages=2447&amp;rft.date=1984&amp;rft_id=info%3Adoi%2F10.1016%2FS0040-4039%2801%2981201-6&amp;rft.aulast=Hudlicky&amp;rft.aufirst=T.&amp;rft.au=Kavka%2C+Misha&amp;rft.au=Higgs%2C+Leslie+A.&amp;rft.au=Hudlickyl%2C+Tomas&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFPaquette1982" class="citation journal cs1">Paquette, L. A. (1982). "A Short Synthesis of (rac)-alpha-Vetispirene". <i>Tetrahedron Lett</i>. <b>23</b>: 3227. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fs0040-4039%2800%2987576-0">10.1016/s0040-4039(00)87576-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Tetrahedron+Lett.&amp;rft.atitle=A+Short+Synthesis+of+%28rac%29-alpha-Vetispirene&amp;rft.volume=23&amp;rft.pages=3227&amp;rft.date=1982&amp;rft_id=info%3Adoi%2F10.1016%2Fs0040-4039%2800%2987576-0&amp;rft.aulast=Paquette&amp;rft.aufirst=L.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFCoreyMyers1985" class="citation journal cs1">Corey, E. J.; Myers, Andrew G. (1985). "Total Synthesis of (rac)-Antheridium-Inducing Factor (AAn,2) of the Fern Anemia pbylfitidis. Clarification of Stereochemistry". <i>J. Am. Chem. Soc</i>. <b>107</b> (19): 5574. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja00305a067">10.1021/ja00305a067</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=Total+Synthesis+of+%28rac%29-Antheridium-Inducing+Factor+%28AAn%2C2%29+of+the+Fern+Anemia+pbylfitidis.+Clarification+of+Stereochemistry&amp;rft.volume=107&amp;rft.issue=19&amp;rft.pages=5574&amp;rft.date=1985&amp;rft_id=info%3Adoi%2F10.1021%2Fja00305a067&amp;rft.aulast=Corey&amp;rft.aufirst=E.+J.&amp;rft.au=Myers%2C+Andrew+G.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFNjardarsonArakiBatoryMcInnis2007" class="citation journal cs1">Njardarson, J. T.; Araki, H; Batory, LA; McInnis, CE; Njardarson, JT (2007). "Highly Selective Copper-Catalyzed Ring Expansion of Vinyl Thiiranes: Application to Synthesis of Biotin and the Heterocyclic Core of Plavix". <i>J. Am. Chem. Soc</i>. <b>129</b> (10): 2768–9. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fja069059h">10.1021/ja069059h</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/17302422">17302422</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=J.+Am.+Chem.+Soc.&amp;rft.atitle=Highly+Selective+Copper-Catalyzed+Ring+Expansion+of+Vinyl+Thiiranes%3A+Application+to+Synthesis+of+Biotin+and+the+Heterocyclic+Core+of+Plavix&amp;rft.volume=129&amp;rft.issue=10&amp;rft.pages=2768-9&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1021%2Fja069059h&amp;rft_id=info%3Apmid%2F17302422&amp;rft.aulast=Njardarson&amp;rft.aufirst=J.+T.&amp;rft.au=Araki%2C+H&amp;rft.au=Batory%2C+LA&amp;rft.au=McInnis%2C+CE&amp;rft.au=Njardarson%2C+JT&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1215172403"><cite id="CITEREFMajetichZouGrove2008" class="citation journal cs1">Majetich, G.; Zou, G; Grove, J (2008). "Total Synthesis of (−)-Salviasperanol". <i>Org. Lett</i>. <b>10</b> (1): 85–7. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1021%2Fol701743c">10.1021/ol701743c</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="https://pubmed.ncbi.nlm.nih.gov/18052176">18052176</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Org.+Lett.&amp;rft.atitle=Total+Synthesis+of+%28%E2%88%92%29-Salviasperanol&amp;rft.volume=10&amp;rft.issue=1&amp;rft.pages=85-7&amp;rft.date=2008&amp;rft_id=info%3Adoi%2F10.1021%2Fol701743c&amp;rft_id=info%3Apmid%2F18052176&amp;rft.aulast=Majetich&amp;rft.aufirst=G.&amp;rft.au=Zou%2C+G&amp;rft.au=Grove%2C+J&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVinylcyclopropane+rearrangement" class="Z3988"></span></span>
+</li>
+</ol></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐bd49cb6d6‐lh6l2
+Cached time: 20240405094045
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.660 seconds
+Real time usage: 0.740 seconds
+Preprocessor visited node count: 2376/1000000
+Post‐expand include size: 87300/2097152 bytes
+Template argument size: 102/2097152 bytes
+Highest expansion depth: 8/100
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 174762/5000000 bytes
+Lua time usage: 0.442/10.000 seconds
+Lua memory usage: 3718074/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  562.097      1 Template:Reflist
+100.00%  562.097      1 -total
+ 87.74%  493.162     46 Template:Cite_journal
+  0.38%    2.137      1 Template:Main_other
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:17926212-0!canonical and timestamp 20240405094045 and revision id 1181389003. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Vinylcyclopropane_rearrangement&amp;oldid=1181389003">https://en.wikipedia.org/w/index.php?title=Vinylcyclopropane_rearrangement&amp;oldid=1181389003</a>"</div></div>
+					<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Rearrangement_reactions" title="Category:Rearrangement reactions">Rearrangement reactions</a></li><li><a href="/wiki/Category:Cyclopropanes" title="Category:Cyclopropanes">Cyclopropanes</a></li></ul></div></div>
+				</div>
+			</main>
+			
+		</div>
+		<div class="mw-footer-container">
+			
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 22 October 2023, at 19:18<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License">Creative Commons Attribution-ShareAlike License 4.0</a><a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License" style="display:none;"></a>;
+additional terms may apply. By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/Wikipedia:General_disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Vinylcyclopropane_rearrangement&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+		</div>
+	</div> 
+</div> 
+<div class="vector-settings" id="p-dock-bottom">
+	<ul>
+		<li>
+		<button class="cdx-button cdx-button--icon-only vector-limited-width-toggle" id=""><span class="vector-icon mw-ui-icon-fullScreen mw-ui-icon-wikimedia-fullScreen"></span>
+
+<span>Toggle limited content width</span>
+</button>
+</li>
+	</ul>
+</div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.eqiad.main-5d64f48656-p94fd","wgBackendResponseTime":183,"wgPageParseReport":{"limitreport":{"cputime":"0.660","walltime":"0.740","ppvisitednodes":{"value":2376,"limit":1000000},"postexpandincludesize":{"value":87300,"limit":2097152},"templateargumentsize":{"value":102,"limit":2097152},"expansiondepth":{"value":8,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":174762,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  562.097      1 Template:Reflist","100.00%  562.097      1 -total"," 87.74%  493.162     46 Template:Cite_journal","  0.38%    2.137      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.442","limit":"10.000"},"limitreport-memusage":{"value":3718074,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-bd49cb6d6-lh6l2","timestamp":"20240405094045","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Vinylcyclopropane rearrangement","url":"https:\/\/en.wikipedia.org\/wiki\/Vinylcyclopropane_rearrangement","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1968994","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1968994","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2008-06-13T18:03:56Z","dateModified":"2023-10-22T19:18:33Z","headline":"chemical reaction"}</script>
+</body>
+</html>
