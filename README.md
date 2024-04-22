@@ -31,13 +31,33 @@
    
 ## Architecture
 ### Software components, interfaces, implementation.
-
+   There are three software components to this system. The crawler, indexer and processor. They are three seperate python files but they interface by saving data locally via different methods which the corresponding file can retrive that data and use it. The indexer accesses HTML files from the crawler
+   and the processor accesses pickle files from the indexer. The user interfaces with the system through the flask application that is hosted locally. The system was implemented by first developing the crawler. The crawler needed to be developed first since the files it scraped would be used by the indexer. 
+   The crawler's parameters were set in regards to which websites to crawl and how many. Once that was complete the indexer was implement by indexing the html files and storing the index. The processor then used that index to perform ranking of documents based on the query. The tokenized documents were also
+   used to create a kgram index in order to perform any error checking and spelling correction on the user's query. If there are no errors in the query then the processor returns a list of ranked documents. If there is an error with the query the processor gives a warning saying the query couldn't be found
+   or that there was an invalid input for the top-k documents. The processor also gives suggestions for what words the user might've meant if their query wasn't found in the inverted index. The suggested words are the words closest by edit distance to their query that do exist in the inverted index.  
+   
 ## Operation
 ### Software commands, inputs, installation.
+   The user does not need to input any software commands. For system inputs, the query works with single-word queries and the top-k results accepts any digit. 
 
+   For installation the user needs to clone the github repo and run the processor.py file. This should launch a local web app at http://127.0.0.1:5000 . Where the user can then input their queries and get results.
+   
 ## Conclusion
 ### Success/Failure results, outputs, caveats/cautions.
+   The system can succesfuly process single word queries and it will output a list of most relevant documents found in the inverted index. 
+   ![image](https://github.com/amorales27/CS429FinalProject/assets/77760301/cb7f9a36-d29d-428c-b001-15b7a9df1ef3)
 
+   The system will also suggest words if the query can't be found in the index. 
+   ![image](https://github.com/amorales27/CS429FinalProject/assets/77760301/fc11d570-06cb-4417-a954-6c8382b6bdd2)
+
+   The caveats of the system is that sometimes the files were not parsed correctly due to a character encoding and the filenames and text can contain random characters. This can end up with results filled with random characters or files that don't seem relevant. 
+   The system also only searches the first word entered into the query so it can't handle multi-word queries properly. 
+   
+   ![image](https://github.com/amorales27/CS429FinalProject/assets/77760301/637b2d80-c82f-4316-ae1e-83b42ba7e77f)
+
+
+   
 ## Data Sources
 ### Links, downloads, access information
 
