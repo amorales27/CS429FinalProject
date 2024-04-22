@@ -74,7 +74,14 @@
      
 
 ## Source Code
-###  Listings, documentation, dependencies (open-source).
+Web Crawler Source Code:
+https://github.com/amorales27/CS429FinalProject/blob/main/myproject/webcrawler/webcrawler/spiders/crawling_spider.py
+
+Indexer Source Code:
+https://github.com/amorales27/CS429FinalProject/blob/main/myproject/indexer/indexer.py
+
+Processor Source Code:
+https://github.com/amorales27/CS429FinalProject/blob/main/myproject/processor.py
 
 ## Bibliography
 ###  Reference citations (Chicago style- AMS/AIP or ACM/IEEE).
