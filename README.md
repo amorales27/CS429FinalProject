@@ -65,6 +65,8 @@
    - Scrapy: https://docs.scrapy.org/en/latest/intro/install.html
    - Scikit-Learn: https://scikit-learn.org/stable/install.html
    - Flask: https://pypi.org/project/Flask/
+   - Numpy: https://numpy.org/install/
+   - NLTK: https://www.nltk.org/install.html
 
 ## Test Cases
    Inputs Tested:
