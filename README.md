@@ -16,11 +16,19 @@
 ### Solution outline, relevant literature, proposed system
   ![SolutionOutline](https://github.com/amorales27/CS429FinalProject/assets/77760301/82f2ddf0-ab6b-458f-870a-20c64a962776)
 
+  The proposed system will be written in python. It will make use of numerous libraries. The web crawler will use Scrapy in order to be able to extract links and download the web content as HTML format. These files will then be stored in a directory for the indexer to be able to access. The indexer will use
+  Sci-kit learn in order to calculate the cosine similarity and also use pickle in order to save the inverted index so it does not need to be recompiled. Finally the processor will use Flask to host a web application. This will allow the user to input the query and the amount of results they want back
+  from the browser and get the results in the browser. The results will be a list document titles ranked from most to least relevant. 
   
 
 ## Design
 ### System capabilities, interactions, integration.
-
+   The crawler is capable of crawling through links that lead to other wikipedia pages. I have limited to only wikipedia pages so the crawler doesn't follow references outside of wikipedia. Wikipedia pages are also mostly made up of text so a lot terms get extracted from wiki pages. The crawler only crawls to a
+   depth of 10 links with a limit of 2500 so the crawler does not exceed 2500 web pages crawled. The interaction between the crawler and indexer is through the directory where the downloaded web pages are stored. The indexer goes through all the downloaded pages and parses them. The parsing is quite limited as it is
+   difficult to filter out meaningful text relevant to the topic and class name and other html identifiers. So the indexer is capable of filtering out some HTML code and keeping text. It also tokenizes the documents by removing non-alphanumeric characters, removing puncuation, repeated characters and calculates
+   the TF-IDF score for each term and saves that in the index. The inverted index is then stored in a pickle format so that the processor can use it rank documents. The indexer also stores the tokenized documents and the document titles in a pickle format. The processer uses Flask to host a local web application 
+   that allows the user to input their query. The processor is only capable of handling single-word queries and digits for the number of k results. It does not handle numbers spelled in text. 
+   
 ## Architecture
 ### Software components, interfaces, implementation.
 
