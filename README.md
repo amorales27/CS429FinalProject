@@ -14,7 +14,10 @@
   
 ## Overview
 ### Solution outline, relevant literature, proposed system
+  ![SolutionOutline](https://github.com/amorales27/CS429FinalProject/assets/77760301/82f2ddf0-ab6b-458f-870a-20c64a962776)
+
   
+
 ## Design
 ### System capabilities, interactions, integration.
 
