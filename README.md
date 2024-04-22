@@ -2,7 +2,7 @@
 
 ## Abstract
 ### Development summary, objectives, and next steps.
-  This project was split up into four parts; The crawler, indexer, processor and report. Since some of these sections invovled the use of python libraries I was not familiar with, I started development by doing research on Scrapy by watching [videos][1] and reading the [documentation] [2]. I practiced some web scraping by scraping websites like
+  This project was split up into four parts; The crawler, indexer, processor and report. Since some of these sections invovled the use of python libraries I was not familiar with, I started development by doing research on Scrapy by watching [videos][1] and reading the [documentation][2]. I practiced some web scraping by scraping websites like
   <quotes.toscrape.com> and <books.toscrape.com>. Then started development on the web crawler. Once the web crawler was finished I moved onto development of the indexer. I referenced previous homeworks aas most of the work I have done before I just had to adapt some of the methods in order to parse the html format documents. Finally for the last 
   part of the coding section I had to research on Flask since I had never used it before. I looked at some [examples for gathering user input][3], [videos about forms][4], and [updating web pages][5]. With this I was able to make a simple but functional Flask application for my intent and purposes.  
 
