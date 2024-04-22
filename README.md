@@ -60,6 +60,11 @@
    
 ## Data Sources
 ### Links, downloads, access information
+   Programs and Libraries needed:
+   - Python: https://www.python.org/downloads/
+   - Scrapy: https://docs.scrapy.org/en/latest/intro/install.html
+   - Scikit-Learn: https://scikit-learn.org/stable/install.html
+   - Flask: https://pypi.org/project/Flask/
 
 ## Test Cases
    Inputs Tested:
